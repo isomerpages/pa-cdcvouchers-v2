@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Benefits.md
-      - Register Interest.md
+      - Register My Interest.md
       - Have Questions?.md
