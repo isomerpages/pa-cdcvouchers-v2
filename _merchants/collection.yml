@@ -2,4 +2,4 @@ collections:
   merchants:
     output: true
     order:
-      - Merchants.md
+      - Why Merchants Should Join?.md
