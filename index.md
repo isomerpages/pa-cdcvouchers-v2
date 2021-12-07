@@ -20,7 +20,7 @@ sections:
           description: xxx
           url: https://gmail.com
   - infobar:
-      title: Infobar title
+      title: Thank you for staying strong, Singapore!
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
