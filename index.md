@@ -7,18 +7,18 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: CDC Vouchers
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: Register interest
+      url: /merchants/register-interest/
       key_highlights:
         - title: I am a Resident
           description: ""
           url: https://google.com
         - title: I am a Merchant
-          description: xxx
-          url: https://gmail.com
+          description: ""
+          url: /merchants/why-sign-up/
   - infobar:
       title: Thank you for staying strong, Singapore!
       subtitle: Subtitle
@@ -30,4 +30,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
