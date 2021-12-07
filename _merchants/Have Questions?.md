@@ -3,8 +3,8 @@ title: Have Questions?
 permalink: /merchants/questions
 description: Frequently asked questions for Merchants
 ---
-
-
+# Frequently asked questions (FAQ) for Merchants
+x
 
 <div class="accordion">
 			<div class="tabs">			
@@ -254,4 +254,3 @@ To provide enough time for you to get your third dose and maintain your vaccinat
 							</p>
     				</div>
     			</div><p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>
-
