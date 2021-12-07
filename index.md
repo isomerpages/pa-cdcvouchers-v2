@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: I am a Resident
           description: ""
-          url: https://google.com
+          url: /residents/benefits/
         - title: I am a Merchant
           description: ""
-          url: /merchants/why-sign-up/
+          url: /merchants/benefits/
   - infobar:
       title: Thank you for staying strong, Singapore!
       subtitle: Subtitle
