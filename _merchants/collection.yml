@@ -2,6 +2,6 @@ collections:
   merchants:
     output: true
     order:
-      - Merchant's FAQ.md
+      - FAQ for Merchants.md
       - Register Interest.md
       - Why Merchants Should Join?.md
