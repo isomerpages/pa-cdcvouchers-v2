@@ -18,6 +18,5 @@ locations:
       - days: Christmas Eve
         time: 8am - 1pm
         description: Closed on Public Holidays
-    maps_link: ""
     title: For enquiries, call us at
 ---
