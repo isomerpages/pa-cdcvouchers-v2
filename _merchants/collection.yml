@@ -2,4 +2,4 @@ collections:
   merchants:
     output: true
     order:
-      - example-page.md
+      - Merchants.md
