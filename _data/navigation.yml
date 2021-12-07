@@ -2,9 +2,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: CDC Official Site
-    url: https://www.cdc.gov.sg/
   - title: Example Collection
     collection: example-collection
   - title: Resources
     resource_room: true
+  - title: CDC Official Site
+    url: https://www.cdc.gov.sg/
