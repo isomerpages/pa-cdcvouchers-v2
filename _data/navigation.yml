@@ -1,10 +1,10 @@
 logo: /images/CDC%20Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Merchants
     collection: merchants
   - title: Resources
     resource_room: true
   - title: CDC Official Site
     url: https://www.cdc.gov.sg/
+  - title: Contact Us
+    url: /contact-us/
