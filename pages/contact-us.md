@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: PA Contact Centre
 locations:
   - address:
-      - ""
+      - 6225 5322
       - ""
       - ""
     operating_hours:
