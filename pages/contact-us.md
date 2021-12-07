@@ -5,9 +5,6 @@ permalink: /contact-us/
 agency_name: PA Contact Centre
 locations:
   - address:
-      - ""
-      - ""
-      - ""
     operating_hours:
       - days: Mon - Sun
         time: 8am - 6pm
