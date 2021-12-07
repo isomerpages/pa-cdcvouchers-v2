@@ -6,6 +6,8 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 ![For Merchants](/images/merchants/Merchant%20banner.jfif)
 
 Sign up as participating hawkers and merchants to accept CDC vouchers.
+
+Benefits:
 1. No Commissions or Fees
 2. Next-Day Payout
 3. Fuss-free-Redemption & Transaction Tracking
