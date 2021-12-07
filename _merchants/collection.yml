@@ -1,5 +1,5 @@
 collections:
-  merchant:
+  merchants:
     output: true
     order:
       - example-page.md
