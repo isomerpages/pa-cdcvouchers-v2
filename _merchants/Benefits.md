@@ -8,47 +8,21 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 Sign up as participating hawkers and merchants to accept CDC vouchers.
 
 # Benefits for Merchants
-1. No Commissions or Fees
-2. Next-Day Payout
+1. No Commisions Or Fees
+2. Next-Day Payout 
 3. Fuss-free-Redemption & Transaction Tracking
 4. No Handling of Physical Vouchers 
 
 
-(to delete below)
+
+| Benefits | Column 2 |
+| -------- | -------- |
+| No Commisions Or Fees | Text     |
+| Next-Day Payout | Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline. |
+| Fuss-free-Redemption & Transaction Tracking | |
+| No Handling of Physical Vouchers | Text     |
+
+CDC Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme.
 
 
-<table style="width:100%">
-    
-<tr>
-    <td>
-      <h4>No Commissions or Fees</h4>
-      <br>
-      <p><img src="/images/merchants/no-commission.png" alt="No Commissions or Fees" width="10"/></p>
-      <br>
-      <br> 
-    </td>
-    <td>
-      <h4>Next day payout</h4>
-      <br>
-      <p><img src="/images/merchants/next-day-payout.png" alt="Next day payout" width="60" height="60" /></p>
-      <br>
-      <br>
-    </td>
-</tr>
-<tr>
-    <td>
-      <h4>Fuss-free-Redemption & Transaction Tracking</h4>
-      <br>
-      <p><img src="/images/merchants/fuss-free-redemption.png" alt="Fuss-free-Redemption & Transaction Tracking" width="60" height="60" /></p>
-      <br>
-      <br> 
-    </td>
-    <td>
-      <h4>No Handling Of Physical Vouchers</h4>
-      <br>
-      <p><img src="/images/merchants/no-handling-of-physical-vouchers.png" alt="No Handling Of Physical Vouchers" width="60" height="60" /></p>
-      <br>
-      <br>
-    </td>
-</tr>
-</table>
+ 
