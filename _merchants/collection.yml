@@ -2,7 +2,7 @@ collections:
   merchants:
     output: true
     order:
-      - How to onboard and use RedeemSG Merchant app?.md
       - Benefits.md
+      - How to onboard and use RedeemSG Merchant app?.md
       - Register My Interest.md
       - Questions.md
