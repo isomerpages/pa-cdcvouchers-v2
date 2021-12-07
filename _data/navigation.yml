@@ -2,8 +2,8 @@ logo: /images/CDC%20Logo.png
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Collection
-    collection: example-collection
+  - title: Merchant
+    collection: merchant
   - title: Resources
     resource_room: true
   - title: CDC Official Site
