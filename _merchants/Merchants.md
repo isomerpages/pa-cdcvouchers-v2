@@ -8,12 +8,6 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 Sign up as participating hawkers and merchants to accept CDC vouchers.
 
 
-
-|![Alt text for image on Isomer site](/images/merchants/no-commission.png)| Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
 <table class="table-v">
 
 <table style="width:100%">
