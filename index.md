@@ -22,7 +22,7 @@ sections:
   - infobar:
       title: Thank you for staying strong, Singapore!
       subtitle: Subtitle
-      description: About a sentence worth of description here
+      description: Every........ About a sentence worth of description here
       button: Button text
       url: /faq/
   - resources:
