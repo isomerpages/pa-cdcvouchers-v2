@@ -1,5 +1,7 @@
 logo: /images/CDC%20Logo.png
 links:
+  - title: About
+    url: /about-cdc-vouchers
   - title: Merchants
     collection: merchants
   - title: Resources
@@ -8,5 +10,3 @@ links:
     url: /contact-us/
   - title: CDC Official Site
     url: https://www.cdc.gov.sg/
-  - title: About
-    url: /about-cdc-vouchers
