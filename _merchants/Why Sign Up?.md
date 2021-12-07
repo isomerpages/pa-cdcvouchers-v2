@@ -14,7 +14,7 @@ Sign up as participating hawkers and merchants to accept CDC vouchers.
     <td>
       <h4>No Commissions or Fees</h4>
       <br>
-      <p><img src="/images/merchants/no-commission.png" alt="No Commissions or Fees" width="60" height="60" /></p>
+      <p><img src="/images/merchants/no-commission.png" alt="No Commissions or Fees" width="10"/></p>
       <br>
       <br> 
     </td>
