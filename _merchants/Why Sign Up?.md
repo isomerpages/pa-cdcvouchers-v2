@@ -3,8 +3,6 @@ title: Why Sign Up?
 permalink: /merchants/why-sign-up/
 description: Sign up as participating hawkers and merchants to accept CDC vouchers.
 ---
-
-
 ![For Merchants](/images/merchants/Merchant%20banner.jfif)
 
 Sign up as participating hawkers and merchants to accept CDC vouchers.
@@ -16,14 +14,14 @@ Sign up as participating hawkers and merchants to accept CDC vouchers.
     <td>
       <h4>No Commissions or Fees</h4>
       <br>
-      <p><img src="/images/merchants/no-commission.png" alt="No Commissions or Fees" width="120" height="120"></p>
+      <p><img src="/images/merchants/no-commission.png" alt="No Commissions or Fees" width="60" height="60"></p>
       <br>
       <br> 
     </td>
     <td>
       <h4>Next day payout</h4>
       <br>
-      <p><img src="/images/merchants/next-day-payout.png" alt="Next day payout" width="120" height="120"></p>
+      <p><img src="/images/merchants/next-day-payout.png" alt="Next day payout" width="60" height="60"></p>
       <br>
       <br>
     </td>
