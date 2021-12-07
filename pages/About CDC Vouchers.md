@@ -11,4 +11,11 @@ Each household will receive $100 CDC Vouchers and will benefit up to 1.3 million
 
 Participating merchants such as hawkers and shopkeepers will use the RedeemSG Merchant app to scan the QR code on the vouchers to be reimbursed.
 
-Ambassadors from the CDCs and the SG Digital Office will help merchants learn to use the RedeemSG Merchant app. 
+Ambassadors from the CDCs and the SG Digital Office will help merchants learn to use the RedeemSG Merchant app.
+
+
+Brought to you by:
+....
+
+Supported by:
+....
