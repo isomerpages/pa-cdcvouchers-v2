@@ -16,6 +16,7 @@ CDC Ambassadors will assist participating merchants and hawkers to successfully 
 4. No Handling of Physical Vouchers 
 
 
+(to delete below)
 
 | Benefits | How |
 | -------- | -------- |
@@ -23,4 +24,3 @@ CDC Ambassadors will assist participating merchants and hawkers to successfully 
 | Next-Day Payout | Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline. |
 | Fuss-free-Redemption & Transaction Tracking | Via the RedeemSG Merchant App|
 | No Handling of Physical Vouchers | Digital vouchers   |
-
