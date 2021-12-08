@@ -2,6 +2,8 @@ logo: /images/CDC%20Logo.png
 links:
   - title: About
     url: /about-cdc-vouchers
+  - title: Residents
+    collection: residents
   - title: Merchants
     collection: merchants
   - title: Resources
@@ -9,6 +11,4 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: CDC Official Site
-    url: https://www.cdc.gov.sg/
-  - title: Residents
-    collection: residents
+    url: https://www.cdc.gov.sg
