@@ -7,7 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/landing-page/homepage-banner-for-desktop-2.jpg
+      title: CDC Vouchers / CDC 补助券 / Baucar CDC/ CDC பற்றுச்சீட்டு
+      background: /images/hero-banner.png
+      button: Register interest
       url: /merchants/register-interest/
       key_highlights:
         - title: I am a Resident
@@ -17,7 +19,18 @@ sections:
           description: ""
           url: /merchants/benefits/
   - infobar:
-      description: As part of the Household Support Package announced in Budget 2021,
-        about 1.3 million Singaporean households will re
+      title: Thank you for staying strong, Singapore!
+      subtitle: Subtitle
+      description: Every Singaporean household will receive $100 in CDC vouchers.
+      button: Find out more
       url: /about-cdc-vouchers
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
+  - infobar:
+      title: Have more questions?
+      description: Check out the Frequently Asked Questions.
+      button: Read our FAQ
+      url: /merchants/faq/
 ---
