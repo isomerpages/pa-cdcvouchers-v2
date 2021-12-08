@@ -1,0 +1,4 @@
+collections:
+  residents:
+    output: true
+    order: []
