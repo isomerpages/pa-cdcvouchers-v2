@@ -4,7 +4,7 @@ title: CDC Vouchers
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: CDC Vouchers / CDC 补助券 / Baucar CDC/ CDC பற்றுச்சீட்டு
