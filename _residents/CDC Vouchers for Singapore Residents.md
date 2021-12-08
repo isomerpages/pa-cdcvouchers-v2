@@ -18,7 +18,7 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 Please click here for the Terms and Conditions of the CDC vouchers.
 
 
-### Need help with Singpass?
+### Get ready your Singpass
 **Singpass is required to claim your CDC vouchers.**
 
 <div style="font-size:18px;color:rgb(37, 36, 92); background-color:#f4ac9c; padding:30px">	
