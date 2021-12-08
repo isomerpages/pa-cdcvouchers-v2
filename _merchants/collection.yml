@@ -2,6 +2,7 @@ collections:
   merchants:
     output: true
     order:
+      - "Merchants Stage 2: Onboarding the Scheme.md"
       - Benefits.md
       - How to onboard and use RedeemSG Merchant app?.md
       - "Merchant Stage 1: Register Interest.md"
