@@ -4,10 +4,10 @@ permalink: /merchants/redeemsg-app
 description: How do merchants onboard to RedeemSG Merchant mobile application?
 ---
 # How to onboard onto RedeemSG Merchant
-RedeemSG allows merchants and their staff to easily accept digital vouchers issued by Singapore Government agencies and charities.
+**RedeemSG Merchant** allows merchants and their staff to easily accept digital vouchers issued by Singapore Government agencies and charities.
 
-1. This app is only for merchant staff. To be able to use the app, you will need to be issued with a unique shop code.
-2. Download RedeemSG Merchant and log in with your mobile number.
+1. RedeemSG Merchant app is only for merchant staff. To be able to use the app, you will need to be issued with a unique shop code. How to get the shop code?
+2. Download RedeemSG Merchant and log in with your mobile number.<br>Download App:  [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.redeem) | [Apple Store](https://apps.apple.com/sg/app/redeemsg/id1512326240)
 3. Key in the shop code provided by your co-worker or the Ambassador.
 4. Start scanning vouchers.
 5. To add other staff members, show them the shop code.
