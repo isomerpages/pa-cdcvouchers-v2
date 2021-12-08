@@ -22,8 +22,8 @@ sections:
       title: Thank you for staying strong, Singapore!
       subtitle: Subtitle
       description: Every Singaporean household will receive $100 in CDC vouchers.
-      button: Button text
-      url: /faq/
+      button: Find out more
+      url: /about/
   - resources:
       title: Media
       subtitle: Learn more
