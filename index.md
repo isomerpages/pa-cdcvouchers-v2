@@ -9,8 +9,6 @@ sections:
   - hero:
       title: CDC Vouchers
       background: /images/vouchers-home-banner-notext.jpg
-      button: Register interest
-      url: /merchants/register-interest/
       key_highlights:
         - title: I am a Resident
           description: ""
