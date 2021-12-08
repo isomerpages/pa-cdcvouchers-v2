@@ -5,7 +5,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 ---
 # Sign up as participating hawkers and merchants to accept CDC vouchers.
 
-![For Merchants](/images/merchants/Merchant%20banner.jfif)
+![Alt text for image on Isomer site](/images/merchants/merchant-banner.jpg)
 
 CDC Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme, to accept the CDC vouchers.
 
