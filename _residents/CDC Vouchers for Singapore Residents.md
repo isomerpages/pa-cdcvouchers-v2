@@ -11,11 +11,9 @@ description: For residents - Every Singaporean household will receive $100 in
 
 Every Singaporean household will receive $100 in CDC Vouchers to support our hawkers and heartland merchants!
 
-No need to download a mobile app
-
-Claim your digital vouchers easily with just a few taps
-
-Use digital vouchers at participating hawkers and merchants
+1. No need to download a mobile app
+2. Claim your digital vouchers easily with just a few taps
+3. Use digital vouchers at participating hawkers and merchants
 
 
 # Singpass is required to claim your CDC vouchers.
