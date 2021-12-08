@@ -9,7 +9,7 @@ English | [华文](#ichinese) | [Bahasa Melayu](#imalay) | [தமிழ்](#it
 # How to onboard onto RedeemSG Merchant
 **RedeemSG Merchant** allows merchants and their staff to easily accept digital vouchers issued by Singapore Government agencies and charities.
 
-Step 1: RedeemSG Merchant app is only for merchant staff. To be able to use the app, you will need to be issued with a unique shop code. How to get the shop code?
+Step 1: RedeemSG Merchant app is only for merchant staff. To be able to use the app, you will need to be issued with a unique shop code. (You will receive your shop code from the CDC Ambassador during your onboarding session. It will also be sent to you via SMS to your registered mobile number.)
 
 Step 2: Download RedeemSG Merchant and log in with your mobile number.
 
