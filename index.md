@@ -18,18 +18,18 @@ sections:
           url: /merchants/benefits/
       subtitle: " CDC 补助券 / Baucar CDC/ CDC பற்றுச்சீட்டு"
   - infobar:
-      title: Thank you for staying strong, Singapore!
+      title: xxx
       subtitle: Subtitle
-      description: Every Singaporean household will receive $100 in CDC vouchers.
+      description: xxxxx
       button: Find out more
       url: /about-cdc-vouchers
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Thank you for staying strong, Singapore!
+      description: Every Singaporean household will receive $100 in CDC vouchers.
+      button: Find out more
       image: /images/homepage-banner.jpg
-      alt: Image alt text
+      alt: CDC Vouchers
+      url: /about-cdc-vouchers
   - infobar:
       title: Have more questions?
       description: Check out the Frequently Asked Questions.
