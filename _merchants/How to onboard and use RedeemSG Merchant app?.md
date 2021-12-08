@@ -37,6 +37,6 @@ Step 5: Tap ‘**Transactions**’ to see vouchers you’ve scanned. Tap ‘**Pa
 
 [Back to Top](#pagetop)
 <a id="itamil"></a>
-xx
+Tamil
 
 [Back to Top](#pagetop)
