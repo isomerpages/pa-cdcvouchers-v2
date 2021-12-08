@@ -30,10 +30,6 @@ sections:
       button: Button Text
       image: /images/homepage-banner.jpg
       alt: Image alt text
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infobar:
       title: Have more questions?
       description: Check out the Frequently Asked Questions.
