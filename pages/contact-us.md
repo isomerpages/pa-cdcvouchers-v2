@@ -3,6 +3,12 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: Community Development Councils (CDCs)
+contacts:
+  - content:
+      - phone: 6225 5322
+      - email: ""
+      - other: ""
+    title: PA Contact Centre
 locations:
   - address:
       - ""
