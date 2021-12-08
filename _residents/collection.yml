@@ -1,4 +1,5 @@
 collections:
   residents:
     output: true
-    order: []
+    order:
+      - CDC Vouchers for Singapore Residents.md
