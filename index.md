@@ -20,13 +20,4 @@ sections:
       description: As part of the Household Support Package announced in Budget 2021,
         about 1.3 million Singaporean households will re
       url: /about-cdc-vouchers
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
-  - infobar:
-      title: Have more questions?
-      description: Check out the Frequently Asked Questions.
-      button: Read our FAQ
-      url: /merchants/faq/
 ---
