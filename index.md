@@ -7,8 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: CDC Vouchers
-      subtitle: CDC 补助券 / Baucar CDC/ CDC வவுச்சர்கள்
+      title: CDC Vouchers / CDC 补助券 / Baucar CDC/ CDC வவுச்சர்கள்
       background: /images/hero-banner.png
       button: Register interest
       url: /merchants/register-interest/
