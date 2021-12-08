@@ -18,6 +18,10 @@ Step 5: Tap ‘**Transactions**’ to see vouchers you’ve scanned. Tap ‘**Pa
 
 # 如何加入 RedeemSG Merchant?
 1. 下载 RedeemSG Merchant 手机应用程序，以您的手机号码登入。
+2. 输入社理会大使或手机简讯所提供的商店代码。
+3. 您便可开始扫描购物券。
 
 # Bagaimana untuk menggunakan RedeemSG Merchant
 1. Muat turun RedeemSG Merchant dan log masuk menggunakan nombor telefon bimbit anda.
+2. Masukkan kod kedai yang disediakan oleh rakan sekerja atau Duta anda.
+3. Mulakan dengan mengimbas baucar.
