@@ -21,7 +21,7 @@ sections:
   - infobar:
       title: Thank you for staying strong, Singapore!
       subtitle: Subtitle
-      description: Every........ About a sentence worth of description here
+      description: Every Singaporean household will receive $100 in CDC vouchers.
       button: Button text
       url: /faq/
   - resources:
