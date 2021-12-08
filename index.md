@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: CDC Vouchers
-      background: /images/vouchers-home-banner.jpg
+      background: /images/vouchers-home-banner-notext.jpg
       button: Register interest
       url: /merchants/register-interest/
       key_highlights:
