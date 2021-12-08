@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/landing-page/homepage-banner-for-desktop-2.jpg
       url: /merchants/register-interest/
       key_highlights:
         - title: I am a Resident
