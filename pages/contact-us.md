@@ -2,10 +2,16 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: PA Contact Centre
+agency_name: Community Development Councils (CDCs)
+contacts:
+  - content:
+      - phone: 6225 5322
+      - email: ""
+      - other: ""
+    title: HOTLINE
 locations:
   - address:
-      - 6225 5322
+      - ""
       - ""
       - ""
     operating_hours:
@@ -21,6 +27,5 @@ locations:
       - days: Christmas Eve
         time: 8am - 1pm
         description: Closed on Public Holidays
-    maps_link: ""
     title: For enquiries, call us at
 ---
