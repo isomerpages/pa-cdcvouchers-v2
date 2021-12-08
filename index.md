@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: CDC Vouchers / CDC 补助券 / Baucar CDC/ CDC பற்றுச்சீட்டு
       background: /images/hero-banner.png
-      button: Register interest
       url: /merchants/register-interest/
       key_highlights:
         - title: I am a Resident
