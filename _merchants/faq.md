@@ -1,6 +1,6 @@
 ---
-title: FAQs
-permalink: /merchants/faqs
+title: Frequently Asked Questions
+permalink: /merchants/faq/
 description: Frequently asked questions for Merchants
 ---
 
