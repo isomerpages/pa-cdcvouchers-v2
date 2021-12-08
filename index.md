@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: CDC Vouchers / CDC 补助券 / Baucar CDC/ CDC பற்றுச்சீட்டு
-      background: /images/homepage-banner.jpg
+      title: CDC Vouchers
+      background: /images/vouchers-home-banner.jpg
       button: Register interest
       url: /merchants/register-interest/
       key_highlights:
@@ -18,6 +18,7 @@ sections:
         - title: I am a Merchant
           description: ""
           url: /merchants/benefits/
+      subtitle: " CDC 补助券 / Baucar CDC/ CDC பற்றுச்சீட்டு"
   - infobar:
       title: Thank you for staying strong, Singapore!
       subtitle: Subtitle
