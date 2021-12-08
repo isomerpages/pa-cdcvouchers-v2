@@ -3,7 +3,7 @@ title: Benefits
 permalink: /merchants/benefits/
 description: Sign up as participating hawkers and merchants to accept CDC vouchers.
 ---
-# Benefits for Merchants
+# Sign up as participating hawkers and merchants to accept CDC vouchers.
 
 ![For Merchants](/images/merchants/Merchant%20banner.jfif)
 
