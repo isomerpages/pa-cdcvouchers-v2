@@ -3,7 +3,7 @@ title: How to onboard and use RedeemSG Merchant app?
 permalink: /merchants/redeemsg-app
 description: How do merchants onboard to RedeemSG Merchant mobile application?
 ---
-English | [华文](#ichinese) | [Bahasa](#imalay) | [Tamil](#itamil)
+English | [华文](#ichinese) | [Bahasa Melayu](#imalay) | [Tamil](#itamil)
 <a id="pagetop"></a>
 <a id="ienglish"></a>
 # How to onboard onto RedeemSG Merchant
