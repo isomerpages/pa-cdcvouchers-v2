@@ -11,7 +11,9 @@ English | [华文](#ichinese) | [Bahasa](imalay) | [Tamil](itamil)
 
 Step 1: RedeemSG Merchant app is only for merchant staff. To be able to use the app, you will need to be issued with a unique shop code. How to get the shop code?
 
-Step 2: Download RedeemSG Merchant and log in with your mobile number.<br>Download App:  [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.redeem) | [Apple Store](https://apps.apple.com/sg/app/redeemsg/id1512326240)
+Step 2: Download RedeemSG Merchant and log in with your mobile number.
+
+Download App:  [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.redeem) | [Apple Store](https://apps.apple.com/sg/app/redeemsg/id1512326240)
 
 Step 3: Key in the shop code provided by your co-worker or the Ambassador.
 
