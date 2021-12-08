@@ -2,4 +2,5 @@ collections:
   residents:
     output: true
     order:
+      - FAQ For Residents.md
       - CDC Vouchers for Singapore Residents.md
