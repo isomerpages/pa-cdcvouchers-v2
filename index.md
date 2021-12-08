@@ -23,7 +23,7 @@ sections:
       subtitle: Subtitle
       description: Every Singaporean household will receive $100 in CDC vouchers.
       button: Find out more
-      url: /about/
+      url: /about-cdc-vouchers
   - resources:
       title: Media
       subtitle: Learn more
