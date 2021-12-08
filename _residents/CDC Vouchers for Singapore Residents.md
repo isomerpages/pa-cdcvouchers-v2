@@ -16,6 +16,7 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 3. Use digital vouchers at participating hawkers and merchants
 
 
+
 **Singpass is required to claim your CDC vouchers.**
 
 <div style="font-size:18px;color:rgb(37, 36, 92); background-color:#f4ac9c; padding:30px">	
@@ -23,6 +24,9 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 <p>Reset it online on <a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Singpass</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a></p>
 </div>
 
+Please click here for the Terms and Conditions of the CDC vouchers.
+
+# Contact Us
 
 For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>
 
@@ -34,6 +38,3 @@ Hotline operating hours:
 | Public Holidays | Closed |
 
 
-
-
-Please click here for the Terms and Conditions of the CDC vouchers.
