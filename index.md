@@ -29,4 +29,9 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infobar:
+      title: Have more questions?
+      description: Check out the Frequently Asked Questions.
+      button: Read our FAQ
+      url: /merchants/faq/
 ---
