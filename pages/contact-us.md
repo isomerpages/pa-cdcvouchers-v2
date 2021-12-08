@@ -8,7 +8,7 @@ contacts:
       - phone: 6225 5322
       - email: ""
       - other: ""
-    title: HOTLINE
+    title: PA Contact Centre
 locations:
   - address:
       - ""
