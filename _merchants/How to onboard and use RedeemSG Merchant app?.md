@@ -14,5 +14,6 @@ description: How do merchants onboard to RedeemSG Merchant mobile application?
 
 # 如何加入 RedeemSG Merchant?
 1. 下载 RedeemSG Merchant 手机应用程序，以您的手机号码登入。
+
 # Bagaimana untuk menggunakan RedeemSG Merchant
 1. Muat turun RedeemSG Merchant dan log masuk menggunakan nombor telefon bimbit anda.
