@@ -17,10 +17,8 @@ sections:
           description: ""
           url: /merchants/benefits/
   - infobar:
-      title: Thank you for staying strong, Singapore!
-      subtitle: Subtitle
-      description: Every Singaporean household will receive $100 in CDC vouchers.
-      button: Find out more
+      description: As part of the Household Support Package announced in Budget 2021,
+        about 1.3 million Singaporean households will re
       url: /about-cdc-vouchers
   - resources:
       title: Media
