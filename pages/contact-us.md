@@ -8,6 +8,19 @@ contacts:
       - phone: 6225 5322
       - email: ""
       - other: ""
+    operating_hours:
+      - days: Mon - Sun
+        time: 8am - 6pm
+        description: ""
+      - days: New Year Eve
+        time: 8am - 1pm
+        description: ""
+      - days: Chinese New Year Eve
+        time: 8am - 1pm
+        description: ""
+      - days: Christmas Eve
+        time: 8am - 1pm
+        description: Closed on Public Holidays
     title: PA Contact Centre
 locations:
   - address:
