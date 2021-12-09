@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: I am a Resident
           description: ""
-          url: /residents/page/
+          url: /residents/info/
         - title: I am a Merchant
           description: ""
-          url: /merchants/page/
+          url: /merchants/info/
       button: Claim my CDC vouchers
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB
   - infopic:
@@ -40,5 +40,5 @@ sections:
       title: Have more questions?
       description: Check out the Frequently Asked Questions.
       button: Read our FAQ
-      url: /merchants/faq/
+      url: /residents/faq/
 ---
