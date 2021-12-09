@@ -33,6 +33,7 @@ Please click here for the Terms and Conditions of the CDC vouchers.
 For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>
 
 Hotline operating hours:
+
 |  |  |
 | -------- | -------- |
 | Monday to Sunday | 8am - 6pm |
