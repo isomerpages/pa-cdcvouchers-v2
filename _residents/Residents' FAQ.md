@@ -87,7 +87,7 @@ description: CDC Vouchers Scheme Residents FAQ
     <input type="checkbox" id="accordion8">
     <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</span></label>
     <div>
-			<p>Please refer to the list of <a href="https://www.ifaq.gov.sg/singpass/apps">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit any CCs to reset your Singpass. </p>
+			<p>Please refer to the list of <a href="https://www.ifaq.gov.sg/singpass/apps" target="_blank">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit any CCs to reset your Singpass. </p>
     </div>
   </li>
 	<li>
