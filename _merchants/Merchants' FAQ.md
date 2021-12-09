@@ -14,7 +14,7 @@ description: Merchants' FAQ
 
 <p>The CDC Vouchers will be in a digital format to support the Smart Nation initiative.</p>
 			
-<img src="/images/merchants/merchant-question-1.png" alt="Sample screen of RedeemSG" width="366" height="426"/>
+<img src="/images/merchants/merchant-question-1.png" alt="Sample screen of RedeemSG" width="366px" height="426px"/>
 			
     </div>
 	</li>  
