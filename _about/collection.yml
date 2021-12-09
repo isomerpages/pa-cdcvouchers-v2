@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About CDC Vouchers.md
-      - About CDC .md
       - CDC Vouchers Terms & Conditions.md
