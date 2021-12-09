@@ -2,6 +2,7 @@ collections:
   merchants:
     output: true
     order:
+      - FAQ for Merchants.md
       - Benefits.md
       - "Merchants Stage 1: Register Interest.md"
       - "Merchants Stage 2: Onboard the Scheme.md"
