@@ -128,7 +128,7 @@ b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouc
 
 <p>You will need to prepare supporting documents for your bank account or PayNow proxy (handphone, NRIC or UEN), depending on which mode of payment was chosen.</p>
 		
-<p>
+<p><img src="/images/merchants/merchant-question-1.png" alt="Sample screen of RedeemSG" style="width:366px !important;height:426px !important;" />
 	</p>
 
 <p>Samples of supporting documents for merchant's PayNow (left) and bank account details (right). Merchants may prepare either type of supporting document based on mode of payment chosen.
