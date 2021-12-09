@@ -25,7 +25,8 @@ Step 2 - Click on the relevant CDC logo below and fill in the online form. Our A
 <div class="onlineFormImgs">
             
                     <a href="https://go.gov.sg/csmerchantreg" target="_blank">
-                        <img src="https://www-cdc-gov-sg.cwp-stg.sg/images/default-source/cdc-merchant/online-form/cdc-button.png?sfvrsn=10e05d7e_8" alt="cdc-button">
+                      ![Alt text for image on Isomer site](/images/cdc-button.png)
+											
                     </a>
                 
                     <a href="https://go.gov.sg/nwmerchantreg" target="_blank">
