@@ -1,7 +1,7 @@
 logo: /images/cdc-vouchers-site-logo-h.jpg
 links:
-  - title: Home
-    url: /about-cdc-vouchers
+  - title: About
+    collection: about
   - title: Residents
     collection: residents
   - title: Merchants
