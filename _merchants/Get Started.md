@@ -5,10 +5,9 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 ---
 ## Calling hawkers and heartland merchants
 <a id="pagetop"></a>
-**Sign up as participating hawkers and merchants to accept CDC vouchers.**
-
 ![Alt text for image on Isomer site](/images/merchants/merchant-banner.jpg)
 
+**Sign up as participating hawkers and merchants to accept CDC vouchers.**
 <p><span style="color: rgb(37, 36, 92);"><strong>1. No Commisions Or Fees</strong></span></p>
 <p><span style="color: rgb(37, 36, 92);"><strong>2. Next-Day Payout</strong></span><br />Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline.</p>
 <p><span style="color: rgb(37, 36, 92);"><strong>3. Fuss-free-Redemption &amp; Transaction Tracking</strong></span></p>
