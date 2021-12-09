@@ -4,14 +4,13 @@ permalink: /about/vouchers-tnc
 description: ""
 ---
 1. The CDC digital vouchers are: 
-- Expressed in Singapore Dollars; 
-- Redeemable at participating merchants displaying the CDC Voucher decal; 
+* Expressed in Singapore Dollars; 
+* Redeemable at participating merchants displaying the CDC Voucher decal; 
 * Not valid for purchase of lottery products, petrol, diesel, alcohol or cigarettes;
 *  Not for resale/ exchangeable for cash or gift vouchers; and 
 *  Not renewable upon expiry and the expiry date is final.
 
 2. Multiple vouchers may be used in a single transaction and any unused amount or value in a voucher is not refundable.
-
 
 3. Singaporean residents are to claim the CDC digital vouchers digitally by logging in via Singpass. Where hardcopies of the vouchers are printed (the “Voucher Printouts”): 
 * the Voucher Printouts cannot be exchanged or replaced if they are lost, stolen or damaged; and
