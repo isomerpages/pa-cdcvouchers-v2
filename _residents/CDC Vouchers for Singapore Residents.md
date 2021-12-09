@@ -20,10 +20,10 @@ Please <a href="/about/terms-and-conditions-for-cdc-vouchers">click here for the
 
 ### Step-By-Step Guide
 Download our step-by-step guide in the following languages:
-[English (PDF, MB) ](/files/Residents%20-%20English.pdf)
-[中文(PDF, MB)](/files/Residents%20-%20Chinese.pdf)
-[Melayu (PDF, MB) ](/files/Residents%20-%20Malay.pdf)
-[தமிழ் (PDF, MB) ](/files/Residents%20-%20Tamil.pdf)
+[English (PDF, 2.71 MB) ](/files/Residents%20-%20English.pdf)
+[中文(PDF, 2.8 MB)](/files/Residents%20-%20Chinese.pdf)
+[Melayu (PDF, 3.02 MB) ](/files/Residents%20-%20Malay.pdf)
+[தமிழ் (PDF, 3.23 MB) ](/files/Residents%20-%20Tamil.pdf)
 
 
 <br>
