@@ -12,6 +12,7 @@ description: ""
 
 2. Multiple vouchers may be used in a single transaction and any unused amount or value in a voucher is not refundable.
 
+
 3. Singaporean residents are to claim the CDC digital vouchers digitally by logging in via Singpass. Where hardcopies of the vouchers are printed (the “Voucher Printouts”): 
 * the Voucher Printouts cannot be exchanged or replaced if they are lost, stolen or damaged; and
 * defaced, damaged or expired Voucher Printouts will not be accepted at the participating merchants. 
