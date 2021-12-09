@@ -46,8 +46,12 @@ Download [English (PDF, 904 KB)](/files/Merchants%20-%20English.pdf)
 
 Download [中文(PDF, 2.8 MB)](/files/Merchants%20-%20Chinese.pdf)
 
-#### CDC Vouchers Scheme - Step-by-Step Video for Merchants (Bahasa Melayu)
+#### Melayu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WlXbDqiPN6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### CDC Vouchers Scheme - Step-by-Step Video for Merchants (தமிழ்)
+[Example Filename](/files/Merchants%20-%20Malay.pdf)
+
+#### தமிழ்
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NGkGTUoF1BE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Example Filename](/files/Merchants%20-%20Tamil.pdf)
