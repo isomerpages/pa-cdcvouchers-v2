@@ -54,9 +54,9 @@ b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouc
 			<p>To assist merchants in the registration of interests and onboarding process, IMDA's Digital Ambassadors and CDC Ambassadors are deployed island-wide. The IMDA's Digital Ambassadors can be identified by the uniform and button badge that they will be wearing during deployment:</p>
 			![Alt text for image on Isomer site](/images/merchants/m-sample-digital-ambassador-uniform.png)
 			<p>The CDC Ambassadors can be identified by the official lanyard and button badge during deployment as shown below:</p>
-			<img src="/images/merchants/m-sample-digital-ambassador-badge.png" alt="Sample badge"/>
+			<img src="/images/merchants/m-sample-digital-ambassador-badge.png" alt="Sample Digital Ambassador badge" style="width:719px !important;height:387px !important;" />
 			<br>
-				<img src="/images/merchants/m-sample-digital-ambassador-lanyard.png" alt="Sample lanyard"/>
+				<img src="/images/merchants/m-sample-digital-ambassador-lanyard.png" alt="Sample Digital Ambassador lanyard" style="width:600px !important;height:367px !important;" />
 					
     </div>
   </li>
@@ -128,7 +128,7 @@ b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouc
 
 <p>You will need to prepare supporting documents for your bank account or PayNow proxy (handphone, NRIC or UEN), depending on which mode of payment was chosen.</p>
 		
-<p><img src="/images/merchants/merchant-question-1.png" alt="Sample screen of RedeemSG" style="width:366px !important;height:426px !important;" />
+<p><img src="/images/merchants/m-bank-supporting-doc.png" alt="Sample Bank documents" style="width:784px !important;height:452px !important;" />
 	</p>
 
 <p>Samples of supporting documents for merchant's PayNow (left) and bank account details (right). Merchants may prepare either type of supporting document based on mode of payment chosen.
