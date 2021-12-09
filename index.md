@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: CDC Vouchers
+      title: CDC Vouchers Scheme
       background: /images/tealbg.jpg
       key_highlights:
         - title: I am a Resident
@@ -16,7 +16,6 @@ sections:
         - title: I am a Merchant
           description: ""
           url: /merchants/page/
-      subtitle: " CDC 补助券 / Baucar CDC/ CDC பற்றுச்சீட்டு"
       button: Claim my CDC vouchers
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB
   - infopic:
