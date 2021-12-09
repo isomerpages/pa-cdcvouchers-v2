@@ -87,6 +87,32 @@ b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouc
     <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#ed7459">How do I check my application status after I have submitted my interest to participate?</span></label>
     <div>
 			<p>If you have submitted your application and have not received a reply after 10 working days from the date of submission, please contact your respective CDCs to check on the status of your application. We seek you patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
+			<p><table border="0" cellspacing="2" cellpadding="2">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 29.5455%; height: 18px;">Central Singapore CDC</td>
+<td style="width: 70.4545%; height: 18px;"><a href="mailto:pa_centralsingapore@pa.gov.sg">pa_centralsingapore@pa.gov.sg </a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 29.5455%; height: 18px;">North East CDC</td>
+<td style="width: 70.4545%; height: 18px;"><a href="mailto:northeast_cdc@pa.gov.sg">northeast_cdc@pa.gov.sg</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 29.5455%; height: 18px;">North West CDC</td>
+<td style="width: 70.4545%; height: 18px;"><a href="mailto:northwest_cdc@pa.gov.sg">northwest_cdc@pa.gov.sg</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 29.5455%; height: 18px;">South East CDC</td>
+<td style="width: 70.4545%; height: 18px;"><a href="mailto:southeast_cdc@pa.gov.sg">southeast_cdc@pa.gov.sg</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 29.5455%; height: 18px;">South West CDC</td>
+<td style="width: 70.4545%; height: 18px;"><a href="mailto:southwest_cdc@pa.gov.sg">southwest_cdc@pa.gov.sg</a></td>
+</tr>
+</tbody>
+</table>
+			</p>
+			
     </div>
   </li>
 </ul>
