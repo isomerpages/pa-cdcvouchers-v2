@@ -37,12 +37,15 @@ description: Merchants' FAQ
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#ed7459">What are the steps to come onboard the scheme?</span></label>
     <div>
       <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
+				There are three (3) key stages of participation:
       </p>
+			<p>1) Stage 1 - Register your interest with<br />
+a) the Ambassadors who will be reaching out to eligible merchants from October 2021, or<br />
+b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouchers/merchants</p>
+			<p></p>
     </div>
   </li>
   <li>
