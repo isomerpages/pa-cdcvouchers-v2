@@ -104,11 +104,57 @@ description: CDC Vouchers Scheme Residents FAQ
 <p>Vouchers will be sent to your verified mobile number.
 	</p>
 
-<p><img src="/images/residents/rredeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:784px !important;height:452px !important;" />
+<p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:784px !important;height:452px !important;" />
 	</p>
 			
-<p>In the event you changed your mobile number and/or cannot find your voucher link, you can visit <a href>go.gov.sg/cdcv</a> again to retrieve your existing vouchers via SMS</p>
+<p>In the event you changed your mobile number and/or cannot find your voucher link, you can visit <a href>go.gov.sg/cdcv</a> again to retrieve your existing vouchers via SMS.</p>
     </div>
 	</li>  
-	
+	<li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I tell if the SMS sent is a real voucher link?</span></label>
+    <div>
+      <p>Please check if your unique voucher link starts with the following prefix "https://voucher.redeem.gov.sg". The sender name is “RedeemSG”. Please do not trust vouchers starting with other prefixes.</p>
+
+<p>A typical SMS from RedeemSG will look something like this:</p>
+		
+<p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:784px !important;height:452px !important;" />
+	</p>
+
+<p>(Please note that the masked NRIC portion and exact voucher link URL may vary) 
+	</p>
+    </div>
+	</li> 
+		<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally lost the voucher link?</span></label>
+    <div>
+			<p>You can visit <a href>go.gov.sg/cdcv</a> again to retrieve your voucher link again.
+			</p>
+    </div>
+  </li>
+			<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What if I don’t have a mobile phone or data plan? Can I still claim my vouchers?</span></label>
+    <div>
+			<p>You may visit a nearby Community Centre/ Club for assistance between 10am to 6pm daily (except Public Holidays). They will be able to assist you to print your voucher(s) that you can similarly present to participating heartland merchants and hawkers to be scanned.
+			</p>
+    </div>
+  </li>
+</ul>
+
+
+### Spending Your CDC Vouchers
+
+<ul class="jekyllcodex_accordion">
+			<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Which merchants can I spend my vouchers at?</span></label>
+    <div>
+			<p>You may spend your voucher at any participating heartland merchants and hawkers that can be identified with the CDC Vouchers decal.  
+				<p>The vouchers can be used to purchase essential goods and services from participating heartland businesses such as:
+			</p>
+			</p>
+    </div>
+  </li>
 </ul>
