@@ -17,6 +17,8 @@ description: ""
 * the Voucher Printouts cannot be exchanged or replaced if they are lost, stolen or damaged; and
 * defaced, damaged or expired Voucher Printouts will not be accepted at the participating merchants. 
 
-4. People’s Association, through the Community Development Councils: (a) does not warrant the quality or fitness for purpose of the goods or services obtained through the use of the voucher(s); (b) will not be responsible for any claims, demands, losses, costs, expenses and/or liabilities of any kind arising from or in connection with any transaction or dealing between the participating merchant and the voucher holder; and (c) reserves the right to amend these terms and conditions. Any updates to these terms and conditions may be found at www.cdc.gov.sg/cdcvouchers/residents.
+4. People’s Association, through the Community Development Councils: 
+* does not warrant the quality or fitness for purpose of the goods or services obtained through the use of the voucher(s); * will not be responsible for any claims, demands, losses, costs, expenses and/or liabilities of any kind arising from or in connection with any transaction or dealing between the participating merchant and the voucher holder; and 
+* reserves the right to amend these terms and conditions. Any updates to these terms and conditions may be found at www.cdc.gov.sg/cdcvouchers/residents.
 
 *All data including your personal data will be used, disclosed to and stored in applications or platforms (such as RedeemSG) which are owned by, licensed to, managed or controlled by other government agencies such as GovTech for the purposes of administering the CDC Voucher scheme. Your personal data may also be used and/or disclosed to other government agencies for such other purposes as may be permitted under the applicable laws.*
