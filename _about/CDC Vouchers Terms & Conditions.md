@@ -3,6 +3,8 @@ title: CDC Vouchers Terms & Conditions
 permalink: /about/vouchers-tnc
 description: ""
 ---
+## Terms & Conditions for CDC Vouchers
+
 1. The CDC digital vouchers are: 
 * Expressed in Singapore Dollars; 
 * Redeemable at participating merchants displaying the CDC Voucher decal; 
