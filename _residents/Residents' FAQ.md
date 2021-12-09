@@ -104,7 +104,7 @@ description: CDC Vouchers Scheme Residents FAQ
 <p>Vouchers will be sent to your verified mobile number.
 	</p>
 
-<p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:167px !important;height:170px !important;" />
+<p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:222px !important;height:140px !important;" />
 	</p>
 			
 <p>In the event you changed your mobile number and/or cannot find your voucher link, you can visit <a href>go.gov.sg/cdcv</a> again to retrieve your existing vouchers via SMS.</p>
@@ -118,7 +118,7 @@ description: CDC Vouchers Scheme Residents FAQ
 
 <p>A typical SMS from RedeemSG will look something like this:</p>
 		
-<p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:167px !important;height:170px !important;" />
+<p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:222px !important;height:140px !important;" />
 	</p>
 
 <p>(Please note that the masked NRIC portion and exact voucher link URL may vary) 
