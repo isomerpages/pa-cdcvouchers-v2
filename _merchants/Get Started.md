@@ -17,34 +17,21 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 ### Register Interest Online Form
 
-Step 1 - If you do not have the CDC details of your stall, enter the postal code of your stall on [CDC's district finder](https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts) to find out.
+Step 1: If you do not have the CDC details of your stall, enter the postal code of your stall on [CDC's district finder](https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts) to find out.
 
-Step 2 - Click on the relevant CDC logo below and fill in the online form. Our Ambassadors will get in touch with you after you have submitted the form.
+Step 2: Click on the relevant CDC logo below and fill in the online form. Our Ambassadors will get in touch with you after you have submitted the form.
 
-<table  style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>    
-                    <a href="https://go.gov.sg/csmerchantreg" target="_blank">
-                    <img src="/images/cdc-button.png" alt="Register Interest Form for Central Singapore CDC" style="width:70px !important;height:66px !important;" />											
-                    </a>
-		</td><td>
-                    <a href="https://go.gov.sg/nwmerchantreg" target="_blank">
-                        <img src="/images/nw-button.png" alt="Register Interest Form for North West CDC" style="width:70px !important;height:66px !important;" />			
-                    </a>
-         </td><td>       
-                    <a href="https://go.gov.sg/nemerchantreg" target="_blank">
-                        <img src="/images/ne-button.png" alt="Register Interest Form for North East CDC" style="width:70px !important;height:66px !important;" />			
-                    </a>
-    </td><td>            
-                    <a href="https://go.gov.sg/swmerchantreg" target="_blank">
-                        <img src="/images/sw-button.png" alt="Register Interest Form for South West CDC" style="width:70px !important;height:66px !important;" />			
-                    </a>
-       </td><td>         
-                    <a href="https://go.gov.sg/semerchantreg" target="_blank">
-                         <img src="/images/se-button.png" alt="Register Interest Form for South East CDC" style="width:70px !important;height:66px !important;" />			
-                    </a>
-                
-		</td></tr></table>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><a href="https://go.gov.sg/csmerchantreg" target="_blank"> <img src="/images/cdc-button.png" alt="Register Interest Form for Central Singapore CDC" /> </a></td>
+<td><a href="https://go.gov.sg/nwmerchantreg" target="_blank"> <img src="/images/nw-button.png" alt="Register Interest Form for North West CDC" /> </a></td>
+<td><a href="https://go.gov.sg/nemerchantreg" target="_blank"> <img src="/images/ne-button.png" alt="Register Interest Form for North East CDC" /> </a></td>
+<td><a href="https://go.gov.sg/swmerchantreg" target="_blank"> <img src="/images/sw-button.png" alt="Register Interest Form for South West CDC" /> </a></td>
+<td><a href="https://go.gov.sg/semerchantreg" target="_blank"> <img src="/images/se-button.png" alt="Register Interest Form for South East CDC" /> </a></td>
+</tr>
+</tbody>
+</table>
 
 
 
