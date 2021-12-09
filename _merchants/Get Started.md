@@ -17,7 +17,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 ### Register Interest Online Form
 
-Step 1 - If you do not know CDC details of your stalll, enter the postal code of your stall on [CDC's district finder](https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts) to find out.
+Step 1 - If you do not have the CDC details of your stall, enter the postal code of your stall on [CDC's district finder](https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts) to find out.
 
 
 CDC Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme, to accept the CDC vouchers.
