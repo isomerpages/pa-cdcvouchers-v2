@@ -53,8 +53,13 @@ b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouc
     <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#ed7459">I was approached by individuals claiming to be Ambassadors for the CDC Vouchers Scheme. How can I verify that they are authorised personnel?</span></label>
     <div>
 			<p>To assist merchants in the registration of interests and onboarding process, IMDA's Digital Ambassadors and CDC Ambassadors are deployed island-wide. The IMDA's Digital Ambassadors can be identified by the uniform and button badge that they will be wearing during deployment:</p>
-			
+			![Alt text for image on Isomer site](/images/merchants/m-sample-digital-ambassador-uniform.png)
 			<p>The CDC Ambassadors can be identified by the official lanyard and button badge during deployment as shown below:</p>
+			
+			![Alt text for image on Isomer site](/images/merchants/m-sample-digital-ambassador-badge.png)
+			
+			![Alt text for image on Isomer site](/images/merchants/m-sample-digital-ambassador-lanyard.png)
+			
     </div>
   </li>
     
