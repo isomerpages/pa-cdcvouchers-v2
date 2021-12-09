@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: CDC Vouchers Scheme
-      background: /images/tealbg.jpg
+      background: /images/cdc-vouchers-bg.jpg
       key_highlights:
         - title: I am a Resident
           description: ""
@@ -42,5 +42,3 @@ sections:
       button: Read our FAQ
       url: /merchants/faq/
 ---
-
-
