@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: CDC Vouchers
-description: Brief site description here
+title: CDC Vouchers Scheme
+description: This is an informational site about CDC Vouchers scheme.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -41,3 +41,4 @@ sections:
       button: Read our FAQ
       url: /merchants/faq/
 ---
+
