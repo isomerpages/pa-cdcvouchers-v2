@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: CDC Vouchers Scheme
-description: This is an informational site about CDC Vouchers scheme.
+description: This is an informational site about CDC Vouchers scheme for
+  Singapore residents.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -41,4 +42,5 @@ sections:
       button: Read our FAQ
       url: /merchants/faq/
 ---
+
 
