@@ -12,9 +12,9 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 
 1. No need to download a mobile app
 2. Claim your digital vouchers easily with just a few taps
-3. Use digital vouchers at participating hawkers and merchants
+3. Use digital vouchers at participating hawkers and merchants.
 
-###### Terms and Conditions of the CDC vouchers.
+###### <a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">CDC vouchers Terms and Conditions</a>
 
 
 <br>
