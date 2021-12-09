@@ -98,13 +98,13 @@ description: CDC Vouchers Scheme Residents FAQ
 
 <p>One Time Password will be sent to your registered mobile number.</p>
 		
-<p><img src="/images/residents/redeem_otp.png" alt="Sample OTP Screen" style="width:784px !important;height:452px !important;" />
+<p><img src="/images/residents/redeem_otp.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;" />
 	</p>
 
 <p>Vouchers will be sent to your verified mobile number.
 	</p>
 
-<p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:784px !important;height:452px !important;" />
+<p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:366px !important;" />
 	</p>
 			
 <p>In the event you changed your mobile number and/or cannot find your voucher link, you can visit <a href>go.gov.sg/cdcv</a> again to retrieve your existing vouchers via SMS.</p>
@@ -118,7 +118,7 @@ description: CDC Vouchers Scheme Residents FAQ
 
 <p>A typical SMS from RedeemSG will look something like this:</p>
 		
-<p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:784px !important;height:452px !important;" />
+<p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:366px !important;" />
 	</p>
 
 <p>(Please note that the masked NRIC portion and exact voucher link URL may vary) 
@@ -193,7 +193,7 @@ description: CDC Vouchers Scheme Residents FAQ
     <div>
 			<p>When the merchants scan your QR code, they will see a confirmation on their RedeemSG Merchant app which will show that the scanning of your voucher is a success.  At the same time, your QR code will be updated to “Redeemed” status.  Used vouchers will also be marked as ‘Redeemed’ on your unique voucher links.
 			</p>
-			<p><img src="/images/residents/redemption.png" alt="Sample Redeemed Voucher Screens" style="width:784px !important;height:452px !important;" />
+			<p><img src="/images/residents/redemption.png" alt="Sample Redeemed Voucher Screens" style="width:859px !important;height:501px !important;" />
 	</p>
     </div>
   </li>
