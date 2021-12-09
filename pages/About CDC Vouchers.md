@@ -15,9 +15,5 @@ Ambassadors from the CDCs and the SG Digital Office will help merchants learn to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Brought to you by:
-....
 
-Supported by:
-....
 ![Alt text for image on Isomer site](/images/brand-bar-desktop.png)
