@@ -2,5 +2,5 @@ collections:
   residents:
     output: true
     order:
-      - Info for Residents.md
+      - Get Started.md
       - Residents' FAQ.md
