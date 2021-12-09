@@ -5,6 +5,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 ---
 ## Calling hawkers and heartland merchants
 <a id="pagetop"></a>
+
 ![Alt text for image on Isomer site](/images/merchants/merchant-banner.jpg)
 
 **Sign up as participating hawkers and merchants to accept CDC vouchers.**
