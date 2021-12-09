@@ -20,11 +20,19 @@ description: Merchants' FAQ
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">What are the key benefits of signing up?</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <p>With the roll-out of the CDC Vouchers Scheme, participating merchants and hawkers can expect the following:</p>
+      <p>
+			<ol>
+        <li>Next-day payout*</li>
+        <li>No Commissions or fees</li>
+        <li>Fuss-free redemption and transaction tracking</li>
+				<li>No handling of physical vouchers</li>
+      </ol>
+			<p>*Merchant would need to ensure bank account/PayNow proxy (handphone,  NRIC or UEN) provided to PA are accurate in order to achieve the reimbursement timeline.</p>
+			<p>Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme.</p>
+			</p>
     </div>
   </li>
   <li>
