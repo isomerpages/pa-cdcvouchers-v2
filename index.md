@@ -26,6 +26,7 @@ sections:
       image: /images/homepage-banner.jpg
       alt: CDC Vouchers
       url: /about-cdc-vouchers
+      subtitle: About CDC Vouchers
   - infopic:
       title: Claim my CDC Vouchers
       subtitle: Residents
