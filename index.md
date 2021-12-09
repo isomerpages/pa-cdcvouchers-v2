@@ -42,4 +42,10 @@ sections:
       button: Read our FAQ
       url: /residents/faq/
       subtitle: Residents
+  - infobar:
+      title: Have questions?
+      subtitle: Merchants
+      description: Check out the Frequently Asked Questions.
+      button: Read our FAQ
+      url: /merchants/faq
 ---
