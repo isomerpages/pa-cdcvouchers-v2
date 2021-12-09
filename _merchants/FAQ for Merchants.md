@@ -3,14 +3,16 @@ title: FAQ for Merchants
 permalink: /merchants/faq
 description: ""
 ---
-FAQ for Merchants
+About CDC Vouchers Scheme
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1"> What is the CDC Vouchers Scheme?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>In Budget 2021, Deputy Prime  Minister, Mr Heng Swee Keat announced a $150 million CDC Voucher Scheme to thank Singaporeans for their solidarity and to support local businesses at HDB estates/heartland enterprises and hawkers. Each household will receive $100 CDC Vouchers and will benefit up to 1.3 million Singaporean households.</p>
+
+<p>The CDC Vouchers will be in a digital format to support the Smart Nation initiative.</p>
     </div>
 	</li>  
   <li>
