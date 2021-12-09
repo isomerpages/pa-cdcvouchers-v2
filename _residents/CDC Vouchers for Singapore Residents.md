@@ -4,7 +4,7 @@ permalink: /residents/page
 description: For residents - Every Singaporean household will receive $100 in
   CDC Vouchers to support our hawkers and heartland merchants
 ---
-## Claim CDC Vouchers
+## [Claim CDC Vouchers](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e)
 
 [	![Alt text for image on Isomer site](/images/residents/resident-banner.jpg)](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e)
 
