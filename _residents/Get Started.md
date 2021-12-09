@@ -5,8 +5,6 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
   household will receive $100 in CDC Vouchers to support our hawkers and
   heartland merchants
 ---
-
-
 ## Claim your CDC Vouchers
 
 [	![Alt text for image on Isomer site](/images/residents/resident-banner.jpg)](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e)
@@ -49,8 +47,7 @@ For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</
 
 Hotline operating hours:
 
-|  |  |
-| -------- | -------- |
 | Monday to Sunday | 8am - 6pm |
+| -------- | -------- |
 | New Year's Eve, Chinese New Year's Eve, and Christmas Eve | 8am - 1pm |
 | Public Holidays | Closed |
