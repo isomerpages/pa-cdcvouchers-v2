@@ -28,7 +28,7 @@ sections:
       url: /about-cdc-vouchers
       subtitle: About CDC Vouchers
   - infopic:
-      title: Claim my CDC Vouchers
+      title: Claim your CDC Vouchers
       subtitle: Residents
       description: No need to download a mobile app. Claim your digital vouchers
         easily with just a few taps.
