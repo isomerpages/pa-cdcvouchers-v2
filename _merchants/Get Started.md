@@ -34,21 +34,17 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 </table>
 
 
+### CDC Vouchers Scheme - Step-by-Step Guide for Merchants
 
-CDC Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme, to accept the CDC vouchers.
-
-
-
-
-[Register now](/merchants/redeemsg-app).
-
-#### CDC Vouchers Scheme - Step-by-Step Video for Merchants (English)
+#### English
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Download [English (PDF, 904 KB)](/files/Merchants%20-%20English.pdf)
 
-#### CDC Vouchers Scheme - Step-by-Step Video for Merchants (华文)
+#### 华文
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2l6hem1eMps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Download [中文(PDF, 2.8 MB)](/files/Merchants%20-%20Chinese.pdf)
 
 #### CDC Vouchers Scheme - Step-by-Step Video for Merchants (Bahasa Melayu)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WlXbDqiPN6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
