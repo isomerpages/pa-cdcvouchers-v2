@@ -1,4 +1,4 @@
-title: CDC Vouchers
+title: CDC Vouchers Scheme
 url: ""
 favicon: /images/cdc-icon.png
 colors:
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: Resources
-description: An Isomer site of the Singapore Government
+description: This is an informational site about CDC Vouchers scheme.
 permalink: none
 baseurl: ""
 exclude:
