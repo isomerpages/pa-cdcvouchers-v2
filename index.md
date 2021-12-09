@@ -32,7 +32,7 @@ sections:
       subtitle: Residents
       description: No need to download a mobile app. Claim your digital vouchers
         easily with just a few taps.
-      button: Claim my CDC Vouchers
+      button: Claim now
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e
       image: /images/residents/resident-banner.jpg
       alt: Image alt text
