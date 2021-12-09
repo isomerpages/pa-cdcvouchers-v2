@@ -21,7 +21,36 @@ Step 1 - If you do not have the CDC details of your stall, enter the postal code
 
 Step 2 - Click on the relevant CDC logo below and fill in the online form. Our Ambassadors will get in touch with you after you have submitted the form.
 
+
+<div class="onlineFormImgs">
+            
+                    <a href="https://go.gov.sg/csmerchantreg" target="_blank">
+                        <img src="https://www-cdc-gov-sg.cwp-stg.sg/images/default-source/cdc-merchant/online-form/cdc-button.png?sfvrsn=10e05d7e_8" alt="cdc-button">
+                    </a>
+                
+                    <a href="https://go.gov.sg/nwmerchantreg" target="_blank">
+                        <img src="https://www-cdc-gov-sg.cwp-stg.sg/images/default-source/cdc-merchant/online-form/nw-button.png?sfvrsn=58af8638_4" alt="nw-button">
+                    </a>
+                
+                    <a href="https://go.gov.sg/nemerchantreg" target="_blank">
+                        <img src="https://www-cdc-gov-sg.cwp-stg.sg/images/default-source/cdc-merchant/online-form/ne-button.png?sfvrsn=783ebe0_4" alt="ne-button">
+                    </a>
+                
+                    <a href="https://go.gov.sg/swmerchantreg" target="_blank">
+                        <img src="https://www-cdc-gov-sg.cwp-stg.sg/images/default-source/cdc-merchant/online-form/sw-button.png?sfvrsn=5e92d3e3_4" alt="sw-button">
+                    </a>
+                
+                    <a href="https://go.gov.sg/semerchantreg" target="_blank">
+                        <img src="https://www-cdc-gov-sg.cwp-stg.sg/images/default-source/cdc-merchant/online-form/se-button.png?sfvrsn=38e0ba0b_8" alt="se-button">
+                    </a>
+                
+        </div>
+
+
+
 CDC Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme, to accept the CDC vouchers.
+
+
 
 
 [Register now](/merchants/redeemsg-app).
