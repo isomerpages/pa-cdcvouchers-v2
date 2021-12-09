@@ -45,7 +45,7 @@ description: Merchants' FAQ
 			<p>1) Stage 1 - Register your interest with<br />
 a) the Ambassadors who will be reaching out to eligible merchants from October 2021, or<br />
 b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouchers/merchants</p>
-			<p></p>
+			<p>2) Stage 2 - An Ambassador will get in touch with you for the sign up and onboarding. Training will be provided during the onboarding process.</p>
     </div>
   </li>
   <li>
