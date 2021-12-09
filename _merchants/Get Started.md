@@ -56,6 +56,6 @@ Download Guide [Melayu (PDF,931 KB)](/files/Merchants%20-%20Malay.pdf)
 
 Download Guide [தமிழ்  (PDF,1.02 MB)](/files/Merchants%20-%20Tamil.pdf)
 
-Have more questions, please read [FAQ](faq)
+If you have more questions, please read [FAQ](faq)
 
 [Back to Top](#pagetop)
