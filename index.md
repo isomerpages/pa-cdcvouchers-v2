@@ -41,4 +41,5 @@ sections:
       description: Check out the Frequently Asked Questions.
       button: Read our FAQ
       url: /residents/faq/
+      subtitle: Residents
 ---
