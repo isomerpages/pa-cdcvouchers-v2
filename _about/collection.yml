@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - CDC Vouchers Terms & Conditions.md
       - About CDC Vouchers.md
+      - CDC Vouchers Terms & Conditions.md
