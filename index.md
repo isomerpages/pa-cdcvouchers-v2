@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: CDC Vouchers
-      background: /images/cdc-vouchers-bg.jpg
+      background: /images/tealbg.jpg
       key_highlights:
         - title: I am a Resident
           description: ""
