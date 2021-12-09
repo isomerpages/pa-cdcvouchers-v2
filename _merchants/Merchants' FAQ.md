@@ -20,7 +20,7 @@ description: Merchants' FAQ
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">What are the key benefits of signing up?</label>
+    <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#ed7459">What are the key benefits of signing up?</span></label>
     <div>
       <p>With the roll-out of the CDC Vouchers Scheme, participating merchants and hawkers can expect the following:</p>
       <p>
