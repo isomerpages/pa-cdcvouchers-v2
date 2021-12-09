@@ -69,15 +69,18 @@ b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouc
 			<p>All participating merchants and hawkers are required to prominently display the CDC Voucher decal at their shopfront for visibility to customers. You will receive the decal upon successful onboarding.</p>
     </div>
   </li>
-	
-	
-	 <li>
+
+</ul>
+
+### Claiming Vouchers
+
+<ul class="jekyllcodex_accordion">
+			<li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#ed7459">How do I register interest to participate in the CDC Vouchers Scheme?</span></label>
     <div>
-			<p>Please register your interest with your CDC using the respective CDC forms. To find out which CDC your stall falls under, please key in your postal code. An officer will be in touch with you within 10 working days upon submission of the form.</p>
+			<p>Please register your interest with your CDC using the respective CDC forms. To find out which CDC your stall falls under, please key in your postal code here. An officer will be in touch with you within 10 working days upon submission of the form.</p>
     </div>
   </li>
-	
 	
 </ul>
