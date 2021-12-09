@@ -55,11 +55,10 @@ b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouc
 			<p>To assist merchants in the registration of interests and onboarding process, IMDA's Digital Ambassadors and CDC Ambassadors are deployed island-wide. The IMDA's Digital Ambassadors can be identified by the uniform and button badge that they will be wearing during deployment:</p>
 			![Alt text for image on Isomer site](/images/merchants/m-sample-digital-ambassador-uniform.png)
 			<p>The CDC Ambassadors can be identified by the official lanyard and button badge during deployment as shown below:</p>
-			
-			![Alt text for image on Isomer site](/images/merchants/m-sample-digital-ambassador-badge.png)
-			
-			![Alt text for image on Isomer site](/images/merchants/m-sample-digital-ambassador-lanyard.png)
-			
+			<img src="/images/merchants/m-sample-digital-ambassador-badge.png" alt="Sample badge"/>
+			<br>
+				<img src="/images/merchants/m-sample-digital-ambassador-lanyard.png" alt="Sample lanyard"/>
+					
     </div>
   </li>
     
