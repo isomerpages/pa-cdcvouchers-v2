@@ -21,28 +21,25 @@ Step 1 - If you do not have the CDC details of your stall, enter the postal code
 
 Step 2 - Click on the relevant CDC logo below and fill in the online form. Our Ambassadors will get in touch with you after you have submitted the form.
 
-
-<div class="onlineFormImgs">
-            
+<div>            
                     <a href="https://go.gov.sg/csmerchantreg" target="_blank">
-                      ![Alt text for image on Isomer site](/images/cdc-button.png)
-											
+                    <img src="/images/cdc-button.png" alt="Register Interest Form for Central Singapore CDC" style="width:70px !important;height:66px !important;" />											
                     </a>
                 
                     <a href="https://go.gov.sg/nwmerchantreg" target="_blank">
-                        <img src="https://www-cdc-gov-sg.cwp-stg.sg/images/default-source/cdc-merchant/online-form/nw-button.png?sfvrsn=58af8638_4" alt="nw-button">
+                        <img src="/images/nw-button.png" alt="Register Interest Form for North West CDC" style="width:70px !important;height:66px !important;" />			
                     </a>
                 
                     <a href="https://go.gov.sg/nemerchantreg" target="_blank">
-                        <img src="https://www-cdc-gov-sg.cwp-stg.sg/images/default-source/cdc-merchant/online-form/ne-button.png?sfvrsn=783ebe0_4" alt="ne-button">
+                        <img src="/images/ne-button.png" alt="Register Interest Form for North East CDC" style="width:70px !important;height:66px !important;" />			
                     </a>
                 
                     <a href="https://go.gov.sg/swmerchantreg" target="_blank">
-                        <img src="https://www-cdc-gov-sg.cwp-stg.sg/images/default-source/cdc-merchant/online-form/sw-button.png?sfvrsn=5e92d3e3_4" alt="sw-button">
+                        <img src="/images/sw-button.png" alt="Register Interest Form for South West CDC" style="width:70px !important;height:66px !important;" />			
                     </a>
                 
                     <a href="https://go.gov.sg/semerchantreg" target="_blank">
-                        <img src="https://www-cdc-gov-sg.cwp-stg.sg/images/default-source/cdc-merchant/online-form/se-button.png?sfvrsn=38e0ba0b_8" alt="se-button">
+                         <img src="/images/se-button.png" alt="Register Interest Form for South East CDC" style="width:70px !important;height:66px !important;" />			
                     </a>
                 
         </div>
