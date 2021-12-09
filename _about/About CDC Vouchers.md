@@ -5,7 +5,6 @@ date: 2021-12-07
 layout: post
 description: ""
 ---
-
 In Budget 2021, Deputy Prime Minister, Mr Heng Swee Keat announced the CDC Vouchers Scheme to thank Singaporeans for their sense of solidarity and to support local businesses at HDB estates/heartland enterprises and hawkers.  
 
 Each household will receive $100 CDC Vouchers and will benefit up to 1.3 million Singaporean households. The CDC vouchers will be in a digital format to support the Smart Nation initiative.
