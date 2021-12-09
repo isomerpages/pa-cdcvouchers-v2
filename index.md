@@ -37,14 +37,14 @@ sections:
       image: /images/residents/resident-banner.jpg
       alt: Image alt text
   - infobar:
-      title: Have questions?
+      title: Residents
       description: Check out the Frequently Asked Questions.
       button: Read our FAQ
       url: /residents/faq/
-      subtitle: Residents
+      subtitle: Have questions?
   - infobar:
-      title: Have questions?
-      subtitle: Merchants
+      title: Merchants
+      subtitle: Have questions?
       description: Check out the Frequently Asked Questions.
       button: Read our FAQ
       url: /merchants/faq
