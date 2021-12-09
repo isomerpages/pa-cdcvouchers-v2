@@ -50,19 +50,17 @@ b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouc
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#ed7459">I was approached by individuals claiming to be Ambassadors for the CDC Vouchers Scheme. How can I verify that they are authorised personnel?</span></label>
     <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
+			<p>To assist merchants in the registration of interests and onboarding process, IMDA's Digital Ambassadors and CDC Ambassadors are deployed island-wide. The IMDA's Digital Ambassadors can be identified by the uniform and button badge that they will be wearing during deployment:</p>
+			
+			<p>The CDC Ambassadors can be identified by the official lanyard and button badge during deployment as shown below:</p>
     </div>
   </li>
     
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#ed7459">What are the steps to come onboard the scheme?</span></label>
     <div>
       <ul>
         <li>Item 1</li>
