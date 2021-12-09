@@ -20,3 +20,4 @@ Brought to you by:
 
 Supported by:
 ....
+![Alt text for image on Isomer site](/images/brand-bar-desktop.png)
