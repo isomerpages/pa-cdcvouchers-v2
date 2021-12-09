@@ -21,7 +21,7 @@ Step 1 - If you do not have the CDC details of your stall, enter the postal code
 
 Step 2 - Click on the relevant CDC logo below and fill in the online form. Our Ambassadors will get in touch with you after you have submitted the form.
 
-<table >
+<table  style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>    
                     <a href="https://go.gov.sg/csmerchantreg" target="_blank">
