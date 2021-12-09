@@ -18,6 +18,13 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 
 Please <a href="/about/terms-and-conditions-for-cdc-vouchers">click here for the Terms and Conditions</a> of the CDC vouchers. 
 
+### Step-By-Step Guide
+Download our step-by-step guide in the following languages:
+[English (PDF, MB) ](/files/Residents%20-%20English.pdf)
+[中文(PDF, MB)](/files/Residents%20-%20Chinese.pdf)
+[Melayu (PDF, MB) ](/files/Residents%20-%20Malay.pdf)
+[தமிழ் (PDF, MB) ](/files/Residents%20-%20Tamil.pdf)
+
 
 <br>
 <div style="font-size:18px;color:rgb(37, 36, 92); background-color:#f4ac9c; padding:30px">	
