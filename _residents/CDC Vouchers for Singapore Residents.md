@@ -34,7 +34,9 @@ For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</
 
 Hotline operating hours:
 
-| Monday to Sunday | 8am - 6pm |
+
+|  |  |
 | -------- | -------- |
+| Monday to Sunday | 8am - 6pm |
 | New Year's Eve, Chinese New Year's Eve, and Christmas Eve | 8am - 1pm |
 | Public Holidays | Closed |
