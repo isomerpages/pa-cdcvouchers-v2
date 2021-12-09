@@ -33,7 +33,7 @@ sections:
         easily with just a few taps.
       button: Claim my CDC Vouchers
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e
-      image: /images/cdc-vouchers-site-logo2.jpg
+      image: /images/residents/resident-banner.jpg
       alt: Image alt text
   - infobar:
       title: Have more questions?
