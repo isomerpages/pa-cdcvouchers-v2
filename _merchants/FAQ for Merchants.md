@@ -14,7 +14,7 @@ description: ""
 
 <p>The CDC Vouchers will be in a digital format to support the Smart Nation initiative.</p>
 			
-			![Alt text for image on Isomer site](/images/merchants/merchant-question-1.png)
+<img src="/images/merchants/merchant-question-1.png" alt="Sample screen of RedeemSG" />
 			
     </div>
 	</li>  
