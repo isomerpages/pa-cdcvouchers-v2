@@ -89,30 +89,54 @@ b) alternatively, register your interest with your CDC at www.cdc.gov.sg/cdcvouc
 			<p>If you have submitted your application and have not received a reply after 10 working days from the date of submission, please contact your respective CDCs to check on the status of your application. We seek you patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
 			<p><table border="0" cellspacing="2" cellpadding="2">
 <tbody>
-<tr style="height: 18px;">
-<td style="width: 29.5455%; height: 18px;">Central Singapore CDC</td>
-<td style="width: 70.4545%; height: 18px;"><a href="mailto:pa_centralsingapore@pa.gov.sg">pa_centralsingapore@pa.gov.sg </a></td>
+<tr >
+<td >Central Singapore CDC</td>
+<td ><a href="mailto:pa_centralsingapore@pa.gov.sg">pa_centralsingapore@pa.gov.sg </a></td>
 </tr>
-<tr style="height: 18px;">
-<td style="width: 29.5455%; height: 18px;">North East CDC</td>
-<td style="width: 70.4545%; height: 18px;"><a href="mailto:northeast_cdc@pa.gov.sg">northeast_cdc@pa.gov.sg</a></td>
+<tr >
+<td >North East CDC</td>
+<td ><a href="mailto:northeast_cdc@pa.gov.sg">northeast_cdc@pa.gov.sg</a></td>
 </tr>
-<tr style="height: 18px;">
-<td style="width: 29.5455%; height: 18px;">North West CDC</td>
-<td style="width: 70.4545%; height: 18px;"><a href="mailto:northwest_cdc@pa.gov.sg">northwest_cdc@pa.gov.sg</a></td>
+<tr >
+<td >North West CDC</td>
+<td ><a href="mailto:northwest_cdc@pa.gov.sg">northwest_cdc@pa.gov.sg</a></td>
 </tr>
-<tr style="height: 18px;">
-<td style="width: 29.5455%; height: 18px;">South East CDC</td>
-<td style="width: 70.4545%; height: 18px;"><a href="mailto:southeast_cdc@pa.gov.sg">southeast_cdc@pa.gov.sg</a></td>
+<tr >
+<td >South East CDC</td>
+<td ><a href="mailto:southeast_cdc@pa.gov.sg">southeast_cdc@pa.gov.sg</a></td>
 </tr>
-<tr style="height: 18px;">
-<td style="width: 29.5455%; height: 18px;">South West CDC</td>
-<td style="width: 70.4545%; height: 18px;"><a href="mailto:southwest_cdc@pa.gov.sg">southwest_cdc@pa.gov.sg</a></td>
+<tr >
+<td >South West CDC</td>
+<td ><a href="mailto:southwest_cdc@pa.gov.sg">southwest_cdc@pa.gov.sg</a></td>
 </tr>
 </tbody>
 </table>
-			</p>
-			
+			</p>			
     </div>
   </li>
+		<li>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#ed7459">I had previously participated as a merchant in the CDC Vouchers Tranche 1 (Jun 2020 onwards) and/or Tranche 2 (Jan 2021 onwards). Do I auto-qualify, or do I still need to register to join this CDC Vouchers Scheme?</span></label>
+    <div>
+			<p>No, there is no auto-qualification as this is a digital scheme. We are inviting hawkers and heartland merchants like yourself to register for the scheme, and our ambassadors will be reaching out to you at your shop. Alternatively, please register your interest.</p>
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#ed7459">What do I need to prepare to sign-up and onboard as a merchant/hawker?</span></label>
+    <div>
+      <p>During the sign-up process, we will obtain your business contact information (such as bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
+
+<p>You will need to prepare supporting documents for your bank account or PayNow proxy (handphone, NRIC or UEN), depending on which mode of payment was chosen.</p>
+		
+<p>
+	</p>
+
+<p>Samples of supporting documents for merchant's PayNow (left) and bank account details (right). Merchants may prepare either type of supporting document based on mode of payment chosen.
+	</p>
+
+<p>If you are an iPhone user, please also prepare your Apple ID and password on hand as you will need this to be able to download the RedeemSG Merchant app to be able to accept the CDC Vouchers.</p>
+    </div>
+	</li>  
+	
 </ul>
