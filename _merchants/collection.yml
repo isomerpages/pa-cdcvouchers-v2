@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Get Started.md
-      - "Merchants Stage 2: Onboard the Scheme.md"
       - "Merchants Stage 3: Install RedeemSG Merchant App.md"
       - Merchants' FAQ.md
