@@ -3,19 +3,25 @@ title: Get Started
 permalink: /merchants/info
 description: Sign up as participating hawkers and merchants to accept CDC vouchers.
 ---
-
-
+## Calling hawkers and heartland merchants
 
 ### Sign up as participating hawkers and merchants to accept CDC vouchers.
 
 ![Alt text for image on Isomer site](/images/merchants/merchant-banner.jpg)
 
-CDC Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme, to accept the CDC vouchers.
-
 <p><span style="color: rgb(37, 36, 92);"><strong>1. No Commisions Or Fees</strong></span></p>
 <p><span style="color: rgb(37, 36, 92);"><strong>2. Next-Day Payout</strong></span><br />Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline.</p>
 <p><span style="color: rgb(37, 36, 92);"><strong>3. Fuss-free-Redemption &amp; Transaction Tracking</strong></span></p>
 <p><span style="color:rgb(37, 36, 92);"><strong>4. No Handling of Physical Vouchers</strong></span></p>
+
+
+### Register Interest Online Form
+
+Step 1 - If you do not know CDC details of your stalll, enter the postal code of your stall on [CDC's district finder](https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts) to find out.
+
+
+CDC Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme, to accept the CDC vouchers.
+
 
 [Register now](/merchants/redeemsg-app).
 
