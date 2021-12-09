@@ -14,7 +14,7 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 2. Claim your digital vouchers easily with just a few taps
 3. Use digital vouchers at participating hawkers and merchants
 
-Terms and Conditions of the CDC vouchers.
+######Terms and Conditions of the CDC vouchers.
 
 <br>
 <div style="font-size:18px;color:rgb(37, 36, 92); background-color:#f4ac9c; padding:30px">	
