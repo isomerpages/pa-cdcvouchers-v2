@@ -25,7 +25,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 		<td><strong>Fuss-free-Redemption &amp; Transaction Tracking</strong></td>
 	</tr>
 	<tr>
-			<td><img src="/images/no-handling-of-physical-vouchers.png" alt="No Handling of Physical Vouchers icon" style="width:125px !important;" /></td>
+			<td><img src="/images/merchants/no-handling-of-physical-vouchers.png" alt="No Handling of Physical Vouchers icon" style="width:125px !important;" /></td>
 		<td><strong>No Handling of Physical Vouchers</strong></td>
 	</tr>
 	</tbody>
