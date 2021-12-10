@@ -4,7 +4,8 @@ permalink: /residents/faq
 description: CDC Vouchers Scheme Residents FAQ
 ---
 <a id="pagetop"></a>
-Skip to: <a href="#pageclaiming">Claiming Of CDC Vouchers</a> | <a href="#pagespending">Spending Your CDC Vouchers</a>
+Skip to: <a href="#pageclaiming"><strong>Claiming Of CDC Vouchers</strong></a> | <a href="#pagespending"><strong>Spending Your CDC Vouchers</strong></a>
+
 ### General Information About The CDC Vouchers Scheme
 
 <ul class="jekyllcodex_accordion">
