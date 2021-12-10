@@ -6,7 +6,6 @@ description: ""
 English | [华文](how-to-claim-cdc-vouchers-chinese) | [Bahasa Melayu](how-to-claim-cdc-vouchers-malay) | [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
 <a id="pagetop"></a>
-<a id="ienglish"></a>
 # How to claim your CDC Vouchers
 
 Step 1: **Go to [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and log in using Singpass. Only one household member is required to do this on behalf of your household.
@@ -27,16 +26,5 @@ Step 4: **Tap the amount you want to use** and show the QR code to a participati
 
 <img src="/images/residents/screengrabs-for-infographics/english/mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
-[Back to Top](#pagetop)
-<a id="ichinese"></a>
-x
-
-[Back to Top](#pagetop)
-<a id="imalay"></a>
-x
-[Back to Top](#pagetop)
-<a id="itamil"></a>
-
-Tamil தமிழ்
 
 [Back to Top](#pagetop)
