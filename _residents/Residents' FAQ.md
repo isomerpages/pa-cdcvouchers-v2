@@ -77,7 +77,13 @@ To ensure that the digital system caters to both digitally savvy and less digita
  			</p>
 	</div>
   </li>
-
+<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">7. How long does this campaign run for? </span></label>
+    <div>
+ 			<p>The CDC Voucher Scheme will be valid from 13 December 2021 to 31 December 2022. Vouchers can be claimed or spent at participating heartland merchants and hawkers anytime within this period.</p>
+	</div>
+  </li>
 </ul>
 <a href="#pagetop">Back to Top</a>
 
