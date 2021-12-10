@@ -11,4 +11,10 @@ Participating merchants such as hawkers and shopkeepers will use the RedeemSG Me
 
 Ambassadors from the CDCs and the SG Digital Office will help merchants learn to use the RedeemSG Merchant app.
 
-![Alt text for image on Isomer site](/images/brand-bar-desktop.png)
+###### Brought to you by:
+
+![Brought to you by](/images/brought-by.png)
+
+###### Supported by:
+
+![Supported by](/images/supported-by.png)
