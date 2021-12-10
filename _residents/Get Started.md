@@ -9,15 +9,15 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
 
 [	![Alt text for image on Isomer site](/images/residents/resident-banner.jpg)](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e)
 
-Calling all Singapore Households! [Claim your CDC Vouchers](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB).
-
 Every Singaporean household will receive $100 in CDC Vouchers to support our hawkers and heartland merchants!
 
 1. No need to download a mobile app
 2. Claim your digital vouchers easily with just a few taps
 3. Use digital vouchers at participating hawkers and merchants.
 
-Please <a href="/about/terms-and-conditions-for-cdc-vouchers">click here for the Terms and Conditions</a> of the CDC vouchers. 
+[Claim your CDC Vouchers at RedeemSG now](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB).
+
+
 
 ### Step-By-Step Guide
 Download our step-by-step guide in the following languages:
@@ -51,3 +51,5 @@ Hotline operating hours:
 | -------- | -------- |
 | New Year's Eve, Chinese New Year's Eve, and Christmas Eve | 8am - 1pm |
 | Public Holidays | Closed |
+
+Please <a href="/about/terms-and-conditions-for-cdc-vouchers">click here for the Terms and Conditions</a> of the CDC vouchers. 
