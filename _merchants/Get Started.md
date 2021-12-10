@@ -60,8 +60,8 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 <p><a href="/merchants/merchants-guide-tamil">RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்</a></p>
 
+<br></br>
 
-
-<p>If you have more questions, please read the [FAQ](faq)</p>
+If you have more questions, please read the [FAQ](faq)
 
 [Back to Top](#pagetop)
