@@ -15,16 +15,16 @@ Step 1: **Go to [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and log in using Sing
 
 Step 2: **Key in your mobile number** and get a One-Time Password
 
-<img src="/images/residents/screengrabs-for-infographics/english/M_MobileNumber_En_5Nov.png" alt="Step 2" style="width:500px !important; !important;" />
-
+<img src="/images/residents/screengrabs-for-infographics/chinese/M_MobileNumber_CH_5Nov.png" alt="Step 2" style="width:500px !important; !important;" />
 
 Step 3: **Get your CDC Vouchers link sent via SMS** and click to go to your vouchers.
 
-<img src="/images/residents/screengrabs-for-infographics/english/Masked%20NRIC.jpg" alt="Step 3" style="width:500px !important; !important;" />
+<img src="/images/residents/screengrabs-for-infographics/chinese/SMS%20Chinese_9%20Nov%20New%20CH.png" alt="Step 3" style="width:500px !important; !important;" />
+
 
 Step 4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. Share the voucher link with your household members!
 
-<img src="/images/residents/screengrabs-for-infographics/english/mixed%20vouchers_17.png" alt="Step 4" style="width:500px !important; !important;" />
+<img src="/images/residents/screengrabs-for-infographics/chinese/mixed%20vouchers_17.png" alt="Step 4" style="width:500px !important; !important;" />
 
 
 [Back to Top](#pagetop)
