@@ -9,9 +9,22 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
 
 Every Singaporean household will receive $100 in CDC Vouchers to support our hawkers and heartland merchants!
 
-1. No need to download a mobile app
-2. Claim your digital vouchers easily with just a few taps
-3. Use digital vouchers at participating hawkers and merchants.
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><img src="/images/residents/Desktop_No%20app.png" alt="No need to download a mobile app"/></td>
+<td><p>No need to download a mobile app</p></td>
+</tr>
+	<tr>
+<td><img src="/images/residents/Desktop_Claim%20Vouchers.png" alt="Claim your digital vouchers easily"/></td>
+<td valign="center"><p>Claim your digital vouchers easily with just a few taps</p></td>
+</tr>
+		<tr>
+<td><img src="/images/residents/Desktop_Decal.png" alt="Use digital vouchers at participating hawkers and merchants"/></td>
+<td><p>Use digital vouchers at participating hawkers and merchants</p></td>
+</tr>
+</tbody>
+</table>
 
 Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB) now.
 
