@@ -24,6 +24,6 @@ Step 3: **Get your CDC Vouchers link sent via SMS** and click to go to your vouc
 
 Step 4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. Share the voucher link with your household members!
 
-<img src="/images/residents/screengrabs-for-infographics/chinese/chinese/mixed%20voucher.jpg" alt="Step 4" style="width:500px !important; !important;" />
+<img src="/images/residents/screengrabs-for-infographics/chinese/chinese/mixed%20voucher.jpg" alt="Step 4" style="width:400px !important; !important;" />
 
 [Back to Top](#pagetop)
