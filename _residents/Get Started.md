@@ -44,10 +44,11 @@ Our step-by-step video and guide are available in the following languages:
 <td> Melayu </td><td> <a href="/residents/how-to-claim-cdc-vouchers-malay">Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda</a></td>
 </tr>
 <tr>
-<td>தமிழ் </td><td> <a href="/residents/how-to-claim-cdc-vouchers-">உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி</a></td>
+<td>தமிழ் </td><td> <a href="/residents/how-to-claim-cdc-vouchers-tamil">உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி</a></td>
 </tr></tbody>
 </table>
 
+<br>
 <div style="font-size:18px; background-color:#f3d7d7; padding:25px;text-align: center;">	
 <h4><strong>Get ready your Singpass</strong></h4>
 <p><strong>Singpass is required to claim your CDC vouchers.</strong></p>
