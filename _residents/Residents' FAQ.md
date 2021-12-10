@@ -50,10 +50,13 @@ Taking in the feedback from the merchants who participated in the trials and pre
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Can the vouchers be shared with my household members?</span></label>
     <div>
- 			<p>Yes, you can share the vouchers with your household members by clicking on the “Share voucher” button and paste the link into Whatsapp and other communication channels. 
+ 			<p>Yes, the vouchers can be shared with your household members via the following method. 
 			</p>
 			
-<p>Do note that sharing your voucher link constitutes providing them with access to your voucher. 
+<p>Click on “Share My Vouchers” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration. 
+			</p>
+			<p>
+				Do note that sharing your voucher link constitutes providing them with access to your voucher. Anyone with the voucher link can use your vouchers.
 			</p>
     </div>
   </li>
