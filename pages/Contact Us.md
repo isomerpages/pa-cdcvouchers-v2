@@ -13,10 +13,20 @@ For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</
 
 Hotline operating hours:
 
-| Monday to Sunday | 8am - 6pm |
-| -------- | -------- |
-| New Year's Eve, Chinese New Year's Eve and Christmas Eve | 8am - 1pm |
-| Public Holidays | Closed |
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+	<td><p style="width:260px !important;">Monday to Sunday</p></td>
+	<td><p>8am - 6pm</p></td>
+</tr>
+	<td><p style="width:260px !important;">New Year's Eve, Chinese New Year's Eve, and Christmas Eve</p></td>
+	<td><p>8am - 1pm</p></td>
+	<tr>
+	<td><p style="width:260px !important;">Public Holidays</p></td>
+	<td><p>Closed</p></td>
+</tr>
+</tbody>
+</table>
 
 
 
