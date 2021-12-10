@@ -10,10 +10,13 @@ English | [华文](#ichinese) | [Bahasa Melayu](#imalay) | [தமிழ்](#it
 
 Step 1: **Go to [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and log in using Singpass. Only one household member is required to do this on behalf of your household.
 
-<img src="/images/residents/screengrabs-for-infographics/english/Log%20in_En_5Nov-m.jpg" alt="Sample Redeemed Voucher SMS" style="width:500px !important; !important;" />
+<img src="/images/residents/screengrabs-for-infographics/english/Log%20in_En_5Nov-m.jpg" alt="Step 1" style="width:500px !important; !important;" />
 
 
 Step 2: **Key in your mobile number** and get a One-Time Password
+
+<img src="/images/residents/screengrabs-for-infographics/english/M_MobileNumber_En_5Nov.png" alt="Step 2" style="width:500px !important; !important;" />
+
 
 Step 3: **Get your CDC Vouchers link sent via SMS** and click to go to your vouchers.
 
