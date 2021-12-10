@@ -133,7 +133,7 @@ Please refer to the step-by-step infographics on how to claim your household’s
 <p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:170px !important;" />
 	</p>
 			<p>Vouchers will be sent to your verified mobile number.</p>
-<p>In the event you changed your mobile number and/or cannot find your voucher link, you can visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> again to retrieve your existing vouchers via SMS.</p>
+<p>In the event you changed your mobile number and/or cannot find your voucher link, you can visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> again to retrieve your existing vouchers via SMS.</p>
     </div>
 	</li>  
 	<li>
