@@ -28,8 +28,6 @@ third_nav_title: Guide
 
 <img src="/images/residents/screengrabs-for-infographics/english/mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
-*Visuals shown are for illustrative purposes only.*
-
 Look out for this decal at participating hawkers and heartland merchants!
 
 (need decal screenshot)
@@ -39,5 +37,7 @@ Vouchers are valid till 31 December 2022.
 If you do not have a smartphone or Singpass, and for further enquiries and assistance, visit your nearest Community Centre/Club (CC) from 10am - 6pm (except Public Holidays).
 
 Hotline: 6225 5322
+
+&#42;<i>Visuals shown are for illustrative purposes only.</i>
 
 [Back to Top](#pagetop)
