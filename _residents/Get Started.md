@@ -32,14 +32,30 @@ Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/ca
 ### Step-By-Step Guide
 Download our step-by-step guide in the following languages:
 
-English : [Online Guide](how-to-claim-cdc-vouchers) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [PDF (2.71 MB) ](/files/Residents%20-%20English.pdf)
-
-中文 : [Online Guide](how-to-claim-cdc-vouchers-chinese) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [PDF(2.8 MB)](/files/Residents%20-%20Chinese.pdf)
-
-Melayu : [Online Guide](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [PDF (3.02 MB) ](/files/Residents%20-%20Malay.pdf)
-
-தமிழ் : [Online Guide](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [PDF (3.23 MB) ](/files/Residents%20-%20Tamil.pdf)
-
+<table style="border-collapse: collapse;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td>English</td>
+<td><a href="https://cms.isomer.gov.sg/sites/pa-cdcvouchers/folders/residents/editPage/how-to-claim-cdc-vouchers">Online Guide</a></td>
+<td><a href="https://cms.isomer.gov.sg/files/Residents%20-%20English.pdf">PDF (2.71 MB)</a></td>
+</tr>
+<tr>
+<td>中文</td>
+<td><a href="https://cms.isomer.gov.sg/sites/pa-cdcvouchers/folders/residents/editPage/how-to-claim-cdc-vouchers-chinese">Online Guide</a></td>
+<td><a href="https://cms.isomer.gov.sg/files/Residents%20-%20Chinese.pdf">PDF(2.8 MB)</a></td>
+</tr>
+<tr>
+<td>Melayu</td>
+<td><a href="https://cms.isomer.gov.sg/sites/pa-cdcvouchers/folders/residents/editPage/how-to-claim-cdc-vouchers-malay">Online Guide</a>&nbsp;</td>
+<td><a href="https://cms.isomer.gov.sg/files/Residents%20-%20Malay.pdf">PDF (3.02 MB)</a></td>
+</tr>
+<tr>
+<td>தமிழ்</td>
+<td><a href="https://cms.isomer.gov.sg/sites/pa-cdcvouchers/folders/residents/editPage/how-to-claim-cdc-vouchers-malay">Online Guide</a></td>
+<td><a href="https://cms.isomer.gov.sg/files/Residents%20-%20Tamil.pdf">PDF (3.23 MB)</a></td>
+</tr>
+</tbody>
+</table>
 
 <br>
 <div style="font-size:18px;color:#d24d35; background-color:#efc0b7; padding:20px">	
