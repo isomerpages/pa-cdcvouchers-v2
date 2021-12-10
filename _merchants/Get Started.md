@@ -41,27 +41,25 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><a href="/merchants/merchants-guide-english">Onboard RedeemSG Merchant App</p>
-<p><a href="/merchants/merchants-guide-chinese">Onboard RedeemSG Merchant 手机应用程序<p>
-<p><a href="/merchants/merchants-guide-malay">Bagaimana untuk menggunakan RedeemSG Merchant</p>	
-<p><a href="/merchants/merchants-guide-tamil">RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்</p>
 
-</br>
-
+	
 #### 中文
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2l6hem1eMps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Download Guide [中文(PDF, 858 KB)](/files/Merchants%20-%20Chinese.pdf)
+<p><a href="/merchants/merchants-guide-chinese">Onboard RedeemSG Merchant 手机应用程序<p>
+
 
 #### Melayu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WlXbDqiPN6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Download Guide [Melayu (PDF,931 KB)](/files/Merchants%20-%20Malay.pdf)
+<p><a href="/merchants/merchants-guide-malay">Bagaimana untuk menggunakan RedeemSG Merchant</p>	
+
 
 #### தமிழ் 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NGkGTUoF1BE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Download Guide [தமிழ்  (PDF,1.02 MB)](/files/Merchants%20-%20Tamil.pdf)
+<p><a href="/merchants/merchants-guide-tamil">RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்</p>
 
-If you have more questions, please read [FAQ](faq)
+If you have more questions, please read the [FAQ](faq)
 
 [Back to Top](#pagetop)
