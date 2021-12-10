@@ -30,7 +30,7 @@ description: CDC Vouchers Scheme Residents FAQ
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
     <div>
       <p>
-				There is no need to apply for the scheme.  All Singaporean households will receive a notification letter on how to claim their CDC vouchers at [go.gov.sg/cdcv](https://go.gov.sg/cdcv)
+				There is no need to apply for the scheme.  All Singaporean households will receive a notification letter on how to claim their CDC vouchers at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>
       </p>
     </div>
   </li>
