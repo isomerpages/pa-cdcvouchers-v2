@@ -34,7 +34,7 @@ sections:
         easily with just a few taps.
       button: Claim now
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e
-      image: /images/residents/resident-banner.jpg
+      image: /images/residents/Hero%20banner%20no%20button.png
       alt: Image alt text
   - infobar:
       title: Residents
