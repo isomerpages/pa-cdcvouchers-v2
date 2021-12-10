@@ -73,4 +73,4 @@ Hotline operating hours:
 
 [FAQ](/residents/faq)
 
-<a href="/about/terms-and-conditions-for-cdc-vouchers">Terms and Conditions</a> of the CDC vouchers
+<a href="/about/terms-and-conditions-for-cdc-vouchers">Terms and Conditions of the CDC vouchers</a>
