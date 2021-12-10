@@ -32,13 +32,13 @@ Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/ca
 ### Step-By-Step Guide
 Download our step-by-step guide in the following languages:
 
-English : [Online Guide](how-to-claim-cdc-vouchers) | [PDF (2.71 MB) ](/files/Residents%20-%20English.pdf)
+English : [Online Guide](how-to-claim-cdc-vouchers) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [PDF (2.71 MB) ](/files/Residents%20-%20English.pdf)
 
-中文 : [Online Guide](how-to-claim-cdc-vouchers-chinese) | [PDF(2.8 MB)](/files/Residents%20-%20Chinese.pdf)
+中文 : [Online Guide](how-to-claim-cdc-vouchers-chinese) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [PDF(2.8 MB)](/files/Residents%20-%20Chinese.pdf)
 
-Melayu : [Online Guide](how-to-claim-cdc-vouchers-malay) | [PDF (3.02 MB) ](/files/Residents%20-%20Malay.pdf)
+Melayu : [Online Guide](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [PDF (3.02 MB) ](/files/Residents%20-%20Malay.pdf)
 
-தமிழ் : [Online Guide](how-to-claim-cdc-vouchers-malay) | PDF (3.23 MB) ](/files/Residents%20-%20Tamil.pdf)
+தமிழ் : [Online Guide](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [PDF (3.23 MB) ](/files/Residents%20-%20Tamil.pdf)
 
 
 <br>
