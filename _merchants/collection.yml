@@ -2,9 +2,9 @@ collections:
   merchants:
     output: true
     order:
-      - RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்.md
-      - 加入 RedeemSG Merchant手机应用程序.md
-      - Onboard RedeemSG Merchant App.md
       - Get Started.md
+      - RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்.md
+      - Onboard RedeemSG Merchant App.md
+      - 加入 RedeemSG Merchant手机应用程序.md
       - RedeemSG Merchant App.md
       - Merchants' FAQ.md
