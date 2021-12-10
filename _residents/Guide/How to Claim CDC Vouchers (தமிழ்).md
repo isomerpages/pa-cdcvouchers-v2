@@ -30,13 +30,10 @@ third_nav_title: Guide
 
 <img src="/images/residents/screengrabs-for-infographics/tamil/10%20NovTamil%20mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
-<i>படங்கள் விளக்கத்திற்கு மட்டுமே</i>
-
 
 பங்குபெறும் உணவங்காடிக் கடைகளிலும் குடியிருப்பு வட்டார வணிகக் கடைகளிலும் இந்தச் சின்னம் இருக்கிறதா எனப் பாருங்கள்!
 
 (need decal screenshot)
-
 
 பற்றுச்சீட்டுகள் 31 டிசம்பர் 2022 வரை செல்லுபடியாகும்.
 
@@ -44,5 +41,6 @@ third_nav_title: Guide
 
 தொலைபேசி: 6225 5322
 
+&#42;<i>படங்கள் விளக்கத்திற்கு மட்டுமே</i>
 
 [Back to Top](#pagetop)
