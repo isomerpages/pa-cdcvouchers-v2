@@ -17,7 +17,7 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 </tr>
 	<tr>
 <td><img src="/images/residents/claim-easily.png" alt="Claim your digital vouchers easily"style="width:125px !important;height:90px !important;"/></td>
-<td valign="center"><p>Claim your digital vouchers easily with just a few taps</p></td>
+<td><p>Claim your digital vouchers easily with just a few taps</p></td>
 </tr>
 		<tr>
 <td><img src="/images/residents/use-voucher.png" alt="Use digital vouchers at participating hawkers and merchants"style="width:125px !important;height:90px !important;"/></td>
