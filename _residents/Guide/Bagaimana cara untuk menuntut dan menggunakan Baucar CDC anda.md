@@ -30,7 +30,7 @@ third_nav_title: Guide
 
 Perhatikan pelekat yang ada pada penjaja dan pedagang yang mengambil bahagian di kejiranan anda!
 
-(need decal screenshot)
+![Merchant's Decal](/images/merchants-decal-500.jpg)
 
 Baucar ini sah sehingga 31 Disember 2022.
 
