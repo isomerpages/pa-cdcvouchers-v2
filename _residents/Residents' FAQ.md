@@ -144,7 +144,7 @@ Please refer to the step-by-step infographics on how to claim your household’s
 <p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:170px !important;" />
 	</p>
 
-<p>A typical SMS from RedeemSG will look like the screenshot on the right. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
+<p>A typical SMS from RedeemSG will look like the screenshot on the above. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
     </div>
 	</li> 
 		<li>
