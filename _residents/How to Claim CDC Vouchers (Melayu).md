@@ -9,19 +9,19 @@ description: ""
 
 # Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda.
 
-Step 1: **Log masuk ke [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** dengan menggunakan Singpass.  Hanya seorang sahaja dalam ahli keluarga anda yang perlu melakukannya bagi pihak isi rumah.
+1: **Log masuk ke [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** dengan menggunakan Singpass.  Hanya seorang sahaja dalam ahli keluarga anda yang perlu melakukannya bagi pihak isi rumah.
 
 <img src="/images/residents/screengrabs-for-infographics/malay/10%20NOV%20M_Log%20in.png" alt="Step 1" style="width:300px !important; !important;" />
 
-Step 2: **Masukkan nombor telefon bimbit anda** dan dapatkan Kata Laluan Sekali Guna.
+2: **Masukkan nombor telefon bimbit anda** dan dapatkan Kata Laluan Sekali Guna.
 
 <img src="/images/residents/screengrabs-for-infographics/malay/M_MobileNumber_MA_5Nov.png" alt="Step 2" style="width:300px !important; !important;" />
 
-Step 3: **Dapatkan pautan Baucar CDC anda melalui pesanan SMS** dan klik ke baucer anda.
+3: **Dapatkan pautan Baucar CDC anda melalui pesanan SMS** dan klik ke baucer anda.
 
 <img src="/images/residents/screengrabs-for-infographics/malay/SMS%20Malay_5%20Nov%20New%20Link.png" alt="Step 3" style="width:300px !important; !important;" />
 
-Step 4: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas, kepada penjaja dan pedagang yang mengambil bahagian. Kongsikan pautan baucar dengan ahli anggota keluarga anda!
+4: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas, kepada penjaja dan pedagang yang mengambil bahagian. Kongsikan pautan baucar dengan ahli anggota keluarga anda!
 
 <img src="/images/residents/screengrabs-for-infographics/malay/Malay%20mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
