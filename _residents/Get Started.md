@@ -63,6 +63,8 @@ Download our step-by-step guide in the following languages:
 
 <a href="https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB" class="bp-button is-secondary is-uppercase search-button" target="_blank">Proceed to claim CDC Vouchers</a>
 
+If you have more questions, please read the [FAQ](faq).
+
 
 ________
 
