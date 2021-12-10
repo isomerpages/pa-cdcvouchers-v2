@@ -52,7 +52,7 @@ Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/ca
 
 
 #### Forgot your Singpass password?
-<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a></p>
+<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a>.</p>
 
 
 #### Contact Us
@@ -71,4 +71,4 @@ Hotline operating hours:
 
 [FAQ](/residents/faq)
 
-<a href="/about/terms-and-conditions-for-cdc-vouchers">Terms and Conditions</a> of the CDC vouchers.
+<a href="/about/terms-and-conditions-for-cdc-vouchers">Terms and Conditions</a> of the CDC vouchers
