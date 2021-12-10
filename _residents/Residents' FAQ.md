@@ -196,7 +196,7 @@ To find out the location of your nearest CC, please key in your postal code unde
     <label for="accordion17"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Do I get a refund if the purchase (e.g. $8) is less than the amount of digital vouchers that I want to spend (e.g. $10)?</span></label>
     <div>
 			<p>Similar to other vouchers like supermarket vouchers, there will be no change / refund provided if the purchase amount is less than the vouchers used. </p>
-			<p>For example if the cost of item is $6,
+			<p>For example, if the cost of item is $6,
 				
 <table style="border-collapse: collapse; border-style: solid;" border="1" cellspacing="1" cellpadding="1">
 <tbody>
