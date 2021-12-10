@@ -11,12 +11,12 @@ third_nav_title: Guide
 ### உங்களுக்கான சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகளை எவ்வாறு  பெற்றுக்கொள்வது?
 
 
-1: ** [go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் சென்று** சிங்பாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள். ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.
+1: **[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் சென்று** சிங்பாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள். ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.
 
 <img src="/images/residents/screengrabs-for-infographics/tamil/M_Log%20in_ta_5novupdated.png" alt="Step 1" style="width:300px !important; !important;" />
 
 
-2: **உங்கள் கைப்பேசி எண்ணை உள்ளிட்டு ** ஒரு முறை கடவுச்சொல்லைப் (One-Time Password) பெற்றுக்கொள்ளுங்கள் 
+2: **உங்கள் கைப்பேசி எண்ணை உள்ளிட்டு**ஒரு முறை கடவுச்சொல்லைப் (One-Time Password) பெற்றுக்கொள்ளுங்கள் 
 
 <img src="/images/residents/screengrabs-for-infographics/tamil/M_MobileNumber_TA_5Nov.png" alt="Step 2" style="width:300px !important; !important;" />
 
@@ -30,7 +30,7 @@ third_nav_title: Guide
 
 <img src="/images/residents/screengrabs-for-infographics/tamil/10%20NovTamil%20mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
-படங்கள் விளக்கத்திற்கு மட்டுமே
+*படங்கள் விளக்கத்திற்கு மட்டுமே*
 
 
 பங்குபெறும் உணவங்காடிக் கடைகளிலும் குடியிருப்பு வட்டார வணிகக் கடைகளிலும் இந்தச் சின்னம் இருக்கிறதா எனப் பாருங்கள்!
