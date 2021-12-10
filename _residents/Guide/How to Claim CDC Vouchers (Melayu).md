@@ -26,7 +26,11 @@ third_nav_title: Guide
 
 <img src="/images/residents/screengrabs-for-infographics/malay/Malay%20mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
+
+<i>Visual yang ditunjukkan adalah untuk tujuan ilustrasi sahaja.</i>
+
 Perhatikan pelekat yang ada pada penjaja dan pedagang yang mengambil bahagian di kejiranan anda!
+
 (need decal screenshot)
 
 Baucar ini sah sehingga 31 Disember 2022.
