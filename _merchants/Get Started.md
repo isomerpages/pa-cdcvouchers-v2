@@ -46,7 +46,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 #### 中文
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2l6hem1eMps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><a href="/merchants/merchants-guide-chinese">Onboard RedeemSG Merchant 手机应用程序</a></p>
+<p><a href="/merchants/merchants-guide-chinese">加入 RedeemSG Merchant 手机应用程序</a></p>
 
 
 #### Melayu
