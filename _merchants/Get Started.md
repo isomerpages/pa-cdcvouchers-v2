@@ -3,10 +3,11 @@ title: Get Started
 permalink: /merchants/info
 description: Sign up as participating hawkers and merchants to accept CDC vouchers.
 ---
-## Calling hawkers and heartland merchants
 <a id="pagetop"></a>
 
-![Alt text for image on Isomer site](/images/merchants/merchant-banner.jpg)
+![Calling hawkers and heartland merchants banner](/images/merchants/merchant-banner.jpg)
+
+## Calling hawkers and heartland merchants
 
 **Sign up as participating hawkers and merchants to accept CDC vouchers.**
 <p><span style="color: rgb(37, 36, 92);"><strong>1. No Commisions Or Fees</strong></span></p>
