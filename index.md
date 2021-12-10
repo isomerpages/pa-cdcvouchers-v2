@@ -20,13 +20,13 @@ sections:
       button: Claim my CDC vouchers
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB
   - infopic:
-      title: Thank you for staying strong, Singapore!
-      description: Every Singaporean household will receive $100 in CDC vouchers.
+      title: About the CDC Vouchers Scheme
+      description: Announced as part of the Household Support Package in Budget 2021,
+        about 1.3 million Singaporean households will receive $100 CDC Vouchers.
       button: Find out more
       image: /images/homepage-banner.jpg
       alt: CDC Vouchers
       url: /about/about-cdc-vouchers-scheme
-      subtitle: About CDC Vouchers Scheme
   - infopic:
       title: Claim your CDC Vouchers
       subtitle: Residents
