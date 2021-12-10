@@ -32,10 +32,14 @@ Download our step-by-step guide in the following languages:
 
 
 <br>
-<div style="font-size:18px;color:rgb(37, 36, 92); background-color:#f4ac9c; padding:30px">	
+<div style="font-size:18px;color:rgb(37, 36, 92); background-color:#f4ac9c; padding:20px">	
 <h4><strong>Get ready your Singpass</strong></h4>
 <p>Singpass is required to claim your CDC vouchers.</p>
 </div>
+
+Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB) now.
+
+
 
 #### Forgot your Singpass password?
 <p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a></p>
@@ -52,4 +56,4 @@ Hotline operating hours:
 | New Year's Eve, Chinese New Year's Eve, and Christmas Eve | 8am - 1pm |
 | Public Holidays | Closed |
 
-Please <a href="/about/terms-and-conditions-for-cdc-vouchers">click here for the Terms and Conditions</a> of the CDC vouchers. 
+Please <a href="/about/terms-and-conditions-for-cdc-vouchers">click here for the Terms and Conditions</a> of the CDC vouchers.
