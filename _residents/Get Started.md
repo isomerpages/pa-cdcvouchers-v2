@@ -68,6 +68,7 @@ Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/ca
 <a href="https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB" class="bp-button is-secondary is-uppercase search-button" target="_blank">Claim Now</a>
 
 
+________
 
 #### Forgot your Singpass password?
 <p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a></p>
