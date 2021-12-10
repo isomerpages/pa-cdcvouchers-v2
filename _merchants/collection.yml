@@ -2,6 +2,7 @@ collections:
   merchants:
     output: true
     order:
+      - Onboard RedeemSG Merchant App (English).md
       - Get Started.md
       - RedeemSG Merchant App.md
       - Merchants' FAQ.md
