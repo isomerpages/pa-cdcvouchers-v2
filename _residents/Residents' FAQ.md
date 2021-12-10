@@ -180,7 +180,7 @@ To find out the location of your nearest CC, please key in your postal code unde
     <input type="checkbox" id="accordion15">
     <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Which merchants can I spend my vouchers at?</span></label>
     <div>
-			<p>These CDC vouchers can be used at participating heartland merchants and hawkers.  Look out for the CDC Vouchers decal displayed at the merchant/hawker stall shopfront to know where the vouchers can be used at, and also take this opportunity to explore and get to know your neighbourhood.	</p>
+			<p>These CDC vouchers can be used at participating heartland merchants and hawkers.  Look out for the CDC Vouchers decal displayed at the merchant/hawker stall shopfront to know where the vouchers can be used at, and also take this opportunity to explore and get to know your neighbourhood.
 			</p>
     </div>
   </li>
@@ -197,12 +197,26 @@ To find out the location of your nearest CC, please key in your postal code unde
     <label for="accordion17"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Do I get a refund if the purchase (e.g. $8) is less than the amount of digital vouchers that I want to spend (e.g. $10)?</span></label>
     <div>
 			<p>Similar to other vouchers like supermarket vouchers, there will be no change / refund provided if the purchase amount is less than the vouchers used. </p>
-			<p>For example if the cost of item is $6,,
+			<p>For example if the cost of item is $6,
 				
-| Value of Vouchers Used (in $2, $5 and $10 denominations) | Unused amount/value | 
-| -------- | -------- |
-| $7.00     | No refund will be issued by merchant|
-|$5.00| Recipient to top-up the difference of $1.00 using cash|
+<table style="height: 72px; width: 550px; border-collapse: collapse; border-style: solid;" border="1" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td style="width: 259.844px; height: 36px;">
+<p>Value of Vouchers Used <br />(in $2, $5 and $10 denominations)</p>
+</td>
+<td style="width: 283.156px; height: 36px;">Unused amount/value</td>
+</tr>
+<tr>
+<td style="width: 260px;">$7.00</td>
+<td style="width: 284px;">No refund will be issued by merchant</td>
+</tr>
+<tr>
+<td style="width: 260px;">$5.00</td>
+<td style="width: 284px;">Recipient to top-up the difference of $1.00 using cash</td>
+</tr>
+</tbody>
+</table>
 		
 			</p>
     </div>
