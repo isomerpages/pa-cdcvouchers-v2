@@ -12,15 +12,15 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><img src="/images/residents/no-download.png" alt="No need to download a mobile app" style="width:125px !important;height:90px !important;"/></td>
+<td><img src="/images/residents/no-download.png" alt="No need to download a mobile app" style="width:125px !important;height:95px !important;"/></td>
 <td><p>No need to download a mobile app</p></td>
 </tr>
 	<tr>
-<td><img src="/images/residents/claim-easily.png" alt="Claim your digital vouchers easily" style="width:125px !important;height:90px !important;"/></td>
+<td><img src="/images/residents/claim-easily.png" alt="Claim your digital vouchers easily" style="width:125px !important;height:95px !important;"/></td>
 <td><p>Claim your digital vouchers easily with just a few taps</p></td>
 </tr>
 		<tr>
-<td><img src="/images/residents/use-voucher.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;height:90px !important;"/></td>
+<td><img src="/images/residents/use-voucher.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;height:95px !important;"/></td>
 <td><p>Use digital vouchers at participating hawkers and merchants</p></td>
 </tr>
 </tbody>
