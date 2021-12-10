@@ -2,11 +2,11 @@ collections:
   merchants:
     output: true
     order:
+      - Get Started.md
       - Merchants' Guide/.keep
       - Merchants' Guide/Onboard RedeemSG Merchant App.md
       - Merchants' Guide/加入 RedeemSG Merchant手机应用程序.md
       - Merchants' Guide/Bagaimana untuk menggunakan RedeemSG Merchant.md
       - Merchants' Guide/RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்.md
-      - Get Started.md
       - RedeemSG Merchant App.md
       - Merchants' FAQ.md
