@@ -68,6 +68,6 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 <br>
 
-If you have more questions, please read the [FAQ](faq)
+If you have more questions, please read the [FAQ](faq).
 
 [Back to Top](#pagetop)
