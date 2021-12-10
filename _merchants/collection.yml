@@ -2,6 +2,7 @@ collections:
   merchants:
     output: true
     order:
+      - Guide/加入 RedeemSG Merchant手机应用程序.md
       - Guide/Onboard RedeemSG Merchant App.md
       - Guide/.keep
       - Get Started.md
