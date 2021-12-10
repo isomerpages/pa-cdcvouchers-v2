@@ -212,7 +212,7 @@ To find out the location of your nearest CC, please key in your postal code unde
 </tr>
 <tr>
 <td style="width: 260px;">$5.00</td>
-<td style="width: 284px;">Recipient to top-up the difference of $1.00 using cash</td>
+<td style="width: 284px;">Resident to top-up the difference of $1.00 using cash</td>
 </tr>
 </tbody>
 </table>
