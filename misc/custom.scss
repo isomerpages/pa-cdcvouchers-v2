@@ -336,12 +336,6 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 	  
-}
-
-.bp-hero-body {
-	background: unset;
-}
-	  
 	  
 //Accordion
 ul.jekyllcodex_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
@@ -355,3 +349,9 @@ ul.jekyllcodex_accordion > li > label::before {content: "+"; font-weight: normal
 ul.jekyllcodex_accordion > li > input:checked + label::before {transform: rotate(-45deg);}
 ul.jekyllcodex_accordion > li > div > ul > li { list-style-type: disc; border-top: 0; }
 ul.jekyllcodex_accordion > li > div > ol > li { list-style-type: decimal; border-top: 0; }
+	  
+}
+
+.bp-hero-body {
+	background: unset;
+}
