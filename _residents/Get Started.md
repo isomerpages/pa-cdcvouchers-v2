@@ -32,7 +32,7 @@ Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/ca
 ### Step-By-Step Guide
 Download our step-by-step guide in the following languages:
 
-<table style="border-collapse: collapse;" border="0" cellspacing="1" cellpadding="1">
+<table border="0" cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
 <td>English</td>
@@ -64,6 +64,8 @@ Download our step-by-step guide in the following languages:
 </div>
 
 Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB) now.
+
+<a href="https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB" class="bp-button is-secondary is-uppercase search-button" target="_blank">Claim Now</a>
 
 
 
