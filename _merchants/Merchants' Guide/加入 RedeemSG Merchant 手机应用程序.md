@@ -4,7 +4,7 @@ permalink: /merchants/merchant-guide-chinese
 description: ""
 third_nav_title: Merchants' Guide
 ---
-**[English](merchant-guide-english)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [华文](merchant-guide-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](merchant-guide-tamil)
+[English](merchant-guide-english) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[华文](merchant-guide-chinese)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](merchant-guide-tamil)
 
 <a id="pagetop"></a>
 
@@ -19,7 +19,7 @@ third_nav_title: Merchants' Guide
 	
 </td>
 
-<td><img src="/images/merchants/merchants-infographics/english/download_app.png" style="width:210px !important;" alt="Download RedeemSG Merchant App"/> </td>
+<td><img src="/images/merchants/merchants-infographics/english/download_app.png" style="width:250px !important;" alt="Download RedeemSG Merchant App"/> </td>
 </tr>
 
 </tbody>
@@ -27,7 +27,7 @@ third_nav_title: Merchants' Guide
 
 2. <p>输入社理会大使或手机简讯所提供的商店代码。</p>
 
-<p><img src="/images/merchants/merchants-infographics/chinese/10%20Shop%20code%20NEW.png" style="width:210px !important;" alt="Enter shop code screen"/> </p>
+<p><img src="/images/merchants/merchants-infographics/chinese/10%20Shop%20code%20NEW.png" style="width:300px !important;" alt="Enter shop code screen"/> </p>
 
 3. <p>您便可开始扫描购物券。</p>
 
@@ -36,17 +36,17 @@ third_nav_title: Merchants' Guide
 
 4. <p>若想添加其他管理员或店员，您只需分享商店代码即可。</p>
 
-<p><img src="/images/merchants/merchants-infographics/chinese/2%20Settings%20shop%20show%20codeNEW.png" style="width:210px !important;" alt="Shop code screen"/> </p>
+<p><img src="/images/merchants/merchants-infographics/chinese/2%20Settings%20shop%20show%20codeNEW.png" style="width:300px !important;" alt="Shop code screen"/> </p>
 
 5. <p>点击“交易”，查看已扫描的购物券金额。点击“收款”，查看已转入您银行户口的款项。</p>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><p><img src="/images/merchants/merchants-infographics/chinese/1%20Transactions%20entire%20shop.png" alt="Transactions screen" style="width:210px !important;" /></p>
+<td><p><img src="/images/merchants/merchants-infographics/chinese/1%20Transactions%20entire%20shop.png" alt="Transactions screen" style="width:300px !important;" /></p>
 </td>
 
-<td><img src="/images/merchants/merchants-infographics/chinese/1%20Payouts%20daily%20.png" style="width:210px !important;" alt="Payouts screen"/> </td>
+<td><img src="/images/merchants/merchants-infographics/chinese/1%20Payouts%20daily%20.png" style="width:300px !important;" alt="Payouts screen"/> </td>
 </tr>
 </tbody>
 </table>
