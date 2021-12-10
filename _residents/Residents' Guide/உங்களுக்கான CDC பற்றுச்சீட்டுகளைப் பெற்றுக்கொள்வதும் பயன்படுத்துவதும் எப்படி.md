@@ -1,0 +1,49 @@
+---
+title: உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி
+permalink: /residents/how-to-claim-cdc-vouchers-tamil
+description: ""
+third_nav_title: Residents' Guide
+---
+
+<a id="pagetop"></a>
+
+[English](how-to-claim-cdc-vouchers) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [中文](how-to-claim-cdc-vouchers-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[தமிழ்](how-to-claim-cdc-vouchers-tamil)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி
+
+
+1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் சென்று</strong>சிங்பாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள். ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.
+
+<img src="/images/residents/screengrabs-for-infographics/tamil/M_Log%20in_ta_5novupdated.png" alt="Step 1" style="width:300px !important;" />
+
+
+2: <strong>உங்கள் கைப்பேசி எண்ணை உள்ளிட்டு</strong>ஒரு முறை கடவுச்சொல்லைப் (One-Time Password) பெற்றுக்கொள்ளுங்கள் 
+
+<img src="/images/residents/screengrabs-for-infographics/tamil/M_MobileNumber_TA_5Nov.png" alt="Step 2" style="width:300px !important;" />
+
+
+3: **CDC பற்றுச்சீட்டுகளின் இணைப்பைக் குறுந்தகவல் (SMS) மூலம் பெற்றவுடன்** இணைப்பை கிளிக் (click) செய்து பற்றுச்சீட்டுகளை அடையுங்கள் 
+
+<img src="/images/residents/screengrabs-for-infographics/tamil/SMSTamil_5%20Nov%20New%20Link.png" alt="Step 3" style="width:300px !important;" />
+
+
+4: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து** பங்குபெறும் உணவங்காடிக் கடைக்காரரிடம் அல்லது வணிகரிடம் QR குறியீட்டைக் காட்டுங்கள். பற்றுச்சீட்டின் இணைப்பை உங்கள் குடும்பத்தாருடனும் பகிர்ந்துக்கொள்ளலாம்!
+
+<img src="/images/residents/screengrabs-for-infographics/tamil/10%20NovTamil%20mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important;" />
+
+
+பங்குபெறும் உணவங்காடிக் கடைகளிலும் குடியிருப்பு வட்டார வணிகக் கடைகளிலும் இந்தச் சின்னம் இருக்கிறதா எனப் பாருங்கள்!
+
+![Merchant's Decal](/images/merchants-decal-500.jpg)
+
+பற்றுச்சீட்டுகள் 31 டிசம்பர் 2022 வரை செல்லுபடியாகும்.
+
+உங்களிடம் திறன்பேசி அல்லது சிங்பாஸ் (Singpass) கணக்கு இல்லாவிட்டால் அல்லது மேற்கொண்டு விவரமும் உதவியும் தேவைப்பட்டால் உங்களுக்கு அருகிலுள்ள சமூக நிலையத்திற்கு/ மன்றத்திற்குக் காலை 10 மணி முதல் மாலை 6 மணி வரை (பொது விடுமுறை நாட்கள் தவிர்த்து) செல்லுங்கள்.
+
+தொலைபேசி: 6225 5322
+
+&#42;<i>படங்கள் விளக்கத்திற்கு மட்டுமே</i>
+
+[Back to Top](#pagetop)
