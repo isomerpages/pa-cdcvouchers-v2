@@ -49,13 +49,11 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     <div>
 			<p>To assist merchants in the registration of interests and onboarding process, IMDA's Digital Ambassadors and CDC Ambassadors are deployed island-wide. The IMDA's Digital Ambassadors can be identified by the uniform and button badge that they will be wearing during deployment:</p>
 			<p><img src="/images/merchants/m-sample-digital-ambassador-uniform.png" alt="Sample Digital Ambassadors and CDC Ambassadors Uniform" style="width:486px !important;height:329px !important;" /></p>
-
 			<p>The CDC Ambassadors can be identified by the official lanyard and button badge during deployment as shown below:</p>
 			<p><img src="/images/merchants/m-sample-digital-ambassador-badge.png" alt="Sample Digital Ambassadors and CDC Ambassadors badge" style="width:719px !important;height:387px !important;" /></p>
 			<br>
 				<p><img src="/images/merchants/m-sample-digital-ambassador-lanyard.png" alt="Sample Digital Ambassadors and CDC Ambassadors lanyard" style="width:600px !important;height:367px !important;" /></p>
-					
-    </div>
+					    </div>
   </li>
     
   <li>
