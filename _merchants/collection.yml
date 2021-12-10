@@ -2,6 +2,7 @@ collections:
   merchants:
     output: true
     order:
+      - Bagaimana untuk menggunakan RedeemSG Merchant.md
       - Get Started.md
       - Onboard RedeemSG Merchant App.md
       - 加入 RedeemSG Merchant手机应用程序.md
