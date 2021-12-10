@@ -73,5 +73,3 @@ Hotline operating hours:
 	<td><p style="width:260px !important;">Public Holidays</p></td>
 	<td><p style="width:100px !important;">Closed</p></td>
 </tr>
-
-Please <a href="/about/terms-and-conditions-for-cdc-vouchers">click here for the Terms and Conditions</a> of the CDC vouchers.
