@@ -135,7 +135,6 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
 	</p>
 </div>
   </li>
-</ul>
 
 ### Onboarding for Registered Merchants
 
