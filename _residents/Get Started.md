@@ -41,10 +41,10 @@ Our step-by-step video and guide are available in the following languages:
 <td> 中文 </td><td> <a href="/residents/resident-guide-chinese">如何领取及使用社理会邻里购物券</a></td>
 </tr>
 <tr>
-<td> Melayu </td><td> <a href="/residents/resident-guide-malay"><strong>Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda</strong></a></td>
+<td> Melayu </td><td> <a href="/residents/resident-guide-malay">Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda</a></td>
 </tr>
 <tr>
-<td>தமிழ் </td><td> <a href="/residents/resident-guide-tamil"><strong>உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி</strong></a></td>
+<td>தமிழ் </td><td> <a href="/residents/resident-guide-tamil">உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி</a></td>
 </tr></tbody>
 </table>
 
