@@ -26,5 +26,11 @@ Step 4: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diim
 
 <img src="/images/residents/screengrabs-for-infographics/english/mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
+Perhatikan pelekat yang ada pada penjaja dan pedagang yang mengambil bahagian di kejiranan anda!
+
+Baucar ini sah sehingga 31 Disember 2022.
+
+Jika anda tidak mempunyai telefon bijak atau Singpass, dan untuk pertanyaan dan bantuan selanjutnya, kunjungi Balai Rakyat/Kelab Masyarakat terdekat anda dari 10 pagi hingga 6 petang (kecuali pada cuti umum).
+
 
 [Back to Top](#pagetop)
