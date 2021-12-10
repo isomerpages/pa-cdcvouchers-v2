@@ -28,11 +28,6 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 		<tr><tr><td>South East CDC<br><a href="https://go.gov.sg/semerchantreg" target="_blank"> <img src="/images/se-button.png" alt="Register Interest Form for South East CDC" style="width:119px !important;" /> </a></td><td>South West CDC<br><a href="https://go.gov.sg/swmerchantreg" target="_blank"> <img src="/images/sw-button.png" alt="Register Interest Form for South West CDC"  style="width:119px !important;"/> </a></td></tr>
 <tr>
 
-
-
-
-
-
 </tr>
 </tbody>
 </table>
