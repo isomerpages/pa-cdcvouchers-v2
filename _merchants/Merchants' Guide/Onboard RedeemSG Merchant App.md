@@ -19,7 +19,7 @@ third_nav_title: Merchants' Guide
 	
 </td>
 
-<td><img src="/images/merchants/merchants-infographics/english/download_app.png" style="width:210px !important;" alt="Download RedeemSG Merchant App"/> </td>
+<td><img src="/images/merchants/merchants-infographics/english/download_app.png" style="width:250px !important;" alt="Download RedeemSG Merchant App"/> </td>
 </tr>
 
 </tbody>
@@ -28,21 +28,21 @@ third_nav_title: Merchants' Guide
 
 2: Key in the shop code provided by your co-worker or the Ambassador. 
 
-<p><img src="/images/merchants/merchants-infographics/english/10%20Shop%20code.png" style="width:210px !important;" alt="Enter shop code screen"/> </p>
+<p><img src="/images/merchants/merchants-infographics/english/10%20Shop%20code.png" style="width:300px !important;" alt="Enter shop code screen"/> </p>
 
 3: Start scanning vouchers. 
-<p><img src="/images/merchants/merchants-infographics/english/2%20Home%20scan%20with%20pic%20.png" style="width:210px !important;" alt="Scan voucher screen"/> </p>
+<p><img src="/images/merchants/merchants-infographics/english/2%20Home%20scan%20with%20pic%20.png" style="width:300px !important;" alt="Scan voucher screen"/> </p>
 
 4: To add other staff members, show them the shop code. 
-<p><img src="/images/merchants/merchants-infographics/english/3%20Eter%20shop%20code.png" style="width:210px !important;" alt="Shop code screen"/> </p>
+<p><img src="/images/merchants/merchants-infographics/english/3%20Eter%20shop%20code.png" style="width:300px !important;" alt="Shop code screen"/> </p>
 
 5: Type "Transactions" to see vouchers you've scanned. Tap "Payouts" to see payments to your bank account.
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><img src="/images/merchants/merchants-infographics/english/2%20Transactions%20entire%20shop.png" style="width:210px !important;" alt="Transactions screen"/> </td>
-<td><img src="/images/merchants/merchants-infographics/english/1%20Payouts%20daily.png" style="width:210px !important;" alt="Payouts screen"/> </td>
+<td><img src="/images/merchants/merchants-infographics/english/2%20Transactions%20entire%20shop.png" style="width:250px !important;" alt="Transactions screen"/> </td>
+<td><img src="/images/merchants/merchants-infographics/english/1%20Payouts%20daily.png" style="width:250px !important;" alt="Payouts screen"/> </td>
 </tr>
 </tbody>
 </table>
