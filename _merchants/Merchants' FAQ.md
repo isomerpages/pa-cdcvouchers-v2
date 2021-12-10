@@ -134,8 +134,25 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
 <p>Samples of supporting documents for merchant's PayNow (left) and bank account details (right). Merchants may prepare either type of supporting document based on mode of payment chosen.
 	</p>
 
-<p>If you are an iPhone user, please also prepare your Apple ID and password on hand as you will need this to be able to download the RedeemSG Merchant app to be able to accept the CDC Vouchers.</p>
+### Onboarding for Registered Merchants
+
+<ul class="jekyllcodex_accordion">
+			<li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I gain access to the app?</span></label>
+    <div>
+			<p>You may download the app 'RedeemSG Merchant' on Apple App Store or Google Play Store. A CDC Ambassador will get in touch with you for the sign up and onboarding. Training will be provided during the onboarding process, and you will be provided with your unique shop code to access the app.</p>
     </div>
-	</li>  
-	
+			<li>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do get my shop code?</span></label>
+    <div>
+			<p>You will receive your shop code from the CDC Ambassador during your onboarding session. It will also be sent to you via SMS to your registered mobile number.</p>
+    </d	</li>  
+	<li>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">13.	Can I share my RedeemSG Merchant account with my staff? How do they login to the app?</span></label>
+    <div>
+			<p>Yes! Your staff can download the RedeemSG Merchant app using their own device, and log-in using the same shop code that was issued to you via SMS or from the CDC Ambassador. You may share your shop code with your staff by going to Settings > Show Shop Code on the app.</p><p>They will be able to scan vouchers, and view transactions and payouts, but will not be able to edit any merchant details such as address or bank details on the app.:</p>
+    </d	</li>
 </ul>
