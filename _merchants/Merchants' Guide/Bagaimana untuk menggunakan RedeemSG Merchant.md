@@ -4,7 +4,7 @@ permalink: /merchants/merchant-guide-malay
 description: ""
 third_nav_title: Merchants' Guide
 ---
-**[English](merchant-guide-english)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [华文](merchant-guide-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](merchant-guide-tamil)
+[English](merchant-guide-english) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [华文](merchant-guide-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[Melayu](merchant-guide-malay)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](merchant-guide-tamil)
 
 <a id="pagetop"></a>
 
