@@ -199,13 +199,13 @@ To find out the location of your nearest CC, please key in your postal code unde
 			<p>Similar to other vouchers like supermarket vouchers, there will be no change / refund provided if the purchase amount is less than the vouchers used. </p>
 			<p>For example if the cost of item is $6,
 				
-<table style="height: 72px; width: 550px; border-collapse: collapse; border-style: solid;" border="1" cellspacing="1" cellpadding="1">
+<table style="border-collapse: collapse; border-style: solid;" border="1" cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
-<td style="width: 259.844px; height: 36px;">
+<td style="width: 250px;">
 <p>Value of Vouchers Used <br />(in $2, $5 and $10 denominations)</p>
 </td>
-<td style="width: 283.156px; height: 36px;">Unused amount/value</td>
+<td style="width: 284px;">Unused amount/value</td>
 </tr>
 <tr>
 <td style="width: 260px;">$7.00</td>
