@@ -28,6 +28,8 @@ third_nav_title: Guide
 
 <img src="/images/residents/screengrabs-for-infographics/english/mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
+*Visuals shown are for illustrative purposes only.*
+
 Look out for this decal at participating hawkers and heartland merchants!
 
 (need decal screenshot)
