@@ -9,7 +9,7 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
 
 Every Singaporean household will receive $100 in CDC Vouchers to support our hawkers and heartland merchants!
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
 <tr>
 <td><img src="/images/residents/no-download.png" alt="No need to download a mobile app" style="width:125px !important;"/></td>
