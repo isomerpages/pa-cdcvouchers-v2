@@ -48,7 +48,6 @@ Our step-by-step video and guide are available in the following languages:
 </tr></tbody>
 </table>
 
-<br>
 <div style="font-size:18px; background-color:#f3d7d7; padding:25px;text-align: center;">	
 <h4><strong>Get ready your Singpass</strong></h4>
 <p><strong>Singpass is required to claim your CDC vouchers.</strong></p>
