@@ -3,6 +3,7 @@ title: Merchants' FAQ
 permalink: /merchants/faq
 description: Merchants' FAQ
 ---
+
 ### About CDC Vouchers Scheme
 
 <ul class="jekyllcodex_accordion">
