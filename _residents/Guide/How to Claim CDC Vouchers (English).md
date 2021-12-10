@@ -4,9 +4,6 @@ permalink: /residents/how-to-claim-cdc-vouchers
 description: ""
 third_nav_title: Guide
 ---
-
-
-
 **[English](how-to-claim-cdc-vouchers)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [华文](how-to-claim-cdc-vouchers-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
 <a id="pagetop"></a>
@@ -31,5 +28,14 @@ third_nav_title: Guide
 
 <img src="/images/residents/screengrabs-for-infographics/english/mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
+Look out for this decal at participating hawkers and heartland merchants!
+
+(need decal screenshot)
+
+Vouchers are valid till 31 December 2022.
+
+If you do not have a smartphone or Singpass, and for further enquiries and assistance, visit your nearest Community Centre/Club (CC) from 10am - 6pm (except Public Holidays).
+
+Hotline: 6225 5322
 
 [Back to Top](#pagetop)
