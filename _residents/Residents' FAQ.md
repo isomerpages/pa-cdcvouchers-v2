@@ -98,7 +98,6 @@ To ensure that the digital system caters to both digitally savvy and less digita
 			<p>Please visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to claim your CDC vouchers. You can also refer to the step-by-step infographics on the website or the notification letter on how to claim the $100 CDC Vouchers.</p> 
 			<p>Only one family member is required to login to his/her Singpass account to claim the CDC vouchers on behalf of their household
 			</p>
-			</p>
     </div>
   </li>
 				<li>
