@@ -40,25 +40,25 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 #### English
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><a href="/merchants/merchants-guide-english">Onboard RedeemSG Merchant App</p>
+<p><a href="/merchants/merchants-guide-english">Onboard RedeemSG Merchant App</a></p>
 
-	
+
 #### 中文
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2l6hem1eMps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><a href="/merchants/merchants-guide-chinese">Onboard RedeemSG Merchant 手机应用程序<p>
+<p><a href="/merchants/merchants-guide-chinese">Onboard RedeemSG Merchant 手机应用程序</a><p>
 
 
 #### Melayu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WlXbDqiPN6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><a href="/merchants/merchants-guide-malay">Bagaimana untuk menggunakan RedeemSG Merchant</p>	
+<p><a href="/merchants/merchants-guide-malay">Bagaimana untuk menggunakan RedeemSG Merchant</a></p>	
 
 
 #### தமிழ் 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NGkGTUoF1BE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><a href="/merchants/merchants-guide-tamil">RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்</p>
+<p><a href="/merchants/merchants-guide-tamil">RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்</a></p>
 
 If you have more questions, please read the [FAQ](faq)
 
