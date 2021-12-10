@@ -59,11 +59,15 @@ Taking in the feedback from the merchants who participated in the trials and pre
 			</p>
 			<p>
 				
-			<table border="0" cellspacing="0" cellpadding="0">
+			<table border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><img src="/images/residents/FAQ%205a.jpg" alt=" " style="width:125px !important;"/></td>
-<td><img src="/images/residents/FAQ%205b.jpg" alt=" " style="width:125px !important;"/></td>
+<td>
+	<img src="/images/residents/FAQ%205a.jpg" alt="Screenshot of Share My Vouchers" style="width:200px !important;"/>
+</td>
+<td>
+	<img src="/images/residents/FAQ%205b.jpg" alt=" Illustration of voucher link shared via Whatsapp" style="width:300px !important;"/>	
+	</td>
 </tr>
 		<tr>
 <td>Click on "Share My Vouchers" to share the voucher link with family members</td>
