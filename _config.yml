@@ -3,7 +3,7 @@ url: ""
 favicon: /images/cdc-icon.png
 colors:
   primary-color: "#25245c"
-  secondary-color: "#db3b18"
+  secondary-color: "#25245c"
   media-colors:
     - title: media-color-one
       color: "#a37cbe"
