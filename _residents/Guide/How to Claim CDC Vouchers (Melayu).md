@@ -4,8 +4,6 @@ permalink: /residents/how-to-claim-cdc-vouchers-malay
 description: ""
 third_nav_title: Guide
 ---
-
-
 [English](how-to-claim-cdc-vouchers) &#124; [华文](how-to-claim-cdc-vouchers-chinese) &#124; **[Melayu](how-to-claim-cdc-vouchers-malay)** &#124; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
 <a id="pagetop"></a>
@@ -33,6 +31,8 @@ Perhatikan pelekat yang ada pada penjaja dan pedagang yang mengambil bahagian di
 Baucar ini sah sehingga 31 Disember 2022.
 
 Jika anda tidak mempunyai telefon bijak atau Singpass, dan untuk pertanyaan dan bantuan selanjutnya, kunjungi Balai Rakyat/Kelab Masyarakat terdekat anda dari 10 pagi hingga 6 petang (kecuali pada cuti umum).
+
+Nombor Talian: 6225 5322
 
 
 [Back to Top](#pagetop)
