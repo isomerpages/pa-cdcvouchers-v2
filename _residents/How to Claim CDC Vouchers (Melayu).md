@@ -7,7 +7,7 @@ description: ""
 
 <a id="pagetop"></a>
 
-# Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda.
+### Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda.
 
 1: **Log masuk ke [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** dengan menggunakan Singpass.  Hanya seorang sahaja dalam ahli keluarga anda yang perlu melakukannya bagi pihak isi rumah.
 
