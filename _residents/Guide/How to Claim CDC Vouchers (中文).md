@@ -4,7 +4,6 @@ permalink: /residents/how-to-claim-cdc-vouchers-chinese
 description: ""
 third_nav_title: Guide
 ---
-
 [English](how-to-claim-cdc-vouchers) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[中文](how-to-claim-cdc-vouchers-chinese)**  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
 <a id="pagetop"></a>
@@ -28,8 +27,6 @@ third_nav_title: Guide
 
 <img src="/images/residents/screengrabs-for-infographics/chinese/chinesemixed%20voucher.jpg" alt="Step 4" style="width:300px !important; !important;" />
 
-<i>图片仅供参考</i>
-
 所有参与计划的邻里商店和小贩摊位都会展示这个标贴！
 
 
@@ -39,5 +36,6 @@ third_nav_title: Guide
 
 热线电话: 6225 5322
 
+&#42;<i>图片仅供参考</i>
 
 [Back to Top](#pagetop)
