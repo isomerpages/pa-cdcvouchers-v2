@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Get Started.md
+      - Residents' FAQ.md
       - How to Claim CDC Vouchers.md
       - How to Claim CDC Vouchers (华文).md
       - How to Claim CDC Vouchers (Melayu).md
       - How to Claim CDC Vouchers (தமிழ்).md
-      - Residents' FAQ.md
