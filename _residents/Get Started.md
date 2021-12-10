@@ -69,6 +69,8 @@ Hotline operating hours:
 
 #### Quicklinks
 
+ [Claim your CDC Vouchers](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB)
+
 [FAQ](/residents/faq)
 
 <a href="/about/terms-and-conditions-for-cdc-vouchers">Terms and Conditions</a> of the CDC vouchers
