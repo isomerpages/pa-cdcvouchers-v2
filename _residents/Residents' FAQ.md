@@ -21,7 +21,7 @@ Skip to: <a href="#pageclaiming"><strong>Claiming Of CDC Vouchers</strong></a> |
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Who is eligible for the CDC Vouchers Scheme?</span></label>
     <div>
-      <p>All Singaporean households are eligible for the scheme. Each household can claim $100 in CDC vouchers that can be spent at participating heartland merchants and hawkers.
+      <p>All Singaporean households are eligible for the scheme. Each Singaporean household can claim $100 in CDC vouchers that can be spent at participating heartland merchants and hawkers.
 			</p>
     </div>
   </li>
