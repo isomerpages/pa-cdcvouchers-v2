@@ -66,37 +66,28 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     </div>
 <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How will customers know that they can use the vouchers at my place of business?</span></label>
-    <div>
-			<p>All participating merchants and hawkers are required to prominently display the CDC Voucher decal at their shopfront for visibility to customers. You will receive the decal upon successful onboarding.</p>
-    </div>
-  </li>
-  </li>
-<li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How will customers know that they can use the vouchers at my place of business?</span></label>
-    <div>
-			<p>All participating merchants and hawkers are required to prominently display the CDC Voucher decal at their shopfront for visibility to customers. You will receive the decal upon successful onboarding.</p>
+    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font- style: normal; color:#DB3B18">How can I get more information about the CDC Vouchers Scheme?</span></label>
+    <div>Please call the PA Contact Centre at 6225 5322.      successful onboarding.</p>
     </div>
   </li>
 
 </ul>
 
-### Claiming Vouchers
+### Registration for Interested Merchants
 
 <ul class="jekyllcodex_accordion">
 			<li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I register interest to participate in the CDC Vouchers Scheme?</span></label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
     <div>
 			<p>Please register your interest with your CDC using the respective CDC forms. To find out which CDC your stall falls under, please key in your postal code <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="cdcpostalcode">here</a>. An officer will be in touch with you within 10 working days upon submission of the form.</p>
     </div>
   </li>
 				<li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I check my application status after I have submitted my interest to participate?</span></label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I check my application status after I have submitted my interest to participate?</span></label>
     <div>
-			<p>If you have submitted your application and have not received a reply after 10 working days from the date of submission, please contact your respective CDCs to check on the status of your application. We seek you patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
+			<p>If you have submitted your application and have not received a reply after 14 calendar days from the date of submission, please contact your respective CDCs to check on the status of your application. Wer seek you patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
 			<p><table border="0" cellspacing="2" cellpadding="2">
 <tbody>
 <tr >
@@ -125,10 +116,10 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     </div>
   </li>
 		<li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I had previously participated as a merchant in the CDC Vouchers Tranche 1 (Jun 2020 onwards) and/or Tranche 2 (Jan 2021 onwards). Do I auto-qualify, or do I still need to register to join this CDC Vouchers Scheme?</span></label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I had previously participated as a merchant in the CDC Vouchers Tranche 1 (Jun 2020 onwards) and/or Tranche 2 (Jan 2021 onwards). Do I auto-qualify, or do I still need to register to join this CDC Vouchers Scheme?</span></label>
     <div>
-			<p>No, there is no auto-qualification as this is a digital scheme. We are inviting hawkers and heartland merchants like yourself to register for the scheme, and our ambassadors will be reaching out to you at your shop. Alternatively, please register your interest.</p>
+			<p>No, there is no auto-qualification as this is a digital scheme. We are inviting hawkers and heartland merchants like yourself to register for the scheme, and our ambassadors will be reaching out to you at your shop. Alternatively, please see question 7 above on how to register your interest.</p>
     </div>
   </li>
 	<li>
