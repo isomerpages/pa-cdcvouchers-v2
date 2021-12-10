@@ -23,4 +23,12 @@ Step 4: To add other staff members, show them the shop code.
 <p><img src="/images/merchants/merchants-infographics/english/3%20Eter%20shop%20code.png" style="width:210px !important;" alt="Shop code screen"/> </p>
 
 Step 5: Type "Transactions" to see vouchers you've scanned. Tap "Payouts" to see payments to your bank account.
-<p><img src="/images/merchants/merchants-infographics/english/2%20Transactions%20entire%20shop.png" style="width:210px !important;" alt="Shop code screen"/> </p>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><img src="/images/merchants/merchants-infographics/english/2%20Transactions%20entire%20shop.png" style="width:210px !important;" alt="Shop code screen"/> </td>
+<td><img src="/images/merchants/merchants-infographics/english/1%20Payouts%20daily.png" style="width:210px !important;" alt="Shop code screen"/> </td>
+</tr>
+</tbody>
+</table>
