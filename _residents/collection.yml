@@ -2,6 +2,7 @@ collections:
   residents:
     output: true
     order:
+      - How to Claim/How to Claim CDC Vouchers (Melayu).md
       - How to Claim/How to Claim CDC Vouchers (华文).md
       - How to Claim/How to Claim CDC Vouchers.md
       - How to Claim/.keep
