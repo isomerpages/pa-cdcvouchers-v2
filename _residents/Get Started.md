@@ -38,7 +38,7 @@ English : [Online Guide](how-to-claim-cdc-vouchers) | [PDF (2.71 MB) ](/files/Re
 
 Melayu : [Online Guide](how-to-claim-cdc-vouchers-malay) | [PDF (3.02 MB) ](/files/Residents%20-%20Malay.pdf)
 
-[தமிழ் : [Online Guide](how-to-claim-cdc-vouchers-malay) | PDF (3.23 MB) ](/files/Residents%20-%20Tamil.pdf)
+தமிழ் : [Online Guide](how-to-claim-cdc-vouchers-malay) | PDF (3.23 MB) ](/files/Residents%20-%20Tamil.pdf)
 
 
 <br>
