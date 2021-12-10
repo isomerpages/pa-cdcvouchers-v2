@@ -3,10 +3,11 @@ collections:
     output: true
     order:
       - Get Started.md
-      - Guide/.keep
-      - Guide/How to Claim & Use CDC Vouchers.md
-      - Guide/如何领取及使用社理会邻里购物券.md
-      - Guide/Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda.md
-      - Guide/உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும்
+      - Residents' Guide/.keep
+      - Residents' Guide/How to Claim & Use CDC Vouchers.md
+      - Residents' Guide/如何领取及使用社理会邻里购物券.md
+      - Residents' Guide/Bagaimana cara untuk menuntut dan menggunakan Baucar
+        CDC anda.md
+      - Residents' Guide/உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும்
         பயன்படுத்துவதும் எப்படி.md
       - Residents' FAQ.md
