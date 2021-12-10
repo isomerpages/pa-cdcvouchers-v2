@@ -69,10 +69,10 @@ Taking in the feedback from the merchants who participated in the trials and pre
 			<p>
 b) Digitally less savvy residents would be excluded from the scheme if they do not download an app or have an e-wallet, unless we specially cater for paper vouchers on top of the e-wallet.</p>
 			<p>
-c) We have also found through previous trials with residents and found that selecting the exact amount to be spent (as in an e-wallet model) was confusing for some residents and error prone.
+c) We have also found through previous trials with residents that selecting the exact amount to be spent (as in an e-wallet model) was confusing for some residents and error prone.
 			</p>
 			<p>
-To ensure that the digital system caters to both digitally savvy and less digitally savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper is used -- residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers. 
+To ensure that the digital system caters to both digitally savvy and digitally less savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper is used -- residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers. 
  			</p>
 	</div>
   </li>
