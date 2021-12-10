@@ -39,4 +39,12 @@ description: Terms & Conditions for CDC Vouchers
 
 *All data including your personal data will be used, disclosed to and stored in applications or platforms (such as RedeemSG) which are owned by, licensed to, managed or controlled by other government agencies such as GovTech for the purposes of administering the CDC Voucher scheme. Your personal data may also be used and/or disclosed to other government agencies for such other purposes as may be permitted under the applicable laws.*
 
-![Alt text for image on Isomer site](/images/brand-bar-desktop.png)
+
+
+**Brought to you by:**
+
+![Brought to you by](/images/brought-by.png)
+
+**Supported by:**
+
+![Supported by](/images/supported-by.png)
