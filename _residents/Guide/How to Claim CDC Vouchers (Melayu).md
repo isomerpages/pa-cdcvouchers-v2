@@ -4,7 +4,7 @@ permalink: /residents/how-to-claim-cdc-vouchers-malay
 description: ""
 third_nav_title: Guide
 ---
-[English](how-to-claim-cdc-vouchers) &#124; [华文](how-to-claim-cdc-vouchers-chinese) &#124; **[Melayu](how-to-claim-cdc-vouchers-malay)** &#124; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
+[English](how-to-claim-cdc-vouchers) &#124; [中文](how-to-claim-cdc-vouchers-chinese) &#124; **[Melayu](how-to-claim-cdc-vouchers-malay)** &#124; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
 <a id="pagetop"></a>
 
