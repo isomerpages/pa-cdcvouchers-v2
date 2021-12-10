@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: CDC Vouchers Scheme
+      title: CDC Vouchers <br>Scheme
       background: /images/cdc-vouchers-bg2.jpg
       key_highlights:
         - title: I am a Resident
