@@ -3,8 +3,6 @@ title: Terms & Conditions
 permalink: /about/terms-and-conditions
 description: Terms & Conditions for CDC Vouchers
 ---
-
-
 ## Terms & Conditions for CDC Vouchers
 <p>1. The CDC digital vouchers are:</p>
 <ol>
