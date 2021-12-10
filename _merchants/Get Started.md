@@ -7,12 +7,31 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 ![Calling hawkers and heartland merchants banner](/images/merchants/merchant-banner.jpg)
 
-## Sign up as participating hawkers and merchants to accept CDC vouchers
+## Calling hawkers and heartland merchants
 
-<p><span style="color: rgb(37, 36, 92);"><strong>1. No Commisions Or Fees</strong></span></p>
-<p><span style="color: rgb(37, 36, 92);"><strong>2. Next-Day Payout</strong></span><br />*Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline.*</p>
-<p><span style="color: rgb(37, 36, 92);"><strong>3. Fuss-free-Redemption &amp; Transaction Tracking</strong></span></p>
-<p><span style="color:rgb(37, 36, 92);"><strong>4. No Handling of Physical Vouchers</strong></span></p>
+**Sign up as participating hawkers and merchants to accept CDC vouchers.**
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+	<tr>
+			<td><img src="/images/merchants/no-commission.png" alt="No Commisions Or Fees icon" style="width:100px !important;" /></td>
+		<td> No Commisions Or Fees</td>
+	</tr>
+		<tr>
+			<td><img src="/images/merchants/next-day-payout.png" alt="Next-Day Payout icon" style="width:100px !important;" /></td>
+		<td> <strong>Next-Day Payout</strong><br>Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline.</td>
+	</tr>
+<tr>
+			<td><img src="/images/merchants/fuss-free-redemption.png" alt="Fuss-free-Redemption &amp; Transaction Tracking icon" style="width:100px !important;" /></td>
+		<td> <strong>Fuss-free-Redemption &amp; Transaction Tracking</strong></td>
+	</tr>
+	<tr>
+			<td><img src="/images/no-handling-of-physical-vouchers.png" alt="No Handling of Physical Vouchers icon" style="width:100px !important;" /></td>
+		<td><strong>No Handling of Physical Vouchers</strong></td>
+	</tr>
+	</tbody>
+</table>
 
 
 ### Register Interest Online Form
@@ -67,6 +86,6 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 <br>
 
-If you have more questions, please refer to the [FAQ](faq).
+If you have more questions, please read the [FAQ](faq).
 
 [Back to Top](#pagetop)
