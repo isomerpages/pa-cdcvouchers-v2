@@ -162,6 +162,3 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
 			<p>Yes, in order to enable this, you can sign-up each branch as a single shop account and that shop will be issued its own shop code. Staff will then only be able to see that particular shop’s transactions.</p>
 			</d	</li>
 			</ul>
-		
-		
-		
