@@ -7,9 +7,8 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 ![Calling hawkers and heartland merchants banner](/images/merchants/merchant-banner.jpg)
 
-## Calling hawkers and heartland merchants
+## Sign up as participating hawkers and merchants to accept CDC vouchers
 
-**Sign up as participating hawkers and merchants to accept CDC vouchers.**
 <p><span style="color: rgb(37, 36, 92);"><strong>1. No Commisions Or Fees</strong></span></p>
 <p><span style="color: rgb(37, 36, 92);"><strong>2. Next-Day Payout</strong></span><br />Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline.</p>
 <p><span style="color: rgb(37, 36, 92);"><strong>3. Fuss-free-Redemption &amp; Transaction Tracking</strong></span></p>
