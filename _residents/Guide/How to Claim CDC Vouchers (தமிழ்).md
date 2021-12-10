@@ -30,7 +30,7 @@ third_nav_title: Guide
 
 <img src="/images/residents/screengrabs-for-infographics/tamil/10%20NovTamil%20mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
-*படங்கள் விளக்கத்திற்கு மட்டுமே*
+<i>படங்கள் விளக்கத்திற்கு மட்டுமே</i>
 
 
 பங்குபெறும் உணவங்காடிக் கடைகளிலும் குடியிருப்பு வட்டார வணிகக் கடைகளிலும் இந்தச் சின்னம் இருக்கிறதா எனப் பாருங்கள்!
