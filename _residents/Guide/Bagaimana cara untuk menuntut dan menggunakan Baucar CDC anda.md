@@ -4,12 +4,11 @@ permalink: /residents/how-to-claim-cdc-vouchers-malay
 description: ""
 third_nav_title: Guide
 ---
-
 [English](how-to-claim-cdc-vouchers) &#124; [中文](how-to-claim-cdc-vouchers-chinese) &#124; **[Melayu](how-to-claim-cdc-vouchers-malay)** &#124; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
 <a id="pagetop"></a>
 
-### Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda.
+### Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
 1: **Log masuk ke [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** dengan menggunakan Singpass.  Hanya seorang sahaja dalam ahli keluarga anda yang perlu melakukannya bagi pihak isi rumah.
 
