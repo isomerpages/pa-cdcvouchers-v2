@@ -18,7 +18,7 @@ third_nav_title: Guide
 
 <img src="/images/residents/screengrabs-for-infographics/chinese/M_MobileNumber_CH_5Nov.png" alt="Step 2" style="width:300px !important; !important;" />
 
-3: <strong>获取您的社理会邻里购物券链接的短信</strong>点击链接到您的购物券
+3: <strong>获取您的社理会邻里购物券链接的短信</strong>点击链接到您的购物券。
 
 <img src="/images/residents/screengrabs-for-infographics/chinese/SMS%20Chinese_9%20Nov%20New%20CH.png" alt="Step 3" style="width:300px !important; !important;" />
 
