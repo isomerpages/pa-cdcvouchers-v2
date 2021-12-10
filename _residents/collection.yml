@@ -2,10 +2,10 @@ collections:
   residents:
     output: true
     order:
+      - Get Started.md
       - How to Claim/.keep
       - How to Claim/How to Claim CDC Vouchers.md
       - How to Claim/How to Claim CDC Vouchers (தமிழ்).md
       - How to Claim/How to Claim CDC Vouchers (Melayu).md
       - How to Claim/How to Claim CDC Vouchers (华文).md
-      - Get Started.md
       - Residents' FAQ.md
