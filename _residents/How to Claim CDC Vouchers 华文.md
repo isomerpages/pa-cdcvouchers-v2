@@ -7,7 +7,7 @@ English | [华文](how-to-claim-cdc-vouchers-chinese) | [Bahasa Melayu](how-to-c
 
 <a id="pagetop"></a>
 
-# How to claim your onto RedeemSG Merchant
+# How to claim your CDC Vouchers
 
 Step 1: **Go to [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and log in using Singpass. Only one household member is required to do this on behalf of your household.
 
