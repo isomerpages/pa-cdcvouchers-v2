@@ -31,10 +31,10 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our step-by-step guide is available in the following languages:
-<p>English: <a href="/residents/resident-guide-english">How to claim and use CDC vouchers</a></p>
-<p>中文: <a href="/residents/resident-guide-chinese">如何领取及使用社理会邻里购物券</a></p>
-<p>Melayu: <a href="/residents/resident-guide-malay">Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda</a></p>
-<p>தமிழ் : <a href="/residents/resident-guide-tamil">உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி</a></p>
+| English | <a href="/residents/resident-guide-english">How to claim and use CDC vouchers</a>|
+| 中文 | <a href="/residents/resident-guide-chinese">如何领取及使用社理会邻里购物券</a>|
+| Melayu | <a href="/residents/resident-guide-malay">Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda</a>|
+| தமிழ் | <a href="/residents/resident-guide-tamil">உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி</a>|
 
 <br>
 <div style="font-size:18px; background-color:#f3d7d7; padding:25px;text-align: center;">	
