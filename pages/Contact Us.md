@@ -9,7 +9,7 @@ description: Contact Us page
 
 #### PA Contact Centre
 
-For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>
+For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href ="https://www.cdc.gov.sg/contact-us/online-feedback-formfeedback" style="color:#22499B"> feedback form</a>.
 
 Hotline operating hours:
 
