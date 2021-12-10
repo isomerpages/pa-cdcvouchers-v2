@@ -2,6 +2,7 @@ collections:
   residents:
     output: true
     order:
+      - How to Claim CDC Vouchers 华文.md
       - Get Started.md
       - How to Claim CDC Vouchers.md
       - Residents' FAQ.md
