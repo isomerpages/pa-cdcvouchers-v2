@@ -244,7 +244,7 @@ To find out the location of your nearest CC, please key in your postal code unde
     <div>
 			<p>The QR codes are similar to cash and any misplaced printed QR codes may be used by anyone who picked it.</p> 
 			<p>You may request for a re-print at the CCs if the vouchers have been partially used, but a new set of vouchers will not be issued again.</p> 
-			<p>Recipients are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash. Recipients are advised to be careful with sharing their voucher links, as this provides access to be able to spend the voucher at participating merchants.
+			<p>Residents are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash. Residents are advised to be careful with sharing their voucher links, as this provides access to be able to spend the voucher at participating merchants.
 			</p>
     </div>
   </li>
