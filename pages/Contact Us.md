@@ -32,3 +32,6 @@ Hotline operating hours:
 
 #### Forgot your Singpass password?
 <p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> or  head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a></p>
+
+
+[Back to Top](#pagetop)
