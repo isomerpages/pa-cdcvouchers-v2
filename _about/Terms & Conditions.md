@@ -16,6 +16,7 @@ description: Terms & Conditions for CDC Vouchers
 </ol>
 </li>
 </ol>
+
 2. Multiple vouchers may be used in a single transaction and any unused amount or value in a voucher is not refundable.
 
 3. Singaporean residents are to claim the CDC digital vouchers digitally by logging in via Singpass. Where hardcopies of the vouchers are printed (the &ldquo;Voucher Printouts&rdquo;):
