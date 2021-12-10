@@ -14,6 +14,8 @@ Step 1: Download RedeemSG Merchant mobile app and log in with your mobile number
 
 Step 2: Key in the shop code provided by your co-worker or the Ambassador. 
 
+<p><img src="/images/merchants/merchants-infographics/english/10%20Shop%20code.png" style="width:210px !important;" alt="Shop code screen"/> </p>
+
 Step 3: Start scanning vouchers. 
 
 Step 4: To add other staff members, show them the shop code. 
