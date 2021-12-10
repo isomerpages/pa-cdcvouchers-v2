@@ -3,7 +3,8 @@ title: How to Claim CDC Vouchers
 permalink: /residents/how-to-claim-cdc-vouchers
 description: ""
 ---
-English | [华文](#ichinese) | [Bahasa Melayu](#imalay) | [தமிழ்](#itamil)
+English | [华文](how-to-claim-cdc-vouchers-chinese) | [Bahasa Melayu](how-to-claim-cdc-vouchers-malay) | [தமிழ்](how-to-claim-cdc-vouchers-tamil)
+
 <a id="pagetop"></a>
 <a id="ienglish"></a>
 # How to claim your onto RedeemSG Merchant
