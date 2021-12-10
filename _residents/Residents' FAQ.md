@@ -158,12 +158,13 @@ Please refer to the step-by-step infographics on how to claim your household’s
   </li>
 			<li>
     <input type="checkbox" id="accordion14">
-    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">2.	I do not have a mobile phone or digital device. What should I do?</span></label>
+    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I do not have a mobile phone or digital device. What should I do?</span></label>
     <div>
-			<p>Please kindly seek help from your family members for assistance to claim the vouchers. 
+			<p>Please kindly seek help from your family members for assistance to claim the vouchers. </p>
 
-If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the voucher. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account from 13 Dec 2021 onwards.</p>
-To find out the location of your nearest CC, please key in your postal code under the district locator at  <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank"><strong>CDC website</strong>
+<p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the voucher. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account from 13 Dec 2021 onwards.</p>
+			
+To find out the location of your nearest CC, please key in your postal code under the district locator at  <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank"><strong>CDC website</strong></a>
 			</p>
     </div>
   </li>
