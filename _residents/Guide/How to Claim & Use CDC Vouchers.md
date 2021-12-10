@@ -32,7 +32,7 @@ third_nav_title: Guide
 
 Look out for this decal at participating hawkers and heartland merchants!
 
-![Alt text for image on Isomer site](/images/merchants-decal-600.jpg)
+![Merchant's Decal](/images/merchants-decal-500.jpg)
 
 Vouchers are valid till 31 December 2022.
 
