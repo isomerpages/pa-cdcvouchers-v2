@@ -271,6 +271,9 @@ To find out the location of your nearest CC, please key in your postal code unde
     <div>
 			<p>You may access your voucher link found in the SMS sent by RedeemSG to find out the remaining balance of your CDC Vouchers. The value is shown at the top of the webpage.
 			</p>
+			<p>				
+				<img src="/images/residents/FAQ%20Remaining%20Value.png" alt="Screenshot of Remaining Value" style="width:300px !important;" />
+			</p>
     </div>
   </li>
 	<li>
