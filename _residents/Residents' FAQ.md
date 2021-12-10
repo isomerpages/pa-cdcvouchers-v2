@@ -225,7 +225,7 @@ To find out the location of your nearest CC, please key in your postal code unde
     <input type="checkbox" id="accordion18">
     <label for="accordion18"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Do I need to download a mobile application to scan the merchant QR code to make payment?</span></label>
     <div>
-			<p>There is no need for residents to download any mobile application. Simply claim your vouchers by going to <a href>go.gov.sg/cdcv</a>. The voucher link will be sent to your verified mobile number. You can then use the voucher by presenting the QR code vouchers at participating hawkers and heartland merchants identified by the CDC Vouchers decal.
+			<p>There is no need for residents to download any mobile application. Simply claim your vouchers by going to <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>. The voucher link will be sent to your verified mobile number. You can then use the voucher by presenting the QR code vouchers at participating hawkers and heartland merchants identified by the CDC Vouchers decal.
 			</p>
     </div>
   </li>
