@@ -167,5 +167,6 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I currently have multiple shop branches. Am I able to track each of the shops’ transactions individually and ensure only one branch’s staff can see that branch’s records?</span></label>
 <div>
 			<p>Yes, in order to enable this, you can sign-up each branch as a single shop account and that shop will be issued its own shop code. Staff will then only be able to see that particular shop’s transactions.</p>
-			</d	</li>
+	</div>	
+	</li>
 			</ul>
