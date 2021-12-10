@@ -93,21 +93,21 @@ To ensure that the digital system caters to both digitally savvy and less digita
 <ul class="jekyllcodex_accordion">
 			<li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I claim my household’s CDC Vouchers?</span></label>
+    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I claim the CDC Vouchers?</span></label>
     <div>
-			<p>Please visit this link to claim your CDC vouchers. You can also refer to the step-by-step infographics or video on how to claim the $100 CDC Vouchers.  
-				<p>Only <u>one family member</u> is required to login to his/her Singpass account to claim the CDC vouchers on behalf of their household.
+			<p>Please visit [go.gov.sg/cdcv](go.gov.sg/cdcv) to claim your CDC vouchers. You can also refer to the step-by-step infographics on the website or the notification letter on how to claim the $100 CDC Vouchers.</p> 
+			<p>Only one family member is required to login to his/her Singpass account to claim the CDC vouchers on behalf of their household
 			</p>
 			</p>
     </div>
   </li>
 				<li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to claim the vouchers?</span></label>
+    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to receive the vouchers?</span></label>
     <div>
-			<p>You will require a valid Singpass account and smartphone to login and claim your vouchers.  Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household.
-			</p>
-			<p>Please refer to the infographics or video on how to claim your household’s $100 CDC vouchers.
+			<p>You will require a valid Singpass account and smartphone to login and claim your vouchers.  Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household.</p> 
+<p>
+Please refer to the step-by-step infographics on how to claim your household’s $100 CDC vouchers on go.gov.sg/cdcv or the notification letter.
 			</p>			
     </div>
   </li>
@@ -115,26 +115,25 @@ To ensure that the digital system caters to both digitally savvy and less digita
     <input type="checkbox" id="accordion8">
     <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</span></label>
     <div>
-			<p>Please refer to the list of <a href="https://www.ifaq.gov.sg/singpass/apps" target="_blank">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit any CCs to reset your Singpass. </p>
+			<p>Please refer to the following link for a list of <a href="https://www.ifaq.gov.sg/singpass/apps" target="_blank">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit a Singpass counter across all Community Centres/Clubs (CC) in Singapore for assistance. </p>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion9">
     <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What if I submitted the wrong mobile number?</span></label>
     <div>
-      <p>When you are signing up for your vouchers, a One Time Password (OTP) will be sent to the mobile number you have keyed in for verification. If you had keyed in the wrong mobile number, you will not receive the One Time Password and you can return to the previous page to key in the correct mobile number again.   Vouchers will only be sent after you have verified your mobile number.</p>
-
-<p>One Time Password will be sent to your registered mobile number.</p>
+      <p>When you are signing up for your vouchers, a One Time Password (OTP) will be sent to the mobile number you have keyed in for verification. If you had keyed in the wrong mobile number, you will not receive the One Time Password and you can return to the previous page to key in your mobile number again. </p> 
+			<p>Vouchers will only be sent after you have verified your mobile number, which helps to ensure vouchers will not be sent to the wrong mobile number.  .</p>
 		
 <p><img src="/images/residents/redeem_otp.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;" />
 	</p>
 
-<p>Vouchers will be sent to your verified mobile number.
+<p>One Time Password will be sent to your registered mobile number.
 	</p>
 
 <p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:170px !important;" />
 	</p>
-			
+			<p>Vouchers will be sent to your verified mobile number.</p>
 <p>In the event you changed your mobile number and/or cannot find your voucher link, you can visit <a href>go.gov.sg/cdcv</a> again to retrieve your existing vouchers via SMS.</p>
     </div>
 	</li>  
@@ -142,30 +141,30 @@ To ensure that the digital system caters to both digitally savvy and less digita
     <input type="checkbox" id="accordion10">
     <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I tell if the SMS sent is a real voucher link?</span></label>
     <div>
-      <p>Please check if your unique voucher link starts with the following prefix "https://voucher.redeem.gov.sg". The sender name is “RedeemSG”. Please do not trust vouchers starting with other prefixes.</p>
+      <p>The SMS is identifiable by the sender named “RedeemSG”. Please also check that your unique voucher link starts with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. .</p>
 
-<p>A typical SMS from RedeemSG will look something like this:</p>
-		
 <p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:170px !important;" />
 	</p>
 
-<p>(Please note that the masked NRIC portion and exact voucher link URL may vary) 
-	</p>
+<p>A typical SMS from RedeemSG will look like the screenshot on the right. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
     </div>
 	</li> 
 		<li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally lost the voucher link?</span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
     <div>
-			<p>You can visit <a href>go.gov.sg/cdcv</a> again to retrieve your voucher link again.
+			<p>To retrieve the vouchers, please visit the sign-up link go.gov.sg/cdcv and login with Singpass again. You will be able to get the same vouchers sent to you via SMS. This sign-up link is also shown on the notification letter sent to your household. 
 			</p>
     </div>
   </li>
 			<li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What if I don’t have a mobile phone or data plan? Can I still claim my vouchers?</span></label>
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">2.	I do not have a mobile phone or digital device. What should I do?</span></label>
     <div>
-			<p>You may visit a nearby Community Centre/ Club for assistance between 10am to 6pm daily (except Public Holidays). They will be able to assist you to print your voucher(s) that you can similarly present to participating heartland merchants and hawkers to be scanned.
+			<p>Please kindly seek help from your family members for assistance to claim the vouchers. 
+
+If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the voucher. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account from 13 Dec 2021 onwards.</p>
+To find out the location of your nearest CC, please key in your postal code under the district locator at https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
 			</p>
     </div>
   </li>
