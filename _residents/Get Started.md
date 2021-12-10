@@ -26,34 +26,32 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 </tbody>
 </table>
 
+### Step-by-Step Video and Guide for Residents
 
-### Step-By-Step Guide
-Download our step-by-step guide in the following languages:
+#### English
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<table border="0" cellspacing="1" cellpadding="1">
-<tbody>
-<tr>
-<td>English</td>
-<td><a href="https://cms.isomer.gov.sg/sites/pa-cdcvouchers/folders/residents/editPage/how-to-claim-cdc-vouchers">Online Guide</a></td>
-<td><a href="https://cms.isomer.gov.sg/files/Residents%20-%20English.pdf">PDF (2.71 MB)</a></td>
-</tr>
-<tr>
-<td>中文</td>
-<td><a href="https://cms.isomer.gov.sg/sites/pa-cdcvouchers/folders/residents/editPage/how-to-claim-cdc-vouchers-chinese">Online Guide</a></td>
-<td><a href="https://cms.isomer.gov.sg/files/Residents%20-%20Chinese.pdf">PDF(2.8 MB)</a></td>
-</tr>
-<tr>
-<td>Melayu</td>
-<td><a href="https://cms.isomer.gov.sg/sites/pa-cdcvouchers/folders/residents/editPage/how-to-claim-cdc-vouchers-malay">Online Guide</a>&nbsp;</td>
-<td><a href="https://cms.isomer.gov.sg/files/Residents%20-%20Malay.pdf">PDF (3.02 MB)</a></td>
-</tr>
-<tr>
-<td>தமிழ்</td>
-<td><a href="https://cms.isomer.gov.sg/sites/pa-cdcvouchers/folders/residents/editPage/how-to-claim-cdc-vouchers-malay">Online Guide</a></td>
-<td><a href="https://cms.isomer.gov.sg/files/Residents%20-%20Tamil.pdf">PDF (3.23 MB)</a></td>
-</tr>
-</tbody>
-</table>
+<p><a href="/residents/resident-guide-english">How to claim and use CDC vouchers</a></p>
+
+
+#### 中文
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p><a href="/residents/resident-guide-chinese">如何领取及使用社理会邻里购物券</a></p>
+
+
+#### Melayu
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p><a href="/residents/resident-guide-malay">Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda</a></p>	
+
+
+#### தமிழ் 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p><a href="/residents/resident-guide-tamil">உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி</a></p>
+
+<br>
 
 <br>
 <div style="font-size:18px; background-color:#f3d7d7; padding:25px">	
@@ -90,3 +88,7 @@ Hotline operating hours:
 	<td><p style="width:260px !important;">Public Holidays</p></td>
 	<td><p>Closed</p></td>
 </tr>
+</tbody>
+</table>
+
+[Back to Top](#pagetop)
