@@ -241,7 +241,7 @@ To find out the location of your nearest CC, please key in your postal code unde
   </li>
 		<li>
     <input type="checkbox" id="accordion20">
-    <label for="accordion20"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens i I accidentally misplaced my printed vouchers?</span></label>
+    <label for="accordion20"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally misplaced my printed vouchers?</span></label>
     <div>
 			<p>The QR codes are similar to cash and any misplaced printed QR codes may be used by anyone who picked it.</p> 
 			<p>You may request for a re-print at the CCs if the vouchers have been partially used, but a new set of vouchers will not be issued again.</p> 
