@@ -54,7 +54,7 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 <br>
 
 <br>
-<div style="font-size:18px; background-color:#f3d7d7; padding:25px">	
+<div style="font-size:18px; background-color:#f3d7d7; padding:25px;text-align: center;">	
 <h4><strong>Get ready your Singpass</strong></h4>
 <p><strong>Singpass is required to claim your CDC vouchers.</strong></p>
 </div>
@@ -67,7 +67,7 @@ If you have more questions, please read the [FAQ](faq).
 ________
 
 #### Forgot your Singpass password?
-<p style="text-align: center;"><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a></p>
+<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a></p>
 
 
 #### Contact Us
