@@ -10,7 +10,6 @@ third_nav_title: Guide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ### உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி
 
 
