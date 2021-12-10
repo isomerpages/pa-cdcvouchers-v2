@@ -3,8 +3,7 @@ title: How to Claim CDC Vouchers (华文)
 permalink: /residents/how-to-claim-cdc-vouchers-chinese
 description: ""
 ---
-
-[English](how-to-claim-cdc-vouchers) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[华文](how-to-claim-cdc-vouchers-chinese)**  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Bahasa Melayu](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
+[English](how-to-claim-cdc-vouchers) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[华文](how-to-claim-cdc-vouchers-chinese)**  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
 <a id="pagetop"></a>
 
