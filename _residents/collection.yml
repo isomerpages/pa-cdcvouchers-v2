@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Get Started.md
-      - How to Redeem CDC Vouchers.md
+      - How to Claim CDC Vouchers.md
       - Residents' FAQ.md
