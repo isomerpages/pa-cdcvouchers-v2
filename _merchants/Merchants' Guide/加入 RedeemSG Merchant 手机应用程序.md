@@ -8,10 +8,9 @@ third_nav_title: Merchants' Guide
 
 <a id="pagetop"></a>
 
-1. <p><b>上网 go.gov.sg/cdcv </b></p>
-使用您的 Singpass 账户登录 RedeemSG。每户家庭只需一名成员代表全家领取购物券。
+1. <p><b>下载 RedeemSG Merchant 手机应用程序</b>, 以您的手机号码登入。</p>
 
-<p><img src="/" style="width:210px !important;" alt="Enter shop code screen"/> </p>
+<p><img src="/mages/merchants/merchants-infographics/english/download_app.png" style="width:210px !important;" alt="Download Redeem SG mobile app screen"/> </p>
 
 2. <p><b>输入您的手机号码</b></p>
 以获取一次性密码。
