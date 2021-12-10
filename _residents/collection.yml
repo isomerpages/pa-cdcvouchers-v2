@@ -2,5 +2,6 @@ collections:
   residents:
     output: true
     order:
+      - How to Redeem CDC Vouchers.md
       - Get Started.md
       - Residents' FAQ.md
