@@ -65,7 +65,7 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
 <li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font- style: normal; color:#DB3B18">How can I get more information about the CDC Vouchers Scheme?</span></label>
-    <div>Please call the PA Contact Centre at 6225 5322.      successful onboarding.</p>
+    <div><p>Please call the PA Contact Centre at 6225 5322.</p>
     </div>
   </li>
 </ul>
