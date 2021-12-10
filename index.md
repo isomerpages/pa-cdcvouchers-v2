@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: CDC Vouchers <br>Scheme
-      background: /images/cdc-vouchers-bg2.jpg
+      background: /images/Hero%20Banner.png
       key_highlights:
         - title: I am a Resident
           description: ""
