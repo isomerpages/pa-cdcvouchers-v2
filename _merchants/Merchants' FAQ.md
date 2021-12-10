@@ -68,7 +68,6 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     <div>Please call the PA Contact Centre at 6225 5322.      successful onboarding.</p>
     </div>
   </li>
-
 </ul>
 
 ### Registration for Interested Merchants
