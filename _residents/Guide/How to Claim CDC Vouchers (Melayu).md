@@ -26,9 +26,6 @@ third_nav_title: Guide
 
 <img src="/images/residents/screengrabs-for-infographics/malay/Malay%20mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important; !important;" />
 
-
-<i>Visual yang ditunjukkan adalah untuk tujuan ilustrasi sahaja.</i>
-
 Perhatikan pelekat yang ada pada penjaja dan pedagang yang mengambil bahagian di kejiranan anda!
 
 (need decal screenshot)
@@ -39,5 +36,6 @@ Jika anda tidak mempunyai telefon bijak atau Singpass, dan untuk pertanyaan dan 
 
 Nombor Talian: 6225 5322
 
+&#42;<i>Visual yang ditunjukkan adalah untuk tujuan ilustrasi sahaja.</i>
 
 [Back to Top](#pagetop)
