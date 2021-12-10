@@ -15,8 +15,7 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 2. Claim your digital vouchers easily with just a few taps
 3. Use digital vouchers at participating hawkers and merchants.
 
-[Claim your CDC Vouchers at RedeemSG now](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB).
-
+Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB) now.
 
 
 ### Step-By-Step Guide
@@ -55,5 +54,7 @@ Hotline operating hours:
 | -------- | -------- |
 | New Year's Eve, Chinese New Year's Eve, and Christmas Eve | 8am - 1pm |
 | Public Holidays | Closed |
+
+
 
 Please <a href="/about/terms-and-conditions-for-cdc-vouchers">click here for the Terms and Conditions</a> of the CDC vouchers.
