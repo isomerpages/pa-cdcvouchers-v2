@@ -12,15 +12,15 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><img src="/images/residents/no-download.png" alt="No need to download a mobile app"/></td>
+<td><img src="/images/residents/no-download.png" alt="No need to download a mobile app" style="width:125px !important;height:90px !important;"/></td>
 <td><p>No need to download a mobile app</p></td>
 </tr>
 	<tr>
-<td><img src="/images/residents/claim-easily.png" alt="Claim your digital vouchers easily"/></td>
+<td><img src="/images/residents/claim-easily.png" alt="Claim your digital vouchers easily"style="width:125px !important;height:90px !important;"/></td>
 <td valign="center"><p>Claim your digital vouchers easily with just a few taps</p></td>
 </tr>
 		<tr>
-<td><img src="/images/residents/use-voucher.png" alt="Use digital vouchers at participating hawkers and merchants"/></td>
+<td><img src="/images/residents/use-voucher.png" alt="Use digital vouchers at participating hawkers and merchants"style="width:125px !important;height:90px !important;"/></td>
 <td><p>Use digital vouchers at participating hawkers and merchants</p></td>
 </tr>
 </tbody>
@@ -41,6 +41,7 @@ Download our step-by-step guide in the following languages:
 [தமிழ் (PDF, 3.23 MB) ](/files/Residents%20-%20Tamil.pdf)
 
 
+<br>
 <div style="font-size:18px;color:#d24d35; background-color:#efc0b7; padding:20px">	
 <h4><strong>Get ready your Singpass</strong></h4>
 <p><strong>Singpass is required to claim your CDC vouchers.</strong></p>
@@ -51,7 +52,7 @@ Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/ca
 
 
 #### Forgot your Singpass password?
-<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a>.</p>
+<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a></p>
 
 
 #### Contact Us
@@ -66,8 +67,5 @@ Hotline operating hours:
 | Public Holidays | Closed |
 
 
-#### Quick Links
 
-* [Claim your CDC Vouchers](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB)
-* [FAQ](/residents/faq)
-* <a href="/about/terms-and-conditions-for-cdc-vouchers">Terms and Conditions of the CDC vouchers</a>
+Please <a href="/about/terms-and-conditions-for-cdc-vouchers">click here for the Terms and Conditions</a> of the CDC vouchers.
