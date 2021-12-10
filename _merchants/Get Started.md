@@ -45,7 +45,11 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 Step 1: Download RedeemSG Merchant mobile app and log in with your mobile number. 
 
 ###### Download RedeemSG Merchant Mobile App:  
-[Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.redeem) | [Apple Store](https://apps.apple.com/sg/app/redeemsg/id1512326240)
+
+<a href="https://apps.apple.com/sg/app/redeemsg/id1512326240" target="blank"> <img src="/images/merchants/merchants-infographics/download-app-store.png" /> </a>
+
+<a href="https://play.google.com/store/apps/details?id=sg.gov.redeem" target="blank"> <img src="/images/merchants/merchants-infographics/download-google-play.png" /> </a>
+
 
 Step 2: Key in the shop code provided by your co-worker or the Ambassador. 
 
