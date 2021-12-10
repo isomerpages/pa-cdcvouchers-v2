@@ -7,8 +7,6 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 ![Calling hawkers and heartland merchants banner](/images/merchants/merchant-banner.jpg)
 
-## Calling hawkers and heartland merchants
-
 **Sign up as participating hawkers and merchants to accept CDC vouchers.**
 
 
