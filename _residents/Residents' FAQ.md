@@ -6,7 +6,7 @@ description: CDC Vouchers Scheme Residents FAQ
 <a id="pagetop"></a>
 Skip to: <a href="#pageclaiming"><strong>Claiming Of CDC Vouchers</strong></a> | <a href="#pagespending"><strong>Spending Your CDC Vouchers</strong></a>
 
-### General Information About The CDC Vouchers Scheme
+### General Information About the CDC Vouchers Scheme
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -30,8 +30,7 @@ Skip to: <a href="#pageclaiming"><strong>Claiming Of CDC Vouchers</strong></a> |
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
     <div>
       <p>
-				There is no application for the scheme. All Singaporean households will receive their notifications letters by 14 December 2021 and can claim their CDC Vouchers till 31 December 2022. </p>
-			<p>The letter will contain instructions on how to claim the $100 CDC Vouchers.  Any one member of the household in the notification letter can scan the QR code in the letter to login and claim the vouchers. 
+				There is no need to apply for the scheme.  All Singaporean households will receive a notification letter on how to claim their CDC vouchers at [go.gov.sg/cdcv](go.gov.sg/cdcv)
       </p>
     </div>
   </li>
