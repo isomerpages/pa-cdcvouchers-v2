@@ -67,5 +67,8 @@ Hotline operating hours:
 | Public Holidays | Closed |
 
 
+#### Quicklinks
 
-Please <a href="/about/terms-and-conditions-for-cdc-vouchers">click here for the Terms and Conditions</a> of the CDC vouchers.
+[FAQ](/residents/faq)
+
+<a href="/about/terms-and-conditions-for-cdc-vouchers">Terms and Conditions</a> of the CDC vouchers.
