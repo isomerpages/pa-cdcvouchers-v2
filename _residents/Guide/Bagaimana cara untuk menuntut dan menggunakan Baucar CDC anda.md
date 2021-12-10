@@ -4,9 +4,11 @@ permalink: /residents/how-to-claim-cdc-vouchers-malay
 description: ""
 third_nav_title: Guide
 ---
+<a id="pagetop"></a>
+
 [English](how-to-claim-cdc-vouchers) &#124; [中文](how-to-claim-cdc-vouchers-chinese) &#124; **[Melayu](how-to-claim-cdc-vouchers-malay)** &#124; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
-<a id="pagetop"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
