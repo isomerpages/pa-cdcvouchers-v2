@@ -63,9 +63,7 @@ Download our step-by-step guide in the following languages:
 <p><strong>Singpass is required to claim your CDC vouchers.</strong></p>
 </div>
 
-Proceed to RedeemSG to [claim your CDC Vouchers](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB) now.
-
-<a href="https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB" class="bp-button is-secondary is-uppercase search-button" target="_blank">Claim Now</a>
+Proceed to RedeemSG to <a href="https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB" class="bp-button is-secondary is-uppercase search-button" target="_blank">Claim Now</a>
 
 
 ________
