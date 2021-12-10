@@ -87,12 +87,13 @@ To ensure that the digital system caters to both digitally savvy and less digita
 <a href="#pagetop">Back to Top</a>
 
 <a id="pageclaiming"></a>
+
 ### Claiming Of CDC Vouchers
 
 <ul class="jekyllcodex_accordion">
 			<li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I claim the CDC Vouchers?</span></label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I claim the CDC Vouchers?</span></label>
     <div>
 			<p>Please visit [go.gov.sg/cdcv](go.gov.sg/cdcv) to claim your CDC vouchers. You can also refer to the step-by-step infographics on the website or the notification letter on how to claim the $100 CDC Vouchers.</p> 
 			<p>Only one family member is required to login to his/her Singpass account to claim the CDC vouchers on behalf of their household
@@ -101,8 +102,8 @@ To ensure that the digital system caters to both digitally savvy and less digita
     </div>
   </li>
 				<li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to receive the vouchers?</span></label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to receive the vouchers?</span></label>
     <div>
 			<p>You will require a valid Singpass account and smartphone to login and claim your vouchers.  Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household.</p> 
 <p>
@@ -111,15 +112,15 @@ Please refer to the step-by-step infographics on how to claim your household’s
     </div>
   </li>
 		<li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</span></label>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</span></label>
     <div>
 			<p>Please refer to the following link for a list of <a href="https://www.ifaq.gov.sg/singpass/apps" target="_blank">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit a Singpass counter across all Community Centres/Clubs (CC) in Singapore for assistance. </p>
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What if I submitted the wrong mobile number?</span></label>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What if I submitted the wrong mobile number?</span></label>
     <div>
       <p>When you are signing up for your vouchers, a One Time Password (OTP) will be sent to the mobile number you have keyed in for verification. If you had keyed in the wrong mobile number, you will not receive the One Time Password and you can return to the previous page to key in your mobile number again. </p> 
 			<p>Vouchers will only be sent after you have verified your mobile number, which helps to ensure vouchers will not be sent to the wrong mobile number.  .</p>
@@ -137,8 +138,8 @@ Please refer to the step-by-step infographics on how to claim your household’s
     </div>
 	</li>  
 	<li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I tell if the SMS sent is a real voucher link?</span></label>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I tell if the SMS sent is a real voucher link?</span></label>
     <div>
       <p>The SMS is identifiable by the sender named “RedeemSG”. Please also check that your unique voucher link starts with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. .</p>
 
@@ -149,16 +150,16 @@ Please refer to the step-by-step infographics on how to claim your household’s
     </div>
 	</li> 
 		<li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
     <div>
 			<p>To retrieve the vouchers, please visit the sign-up link go.gov.sg/cdcv and login with Singpass again. You will be able to get the same vouchers sent to you via SMS. This sign-up link is also shown on the notification letter sent to your household. 
 			</p>
     </div>
   </li>
 			<li>
-    <input type="checkbox" id="accordion12">
-    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">2.	I do not have a mobile phone or digital device. What should I do?</span></label>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">2.	I do not have a mobile phone or digital device. What should I do?</span></label>
     <div>
 			<p>Please kindly seek help from your family members for assistance to claim the vouchers. 
 
@@ -176,24 +177,24 @@ To find out the location of your nearest CC, please key in your postal code unde
 
 <ul class="jekyllcodex_accordion">
 			<li>
-    <input type="checkbox" id="accordion13">
-    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Which merchants can I spend my vouchers at?</span></label>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Which merchants can I spend my vouchers at?</span></label>
     <div>
 			<p>These CDC vouchers can be used at participating heartland merchants and hawkers.  Look out for the CDC Vouchers decal displayed at the merchant/hawker stall shopfront to know where the vouchers can be used at, and also take this opportunity to explore and get to know your neighbourhood.	</p>
 			</p>
     </div>
   </li>
 		<li>
-    <input type="checkbox" id="accordion14">
-    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Is there a maximum number of vouchers I can spend per purchase?</span></label>
+    <input type="checkbox" id="accordion16">
+    <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Is there a maximum number of vouchers I can spend per purchase?</span></label>
     <div>
 			<p>There is no limit to the number of vouchers that can be spent at any one time. You can stack the vouchers and spend all the vouchers in a single transaction.
 			</p>
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion15">
-    <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Do I get a refund if the purchase (e.g. $8) is less than the amount of digital vouchers that I want to spend (e.g. $10)?</span></label>
+    <input type="checkbox" id="accordion17">
+    <label for="accordion17"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Do I get a refund if the purchase (e.g. $8) is less than the amount of digital vouchers that I want to spend (e.g. $10)?</span></label>
     <div>
 			<p>Similar to other vouchers like supermarket vouchers, there will be no change / refund provided if the purchase amount is less than the vouchers used. </p>
 			<p>For example if the cost of item is $6,,
@@ -207,16 +208,16 @@ To find out the location of your nearest CC, please key in your postal code unde
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion16">
-    <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Do I need to download a mobile application to scan the merchant QR code to make payment?</span></label>
+    <input type="checkbox" id="accordion18">
+    <label for="accordion18"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Do I need to download a mobile application to scan the merchant QR code to make payment?</span></label>
     <div>
 			<p>There is no need for residents to download any mobile application. Simply claim your vouchers by going to <a href>go.gov.sg/cdcv</a>. The voucher link will be sent to your verified mobile number. You can then use the voucher by presenting the QR code vouchers at participating hawkers and heartland merchants identified by the CDC Vouchers decal.
 			</p>
     </div>
   </li>
 		<li>
-    <input type="checkbox" id="accordion17">
-    <label for="accordion17"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I verify that the merchant has successfully deducted my vouchers?</span></label>
+    <input type="checkbox" id="accordion19">
+    <label for="accordion19"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I verify that the merchant has successfully deducted my vouchers?</span></label>
     <div>
 			<p>When the merchants scan your QR code, they will see a confirmation on their RedeemSG Merchant app which will show that the scanning of your voucher is a success.  At the same time, your QR code will be updated to “Redeemed” status.  Spent vouchers will also be marked as ‘Redeemed’ on your unique voucher links.
 			</p>
@@ -225,8 +226,8 @@ To find out the location of your nearest CC, please key in your postal code unde
     </div>
   </li>
 		<li>
-    <input type="checkbox" id="accordion18">
-    <label for="accordion18"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens i I accidentally misplaced my printed vouchers?</span></label>
+    <input type="checkbox" id="accordion20">
+    <label for="accordion20"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens i I accidentally misplaced my printed vouchers?</span></label>
     <div>
 			<p>The QR codes are similar to cash and any misplaced printed QR codes may be used by anyone who picked it.</p> 
 			<p>You may request for a re-print at the CCs if the vouchers have been partially used, but a new set of vouchers will not be issued again.</p> 
@@ -235,24 +236,24 @@ To find out the location of your nearest CC, please key in your postal code unde
     </div>
   </li>
 			<li>
-    <input type="checkbox" id="accordion19">
-    <label for="accordion19"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I find out how much value is left for my CDC vouchers?</span></label>
+    <input type="checkbox" id="accordion21">
+    <label for="accordion21"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I find out how much value is left for my CDC vouchers?</span></label>
     <div>
 			<p>You may access your voucher link found in the SMS sent by RedeemSG to find out the remaining balance of your CDC Vouchers. The value is shown at the top of the webpage.
 			</p>
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion20">
-    <label for="accordion20"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Am I able to use the CDC vouchers online?</span></label>
+    <input type="checkbox" id="accordion22">
+    <label for="accordion22"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Am I able to use the CDC vouchers online?</span></label>
     <div>
 			<p>The vouchers are not available for e-commerce or online transactions.
 			</p>
     </div>
   </li>
 		<li>
-    <input type="checkbox" id="accordion21">
-    <label for="accordion21"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Any restricted items that the vouchers cannot be used for?</span></label>
+    <input type="checkbox" id="accordion23">
+    <label for="accordion23"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Any restricted items that the vouchers cannot be used for?</span></label>
     <div>
 			<p>The vouchers cannot be used to purchase certain goods/services such as lottery, petrol, diesel, alcohol, cigarettes.
 			</p>
