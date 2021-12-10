@@ -35,10 +35,10 @@ Our step-by-step video and guide are available in the following languages:
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 130%;">
 <tbody>
 <tr>
-<td> English </td><td> <a href="/residents/resident-guide-english"><strong>How to claim and use CDC vouchers</strong></a></td>
+<td> English </td><td> <a href="/residents/resident-guide-english">How to claim and use CDC vouchers</a></td>
 </tr>
 <tr>
-<td> 中文 </td><td> <a href="/residents/resident-guide-chinese"><strong>如何领取及使用社理会邻里购物券</strong></a></td>
+<td> 中文 </td><td> <a href="/residents/resident-guide-chinese">如何领取及使用社理会邻里购物券</a></td>
 </tr>
 <tr>
 <td> Melayu </td><td> <a href="/residents/resident-guide-malay"><strong>Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda</strong></a></td>
