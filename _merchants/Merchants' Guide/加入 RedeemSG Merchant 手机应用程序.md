@@ -8,30 +8,45 @@ third_nav_title: Merchants' Guide
 
 <a id="pagetop"></a>
 
-1. <p><b>下载 RedeemSG Merchant 手机应用程序</b>, 以您的手机号码登入。</p>
+1. <p><b>下载 RedeemSG Merchant 手机应用程序, 以您的手机号码登入。</b></p>
 
-<p><img src="/mages/merchants/merchants-infographics/english/download_app.png" style="width:210px !important;" alt="Download Redeem SG mobile app screen"/> </p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><p><a href="https://apps.apple.com/sg/app/redeemsg/id1512326240" target="blank"> <img src="/images/merchants/merchants-infographics/download-app-store.png" alt="Download RedeemSG Merchant Mobile App from App Store" style="width:210px !important;" /></a></p>
 
-2. <p><b>输入您的手机号码</b></p>
-以获取一次性密码。
+<p><a href="https://play.google.com/store/apps/details?id=sg.gov.redeem" target="blank"> <img src="/images/merchants/merchants-infographics/download-google-play.png" alt="Download RedeemSG Merchant Mobile App from Google Play" style="width:210px !important;" /></a></p>
+	
+</td>
+
+<td><img src="/images/merchants/merchants-infographics/english/download_app.png" style="width:210px !important;" alt="Download RedeemSG Merchant App"/> </td>
+</tr>
+
+</tbody>
+</table>
+
+2. <p><b>输入社理会大使或手机简讯所提供的商店代码。</b></p>
+
+<p><img src="/images/merchants/merchants-infographics/chinese/10%20Shop%20code%20NEW.png" style="width:210px !important;" alt="Enter shop code screen"/> </p>
+
+3. <p><b>您便可开始扫描购物券。</b></p>
+
+<p><img src="/images/merchants/merchants-infographics/chinese/2%20Home%20scan%20with%20pic%20.png" style="width:210px !important;" alt="Scan voucher screen"/> </p>
 
 
-3. <p><b>社理会邻里购物券链接</b></p>
-将通过短信发送到您的手机，您只需要点击链接即可查阅购物券。
+4. <p><b>若想添加其他管理员或店员，您只需分享商店代码即可。</b></p>
 
+<p><img src="/images/merchants/merchants-infographics/chinese/2%20Settings%20shop%20show%20codeNEW.png" style="width:210px !important;" alt="Shop code screen"/> </p>
 
+5. <p><b>点击“交易”，查看已扫描的购物券金额。</b><b>点击“收款”，查看已转入您银行户口的款项。</b></p>
 
-4. <p><b>选择您所要使用的购物券数额，</b>出示QR 码让参与计划的小贩或邻里商家扫码即可。您也可与家人分享邻里购物券链接。</p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><p><img src="/images/merchants/merchants-infographics/chinese/1%20Transactions%20entire%20shop.png" alt="Transactions screen" style="width:210px !important;" /></p>
+</td>
 
-图片仅供参考
-
-所有参与计划的小贩摊位和邻里商店都会展示这个标贴！
-
-若您没有智能手机或 Singpass 账户，或是有其他疑问需寻求协助，
-
-请在上午10时至傍晚6时（公共假期除外），前往邻里的民众联络所/俱乐部询问。
-热线电话： 6225 5322  
-
-呈献机构：
-
-支持机构：
+<td><img src="/images/merchants/merchants-infographics/chinese/1%20Payouts%20daily%20.png" style="width:210px !important;" alt="Payouts screen"/> </td>
+</tr>
+</tbody>
+</table>
