@@ -152,7 +152,7 @@ Please refer to the step-by-step infographics on how to claim your household’s
     <input type="checkbox" id="accordion13">
     <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
     <div>
-			<p>To retrieve the vouchers, please visit the sign-up link <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong> and login with Singpass again. You will be able to get the same vouchers sent to you via SMS. This sign-up link is also shown on the notification letter sent to your household. 
+			<p>To retrieve the vouchers, please visit the sign-up link <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the same vouchers sent to you via SMS. This sign-up link is also shown on the notification letter sent to your household. 
 			</p>
     </div>
   </li>
