@@ -122,7 +122,7 @@ Please refer to the step-by-step infographics on how to claim your household’s
     <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What if I submitted the wrong mobile number?</span></label>
     <div>
       <p>When you are signing up for your vouchers, a One Time Password (OTP) will be sent to the mobile number you have keyed in for verification. If you had keyed in the wrong mobile number, you will not receive the One Time Password and you can return to the previous page to key in your mobile number again. </p> 
-			<p>Vouchers will only be sent after you have verified your mobile number, which helps to ensure vouchers will not be sent to the wrong mobile number.  .</p>
+			<p>Vouchers will only be sent after you have verified your mobile number, which helps to ensure vouchers will not be sent to the wrong mobile number. </p>
 		
 <p><img src="/images/residents/redeem_otp.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;" />
 	</p>
