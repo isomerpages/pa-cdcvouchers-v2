@@ -30,7 +30,7 @@ description: CDC Vouchers Scheme Residents FAQ
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
     <div>
       <p>
-				There is no need to apply for the scheme.  All Singaporean households will receive a notification letter on how to claim their CDC vouchers at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>
+				There is no need to apply for the scheme.  All Singaporean households will receive a notification letter on how to claim their CDC vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a></a>.
       </p>
     </div>
   </li>
@@ -61,7 +61,7 @@ Taking in the feedback from the merchants who participated in the trials and pre
   </li>
 <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">	   Customers are required to scan the merchant’s QR Code to make payment on some of the other e-payment platforms.  Why are merchants required to scan the customer’s voucher QR code for the CDC Vouchers Scheme instead? </span></label>
+    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Customers are required to scan the merchant’s QR Code to make payment on some of the other e-payment platforms.  Why are merchants required to scan the customer’s voucher QR code for the CDC Vouchers Scheme instead? </span></label>
     <div>
  			<p>CDCs in partnership with Open Government Products, GovTech, had previously tested the model in which the customer scans the merchant’s QR. While this is technically possible, we identified it would come with the following drawbacks:</p>
 <p>
@@ -95,7 +95,7 @@ To ensure that the digital system caters to both digitally savvy and less digita
     <input type="checkbox" id="accordion8">
     <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I claim the CDC Vouchers?</span></label>
     <div>
-			<p>Please visit [go.gov.sg/cdcv](go.gov.sg/cdcv) to claim your CDC vouchers. You can also refer to the step-by-step infographics on the website or the notification letter on how to claim the $100 CDC Vouchers.</p> 
+			<p>Please visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to claim your CDC vouchers. You can also refer to the step-by-step infographics on the website or the notification letter on how to claim the $100 CDC Vouchers.</p> 
 			<p>Only one family member is required to login to his/her Singpass account to claim the CDC vouchers on behalf of their household
 			</p>
 			</p>
@@ -107,7 +107,7 @@ To ensure that the digital system caters to both digitally savvy and less digita
     <div>
 			<p>You will require a valid Singpass account and smartphone to login and claim your vouchers.  Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household.</p> 
 <p>
-Please refer to the step-by-step infographics on how to claim your household’s $100 CDC vouchers on go.gov.sg/cdcv or the notification letter.
+Please refer to the step-by-step infographics on how to claim your household’s $100 CDC vouchers on <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> or the notification letter.
 			</p>			
     </div>
   </li>
@@ -153,7 +153,7 @@ Please refer to the step-by-step infographics on how to claim your household’s
     <input type="checkbox" id="accordion13">
     <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
     <div>
-			<p>To retrieve the vouchers, please visit the sign-up link go.gov.sg/cdcv and login with Singpass again. You will be able to get the same vouchers sent to you via SMS. This sign-up link is also shown on the notification letter sent to your household. 
+			<p>To retrieve the vouchers, please visit the sign-up link <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong> and login with Singpass again. You will be able to get the same vouchers sent to you via SMS. This sign-up link is also shown on the notification letter sent to your household. 
 			</p>
     </div>
   </li>
@@ -164,7 +164,7 @@ Please refer to the step-by-step infographics on how to claim your household’s
 			<p>Please kindly seek help from your family members for assistance to claim the vouchers. 
 
 If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the voucher. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account from 13 Dec 2021 onwards.</p>
-To find out the location of your nearest CC, please key in your postal code under the district locator at https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
+To find out the location of your nearest CC, please key in your postal code under the district locator at  <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank"><strong>CDC website</strong>
 			</p>
     </div>
   </li>
