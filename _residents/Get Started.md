@@ -64,12 +64,12 @@ Hotline operating hours:
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-	<td><p style="width:200px !important;">Monday to Sunday</p></td>
-	<td><p style="width:100px !important;">8am - 6pm</p></td>
+	<td><p style="width:260px !important;">Monday to Sunday</p></td>
+	<td><p>8am - 6pm</p></td>
 </tr>
-	<td><p style="width:200px !important;">New Year's Eve, Chinese New Year's Eve, and Christmas Eve</p></td>
-	<td><p style="width:100px !important;">8am - 1pm</p></td>
+	<td><p style="width:260px !important;">New Year's Eve, Chinese New Year's Eve, and Christmas Eve</p></td>
+	<td><p>8am - 1pm</p></td>
 	<tr>
-	<td><p style="width:200px !important;">Public Holidays</p></td>
-	<td><p style="width:100px !important;">Closed</p></td>
+	<td><p style="width:260px !important;">Public Holidays</p></td>
+	<td><p>Closed</p></td>
 </tr>
