@@ -40,7 +40,17 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 #### English
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Download Guide [English (PDF, 904 KB)](/files/Merchants%20-%20English.pdf)
+<Strong>How to onboard onto RedeemSG Merchant</Strong>
+
+Step 1: Download RedeemSG Merchant mobile app and log in with your mobile number. 
+
+Step 2: Key in the shop code provided by your co-worker or the Ambassador. 
+
+Step 3: Start scanning vouchers. 
+
+Step 4: To add other staff members, show them the shop code. 
+
+Step 5: Type "Transactions" to see vouchers you've scanned. Tap "Payouts" to see payments to your bank account.
 
 #### 中文
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2l6hem1eMps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
