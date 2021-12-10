@@ -4,7 +4,7 @@ permalink: /about/terms-and-conditions
 description: Terms & Conditions for CDC Vouchers
 ---
 ## Terms & Conditions for CDC Vouchers
-<p>1. The CDC digital vouchers are:</p>
+1. The CDC digital vouchers are:
 <ol>
 <li style="list-style-type: none;">
 <ol style="list-style-type: lower-alpha;">
@@ -16,8 +16,9 @@ description: Terms & Conditions for CDC Vouchers
 </ol>
 </li>
 </ol>
-<p>2. Multiple vouchers may be used in a single transaction and any unused amount or value in a voucher is not refundable.</p>
-<p>3. Singaporean residents are to claim the CDC digital vouchers digitally by logging in via Singpass. Where hardcopies of the vouchers are printed (the &ldquo;Voucher Printouts&rdquo;):</p>
+2. Multiple vouchers may be used in a single transaction and any unused amount or value in a voucher is not refundable.
+
+3. Singaporean residents are to claim the CDC digital vouchers digitally by logging in via Singpass. Where hardcopies of the vouchers are printed (the &ldquo;Voucher Printouts&rdquo;):
 <ol>
 <li style="list-style-type: none;">
 <ol style="list-style-type: lower-alpha;">
@@ -26,7 +27,7 @@ description: Terms & Conditions for CDC Vouchers
 </ol>
 </li>
 </ol>
-<p>4. People&rsquo;s Association, through the Community Development Councils:</p>
+4. People&rsquo;s Association, through the Community Development Councils:
 <ol>
 <li style="list-style-type: none;">
 <ol style="list-style-type: lower-alpha;">
