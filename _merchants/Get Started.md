@@ -14,15 +14,15 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 <tbody>
 	<tr>
 			<td><img src="/images/merchants/no-commission.png" alt="No Commisions Or Fees icon" style="width:125px !important;" /></td>
-		<td> No Commisions Or Fees</td>
+		<td><strong>No Commisions Or Fees</strong></td>
 	</tr>
 		<tr>
 			<td><img src="/images/merchants/next-day-payout.png" alt="Next-Day Payout icon" style="width:125px !important;" /></td>
-		<td> <strong>Next-Day Payout</strong><br>Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline.</td>
+		<td><strong>Next-Day Payout</strong><br>Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline.</td>
 	</tr>
 <tr>
 			<td><img src="/images/merchants/fuss-free-redemption.png" alt="Fuss-free-Redemption &amp; Transaction Tracking icon" style="width:125px !important;" /></td>
-		<td> <strong>Fuss-free-Redemption &amp; Transaction Tracking</strong></td>
+		<td><strong>Fuss-free-Redemption &amp; Transaction Tracking</strong></td>
 	</tr>
 	<tr>
 			<td><img src="/images/no-handling-of-physical-vouchers.png" alt="No Handling of Physical Vouchers icon" style="width:125px !important;" /></td>
