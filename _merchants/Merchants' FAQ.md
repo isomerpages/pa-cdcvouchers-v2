@@ -133,6 +133,9 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
 
 <p>Samples of supporting documents for merchant's PayNow (left) and bank account details (right). Merchants may prepare either type of supporting document based on mode of payment chosen.
 	</p>
+</div>
+  </li>
+</ul>
 
 ### Onboarding for Registered Merchants
 
