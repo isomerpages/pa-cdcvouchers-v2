@@ -26,7 +26,7 @@ description: Merchants' FAQ
 				<li>No handling of physical vouchers</li>
       </ol>
 			<p>*Merchant would need to ensure bank account/PayNow proxy (handphone,  NRIC or UEN) provided to PA are accurate in order to achieve the reimbursement timeline.</p>
-			<p>Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme.</p>
+			<p>CDC Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme.</p>
 			</p>
     </div>
   </li>
@@ -35,12 +35,12 @@ description: Merchants' FAQ
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What are the steps to come onboard the scheme?</span></label>
     <div>
       <p>
-				There are three (3) key stages of participation:
+				There are two (2) key stages of participation:
       </p>
 			<p>1) Stage 1 - Register your interest with<br />
-a) the Ambassadors who will be reaching out to eligible merchants from October 2021, or<br />
+a) the CDC Ambassadors, or Digital Ambassadors from the SG Digital Office, who will be reaching out to eligible merchants from October 2021, or<br />
 b) alternatively, register your interest with your CDC <a href="/merchants/info">here</a></p>
-			<p>2) Stage 2 - An Ambassador will get in touch with you for the sign up and onboarding. Training will be provided during the onboarding process.</p>
+			<p>2) Stage 2 - A CDC Ambassador will get in touch with you for the sign up and onboarding. Training will be provided during the onboarding process.</p>
     </div>
   </li>
   <li>
@@ -64,6 +64,20 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     <div>
 			<p>All participating merchants and hawkers are required to prominently display the CDC Voucher decal at their shopfront for visibility to customers. You will receive the decal upon successful onboarding.</p>
     </div>
+<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How will customers know that they can use the vouchers at my place of business?</span></label>
+    <div>
+			<p>All participating merchants and hawkers are required to prominently display the CDC Voucher decal at their shopfront for visibility to customers. You will receive the decal upon successful onboarding.</p>
+    </div>
+  </li>
+  </li>
+<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How will customers know that they can use the vouchers at my place of business?</span></label>
+    <div>
+			<p>All participating merchants and hawkers are required to prominently display the CDC Voucher decal at their shopfront for visibility to customers. You will receive the decal upon successful onboarding.</p>
+    </div>
   </li>
 
 </ul>
@@ -72,15 +86,15 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
 
 <ul class="jekyllcodex_accordion">
 			<li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I register interest to participate in the CDC Vouchers Scheme?</span></label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I register interest to participate in the CDC Vouchers Scheme?</span></label>
     <div>
 			<p>Please register your interest with your CDC using the respective CDC forms. To find out which CDC your stall falls under, please key in your postal code <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="cdcpostalcode">here</a>. An officer will be in touch with you within 10 working days upon submission of the form.</p>
     </div>
   </li>
 				<li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I check my application status after I have submitted my interest to participate?</span></label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I check my application status after I have submitted my interest to participate?</span></label>
     <div>
 			<p>If you have submitted your application and have not received a reply after 10 working days from the date of submission, please contact your respective CDCs to check on the status of your application. We seek you patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
 			<p><table border="0" cellspacing="2" cellpadding="2">
@@ -111,15 +125,15 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     </div>
   </li>
 		<li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I had previously participated as a merchant in the CDC Vouchers Tranche 1 (Jun 2020 onwards) and/or Tranche 2 (Jan 2021 onwards). Do I auto-qualify, or do I still need to register to join this CDC Vouchers Scheme?</span></label>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I had previously participated as a merchant in the CDC Vouchers Tranche 1 (Jun 2020 onwards) and/or Tranche 2 (Jan 2021 onwards). Do I auto-qualify, or do I still need to register to join this CDC Vouchers Scheme?</span></label>
     <div>
 			<p>No, there is no auto-qualification as this is a digital scheme. We are inviting hawkers and heartland merchants like yourself to register for the scheme, and our ambassadors will be reaching out to you at your shop. Alternatively, please register your interest.</p>
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to prepare to sign-up and onboard as a merchant/hawker?</span></label>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to prepare to sign-up and onboard as a merchant/hawker?</span></label>
     <div>
       <p>During the sign-up process, we will obtain your business contact information (such as bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
 
