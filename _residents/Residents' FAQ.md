@@ -30,7 +30,8 @@ Skip to: <a href="#pageclaiming"><strong>Claiming Of CDC Vouchers</strong></a> |
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
     <div>
       <p>
-				All Singaporean households are eligible for the scheme. You can claim your vouchers at this link.
+				There is no application for the scheme. All Singaporean households will receive their notifications letters by 14 December 2021 and can claim their CDC Vouchers till 31 December 2022. </p>
+			<p>The letter will contain instructions on how to claim the $100 CDC Vouchers.  Any one member of the household in the notification letter can scan the QR code in the letter to login and claim the vouchers. 
       </p>
     </div>
   </li>
@@ -38,9 +39,9 @@ Skip to: <a href="#pageclaiming"><strong>Claiming Of CDC Vouchers</strong></a> |
     <input type="checkbox" id="accordion4">
     <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Why are the CDC vouchers in fixed denominations for this current Tranche?</span></label>
     <div>
-			<p>The vouchers are in fixed denominations to enable merchants to process transactions faster and provide the ease of reconciliation for merchants. It also reduces the chance for errors to occur when consumers key in the amount.
-			</p> 
-			<p>After consultations with merchants, we have determined that the $2, $5 and $10 were the 3 best preferred denominations to cater to a range of purchases – for example, to cover purchases of both drinks and food at the hawkers and other items/ services at heartland shops (e.g. groceries, haircuts).
+			<p>The vouchers are in fixed denominations because it is less confusing for residents, especially the digitally less savvy, and reduces the chance for errors to occur when residents key in the amount.  It enables merchants to receive their reimbursement faster. </p>
+<p>
+Taking in the feedback from the merchants who participated in the trials and previous CDC Vouchers Scheme, the vouchers are therefore in denominations of $2, $5 and $10. 
 			</p>
     </div>
   </li>
