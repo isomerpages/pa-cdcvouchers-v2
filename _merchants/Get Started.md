@@ -23,12 +23,17 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
+	<tr><td>Central Singapore CDC</td><td><a href="https://go.gov.sg/csmerchantreg" target="_blank"> <img src="/images/cdc-button.png" alt="Register Interest Form for Central Singapore CDC" style="width:119px !important;" /> </a></td></tr>
+		<tr><td>North East CDC</td><td><a href="https://go.gov.sg/nemerchantreg" target="_blank"> <img src="/images/ne-button.png" alt="Register Interest Form for North East CDC"  style="width:119px !important;"/> </a></td></tr>
+		<tr><td>North West CDC </td><td><a href="https://go.gov.sg/nwmerchantreg" target="_blank"> <img src="/images/nw-button.png" alt="Register Interest Form for North West CDC"  style="width:119px !important;"/> </a></td></tr>
+		<tr><td>South East CDC</td><td><a href="https://go.gov.sg/semerchantreg" target="_blank"> <img src="/images/se-button.png" alt="Register Interest Form for South East CDC" style="width:119px !important;" /> </a></td></tr>
+		<tr><td>South West CDC</td><td><a href="https://go.gov.sg/swmerchantreg" target="_blank"> <img src="/images/sw-button.png" alt="Register Interest Form for South West CDC"  style="width:119px !important;"/> </a></td></tr>
 <tr>
-<td><a href="https://go.gov.sg/csmerchantreg" target="_blank"> <img src="/images/cdc-button.png" alt="Register Interest Form for Central Singapore CDC" /> </a></td>
-<td><a href="https://go.gov.sg/nemerchantreg" target="_blank"> <img src="/images/ne-button.png" alt="Register Interest Form for North East CDC" /> </a></td>
-<td><a href="https://go.gov.sg/nwmerchantreg" target="_blank"> <img src="/images/nw-button.png" alt="Register Interest Form for North West CDC" /> </a></td>
-<td><a href="https://go.gov.sg/semerchantreg" target="_blank"> <img src="/images/se-button.png" alt="Register Interest Form for South East CDC" /> </a></td>
-<td><a href="https://go.gov.sg/swmerchantreg" target="_blank"> <img src="/images/sw-button.png" alt="Register Interest Form for South West CDC" /> </a></td>
+
+
+
+
+
 
 </tr>
 </tbody>
