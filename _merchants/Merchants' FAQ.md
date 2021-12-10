@@ -123,8 +123,8 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to prepare to sign-up and onboard as a merchant/hawker?</span></label>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to prepare to sign-up and onboard as a merchant/hawker?</span></label>
     <div>
       <p>During the sign-up process, we will obtain your business contact information (such as bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
 
