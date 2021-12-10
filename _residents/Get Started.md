@@ -30,7 +30,7 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Our step-by-step guide is available in the following languages:
+Our step-by-step video and guide are available in the following languages:
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
