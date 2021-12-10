@@ -151,8 +151,17 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     </d	</li>  
 	<li>
     <input type="checkbox" id="accordion13">
-    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">13.	Can I share my RedeemSG Merchant account with my staff? How do they login to the app?</span></label>
+    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Can I share my RedeemSG Merchant account with my staff? How do they login to the app?</span></label>
     <div>
-			<p>Yes! Your staff can download the RedeemSG Merchant app using their own device, and log-in using the same shop code that was issued to you via SMS or from the CDC Ambassador. You may share your shop code with your staff by going to Settings > Show Shop Code on the app.</p><p>They will be able to scan vouchers, and view transactions and payouts, but will not be able to edit any merchant details such as address or bank details on the app.:</p>
-    </d	</li>
-</ul>
+			<p>Yes! Your staff can download the RedeemSG Merchant app using their own device, and log-in using the same shop code that was issued to you via SMS or from the CDC Ambassador. You may share your shop code with your staff by going to Settings > Show Shop Code on the app.</p><p>They will be able to scan vouchers, and view transactions and payouts, but will not be able to edit any merchant details such as address or bank details on the app.</p>		
+			</d	</li>
+<li>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I currently have multiple shop branches. Am I able to track each of the shops’ transactions individually and ensure only one branch’s staff can see that branch’s records?</span></label>
+<div>
+			<p>Yes, in order to enable this, you can sign-up each branch as a single shop account and that shop will be issued its own shop code. Staff will then only be able to see that particular shop’s transactions.</p>
+			</d	</li>
+			</ul>
+		
+		
+		
