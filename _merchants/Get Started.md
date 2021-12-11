@@ -61,13 +61,13 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td>
+<td style="text-align: center;">
 <p>Central Singapore CDC</p>
 </td>
-<td>
+<td style="text-align: center;">
 <p>North East CDC</p>
 </td>
-<td>
+<td style="text-align: center;">
 <p>North West CDC</p>
 </td>
 </tr>
@@ -83,13 +83,13 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 </td>
 </tr>
 <tr>
-<td>
+<td style="text-align: center;">
 <p>South East CDC</p>
 </td>
-<td>
+<td style="text-align: center;">
 <p>South West CDC</p>
 </td>
-<td>&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
 </tr>
 <tr>
 <td>
@@ -98,7 +98,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 <td>
 <p><a href="https://go.gov.sg/swmerchantreg" target="_blank"><img src="/images/sw-button.png" alt="South West CDC" style="width:120px !important;" /></a></p>
 </td>
-<td>&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
