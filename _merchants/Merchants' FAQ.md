@@ -61,7 +61,8 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How will customers know that they can use the vouchers at my place of business?</span></label>
     <div>
 			<p>All participating merchants and hawkers are required to prominently display the CDC Voucher decal at their shopfront for visibility to customers. You will receive the decal upon successful onboarding.</p>
-    </div>
+    </div>	
+	  </li>
 <li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font- style: normal; color:#DB3B18">How can I get more information about the CDC Vouchers Scheme?</span></label>
