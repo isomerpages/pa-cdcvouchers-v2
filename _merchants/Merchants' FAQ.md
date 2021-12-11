@@ -74,7 +74,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
     </div>
   </li>
 </ul>
-<a href="#pagetop">Back to Top</a>
+<a href="#cdcv_page_top">Back to Top</a>
 <span id="cdcv_page_interested"></span>
 
 ##  Registration for Interested Merchants
@@ -141,7 +141,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
 	</p>
 </div>
   </li></ul>
-<a href="#pagetop">Back to Top</a>
+<a href="#cdcv_page_top">Back to Top</a>
 <span id="cdcv_page_onboarding"></span>
 
 ## Onboarding for Registered Merchants
