@@ -30,7 +30,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 	</tr>
 	</tbody>
 </table>
-
+<a id="merchantreginterest"></a>
 
 ### Register Interest Online Form
 
