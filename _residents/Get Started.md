@@ -58,7 +58,7 @@ Our step-by-step video and guide are available in the following languages:
 </p>
 
 If you have more questions, please read the [FAQ](faq).
-
+For terms and conditions of using the CDC Vouchers, please read [Terms and Conditions](/about/terms-and-conditions).
 
 ________
 
