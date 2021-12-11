@@ -70,7 +70,9 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
     </div>
   </li>
 </ul>
+
 ###  Registration for Interested Merchants
+
 <ul class="jekyllcodex_accordion">
 			<li>
     <input type="checkbox" id="accordion7">
@@ -133,6 +135,7 @@ b) alternatively, register your interest with your CDC <a href="/merchants/info"
 	</p>
 </div>
   </li></ul>
+	
 ### Onboarding for Registered Merchants
 <ul class="jekyllcodex_accordion">
 			<li>
