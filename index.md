@@ -12,10 +12,10 @@ sections:
       background: /images/Hero%20Banner.png
       key_highlights:
         - title: I am a Resident
-          description: ""
+          description: Click here for next steps
           url: /residents/info/
         - title: I am a Merchant
-          description: ""
+          description: Click here for next steps
           url: /merchants/info/
       button: Claim my CDC vouchers
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB
