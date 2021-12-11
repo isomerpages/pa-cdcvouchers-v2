@@ -28,7 +28,7 @@ third_nav_title: Residents' Guide
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
-### How to claim your CDC Vouchers
+## How to claim your CDC Vouchers
 
 1: **Go to [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and log in using Singpass. Only one household member is required to do this on behalf of your household.
 
