@@ -5,6 +5,8 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
   household will receive $100 in CDC Vouchers to support our hawkers and
   heartland merchants
 ---
+<span id="cdcv_page_top"></span>
+
 [	![Alt text for image on Isomer site](/images/residents/resident-banner.jpg)](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e)
 
 Every Singaporean household will receive $100 in CDC Vouchers to support our hawkers and heartland merchants!
@@ -106,4 +108,4 @@ Hotline operating hours:
 </tbody>
 </table>
 
-[Back to Top](#main-content)
+[Back to Top](#cdcv_page_top)
