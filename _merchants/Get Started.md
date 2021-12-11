@@ -73,13 +73,13 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 </tr>
 <tr>
 <td>
-<p><a href="https://go.gov.sg/csmerchantreg" target="_blank"><img src="/images/cdc-button.png" alt="Central Singapore CDC" /></a></p>
+<p><a href="https://go.gov.sg/csmerchantreg" target="_blank"><img src="/images/cdc-button.png" alt="Central Singapore CDC"  style="width:120px !important;" /></a></p>
 </td>
 <td>
-<p><a href="https://go.gov.sg/nemerchantreg" target="_blank"><img src="/images/ne-button.png" alt="North East CDC" /></a></p>
+<p><a href="https://go.gov.sg/nemerchantreg" target="_blank"><img src="/images/ne-button.png" alt="North East CDC" style="width:120px !important;"  /></a></p>
 </td>
 <td>
-<p><a href="https://go.gov.sg/nwmerchantreg" target="_blank"><img src="/images/nw-button.png" alt="North West CDC" /></a></p>
+<p><a href="https://go.gov.sg/nwmerchantreg" target="_blank"><img src="/images/nw-button.png" alt="North West CDC"  style="width:120px !important;" /></a></p>
 </td>
 </tr>
 <tr>
@@ -93,10 +93,10 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 </tr>
 <tr>
 <td>
-<p><a href="https://go.gov.sg/semerchantreg" target="_blank"><img src="/images/se-button.png" alt="South East CDC" /></a></p>
+<p><a href="https://go.gov.sg/semerchantreg" target="_blank"><img src="/images/se-button.png" alt="South East CDC" style="width:120px !important;" /></a></p>
 </td>
 <td>
-<p><a href="https://go.gov.sg/swmerchantreg" target="_blank"><img src="/images/sw-button.png" alt="South West CDC" /></a></p>
+<p><a href="https://go.gov.sg/swmerchantreg" target="_blank"><img src="/images/sw-button.png" alt="South West CDC" style="width:120px !important;" /></a></p>
 </td>
 <td>&nbsp;</td>
 </tr>
