@@ -3,7 +3,7 @@ title: Merchants' FAQ
 permalink: /merchants/faq
 description: Merchants' FAQ
 ---
-<a id="pagetop"></a>
+<span id="cdcv_page_top"></span>
 <a href="#pagereg"><strong>Registration for Interested Merchants</strong></a> | <a href="#pageonboard"><strong>Onboarding for Registered Merchants</strong></a>
 
 ## About CDC Vouchers Scheme
@@ -178,4 +178,4 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
 	</li>
 			</ul>
 			
-<a href="#pagetop">Back to Top</a>
+<a href="#cdcv_page_top">Back to Top</a>
