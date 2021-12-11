@@ -3,8 +3,8 @@ title: Residents' FAQ
 permalink: /residents/faq
 description: CDC Vouchers Scheme Residents FAQ
 ---
-<a id="pagetop"></a>
-<a href="#pageclaiming"><strong>Claiming Of CDC Vouchers</strong></a> | <a href="#pagespending"><strong>Spending Your CDC Vouchers</strong></a>
+<span id="cdcv_page_top"></span>
+<a href="#cdcv_page_claiming"><strong>Claiming Of CDC Vouchers</strong></a> | <a href="#cdcv_page_spending"><strong>Spending Your CDC Vouchers</strong></a>
 
 ## General Information About the CDC Vouchers Scheme
 
@@ -105,10 +105,9 @@ To ensure that the digital system caters to both digitally savvy and digitally l
 	</div>
   </li>
 </ul>
-<a href="#pagetop">Back to Top</a>
+<a href="#cdcv_page_top">Back to Top</a>
 
-<a id="pageclaiming"></a>
-
+<span id="cdcv_page_claiming"></span>
 ## Claiming Of CDC Vouchers
 
 <ul class="jekyllcodex_accordion">
@@ -190,8 +189,8 @@ Please refer to the step-by-step infographics on how to claim your household’s
   </li>
 </ul>
 
-<a href="#pagetop">Back to Top</a>
-<a id="pagespending"></a>
+<a href="#cdcv_page_top">Back to Top</a>
+<a id="cdcv_page_claiming"></a>
 
 ## Spending Your CDC Vouchers
 
@@ -298,4 +297,4 @@ Please refer to the step-by-step infographics on how to claim your household’s
   </li>
 </ul>
 
-[Back to Top](#pagetop)
+[Back to Top](#cdcv_page_top)
