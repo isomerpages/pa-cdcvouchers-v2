@@ -28,7 +28,7 @@ third_nav_title: Residents' Guide
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி
+## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி
 
 
 1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் சென்று</strong>சிங்பாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள். ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.
