@@ -38,26 +38,6 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 **Step 2**: Click on the relevant CDC logo below and fill in the online form. Our Ambassadors will get in touch with you after you have submitted the form.
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody>
-	<tr>
-		<td style="text-align: center;"><p>Central Singapore CDC</p><br><a href="https://go.gov.sg/csmerchantreg" target="_blank"><img src="/images/cdc-button.png" alt="Register Interest Form for Central Singapore CDC" style="width:100px !important;" /></a>		
-		</td>
-		<td style="text-align: center;"><p>North East CDC</p><br><a href="https://go.gov.sg/nemerchantreg" target="_blank"><img src="/images/ne-button.png" alt="Register Interest Form for North East CDC"  style="width:100px !important;"/></a>
-		</td>		
-		<td style="text-align: center;"><p>North West CDC</p><br><a href="https://go.gov.sg/nwmerchantreg" target="_blank"><img src="/images/nw-button.png" alt="Register Interest Form for North West CDC"  style="width:100px !important;"/></a>
-		</td>
-	</tr>
-	<tr>
-		<td style="text-align: center;"><p>South East CDC</p><br><a href="https://go.gov.sg/semerchantreg" target="_blank"><img src="/images/se-button.png" alt="Register Interest Form for South East CDC" style="width:100px !important;" /></a>
-		</td>
-		<td style="text-align: center;"><p>South West CDC</p><br><a href="https://go.gov.sg/swmerchantreg" target="_blank"> <img src="/images/sw-button.png" alt="Register Interest Form for South West CDC"  style="width:100px !important;"/></a>
-		</td>
-	</tr>
-</tbody>
-</table>
-
-
 <table  style="border=0 !important;border-style: none !important;table-layout: fixed; width: 100%;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
