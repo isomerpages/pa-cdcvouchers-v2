@@ -4,7 +4,7 @@ permalink: /residents/how-to-claim-cdc-vouchers-malay
 description: ""
 third_nav_title: Residents' Guide
 ---
-<a id="pagetop"></a>
+<span id="cdcv_page_top"></span>
 
 [English](how-to-claim-cdc-vouchers) &#124; [中文](how-to-claim-cdc-vouchers-chinese) &#124; **[Melayu](how-to-claim-cdc-vouchers-malay)** &#124; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
@@ -58,4 +58,4 @@ Nombor Talian: 6225 5322
 
 &#42;<i>Visual yang ditunjukkan adalah untuk tujuan ilustrasi sahaja.</i>
 
-[Back to Top](#pagetop)
+[Back to Top](#cdcv_page_top)
