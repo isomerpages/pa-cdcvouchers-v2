@@ -184,7 +184,7 @@ Please refer to the step-by-step infographics on how to claim your household’s
 
 <p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the voucher. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account from 13 Dec 2021 onwards.</p>
 			
-To find out the location of your nearest CC, please key in your postal code under the district locator at  <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank"><strong>CDC website</strong></a>
+<p>To find out the location of your nearest CC, please key in your postal code under the district locator at  <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank"><strong>CDC website</strong></a>
 			</p>
     </div>
   </li>
