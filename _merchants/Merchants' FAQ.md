@@ -6,7 +6,7 @@ description: Merchants' FAQ
 <a id="pagetop"></a>
 <a href="#pagereg"><strong>Registration for Interested Merchants</strong></a> | <a href="#pageonboard"><strong>Onboarding for Registered Merchants</strong></a>
 
-### About CDC Vouchers Scheme
+## About CDC Vouchers Scheme
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -77,7 +77,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
 <a href="#pagetop">Back to Top</a>
 <a id="pagereg"></a>
 
-###  Registration for Interested Merchants
+##  Registration for Interested Merchants
 
 <ul class="jekyllcodex_accordion">
 			<li>
@@ -144,7 +144,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
 <a href="#pagetop">Back to Top</a>
 <a id="pageonboard"></a>
 
-### Onboarding for Registered Merchants
+## Onboarding for Registered Merchants
 
 <ul class="jekyllcodex_accordion">
 			<li>
