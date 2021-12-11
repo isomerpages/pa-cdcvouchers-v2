@@ -42,7 +42,7 @@ description: Merchants' FAQ
       </p>
 			<p>1) Stage 1 - Register your interest with<br />
 a) the CDC Ambassadors, or Digital Ambassadors from the SG Digital Office, who will be reaching out to eligible merchants from October 2021, or<br />
-b) alternatively, register your interest with your CDC <a href="/merchants/info">here</a></p>
+b) alternatively, <a href="/merchants/info">register your interest with your CDC</a>.</p>
 			<p>2) Stage 2 - A CDC Ambassador will get in touch with you for the sign up and onboarding. Training will be provided during the onboarding process.</p>
     </div>
   </li>
