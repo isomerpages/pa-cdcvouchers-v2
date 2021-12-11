@@ -190,7 +190,7 @@ Please refer to the step-by-step infographics on how to claim your household’s
 </ul>
 
 <a href="#cdcv_page_top">Back to Top</a>
-<a id="cdcv_page_claiming"></a>
+<a id="cdcv_page_spending"></a>
 
 ## Spending Your CDC Vouchers
 
