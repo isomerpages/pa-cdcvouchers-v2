@@ -4,9 +4,8 @@ permalink: /residents/how-to-claim-cdc-vouchers
 description: ""
 third_nav_title: Residents' Guide
 ---
+<span id="cdcv_page_top"></span>
 **[English](how-to-claim-cdc-vouchers)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [中文](how-to-claim-cdc-vouchers-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
-
-<a id="pagetop"></a>
 
 <style>
  .youtubecontainer {
@@ -60,4 +59,4 @@ Hotline: 6225 5322
 
 &#42;<i>Visuals shown are for illustrative purposes only.</i>
 
-[Back to Top](#pagetop)
+[Back to Top](#cdcv_page_top)
