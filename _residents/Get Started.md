@@ -26,7 +26,7 @@ Every Singaporean household will receive $100 in CDC Vouchers to support our haw
 </tbody>
 </table>
 
-### Step-by-Step Video and Guide for Residents
+## Step-by-Step Video and Guide for Residents
 
 <style>
  .youtubecontainer {
@@ -81,11 +81,11 @@ For terms and conditions of using the CDC Vouchers, please read [Terms and Condi
 
 ________
 
-#### Forgot your Singpass password?
+### Forgot your Singpass password?
 <p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B"  target="_blank">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B" target="_blank">nearest Singpass counter </a>.</p>
 
 
-#### Contact Us
+### Contact Us
 
 For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
 
