@@ -78,28 +78,28 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 #### English
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/cQGlktNKq3s&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/cQGlktNKq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p><a href="/merchants/merchant-guide-english">Onboard RedeemSG Merchant App</a></p>
 
 
 #### 中文
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/2l6hem1eMps&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/2l6hem1eMps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p><a href="/merchants/merchant-guide-chinese">加入 RedeemSG Merchant 手机应用程序</a></p>
 
 
 #### Melayu
 <div class="youtubecontainer">
-	<iframe class="youtubevideo" src="https://www.youtube.com/embed/WlXbDqiPN6&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe class="youtubevideo" src="https://www.youtube.com/embed/WlXbDqiPN6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p><a href="/merchants/merchant-guide-malay">Bagaimana untuk menggunakan RedeemSG Merchant</a></p>	
 
 
 #### தமிழ் 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/NGkGTUoF1BE&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/NGkGTUoF1BE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p><a href="/merchants/merchant-guide-tamil">RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்</a></p>
