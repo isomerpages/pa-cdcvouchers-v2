@@ -38,7 +38,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 **Step 2**: Click on the relevant CDC logo below and fill in the online form. Our Ambassadors will get in touch with you after you have submitted the form.
 
-<table  style="border=0 !important; border-style: hidden !important; table-layout: fixed; width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<table  style="border-color: white !important; border=0 !important; border-style: hidden !important; table-layout: fixed; width: 100%;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
 <td style="text-align: center;width: 33.33%;">
