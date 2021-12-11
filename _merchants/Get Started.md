@@ -41,44 +41,44 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 <table  style="border-color: white !important; border=0 !important; border-style: hidden !important; table-layout: fixed; width: 100%;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td style="text-align: center;width: 33.33%;">
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p>Central Singapore CDC</p>
 </td>
-<td style="text-align: center;width: 33.33%;">
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p>North East CDC</p>
 </td>
-<td style="text-align: center;width: 33.33%;">
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p>North West CDC</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p><a href="https://go.gov.sg/csmerchantreg" target="_blank"><img src="/images/cdc-button.png" alt="Central Singapore CDC"  style="width:110px !important;" /></a></p>
 </td>
-<td style="text-align: center;">
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p><a href="https://go.gov.sg/nemerchantreg" target="_blank"><img src="/images/ne-button.png" alt="North East CDC" style="width:110px !important;"  /></a></p>
 </td>
-<td style="text-align: center;">
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p><a href="https://go.gov.sg/nwmerchantreg" target="_blank"><img src="/images/nw-button.png" alt="North West CDC"  style="width:110px !important;" /></a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p>South East CDC</p>
 </td>
-<td style="text-align: center;">
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p>South West CDC</p>
 </td>
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: center;">
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p><a href="https://go.gov.sg/semerchantreg" target="_blank"><img src="/images/se-button.png" alt="South East CDC" style="width:110px !important;" /></a></p>
 </td>
-<td style="text-align: center;">
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p><a href="https://go.gov.sg/swmerchantreg" target="_blank"><img src="/images/sw-button.png" alt="South West CDC" style="width:110px !important;" /></a></p>
 </td>
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
