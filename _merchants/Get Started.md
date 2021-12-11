@@ -3,7 +3,7 @@ title: Get Started
 permalink: /merchants/info
 description: Sign up as participating hawkers and merchants to accept CDC vouchers.
 ---
-<a id="pagetop"></a>
+<span id="cdcv_page_top"></span>
 
 ![Calling hawkers and heartland merchants banner](/images/merchants/merchant-banner.jpg)
 
@@ -134,4 +134,4 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 If you have more questions, please refer to the [FAQ](faq).
 
-[Back to Top](#pagetop)
+[Back to Top](#cdcv_page_top)
