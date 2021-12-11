@@ -26,6 +26,7 @@ third_nav_title: Residents' Guide
 
 <div class="youtubecontainer">
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/cQGlktNKq3s&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
