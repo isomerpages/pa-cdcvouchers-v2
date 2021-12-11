@@ -4,7 +4,7 @@ permalink: /merchants/faq
 description: Merchants' FAQ
 ---
 <span id="cdcv_page_top"></span>
-<a href="#pagereg"><strong>Registration for Interested Merchants</strong></a> | <a href="#pageonboard"><strong>Onboarding for Registered Merchants</strong></a>
+<a href="#cdcv_page_interested"><strong>Registration for Interested Merchants</strong></a> | <a href="#cdcv_page_onboarding"><strong>Onboarding for Registered Merchants</strong></a>
 
 ## About CDC Vouchers Scheme
 
@@ -75,7 +75,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
   </li>
 </ul>
 <a href="#pagetop">Back to Top</a>
-<a id="pagereg"></a>
+<span id="cdcv_page_interested"></span>
 
 ##  Registration for Interested Merchants
 
@@ -142,7 +142,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
 </div>
   </li></ul>
 <a href="#pagetop">Back to Top</a>
-<a id="pageonboard"></a>
+<span id="cdcv_page_onboarding"></span>
 
 ## Onboarding for Registered Merchants
 
