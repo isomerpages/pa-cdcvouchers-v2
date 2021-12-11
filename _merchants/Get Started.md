@@ -32,7 +32,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 </table>
 <a id="merchantreginterest"></a>
 
-### Register Interest Online Form
+## Register Interest Online Form
 
 **Step 1**: If you do not have the CDC details of your stall, enter the postal code of your stall using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank">CDC's district locator</a> to find out.
 
