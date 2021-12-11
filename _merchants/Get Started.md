@@ -58,6 +58,51 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 </table>
 
 
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p>Central Singapore CDC</p>
+</td>
+<td>
+<p>North East CDC</p>
+</td>
+<td>
+<p>North West CDC</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://go.gov.sg/csmerchantreg" target="_blank"><img src="/images/cdc-button.png" alt="Central Singapore CDC" /></a></p>
+</td>
+<td>
+<p><a href="https://go.gov.sg/nemerchantreg" target="_blank"><img src="/images/ne-button.png" alt="North East CDC" /></a></p>
+</td>
+<td>
+<p><a href="https://go.gov.sg/nwmerchantreg" target="_blank"><img src="/images/nw-button.png" alt="North West CDC" /></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>South East CDC</p>
+</td>
+<td>
+<p>South West CDC</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://go.gov.sg/semerchantreg" target="_blank"><img src="/images/se-button.png" alt="South East CDC" /></a></p>
+</td>
+<td>
+<p><a href="https://go.gov.sg/swmerchantreg" target="_blank"><img src="/images/sw-button.png" alt="South West CDC" /></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
 ### Step-by-Step Video and Guide for Merchants
 
 <style>
