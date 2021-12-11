@@ -58,7 +58,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 </table>
 
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table  style="border-style: none;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
 <td style="text-align: center;">
