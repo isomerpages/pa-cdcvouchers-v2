@@ -82,7 +82,7 @@ For terms and conditions of using the CDC Vouchers, please read [Terms and Condi
 ________
 
 #### Forgot your Singpass password?
-<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B" target="singpass">nearest Singpass counter </a>.</p>
+<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B"  target="singpassreset">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B" target="singpasscounter">nearest Singpass counter </a>.</p>
 
 
 #### Contact Us
