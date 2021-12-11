@@ -58,16 +58,16 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 </table>
 
 
-<table  style="border-style: none;" border="0" cellspacing="0" cellpadding="0">
+<table  style="border-style: none;table-layout: fixed; width: 100%;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td style="text-align: center;">
+<td style="text-align: center;width: 33.33%;">
 <p>Central Singapore CDC</p>
 </td>
-<td style="text-align: center;">
+<td style="text-align: center;width: 33.33%;">
 <p>North East CDC</p>
 </td>
-<td style="text-align: center;">
+<td style="text-align: center;width: 33.33%;">
 <p>North West CDC</p>
 </td>
 </tr>
