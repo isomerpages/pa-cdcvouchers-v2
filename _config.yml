@@ -54,3 +54,4 @@ plugins:
 staging: https://pa-cdcvouchers-staging.netlify.app
 prod: https://pa-cdcvouchers-prod.netlify.app
 is_government: true
+google_analytics: G-JMN8SN2WS7
