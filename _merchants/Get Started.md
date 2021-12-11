@@ -92,7 +92,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 #### Melayu
 <div class="youtubecontainer">
-	<iframe class="youtubevideo" src="https://www.youtube.com/embed/WlXbDqiPN6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe class="youtubevideo" src="https://www.youtube.com/embed/WlXbDqiPN6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p><a href="/merchants/merchant-guide-malay">Bagaimana untuk menggunakan RedeemSG Merchant</a></p>	
 
