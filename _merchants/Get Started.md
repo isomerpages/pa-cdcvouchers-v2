@@ -14,7 +14,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 <tbody>
 	<tr>
 			<td style="width:122px !important;"><img src="/images/merchants/no-commission.png" alt="No Commisions Or Fees icon" style="width:120px !important;" /></td>
-		<td><p><strong>No Commisions Or Fees</strong></p></td>
+		<td style="vertical-align: middle;"><p><strong>No Commisions Or Fees</strong></p></td>
 	</tr>
 		<tr>
 			<td style="width:122px !important;"><img src="/images/merchants/next-day-payout.png" alt="Next-Day Payout icon" style="width:120px !important;" /></td>
@@ -22,11 +22,11 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 	</tr>
 <tr>
 			<td style="width:122px !important;"><img src="/images/merchants/fuss-free-redemption.png" alt="Fuss-free-Redemption &amp; Transaction Tracking icon" style="width:120px !important;" /></td>
-		<td><p><strong>Fuss-free-Redemption &amp; Transaction Tracking</strong></p></td>
+		<td style="vertical-align: middle;"><p><strong>Fuss-free-Redemption &amp; Transaction Tracking</strong></p></td>
 	</tr>
 	<tr>
 			<td style="width:122px !important;"><img src="/images/merchants/no-handling-of-physical-vouchers.png" alt="No Handling of Physical Vouchers icon" style="width:120px !important;" /></td>
-		<td><p><strong>No Handling of Physical Vouchers</strong></p></td>
+		<td style="vertical-align: middle;"><p><strong>No Handling of Physical Vouchers</strong></p></td>
 	</tr>
 	</tbody>
 </table>
