@@ -6,7 +6,7 @@ description: CDC Vouchers Scheme Residents FAQ
 <a id="pagetop"></a>
 <a href="#pageclaiming"><strong>Claiming Of CDC Vouchers</strong></a> | <a href="#pagespending"><strong>Spending Your CDC Vouchers</strong></a>
 
-### General Information About the CDC Vouchers Scheme
+## General Information About the CDC Vouchers Scheme
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -109,7 +109,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
 
 <a id="pageclaiming"></a>
 
-### Claiming Of CDC Vouchers
+## Claiming Of CDC Vouchers
 
 <ul class="jekyllcodex_accordion">
 			<li>
@@ -191,9 +191,9 @@ Please refer to the step-by-step infographics on how to claim your household’s
 </ul>
 
 <a href="#pagetop">Back to Top</a>
-
 <a id="pagespending"></a>
-### Spending Your CDC Vouchers
+
+## Spending Your CDC Vouchers
 
 <ul class="jekyllcodex_accordion">
 			<li>
