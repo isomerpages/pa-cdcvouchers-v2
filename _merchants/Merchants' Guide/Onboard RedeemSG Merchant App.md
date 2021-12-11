@@ -4,9 +4,9 @@ permalink: /merchants/merchant-guide-english
 description: ""
 third_nav_title: Merchants' Guide
 ---
-**[English](merchant-guide-english)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [华文](merchant-guide-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](merchant-guide-tamil)
+<span id="cdcv_page_top"></span>
 
-<a id="pagetop"></a>
+**[English](merchant-guide-english)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [华文](merchant-guide-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](merchant-guide-tamil)
 
 1: Download RedeemSG Merchant mobile app and log in with your mobile number. 
 
@@ -46,3 +46,5 @@ third_nav_title: Merchants' Guide
 </tr>
 </tbody>
 </table>
+
+<a href="#cdcv_page_top">Back to Top</a>
