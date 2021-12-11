@@ -42,7 +42,7 @@ description: Merchants' FAQ
       </p>
 			<p>1) Stage 1 - Register your interest with<br />
 a) the CDC Ambassadors, or Digital Ambassadors from the SG Digital Office, who will be reaching out to eligible merchants from October 2021, or<br />
-b) alternatively, <a href="/merchants/info">register your interest with your CDC</a>.</p>
+b) alternatively, <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a>.</p>
 			<p>2) Stage 2 - A CDC Ambassador will get in touch with you for the sign up and onboarding. Training will be provided during the onboarding process.</p>
     </div>
   </li>
@@ -84,7 +84,7 @@ b) alternatively, <a href="/merchants/info">register your interest with your CDC
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
     <div>
-			<p>Please register your interest with your CDC using the respective CDC forms. To find out which CDC your stall falls under, please key in your postal code using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="cdcpostalcode">CDC's district locator</a>. An officer will be in touch with you within 10 working days upon submission of the form.</p>
+			<p>Please register your interest with your CDC using the respective CDC forms. To find out which CDC your stall falls under, please key in your postal code using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank">CDC's district locator</a>. An officer will be in touch with you within 10 working days upon submission of the form.</p>
     </div>
   </li>
 				<li>
