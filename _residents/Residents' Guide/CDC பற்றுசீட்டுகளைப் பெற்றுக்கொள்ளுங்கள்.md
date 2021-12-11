@@ -4,7 +4,7 @@ permalink: /residents/how-to-claim-cdc-vouchers-tamil
 description: ""
 third_nav_title: Residents' Guide
 ---
-<a id="pagetop"></a>
+<span id="cdcv_page_top"></span>
 
 [English](how-to-claim-cdc-vouchers) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [中文](how-to-claim-cdc-vouchers-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[தமிழ்](how-to-claim-cdc-vouchers-tamil)**
 
@@ -63,4 +63,4 @@ third_nav_title: Residents' Guide
 
 &#42;<i>படங்கள் விளக்கத்திற்கு மட்டுமே</i>
 
-[Back to Top](#pagetop)
+[Back to Top](#cdcv_page_top)
