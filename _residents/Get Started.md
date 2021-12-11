@@ -87,7 +87,7 @@ ________
 
 #### Contact Us
 
-For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B"> feedback form</a>.
+For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
 
 Hotline operating hours:
 
