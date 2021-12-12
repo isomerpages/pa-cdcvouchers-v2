@@ -14,7 +14,7 @@ a.bp-button {
 }
 </style>
 
-<p>1. RedeemSG Merchant செயலியைப் பதிவிறக்கம் செய்து, உங்கள் கைப்பேசி எண்ணுடன் உட்பதிவு செய்யுங்கள்.</p>
+<p>1: RedeemSG Merchant செயலியைப் பதிவிறக்கம் செய்து, உங்கள் கைப்பேசி எண்ணுடன் உட்பதிவு செய்யுங்கள்.</p>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -32,21 +32,21 @@ a.bp-button {
 </table>
 
 
-<p>2. உங்களது சக ஊழியர் அல்லது தூதர் வழங்கிய கடை குறியீட்டை உள்ளிடுங்கள். </p>
+<p>2: உங்களது சக ஊழியர் அல்லது தூதர் வழங்கிய கடை குறியீட்டை உள்ளிடுங்கள். </p>
 
 <p><img src="/images/merchants/merchants-infographics/tamil/10%20Shop%20c.png" style="width:300px !important;" alt="Enter shop code screen"/> </p>
 
 
-<p>3. பற்றுச்சீட்டுகளை ஸ்கேன் செய்யத் தொடங்குங்கள். </p>
+<p>3: பற்றுச்சீட்டுகளை ஸ்கேன் செய்யத் தொடங்குங்கள். </p>
 <p><img src="/images/merchants/merchants-infographics/tamil/1%20Home%20start%20.png" style="width:300px !important;" alt="Scan voucher screen"/> </p>
 
 
-<p>4. மற்ற ஊழியர்களைச் சேர்க்க, கடை குறியீட்டை அவர்களிடம் காட்டுங்கள். </p>
+<p>4: மற்ற ஊழியர்களைச் சேர்க்க, கடை குறியீட்டை அவர்களிடம் காட்டுங்கள். </p>
  
 <p><img src="/images/merchants/merchants-infographics/tamil/2%20Show%20shop%20code.png" style="width:300px !important;" alt="Shop code screen"/> </p>
 
 
-<p>5. நீங்கள் ஸ்கேன் செய்த பற்றுச்சீட்டுகளைப் பார்வையிட, “பரிவர்த்தனைகள்” மீது தட்டுங்கள். உங்கள் வங்கிக் கணக்கில் சேர்க்கப்பட்ட தொகையைப் பார்வையிட, “தொகை வழங்கீடுகள்” மீது தட்டுங்கள். </p>
+<p>5: நீங்கள் ஸ்கேன் செய்த பற்றுச்சீட்டுகளைப் பார்வையிட, “பரிவர்த்தனைகள்” மீது தட்டுங்கள். உங்கள் வங்கிக் கணக்கில் சேர்க்கப்பட்ட தொகையைப் பார்வையிட, “தொகை வழங்கீடுகள்” மீது தட்டுங்கள். </p>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
