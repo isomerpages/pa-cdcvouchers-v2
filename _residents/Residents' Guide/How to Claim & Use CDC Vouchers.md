@@ -57,9 +57,25 @@ Look out for this decal at participating hawkers and heartland merchants!
 
 Vouchers are valid till 31 December 2022.
 
-If you do not have a smartphone or Singpass, and for further enquiries and assistance, visit your nearest Community Centre/Club (CC) from 10am - 6pm (except Public Holidays).
+If you do not have a smartphone or Singpass, and for further enquiries and assistance, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
 
-Hotline: 6225 5322
+
+Hotline operating hours:
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+	<td><p style="width:260px !important;">Monday to Sunday</p></td>
+	<td><p>8am - 6pm</p></td>
+</tr>
+	<td><p style="width:260px !important;">New Year's Eve, Chinese New Year's Eve, and Christmas Eve</p></td>
+	<td><p>8am - 1pm</p></td>
+	<tr>
+	<td><p style="width:260px !important;">Public Holidays</p></td>
+	<td><p>Closed</p></td>
+</tr>
+</tbody>
+</table>
 
 &#42;<i>Visuals shown are for illustrative purposes only.</i>
 
