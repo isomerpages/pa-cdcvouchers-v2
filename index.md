@@ -34,7 +34,7 @@ sections:
       button: Claim now
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e
       image: /images/residents/Hero%20banner%20no%20button.png
-      alt: Image alt text
+      alt: Calling Singaporean households
   - infobar:
       title: Residents
       description: Check out the Frequently Asked Questions.
