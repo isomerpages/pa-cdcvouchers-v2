@@ -7,7 +7,12 @@ third_nav_title: Merchants' Guide
 <span id="cdcv_page_top"></span>
 [English](merchant-guide-english) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [华文](merchant-guide-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[தமிழ்](merchant-guide-tamil)**
 
-<a id="pagetop"></a>
+<style>
+a.bp-button {
+	height: 6em !important;
+	white-space:pre-line !important;
+}
+</style>
 
 1. RedeemSG Merchant செயலியைப் பதிவிறக்கம் செய்து, உங்கள் கைப்பேசி எண்ணுடன் உட்பதிவு செய்யுங்கள்.
 
