@@ -9,7 +9,7 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
 
 [	![Alt text for image on Isomer site](/images/residents/resident-banner.jpg)](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e)
 
-Every Singaporean household will receive $100 in CDC Vouchers to support our hawkers and heartland merchants!
+Every Singaporean household will receive $100 in CDC Vouchers to support our hawkers and heartland merchants! Only one member of each household needs to log in with Singpass to claim the vouchers.
 
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
