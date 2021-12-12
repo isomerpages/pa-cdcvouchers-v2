@@ -10,7 +10,7 @@ third_nav_title: Residents' Guide
 
 <style>
 	h1 {
-	white-space:pre-line !important;
+	white-space:normal !important;
 }
 	
 a.bp-button {
