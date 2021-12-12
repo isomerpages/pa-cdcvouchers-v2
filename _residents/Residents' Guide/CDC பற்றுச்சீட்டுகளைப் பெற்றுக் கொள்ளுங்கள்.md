@@ -11,7 +11,6 @@ third_nav_title: Residents' Guide
 <style>
 	h1 {
 	white-space:normal !important;
-	overflow-wrap: break-word !important;
 }
 	
 a.bp-button {
