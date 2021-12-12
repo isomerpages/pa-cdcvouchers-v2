@@ -7,6 +7,13 @@ third_nav_title: Merchants' Guide
 <span id="cdcv_page_top"></span>
 **[English](merchant-guide-english)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [华文](merchant-guide-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](merchant-guide-tamil)
 
+<style>
+a.bp-button {
+	height: 6em !important;
+	white-space:pre-line !important;
+}
+</style>
+
 1: Download RedeemSG Merchant mobile app and log in with your mobile number. 
 
 <table border="0" cellspacing="0" cellpadding="0">
