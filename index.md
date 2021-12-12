@@ -5,7 +5,7 @@ description: This is an informational site about CDC Vouchers scheme for
   Singapore residents.
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Visit your CC if you do not have a smartphone or Singpass or need help to claim your vouchers."
 sections:
   - hero:
       title: CDC Vouchers <br>Scheme
