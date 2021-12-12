@@ -9,7 +9,7 @@ third_nav_title: Residents' Guide
 [English](how-to-claim-cdc-vouchers) &#124; [中文](how-to-claim-cdc-vouchers-chinese) &#124; **[Melayu](how-to-claim-cdc-vouchers-malay)** &#124; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
 <style>
-.bp-button a {
+.bp-button {
 white-space:pre-line !important;
 }
  .youtubecontainer {
