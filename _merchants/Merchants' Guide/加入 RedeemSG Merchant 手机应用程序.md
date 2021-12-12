@@ -14,7 +14,7 @@ a.bp-button {
 }
 </style>
 
-<p>1. 下载 RedeemSG Merchant 手机应用程序, 以您的手机号码登入。</p>
+<p>1: 下载 RedeemSG Merchant 手机应用程序, 以您的手机号码登入。</p>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -31,20 +31,20 @@ a.bp-button {
 </tbody>
 </table>
 
-<p>2. 输入社理会大使或手机简讯所提供的商店代码。</p>
+<p>2: 输入社理会大使或手机简讯所提供的商店代码。</p>
 
 <p><img src="/images/merchants/merchants-infographics/chinese/10%20Shop%20code%20NEW.png" style="width:300px !important;" alt="Enter shop code screen"/> </p>
 
-<p>3. 您便可开始扫描购物券。</p>
+<p>3: 您便可开始扫描购物券。</p>
 
 <p><img src="/images/merchants/merchants-infographics/chinese/2%20Home%20scan%20with%20pic%20.png" style="width:210px !important;" alt="Scan voucher screen"/> </p>
 
 
-<p>4. 若想添加其他管理员或店员，您只需分享商店代码即可。</p>
+<p>4: 若想添加其他管理员或店员，您只需分享商店代码即可。</p>
 
 <p><img src="/images/merchants/merchants-infographics/chinese/2%20Settings%20shop%20show%20codeNEW.png" style="width:300px !important;" alt="Shop code screen"/> </p>
 
-<p>5. 点击“交易”，查看已扫描的购物券金额。点击“收款”，查看已转入您银行户口的款项。</p>
+<p>5: 点击“交易”，查看已扫描的购物券金额。点击“收款”，查看已转入您银行户口的款项。</p>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
