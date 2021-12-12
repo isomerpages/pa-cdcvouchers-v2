@@ -14,7 +14,7 @@ a.bp-button {
 }
 </style>
 
-1: Download RedeemSG Merchant mobile app and log in with your mobile number. 
+<p>1. Download RedeemSG Merchant mobile app and log in with your mobile number. </p>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -32,17 +32,17 @@ a.bp-button {
 </table>
 
 
-2: Key in the shop code provided by your co-worker or the Ambassador. 
+<p>2. Key in the shop code provided by your co-worker or the Ambassador. </p>
 
 <p><img src="/images/merchants/merchants-infographics/english/10%20Shop%20code.png" style="width:300px !important;" alt="Enter shop code screen"/> </p>
 
-3: Start scanning vouchers. 
+<p>3. Start scanning vouchers. </p>
 <p><img src="/images/merchants/merchants-infographics/english/2%20Home%20scan%20with%20pic%20.png" style="width:300px !important;" alt="Scan voucher screen"/> </p>
 
-4: To add other staff members, show them the shop code. 
+<p>4. To add other staff members, show them the shop code. </p>
 <p><img src="/images/merchants/merchants-infographics/english/3%20Eter%20shop%20code.png" style="width:300px !important;" alt="Shop code screen"/> </p>
 
-5: Type "Transactions" to see vouchers you've scanned. Tap "Payouts" to see payments to your bank account.
+<p>5. Type "Transactions" to see vouchers you've scanned. Tap "Payouts" to see payments to your bank account.</p>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
