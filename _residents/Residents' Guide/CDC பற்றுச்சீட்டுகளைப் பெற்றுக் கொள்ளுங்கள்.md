@@ -11,6 +11,7 @@ third_nav_title: Residents' Guide
 <style>
 	h1 {
 	white-space:normal !important;
+	hyphens: auto !important;
 }
 	
 a.bp-button {
