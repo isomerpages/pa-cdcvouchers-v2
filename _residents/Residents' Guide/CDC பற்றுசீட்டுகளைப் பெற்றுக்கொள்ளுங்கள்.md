@@ -11,7 +11,6 @@ third_nav_title: Residents' Guide
 <style>
 	a.bp-button {
 	white-space: pre-line !important;
-	height: 6.25em !important;
 }
 	
  .youtubecontainer {
