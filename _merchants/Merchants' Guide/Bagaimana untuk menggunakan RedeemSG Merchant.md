@@ -14,7 +14,7 @@ a.bp-button {
 }
 </style>
 
-1. Muat turun RedeemSG Merchant dan log mengguanakan nomber telefon bimbit anda. 
+<p>1. Muat turun RedeemSG Merchant dan log mengguanakan nomber telefon bimbit anda. </p>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -32,18 +32,18 @@ a.bp-button {
 </table>
 
 
-2. Masukkan kod kedai yang disediakan oleh rakan sekerja atau Duta anda.
+<p>2. Masukkan kod kedai yang disediakan oleh rakan sekerja atau Duta anda.</p>
 
 <p><img src="/images/merchants/merchants-infographics/malay/10%20Shop%20code%20.png" style="width:300px !important;" alt="Enter shop code screen"/> </p>
 
-3. Mulakan dengan mengimbas baucar. 
+<p>3. Mulakan dengan mengimbas baucar. </p>
 <p><img src="/images/merchants/merchants-infographics/malay/2%20Home%20scan%20with%20pic%20no%20logo.png" style="width:300px !important;" alt="Scan voucher screen"/> </p>
 
-4. Untuk menambah anggota kakitangan yang lain, tunjukkan kod kedai kepada mereka.
+<p>4. Untuk menambah anggota kakitangan yang lain, tunjukkan kod kedai kepada mereka.</p>
  
 <p><img src="/images/merchants/merchants-infographics/malay/2%20Show%20shop%20code.png" style="width:300px !important;" alt="Shop code screen"/> </p>
 
-5. Ketik "Transaksi" untuk melihat baucar yang telah anda imbas. Ketik "Pembayaran" untuk melihat pembayaran ke akaun bank anda.
+<p>5. Ketik "Transaksi" untuk melihat baucar yang telah anda imbas. Ketik "Pembayaran" untuk melihat pembayaran ke akaun bank anda.</p>
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
