@@ -89,7 +89,7 @@ ________
 
 ### Contact Us
 
-For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
+If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
 
 Hotline operating hours:
 
