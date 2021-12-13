@@ -52,15 +52,15 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
     <div>
 			<p>To assist merchants in the registration of interests and onboarding process, IMDA's Digital Ambassadors and CDC Ambassadors are deployed island-wide. The IMDA's Digital Ambassadors can be identified by the uniform and button badge that they will be wearing during deployment:</p>
 			<p><img src="/images/merchants/m-sample-digital-ambassador-uniform-wo-text.png" alt="Sample Digital Ambassadors and CDC Ambassadors Uniform" style="width:448px !important; height:288px !important;" />
-				<div style="text-align: center;">Sample of Digital Ambassador's Uniform</div>
+				<div style="text-align: center;"><i>Sample of Digital Ambassador's Uniform</i></div>
 			</p>
 			<p>The CDC Ambassadors can be identified by the official lanyard and button badge during deployment as shown below:</p>
 			<p><img src="/images/merchants/m-sample-digital-ambassador-badge-wo-text.png" alt="Sample Digital Ambassadors and CDC Ambassadors badge" style="width:368px !important;height:323px !important;" />
-				<div style="text-align: center;">Sample of Button Badge worn by Digital Ambassador and CDC Ambassador</div>
+				<div style="text-align: center;"><i>Sample of Button Badge worn by Digital Ambassador and CDC Ambassador</i></div>
 	</p>
 			<br>
 				<p><img src="/images/merchants/m-sample-digital-ambassador-lanyard2.png" alt="Sample Digital Ambassadors and CDC Ambassadors lanyard" style="width:400px !important;height:342px !important;" />
-	<div style="text-align: center;">Sample of CDC Ambassador's lanyard</div>
+	<div style="text-align: center;"><i>Sample of CDC Ambassador's lanyard</i></div>
 </p>
 					    </div>
   </li>
