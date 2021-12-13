@@ -254,7 +254,9 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>When the merchants scan your QR code, they will see a confirmation on their RedeemSG Merchant app which will show that the scanning of your voucher is a success.  At the same time, your QR code will be updated to “Redeemed” status.  Spent vouchers will also be marked as ‘Redeemed’ on your unique voucher links.
 			</p>
-			<p><img src="/images/residents/redemption.png" alt="Sample Redeemed Voucher Screens" style="width:859px !important;height:501px !important;" />
+			<p><img src="/images/residents/ScanQR%20Reveal.png" alt="Sample Redeemed Voucher Screens" style="width:300px !important;" /><br>
+				<img src="/images/residents/Redeemed.png" alt="Sample Redeemed Voucher Screens" style="width:300px !important;" /><br>
+				<img src="/images/residents/FAQ%20Remaining%20Value.png" alt="Sample Redeemed Voucher Screens" style="width:300px !important;" />				
 	</p>
     </div>
   </li>
