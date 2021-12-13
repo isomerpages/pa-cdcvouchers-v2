@@ -47,7 +47,7 @@ a.bp-button {
 <img src="/images/residents/screengrabs-for-infographics/tamil/M_Log%20in_ta_5novupdated.png" alt="Step 1" style="width:300px !important;" />
 
 
-2: <strong>உங்கள் கைப்பேசி எண்ணை உள்ளிட்டு</strong>ஒரு முறை கடவுச்சொல்லைப் (One-Time Password) பெற்றுக்கொள்ளுங்கள் 
+2: <strong>உங்கள் கைப்பேசி எண்ணை உள்ளிட்டு</strong> ஒரு முறை கடவுச்சொல்லைப் (One-Time Password) பெற்றுக்கொள்ளுங்கள் 
 
 <img src="/images/residents/screengrabs-for-infographics/tamil/M_MobileNumber_TA_5Nov.png" alt="Step 2" style="width:300px !important;" />
 
