@@ -30,7 +30,7 @@ description: CDC Vouchers Scheme Residents FAQ
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
     <div>
       <p>
-				There is no need to apply for the scheme.  All Singaporean households will receive a notification letter on how to claim their CDC vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>.Only one member of each household needs to log in via Singpass to claim the vouchers.
+				There is no need to apply for the scheme.  All Singaporean households will receive a notification letter on how to claim their CDC vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>. Only one member of each household needs to log in via Singpass to claim the vouchers.
 	    </p>
     </div>
   </li>
@@ -126,7 +126,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
     <div>
 			<p>You will require a valid Singpass account and smartphone to login and claim your vouchers.  Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household.</p> 
 <p>
-Please refer to the step-by-step infographics on how to claim your household’s $100 CDC vouchers on <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> or the notification letter.
+Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step guide</a> on how to claim your household’s $100 CDC vouchers or the notification letter.
 			</p>			
     </div>
   </li>
