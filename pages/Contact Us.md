@@ -5,6 +5,7 @@ date: 2021-12-09
 layout: post
 description: Contact Us page
 ---
+<span id="cdcv_page_top"></span>
 ## Community Development Councils (CDCs)
 
 ### PA Contact Centre
@@ -34,4 +35,4 @@ Hotline operating hours:
 <p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B">Reset it online</a> or  head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B">nearest Singpass counter </a></p>
 
 
-[Back to Top](#pagetop)
+[Back to Top](#cdcv_page_top)
