@@ -34,7 +34,7 @@ description: Terms & Conditions for CDC Vouchers
     <ol style="list-style-type: lower-alpha;">
     <li>does not warrant the quality or fitness for purpose of the goods or services obtained through the use of the voucher(s);</li>
     <li>will not be responsible for any claims, demands, losses, costs, expenses and/or liabilities of any kind arising from or in connection with any transaction or dealing between the participating merchant and the voucher holder; and</li>
-    <li>reserves the right to amend these terms and conditions. Any updates to these terms and conditions may be found at this page.
+    <li>reserves the right to amend these terms and conditions.
 			</li>
 				</ol>
 				</li>
