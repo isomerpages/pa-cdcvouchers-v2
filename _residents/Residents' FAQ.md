@@ -66,7 +66,8 @@ Taking in the feedback from the merchants who participated in the trials and pre
 	<img src="/images/residents/FAQ%205a.jpg" alt="Screenshot of Share My Vouchers" style="width:200px !important;"/>
 </td>
 <td>
-	<img src="/images/residents/FAQ%205b.jpg" alt=" Illustration of voucher link shared via Whatsapp" style="width:300px !important;"/>	
+	<img src="/images/residents/faq5b2.png" alt=" Illustration of voucher link shared via Whatsapp" style="width:300px !important;"/>	
+
 	</td>
 </tr>
 		<tr>
