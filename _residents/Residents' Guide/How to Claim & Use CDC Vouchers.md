@@ -45,7 +45,7 @@ a.bp-button {
 
 3: **Get your CDC Vouchers link sent via SMS** and click to go to your vouchers.
 
-<img src="/images/residents/screengrabs-for-infographics/english/Masked%20NRIC.jpg" alt="Step 3" style="width:300px !important;" />
+<img src="/images/residents/screengrabs-for-infographics/english/SMS English_5 Nov New Link.png" alt="Step 3" style="width:300px !important;" />
 
 4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. Share the voucher link with your household members!
 
