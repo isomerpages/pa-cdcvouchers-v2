@@ -97,7 +97,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
     <input type="checkbox" id="accordion8">
     <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I check my application status after I have submitted my interest to participate?</span></label>
     <div>
-			<p>If you have submitted your application and have not received a reply after 14 calendar days from the date of submission, please contact your respective CDCs to check on the status of your application. We seek you patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
+			<p>If you have submitted your application and have not received a reply after 14 calendar days from the date of submission, please contact your respective CDCs to check on the status of your application. We seek your patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
 			<p><table border="0" cellspacing="2" cellpadding="2">
 <tbody>
 <tr >
@@ -161,7 +161,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
 	
 			<li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do get my shop code?</span></label>
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I get my shop code?</span></label>
     <div>
 			<p>You will receive your shop code from the CDC Ambassador during your onboarding session. It will also be sent to you via SMS to your registered mobile number.</p>
 				</div>
