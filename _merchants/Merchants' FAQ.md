@@ -51,11 +51,17 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
     <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I was approached by individuals claiming to be Ambassadors for the CDC Vouchers Scheme. How can I verify that they are authorised personnel?</span></label>
     <div>
 			<p>To assist merchants in the registration of interests and onboarding process, IMDA's Digital Ambassadors and CDC Ambassadors are deployed island-wide. The IMDA's Digital Ambassadors can be identified by the uniform and button badge that they will be wearing during deployment:</p>
-			<p><img src="/images/merchants/m-sample-digital-ambassador-uniform.png" alt="Sample Digital Ambassadors and CDC Ambassadors Uniform" style="width:486px !important;height:329px !important;" /></p>
+			<p><img src="/images/merchants/m-sample-digital-ambassador-uniform-wo-text.png" alt="Sample Digital Ambassadors and CDC Ambassadors Uniform" style="width:448px !important; height:288px !important;" />
+				<div style="text-align: center;">Sample of Digital Ambassador's Uniform</div>
+			</p>
 			<p>The CDC Ambassadors can be identified by the official lanyard and button badge during deployment as shown below:</p>
-			<p><img src="/images/merchants/m-sample-digital-ambassador-badge.png" alt="Sample Digital Ambassadors and CDC Ambassadors badge" style="width:719px !important;height:387px !important;" /></p>
+			<p><img src="/images/merchants/m-sample-digital-ambassador-badge-wo-text.png" alt="Sample Digital Ambassadors and CDC Ambassadors badge" style="width:368px !important;height:323px !important;" />
+				<div style="text-align: center;">Sample of Button Badge worn by Digital Ambassador and CDC Ambassador</div>
+	</p>
 			<br>
-				<p><img src="/images/merchants/m-sample-digital-ambassador-lanyard.png" alt="Sample Digital Ambassadors and CDC Ambassadors lanyard" style="width:500px !important;height:508.125px !important;" /></p>
+				<p><img src="/images/merchants/m-sample-digital-ambassador-lanyard2.png" alt="Sample Digital Ambassadors and CDC Ambassadors lanyard" style="width:400px !important;height:342px !important;" />
+	<div style="text-align: center;">Sample of CDC Ambassador's lanyard</div>
+</p>
 					    </div>
   </li>
     
