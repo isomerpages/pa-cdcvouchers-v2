@@ -141,9 +141,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
 <p>You will need to prepare supporting documents for your bank account or PayNow proxy (handphone, NRIC or UEN), depending on which mode of payment was chosen.</p>
 		
 <p><img src="/images/merchants/m-bank-supporting-doc.png" alt="Sample Bank documents" style="width:784px !important;height:452px !important;" />
-	</p>
-
-<p>Samples of supporting documents for merchant's PayNow (left) and bank account details (right). Merchants may prepare either type of supporting document based on mode of payment chosen.
+	<br><i>Samples of supporting documents for merchant's PayNow (left) and bank account details (right). Merchants may prepare either type of supporting document based on mode of payment chosen.</i>
 	</p>
 </div>
   </li></ul>
