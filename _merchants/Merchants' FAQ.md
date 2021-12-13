@@ -55,7 +55,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
 			<p>The CDC Ambassadors can be identified by the official lanyard and button badge during deployment as shown below:</p>
 			<p><img src="/images/merchants/m-sample-digital-ambassador-badge.png" alt="Sample Digital Ambassadors and CDC Ambassadors badge" style="width:719px !important;height:387px !important;" /></p>
 			<br>
-				<p><img src="/images/merchants/m-sample-digital-ambassador-lanyard.png" alt="Sample Digital Ambassadors and CDC Ambassadors lanyard" style="width:600px !important;" /></p>
+				<p><img src="/images/merchants/m-sample-digital-ambassador-lanyard.png" alt="Sample Digital Ambassadors and CDC Ambassadors lanyard" style="width:600px !important;height:609.75px !important;" /></p>
 					    </div>
   </li>
     
