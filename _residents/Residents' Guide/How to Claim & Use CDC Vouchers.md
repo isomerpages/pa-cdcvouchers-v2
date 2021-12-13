@@ -35,7 +35,7 @@ a.bp-button {
 
 1: **Go to [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and log in using Singpass. Only one household member is required to do this on behalf of your household.
 
-<img src="/images/residents/screengrabs-for-infographics/english/Log%20in_En_5Nov-m.jpg" alt="Step 1" style="width:300px !important;" />
+<img src="/images/residents/screengrabs-for-infographics/english/Log%20in_En_5Nov.png" alt="Step 1" style="width:300px !important;" />
 
 
 2: **Key in your mobile number** and get a One-Time Password
