@@ -12,7 +12,7 @@ third_nav_title: Residents' Guide
 	h1 {
 	white-space:normal !important;
 	hyphens: auto !important;
-	overflow: scroll !important;
+	overflow: auto !important;
 }
 	
 a.bp-button {
