@@ -200,7 +200,8 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion15">
     <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Which merchants can I spend my vouchers at?</span></label>
     <div>
-			<p>These CDC vouchers can be used at participating heartland merchants and hawkers.  Look out for the CDC Vouchers decal displayed at the merchant/hawker stall shopfront to know where the vouchers can be used at, and also take this opportunity to explore and get to know your neighbourhood.
+			<p>These CDC vouchers can be used at participating heartland merchants and hawkers.  Look out for the CDC Vouchers decal displayed at the merchant/hawker stall shopfront to know where the vouchers can be used at, and also take this opportunity to explore and get to know your neighbourhood. 
+				<br><img src="/images/merchants-decal-500.jpg" alt="CDC Vouchers Decal" style="width:400px !important;"/>
 			</p>
     </div>
   </li>
