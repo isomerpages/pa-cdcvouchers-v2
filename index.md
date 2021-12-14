@@ -19,7 +19,7 @@ sections:
           description: Click here for next steps
           url: /merchants/info/
       button: Claim my CDC vouchers
-      url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e
+      url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB
   - infobar:
       title: About the CDC Vouchers Scheme
       description: Announced as part of the Household Support Package in Budget 2021,
