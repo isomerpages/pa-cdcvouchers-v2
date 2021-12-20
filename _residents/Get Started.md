@@ -82,6 +82,8 @@ If you have more questions, please read the [FAQ](faq).
 For terms and conditions of using the CDC Vouchers, please read [Terms and Conditions](/about/terms-and-conditions).
 
 To claim the CDC vouchers on behalf of another household, please fill up the [Authorisation Form](/files/Authorisation%20Form.pdf) or request for a hardcopy at the nearest CC.  Remember to bring your NRIC, the original recipient’s NRIC as well as the notification letter.  
+
+
 ________
 
 ### Forgot your Singpass password?
