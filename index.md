@@ -37,10 +37,9 @@ sections:
       alt: Calling Singaporean households
   - infobar:
       title: Where to spend your CDC Vouchers?
-      subtitle: Merchants Go Where
-      description: Visit Merchants Go Where to search for the nearest participating
-        hawkers and heartland merchants.
-      button: Visit Go Where
+      description: Visit CDC Vouchers Merchants Go Where to search for the nearest
+        participating hawkers and heartland merchants.
+      button: Search Participating Merchants
       url: https://www.gowhere.gov.sg/cdcvouchersmerchants
   - infobar:
       title: Residents
