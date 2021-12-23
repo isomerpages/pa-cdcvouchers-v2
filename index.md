@@ -39,7 +39,7 @@ sections:
       title: Where to spend your CDC Vouchers?
       description: Visit CDC Vouchers Merchants Go Where to search for the nearest
         participating hawkers and heartland merchants.
-      button: Search Participating Merchants
+      button: Search Now
       url: https://www.gowhere.gov.sg/cdcvouchersmerchants
   - infobar:
       title: Residents
