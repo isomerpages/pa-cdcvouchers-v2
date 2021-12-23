@@ -8,3 +8,10 @@ Visit [gowhere.gov.sg](https://www.gowhere.gov.sg/cdcvouchersmerchants) to searc
 You may also look out for this decal at participating hawkers and heartland merchants!
 
 ![Merchant's Decal](/images/merchants-decal-500.jpg)
+
+<style>
+a.bp-button {
+	height: 6em !important;
+	white-space:pre-line !important;
+}
+</style>
