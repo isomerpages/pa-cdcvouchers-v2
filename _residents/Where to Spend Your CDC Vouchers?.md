@@ -9,7 +9,7 @@ You may look out for this decal at participating hawkers and heartland merchants
 
 ![Merchant's Decal](/images/merchants-decal-500.jpg)
 
-## Merchants Go Where
+## CDC Vouchers Merchants Go Where
 Visit [gowhere.gov.sg](https://www.gowhere.gov.sg/cdcvouchersmerchants) to search for the nearest participating hawkers and heartland merchants to spend your CDC Vouchers.
 
 
