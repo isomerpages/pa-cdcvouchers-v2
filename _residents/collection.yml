@@ -2,6 +2,7 @@ collections:
   residents:
     output: true
     order:
+      - Where to find Participating Merchants?.md
       - Get Started.md
       - Residents' Guide/.keep
       - Residents' Guide/How to Claim & Use CDC Vouchers.md
