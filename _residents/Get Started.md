@@ -81,8 +81,7 @@ If you have more questions, please read the [FAQ](faq).
 
 For terms and conditions of using the CDC Vouchers, please read [Terms and Conditions](/about/terms-and-conditions).
 
-To claim the CDC vouchers on behalf of another household, please fill up the [Authorisation Form](/files/Authorisation%20Form.pdf) or request for a hardcopy at the nearest CC.  Please refer to the form for more instructions.  
-
+To claim the CDC vouchers on behalf of another household, please fill up the [Authorisation Form](/files/Authorisation%20Form%202.pdf) or request for a hardcopy at the nearest CC.  Please refer to the form for more instructions.  
 
 ________
 
