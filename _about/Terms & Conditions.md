@@ -12,7 +12,7 @@ description: Terms & Conditions for CDC Vouchers
     <li>Redeemable at participating merchants displaying the CDC Voucher decal;</li>
     <li>Not valid for purchase of lottery products, petrol, diesel, alcohol or cigarettes;</li>
     <li>Not for resale/ exchangeable for cash or gift vouchers; and</li>
-    <li>Not renewable upon expiry and the expiry date is final.</li>
+    <li>Not renewable upon expiry and the expiry date is final. Vouchers will expire on 31 December 2022.</li>
 			</ol>
 			</li>
 			</ol>
