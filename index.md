@@ -27,10 +27,10 @@ sections:
       button: Find out more
       url: /about/about-cdc-vouchers-scheme
   - infopic:
-      title: Claim your CDC Vouchers
+      title: Claim your CDC Vouchers 2021 & 2022
       subtitle: Residents
-      description: No need to download a mobile app. Claim your digital vouchers
-        easily with just a few taps.
+      description: No need to download a mobile app. Claim your digital CDC Vouchers
+        2021 & 2022 easily with just a few taps.
       button: Claim now
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e
       image: /images/residents/Hero%20banner%20no%20button.png
