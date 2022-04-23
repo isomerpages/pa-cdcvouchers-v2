@@ -33,21 +33,21 @@ a.bp-button {
 
 ## How to claim your CDC Vouchers
 
-1: **Go to [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and log in using Singpass. Only one household member is required to do this on behalf of your household.
+1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap into CDC Vouchers 2022. 
+
+<img src="/images/residents/screengrabs-for-infographics/english/Log%20in_En_5Nov.png" alt="Step 1" style="width:300px !important;" />
+
+2: **Log in using Singpass.** Only one household member needs to do this on behalf of your household.
 
 <img src="/images/residents/screengrabs-for-infographics/english/Log%20in_En_5Nov.png" alt="Step 1" style="width:300px !important;" />
 
 
-2: **Key in your mobile number** and get a One-Time Password
+3: **Receive your CDC Vouchers link by SMS.** Forward the SMS to share vouchers with household members.  
 
 <img src="/images/residents/screengrabs-for-infographics/english/M_MobileNumber_En_5Nov.png" alt="Step 2" style="width:300px !important;" />
 
 
-3: **Get your CDC Vouchers link sent via SMS** and click to go to your vouchers.
-
-<img src="/images/residents/screengrabs-for-infographics/english/SMS English_5 Nov New Link.png" alt="Step 3" style="width:300px !important;" />
-
-4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. Share the voucher link with your household members!
+4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. 
 
 <img src="/images/residents/screengrabs-for-infographics/english/mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important;" />
 
@@ -55,10 +55,9 @@ Look out for this decal at participating hawkers and heartland merchants!
 
 ![Merchant's Decal](/images/merchants-decal-500.jpg)
 
-Vouchers are valid till 31 December 2022.
+Both CDC Vouchers 2021 and 2022 are valid till 31 December 2022.
 
-If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. For further enquiries, please call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
-
+If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.
 
 Hotline operating hours:
 
