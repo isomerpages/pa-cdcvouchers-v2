@@ -88,23 +88,29 @@ Our step-by-step video and guide are available in the following languages:
 <a href="https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB" class="bp-button is-secondary is-uppercase search-button" target="_blank">Proceed to claim CDC Vouchers</a>
 </p>
 
+________
+
+### Forgot your Singpass password?
+<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B"  target="_blank">Reset it online</a> or head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B" target="_blank">nearest Singpass counter </a>.</p>
+
+
+### Need Help?
 If you have more questions, please read the [FAQ](faq).
 
 For terms and conditions of using the CDC Vouchers, please read [Terms and Conditions](/about/terms-and-conditions).
 
-To claim the CDC vouchers on behalf of another household, please fill up the [Authorisation Form](/files/Authorisation%20Form%202.pdf) or request for a hardcopy at the nearest CC.  Please refer to the form for more instructions.  
 
-________
+If you need help in claiming your vouchers, please bring along your NRIC to the nearest Community Centre/Club (CC).   
 
-### Forgot your Singpass password?
-<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B"  target="_blank">Reset it online</a> OR head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B" target="_blank">nearest Singpass counter </a>.</p>
+ 
+
+All CCs are open daily from 10am to 6pm and 2pm to 6pm for void deck CCs.  Closed on Public Holidays (PH) 
+
+Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form](/files/Authorisation%20Form%202.pdf) and necessary supporting documents to the CC. 
 
 
-### Contact Us
-
-If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
-
-Hotline operating hours:
+For further enquiries, please contact our hotline at <a href="tel:6225 5322">6225 5322</a> from 8am to 6pm daily, except on public holidays; or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
+If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. 
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
