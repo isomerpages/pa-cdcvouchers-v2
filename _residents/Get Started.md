@@ -9,8 +9,19 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
 
 [	![Alt text for image on Isomer site](/images/residents/resident-banner.jpg)](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e)
 
-Every Singaporean household will receive $100 in CDC Vouchers to support our hawkers and heartland merchants! Only one member of each household needs to log in with Singpass to claim the vouchers.
+From May 2022, every Singaporean household will receive an additional set of $100 in CDC Vouchers to help in daily expenses as part of the Household Support Package.  This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021. These CDC vouchers can be used to purchase goods and services at participating hawkers and heartland merchants. 
 
+ 
+
+Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit https://go.gov.sg/cdcv, select CDC Vouchers Scheme 2022, and login with Singpass to claim the vouchers.   
+
+ 
+
+Households can still use https://go.gov.sg/cdcv to claim their 2021 CDC Vouchers if they have not done so.   
+
+ 
+
+The SMS voucher link for the CDC Vouchers Scheme 2022 is different from the voucher link received for the CDC Vouchers Scheme 2021.  Both links and vouchers are valid till 31 December 2022. 
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
 <tr>
