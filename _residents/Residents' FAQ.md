@@ -200,7 +200,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion15">
     <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
     <div>
-			<p>To retrieve the voucher links for CDC Vouchers 2021 and CDC Vouchers 2022, please visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>and login with Singpass again. You will be able to get the voucher links sent to you via SMS. 
+			<p>To retrieve the voucher links for CDC Vouchers 2021 and CDC Vouchers 2022, please visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the voucher links sent to you via SMS. 
 			</p>
 			<p>
 				Please note that the SMS voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 are different.
