@@ -15,6 +15,11 @@ description: CDC Vouchers Scheme Residents FAQ
     <div>
       <p>In Budget 2021, Deputy Prime Minister, Mr Heng Swee Keat announced the CDC Vouchers Scheme to thank Singaporeans for their sense of solidarity and to support local businesses at HDB estates/heartland enterprises and hawkers. Each Singaporean household will receive $100 CDC Vouchers and the scheme will benefit up to 1.3 million Singaporean households.
 			</p>
+			<p>The Finance Minister Mr Lawrence Wong recently announced at Budget 2022 that the Community Development Councils (CDCs) will be given three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.
+			</p>
+
+<p>In May 2022, the CDCs will distribute $100 worth of CDC Vouchers 2022 to each Singaporean Household to help in daily expenses as part of the Household Support Package. You can use the vouchers to purchase goods and services from participating hawkers and heartland merchants.
+			</p>
 		</div>
 	</li>  
   <li>
@@ -160,7 +165,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion12">
     <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I tell if the SMS sent is a real voucher link?</span></label>
     <div>
-      <p>The SMS is identifiable by the sender named “RedeemSG”. Please also check that your unique voucher link starts with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. .</p>
+      <p>The SMS is identifiable by the sender named “RedeemSG”.  Please also check that your unique voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 start with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
 
 <p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:170px !important;" />
 	</p>
@@ -172,7 +177,10 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion13">
     <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
     <div>
-			<p>To retrieve the vouchers, please visit the sign-up link <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the same vouchers sent to you via SMS. This sign-up link is also shown on the notification letter sent to your household. 
+			<p>To retrieve the voucher links for CDC Vouchers 2021 and CDC Vouchers 2022, please visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>and login with Singpass again. You will be able to get the voucher links sent to you via SMS. 
+			</p>
+			<p>
+				Please note that the SMS voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 are different.
 			</p>
     </div>
   </li>
