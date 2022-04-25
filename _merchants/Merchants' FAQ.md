@@ -127,9 +127,9 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
   </li>
 		<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I had previously participated as a merchant in the CDC Vouchers Tranche 1 (Jun 2020 onwards) and/or Tranche 2 (Jan 2021 onwards). Do I auto-qualify, or do I still need to register to join this CDC Vouchers Scheme?</span></label>
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I am a participating merchant in the CDC Vouchers Scheme 2021.  Do I need to onboard again to be part of CDC Vouchers Scheme 2022 and future tranches?</span></label>
     <div>
-			<p>No, there is no auto-qualification as this is a digital scheme. We are inviting hawkers and heartland merchants like yourself to register for the scheme, and our ambassadors will be reaching out to you at your shop. Alternatively, please see question 7 above on how to register your interest.</p>
+			<p>No, you do not need to be onboarded again.  The CDC Ambassadors will get in touch with you to confirm your interest to continue as a participating merchant for upcoming tranches of the CDC Vouchers Scheme. </p>
     </div>
   </li>
 	<li>
