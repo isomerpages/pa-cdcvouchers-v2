@@ -55,12 +55,12 @@ a.bp-button {
 
 3: **உங்களுக்கான CDC பற்றுச்சீட்டுகளின் இணைப்பைக் குறுந்தகவல் (SMS) மூலம் பெறுங்கள்.** பற்றுச்சீட்டுகளைக் குடும்பத்தாருடன் பகிர்ந்துகொள்ள குறுந்தகவலை அவர்களுக்கு அனுப்பி வையுங்கள். 
 
-<img src="/images/residents/screengrabs-for-infographics/tamil/SMSTamil_5%20Nov%20New%20Link.png" alt="Step 3" style="width:300px !important;" />
+<img src="/images/residents/Tam_Screengrab%203.png" alt="Step 3" style="width:300px !important;" />
 
 
 4: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து,** பங்குபெறும் உணவங்காடிக் கடைக்காரர் அல்லது குடியிருப்பு வட்டார வணிகர் ஸ்கேன் செய்வதற்காக QR குறியீட்டை காட்டுங்கள்.
 
-<img src="/images/residents/screengrabs-for-infographics/tamil/10%20NovTamil%20mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important;" />
+<img src="/images/residents/Tam_Screengrab%204.png" alt="Step 4" style="width:300px !important;" />
 
 
 பங்குபெறும் உணவங்காடிக் கடைகளிலும் குடியிருப்பு வட்டார வணிகக் கடைகளிலும் இந்தச் சின்னம் இருக்கிறதா எனப் பாருங்கள்!
