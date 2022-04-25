@@ -53,7 +53,7 @@ a.bp-button {
 <img src="/images/residents/screengrabs-for-infographics/tamil/M_MobileNumber_TA_5Nov.png" alt="Step 2" style="width:300px !important;" />
 
 
-3: **CDC பற்றுச்சீட்டுகளின் இணைப்பைக் குறுந்தகவல் (SMS) மூலம் பெற்றவுடன்** இணைப்பை கிளிக் (click) செய்து பற்றுச்சீட்டுகளை அடையுங்கள் 
+3: **உங்களுக்கான CDC பற்றுச்சீட்டுகளின் இணைப்பைக் குறுந்தகவல் (SMS) மூலம் பெறுங்கள்.** பற்றுச்சீட்டுகளைக் குடும்பத்தாருடன் பகிர்ந்துகொள்ள குறுந்தகவலை அவர்களுக்கு அனுப்பி வையுங்கள். 
 
 <img src="/images/residents/screengrabs-for-infographics/tamil/SMSTamil_5%20Nov%20New%20Link.png" alt="Step 3" style="width:300px !important;" />
 
