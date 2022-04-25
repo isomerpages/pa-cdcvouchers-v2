@@ -39,23 +39,23 @@ a.bp-button {
 
 2: **Log in using Singpass.** Only one household member needs to do this on behalf of your household.
 
-<img src="/images/residents/screengrabs-for-infographics/english/Log%20in_En_5Nov.png" alt="Step 1" style="width:300px !important;" />
+<img src="/images/Eng_Screengrab%202.png" alt="Step 1" style="width:300px !important;" />
 
 
 3: **Receive your CDC Vouchers link by SMS.** Forward the SMS to share vouchers with household members.  
 
-<img src="/images/residents/screengrabs-for-infographics/english/M_MobileNumber_En_5Nov.png" alt="Step 2" style="width:300px !important;" />
+<img src="/images/Eng_Screengrab%203.png" alt="Step 2" style="width:300px !important;" />
 
 
 4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. 
 
-<img src="/images/residents/screengrabs-for-infographics/english/mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important;" />
+<img src="/images/Eng_Screengrab%204.png" alt="Step 4" style="width:300px !important;" />
 
 Look out for this decal at participating hawkers and heartland merchants!
 
 ![Merchant's Decal](/images/merchants-decal-500.jpg)
 
-Both CDC Vouchers 2021 and 2022 are valid till 31 December 2022.
+You may visit the same link at go.gov.sg/cdcv to claim your household's CDC Vouchers 2021 if you have not already done so. Both CDC Vouchers 2021 and 2022 are valid till 31 December 2022.
 
 If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.
 
