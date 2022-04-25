@@ -157,7 +157,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 <p>Choose CDC Vouchers 2022 to claim your new set of $100 CDC Vouchers.  Claim CDC Vouchers 2021 if you have not claimed your previous set of $100 CDC Vouchers for 2021.</p>
 
 <p>The voucher links will be sent to your registered mobile number via an SMS by RedeemSG.  The voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 are different. </p>
-</p>
+
     </div>
   </li>
 	<li>
