@@ -58,7 +58,7 @@ a.bp-button {
 <img src="/images/residents/screengrabs-for-infographics/tamil/SMSTamil_5%20Nov%20New%20Link.png" alt="Step 3" style="width:300px !important;" />
 
 
-4: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து** பங்குபெறும் உணவங்காடிக் கடைக்காரரிடம் அல்லது வணிகரிடம் QR குறியீட்டைக் காட்டுங்கள். பற்றுச்சீட்டின் இணைப்பை உங்கள் குடும்பத்தாருடனும் பகிர்ந்துக்கொள்ளலாம்!
+4: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து,** பங்குபெறும் உணவங்காடிக் கடைக்காரர் அல்லது குடியிருப்பு வட்டார வணிகர் ஸ்கேன் செய்வதற்காக QR குறியீட்டை காட்டுங்கள்.
 
 <img src="/images/residents/screengrabs-for-infographics/tamil/10%20NovTamil%20mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important;" />
 
