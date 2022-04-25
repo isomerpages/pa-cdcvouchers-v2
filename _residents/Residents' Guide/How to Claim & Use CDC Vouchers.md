@@ -35,7 +35,7 @@ a.bp-button {
 
 1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap into CDC Vouchers 2022. 
 
-<img src="/images/residents/screengrabs-for-infographics/english/Log%20in_En_5Nov.png" alt="Step 1" style="width:300px !important;" />
+<img src="/images/Eng_Screengrab%201.png" alt="Step 1" style="width:300px !important;" />
 
 2: **Log in using Singpass.** Only one household member needs to do this on behalf of your household.
 
