@@ -50,7 +50,7 @@ a.bp-button {
 
 2: <strong>சிங்கபாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள்.</strong> ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.  
 
-<img src="/images/residents/screengrabs-for-infographics/tamil/M_MobileNumber_TA_5Nov.png" alt="Step 2" style="width:300px !important;" />
+<img src="/images/residents/Tam_Screengrab%202.png" alt="Step 2" style="width:300px !important;" />
 
 
 3: **உங்களுக்கான CDC பற்றுச்சீட்டுகளின் இணைப்பைக் குறுந்தகவல் (SMS) மூலம் பெறுங்கள்.** பற்றுச்சீட்டுகளைக் குடும்பத்தாருடன் பகிர்ந்துகொள்ள குறுந்தகவலை அவர்களுக்கு அனுப்பி வையுங்கள். 
