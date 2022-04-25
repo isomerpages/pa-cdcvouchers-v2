@@ -164,7 +164,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion12">
     <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
     <div>
-      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed [Authorisation Form][Authorisation Form](/files/Authorisation%20Form%202.pdf)(/files/Authorisation%20Form%202.pdf)  and necessary supporting documents to the CC. </p>     </div>
+      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a complete and  [hyperlink](/files/Authorisation Form 2.pdf)necessary supporting documents to the CC. </p>     </div>
 	</li>  
 <li>
     <input type="checkbox" id="accordion13">
