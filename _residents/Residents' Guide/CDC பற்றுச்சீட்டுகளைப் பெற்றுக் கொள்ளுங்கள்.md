@@ -48,7 +48,7 @@ a.bp-button {
 <img src="/images/residents/screengrabs-for-infographics/tamil/M_Log%20in_ta_5novupdated.png" alt="Step 1" style="width:300px !important;" />
 
 
-2: <strong>உங்கள் கைப்பேசி எண்ணை உள்ளிட்டு</strong> ஒரு முறை கடவுச்சொல்லைப் me Password) பெற்றுக்கொள்ளுங்கள் 
+2: <strong>சிங்கபாஸ் கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள்.</strong>ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.  
 
 <img src="/images/residents/screengrabs-for-infographics/tamil/M_MobileNumber_TA_5Nov.png" alt="Step 2" style="width:300px !important;" />
 
