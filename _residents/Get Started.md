@@ -13,11 +13,11 @@ From May 2022, every Singaporean household will receive an additional set of $10
 
  
 
-Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit https://go.gov.sg/cdcv, select CDC Vouchers Scheme 2022, and login with Singpass to claim the vouchers.   
+Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2022, and login with Singpass to claim the vouchers.   
 
  
 
-Households can still use https://go.gov.sg/cdcv to claim their 2021 CDC Vouchers if they have not done so.   
+Households can still use <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to claim their 2021 CDC Vouchers if they have not done so.   
 
  
 
