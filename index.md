@@ -10,7 +10,7 @@ notification: Visit your CC if you do not have a smartphone or Singpass or need
 sections:
   - hero:
       title: CDC Vouchers <br>Scheme
-      background: /images/Hero%20Banner%20Light%20v3--.png
+      background: /images/CDCV Website Banner.png
       key_highlights:
         - title: I am a Resident
           description: Click here for next steps
