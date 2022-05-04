@@ -31,7 +31,6 @@ In May 2022, the CDCs will distribute $100 worth of CDC Vouchers 2022 to each Si
 			<ol>
         <li>Next-day payout*</li>
         <li>No Commissions or fees</li>
-        <li>Fuss-free redemption and transaction tracking</li>
 				<li>No handling of physical vouchers</li>
       </ol>
 			<p>*Merchant would need to ensure bank account/PayNow proxy (handphone,  NRIC or UEN) provided to PA are accurate in order to achieve the reimbursement timeline.</p>
