@@ -91,11 +91,11 @@ Taking in the feedback from the merchants and residents who participated in the 
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Customers are required to scan the merchant’s QR Code to make payment on some of the other e-payment platforms.  Why are merchants required to scan the customer’s voucher QR code for the CDC Vouchers Scheme instead? </span></label>
     <div>
- 			<p>CDCs in partnership with Open Government Products, GovTech, had previously tested the model in which the customer scans the merchant’s QR. While this is technically possible, we identified it would come with the following drawbacks:</p>
+ 			<p>CDCs in partnership with Government Technology Agency (GovTech), had previously tested the model in which the customer scans the merchant’s QR. While this is technically possible, we identified it would come with the following drawbacks:</p>
 <p>
 	a) If customers were to scan merchants’ QR, all citizens will need to download a mobile app. </p>
 			<p>
-b) Digitally less savvy residents would be excluded from the scheme if they do not download an app or have an e-wallet, unless we specially cater for paper vouchers on top of the e-wallet.</p>
+b) Digitally less-savvy residents would be excluded from the scheme if they do not download an app or have an e-wallet, unless we specially cater for paper vouchers on top of the e-wallet.</p>
 			<p>
 c) We have also found through previous trials with residents that selecting the exact amount to be spent (as in an e-wallet model) was confusing for some residents and error prone.
 			</p>
