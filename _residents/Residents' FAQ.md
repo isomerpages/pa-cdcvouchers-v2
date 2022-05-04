@@ -47,8 +47,7 @@ description: CDC Vouchers Scheme Residents FAQ
     <div>
 			<p>The vouchers are in fixed denominations because it is less confusing for residents, especially the digitally less-savvy, and reduces the chance for errors to occur when residents key in the amount.  It enables merchants to receive their reimbursement faster.</p>
 <p>
-Taking in the feedback from the merchants who participated in the trials and previous CDC Vouchers Scheme, the vouchers are therefore in denominations of $2, $5 and $10. 
-			</p>
+Taking in the feedback from the merchants and residents who participated in the trials and previous CDC Vouchers Scheme, $2, $5 and $10 are the preferred denominations for the vouchers.			</p>
     </div>
   </li>
     
