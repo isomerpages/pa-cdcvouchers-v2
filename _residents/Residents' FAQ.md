@@ -188,7 +188,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion14">
     <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I tell if the SMS sent is a real voucher link?</span></label>
     <div>
-      <p>The SMS is identifiable by the sender named “RedeemSG”.  Please also check that your unique voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 start with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
+      <p>The SMS is identifiable by the sender named “RedeemSG”.  Please also check that your unique voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 start with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. Residents will only be required to key in their Singpass information once when registering for the vouchers. RedeemSG will not send SMSes to call for resift sign-ups. SMSes from RedeemSG will not require users to key in personal information or banking details. Similarly, PA will not call users on matters related to CDC Vouchers. If you detect any suspicious messages related to RedeemSG or CDC Vouchers, please contact PA at 62255322.</p>
 
 <p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:170px !important;" />
 	</p>
