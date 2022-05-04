@@ -346,7 +346,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion27">
-    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Will residents be able to donate their vouchers to needy individuals and charities?</span></label>
+    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**Will residents be able to donate their vouchers to needy individuals and charities?</span></label>
     <div>
 			<p>Currently there is no official arrangement to donate the CDC Vouchers.</p>
 
@@ -356,7 +356,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion28">
-    <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">The CDC Vouchers Scheme 2020 started out with the intent of helping the less privileged defray the cost of living amidst the pandemic. This year, the scheme is extended to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
+    <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**The CDC Vouchers Scheme 2020 started out with the intent of helping the less privileged defray the cost of living amidst the pandemic. This year, the scheme is extended to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
     <div>
 			<p>As part of the Household Support Package, Finance Minister Mr Lawrence Wong recently announced at Budget 2022 that the Community Development Councils (CDCs) will be given three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times.</p>
 			<p>
@@ -367,9 +367,9 @@ Residents who require more financial assistance may approach the CCs for more de
   </li>
 	<li>
     <input type="checkbox" id="accordion29">
-    <label for="accordion29"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I received an SMS asking me to key in my NRIC and personal details to claim my CDC Vouchers. Is it a phishing message? </span></label>
+    <label for="accordion29"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**I received an SMS asking me to key in my NRIC and personal details to claim my CDC Vouchers. Is it a phishing message? </span></label>
     <div>
-			<p>RedeemSG will not send any SMSes to request yout o key in your personal details to claim your CDC Vouchers. If you receive any link that requests for your personal information, it is likely to be a phishing link. If you receive such messages, please alert us immediately via PA's hotline 62255322.
+			<p>RedeemSG will not send any SMSes to request you to key in your personal details to claim your CDC Vouchers. If you receive any link that requests for your personal information, it is likely to be a phishing link. If you receive such messages, please alert us immediately via PA's hotline 62255322.
 			<p>
     </div>
   </li>
