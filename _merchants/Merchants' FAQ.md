@@ -81,7 +81,7 @@ b) <a href="/merchants/info#merchantreginterest">register your interest with you
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font- style: normal; color:#DB3B18">How can I get more information about the CDC Vouchers Scheme?</span></label>
     <div>
-			<p>Please call the PA Contact Centre at 6225 5322.</p>
+			<p>Please visit the CDC website [https://vouchers.cdc.gov.sg/merchants/info](https://vouchers.cdc.gov.sg/merchants/info).</p>
     </div>
   </li>
 </ul>
@@ -132,7 +132,7 @@ b) <a href="/merchants/info#merchantreginterest">register your interest with you
   </li>
 		<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**I am a participating merchant in the CDC Vouchers Scheme 2021.  Do I need to onboard again to be part of CDC Vouchers Scheme 2022 and future tranches?</span></label>
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**I had previosuly participated as a merchant in CDC Vouchers 2021. Do I auto-qualify or do I still need to register to join CDC Vouchers Scheme 2022 and future tranches? Also will I receive the $30 onboarding incentives again for CDC Vouchers Scheme 2022 and future tranches?</span></label>
     <div>
 			<p>Yes, you are auto qualified to continue with the CDC Vouchers Scheme 2022. Our CDC Ambassadors will reach out to you to update on the information and provide an info-sheet/welcome letter. The $30 onboarding incentive is a one-time thank you gesture for the participating merchants and hawkers. Existing merchants would not receive another $30. </p>
     </div>
