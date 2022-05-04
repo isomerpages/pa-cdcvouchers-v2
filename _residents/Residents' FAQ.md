@@ -210,7 +210,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 		<li>
     <input type="checkbox" id="accordion16">
-    <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**What should I do if my household’s vouchers have already been claimed by previous occupants?</span></label>
+    <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**What should I do if my household’s vouchers have already been claimed by someone else?</span></label>
     <div>
 			<p>If you are checking for the CDC Vouchers issued in May 2022, please kindly check that you have clicked on the “CDC Vouchers 2022” option.</p>
 			<p>If someone else has claimed the vouchers, the page will display the name of the family member who has claimed the vouchers on behalf of the household after you have completed the login with Singpass. You may wish to check with that household member.
