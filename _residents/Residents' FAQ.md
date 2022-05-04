@@ -100,7 +100,7 @@ b) Digitally less-savvy residents would be excluded from the scheme if they do n
 c) We have also found through previous trials with residents that selecting the exact amount to be spent (as in an e-wallet model) was confusing for some residents and error prone.
 			</p>
 			<p>
-To ensure that the digital system caters to both digitally savvy and digitally less savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper is used -- residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers. 
+To ensure that the digital system caters to both digitally savvy and digitally less-savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper is used -- residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers. 
  			</p>
 	</div>
   </li>
