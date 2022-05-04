@@ -127,9 +127,9 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
   </li>
 		<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I am a participating merchant in the CDC Vouchers Scheme 2021.  Do I need to onboard again to be part of CDC Vouchers Scheme 2022 and future tranches?</span></label>
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**I am a participating merchant in the CDC Vouchers Scheme 2021.  Do I need to onboard again to be part of CDC Vouchers Scheme 2022 and future tranches?</span></label>
     <div>
-			<p>No, you do not need to be onboarded again.  The CDC Ambassadors will get in touch with you to confirm your interest to continue as a participating merchant for upcoming tranches of the CDC Vouchers Scheme. </p>
+			<p>Yes, you are auto qualified to continue with the CDC Vouchers Scheme 2022. Our CDC Ambassadors will reach out to you to update on the information and provide an info-sheet/welcome letter. The $30 onboarding incentive is a one-time thank you gesture for the participating merchants and hawkers. Existing merchants would not receive another $30. </p>
     </div>
   </li>
 	<li>
