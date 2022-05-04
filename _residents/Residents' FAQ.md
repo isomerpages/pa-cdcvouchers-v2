@@ -155,7 +155,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>Even if you have already claimed your CDC Vouchers 2021, you will need to claim your CDC Vouchers 2022 again. The claim process is similar for both tranches of the scheme.  You may visit go.gov.sg/cdcv and log in with your Singpass account.  Only one member of the household is required to claim on behalf of the household.</p>
 
-<p>Choose CDC Vouchers 2022 to claim your new set of $100 CDC Vouchers.  Claim CDC Vouchers 2021 if you have not claimed your previous set of $100 CDC Vouchers for 2021.</p>
+<p>Choose CDC Vouchers 2022 to claim another $100 CDC Vouchers.  Claim CDC Vouchers 2021 if you have not claimed your previous set of $100 CDC Vouchers for 2021.</p>
 
 <p>The voucher links will be sent to your registered mobile number via an SMS by RedeemSG.  The voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 are different. </p>
 
@@ -187,7 +187,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 	</li>  
 	<li>
     <input type="checkbox" id="accordion14">
-    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**How can I tell if the SMS sent is a real voucher link?</span></label>
+    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**How can I tell if the SMS sent is a real voucher link? Will the SMS request for my NRIC and personal details in order to claim my CDC Vouchers?</span></label>
     <div>
       <p>The SMS is identifiable by the sender named “RedeemSG”.  Please also check that your unique voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 start with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
 			<p>Residents will only be required to key in their Singpass information once when registering for the vouchers. RedeemSG will not send SMSes to call for sign-ups. SMSes from RedeemSG will not require users to key in personal information or banking details. Similarly, PA will not call users on matters related to CDC Vouchers. If you detect any suspicious messages related to RedeemSG or CDC Vouchers, please contact PA at 62255322.</p>
@@ -227,7 +227,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>Please kindly seek help from your family members for assistance to claim the vouchers. </p>
 
-<p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the voucher. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account from 13 Dec 2021 onwards.</p>
+<p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account from 13 Dec 2021 onwards.</p>
 			
 <p>To find out the location of your nearest CC, please key in your postal code using  <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank"><strong>CDC's district locator</strong>.</a>
 			</p>
