@@ -246,7 +246,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <label for="accordion18"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Which merchants can I spend my vouchers at?</span></label>
     <div>
 			<p>The CDC vouchers can be used at participating heartland merchants and hawkers.  Look out for the CDC Vouchers decal displayed at the merchant/hawker stall shopfront to know where the vouchers can be used at, and also take this opportunity to explore and get to know your neighbourhood.</p> 
-			<p>You can also visit <a href="https://www.gowhere.gov.sg/cdcvouchersmerchants" target="_blank"><strong>gowhere.gov.sg/cdcvouchersmerchants</strong></a> to search for the nearest participating hawkers and heartland merchants.
+			<p>You can also visit <a href="https://www.gowhere.gov.sg/cdcvouchersmerchants" target="_blank"><strong>go.gov.sg/cdcvouchersmerchants</strong></a> to search for the nearest participating hawkers and heartland merchants.
 				<br><img src="/images/merchants-decal-500.jpg" alt="CDC Vouchers Decal" style="width:400px !important;"/>
 			</p>
     </div>
@@ -255,8 +255,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion19">
     <label for="accordion19"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Is there a maximum number of vouchers I can spend per purchase?</span></label>
     <div>
-			<p>There is no limit to the number of vouchers that can be spent at any one time. You can stack the vouchers and spend all the vouchers in a single transaction.
-			</p>
+			<p>There is no limit to the number of vouchers that can be spent at any one time.  However, a maximum of 15 digital vouchers can be  stacked and used per transaction to ensure the QR code remains scannable by the merchants.  			</p>
     </div>
   </li>
 	<li>
