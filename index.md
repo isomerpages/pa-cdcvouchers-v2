@@ -19,6 +19,7 @@ sections:
       button: Claim my CDC vouchers
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB
       title: CDC Vouchers Scheme
+      background: /images/CDCV Banner 7.png
   - infobar:
       title: Latest Announcement
       description: As announced in Budget 2022, the CDCs will distribute an additional
