@@ -9,7 +9,7 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
 
 [	![Alt text for image on Isomer site](/images/residents/resident-banner.jpg)](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e)
 
-From May 2022, every Singaporean household will receive an additional set of $100 in CDC Vouchers to help in daily expenses as part of the Household Support Package.  This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021. These CDC vouchers can be used to purchase goods and services at participating hawkers and heartland merchants. 
+From May 2022, every Singaporean household will receive another $100 in CDC Vouchers to help in daily expenses as part of the Household Support Package. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021. These CDC Vouchers can be used to purchase goods and services at participating heartland merchants and hawkers. 
 
  
 
