@@ -9,7 +9,6 @@ notification: Visit your CC if you do not have a smartphone or Singpass or need
   help to claim your vouchers.
 sections:
   - hero:
-      background: /images/CDCV Banner 6.png
       key_highlights:
         - title: I am a Resident
           description: Click here for next steps
