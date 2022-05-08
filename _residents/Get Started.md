@@ -22,19 +22,21 @@ Households can still use <a href="https://go.gov.sg/cdcv" target="redeemsg"><str
  
 
 The SMS voucher link for the CDC Vouchers Scheme 2022 is different from the voucher link received for the CDC Vouchers Scheme 2021.  Both links and vouchers are valid till 31 December 2022. 
+
+
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
 <tr>
-<td style="width:125px !important;"><img src="/images/residents/no-download.png" alt="No need to download a mobile app" style="width:125px !important;"/></td>
-<td style="vertical-align: middle;"><p><strong>No need to download a mobile app</strong></p></td>
+<td style="width:125px !important;"><img src="/images/residents/Icon%201.png" alt="No need to download a mobile app" style="width:125px !important;"/></td>
+<td style="vertical-align: middle;"><p><strong>Same steps to claim your CDC Vouchers 2022 online</strong></p></td>
 </tr>
 	<tr>
-<td><img src="/images/residents/claim-easily.png" alt="Claim your digital vouchers easily" style="width:125px !important;"/></td>
-<td style="vertical-align: middle;"><p><strong>Claim your digital vouchers easily with just a few taps</strong></p></td>
+<td><img src="/images/residents/Icon%202.png" alt="Claim your digital vouchers easily" style="width:125px !important;"/></td>
+<td style="vertical-align: middle;"><p><strong>Spend vouchers at participating heartland merchants and hawkers</strong></p></td>
 </tr>
 		<tr>
-<td><img src="/images/residents/use-voucher.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"/></td>
-<td style="vertical-align: middle;"><p><strong>Use digital vouchers at participating hawkers and merchants</strong></p></td>
+<td><img src="/images/residents/Icon%203.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"/></td>
+<td style="vertical-align: middle;"><p><strong>Vouchers expire on 31 December 2022</strong></p></td>
 </tr>
 </tbody>
 </table>
