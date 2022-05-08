@@ -20,10 +20,6 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 			<td style="width:122px !important;"><img src="/images/merchants/next-day-payout.png" alt="Next-Day Payout icon" style="width:120px !important;" /></td>
 		<td><p><strong>Next-Day Payout</strong><br>Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline.</p></td>
 	</tr>
-<tr>
-			<td style="width:122px !important;"><img src="/images/merchants/fuss-free-redemption.png" alt="Fuss-free-Redemption &amp; Transaction Tracking icon" style="width:120px !important;" /></td>
-		<td style="vertical-align: middle;"><p><strong>Fuss-free-Redemption &amp; Transaction Tracking</strong></p></td>
-	</tr>
 	<tr>
 			<td style="width:122px !important;"><img src="/images/merchants/no-handling-of-physical-vouchers.png" alt="No Handling of Physical Vouchers icon" style="width:120px !important;" /></td>
 		<td style="vertical-align: middle;"><p><strong>No Handling of Physical Vouchers</strong></p></td>
