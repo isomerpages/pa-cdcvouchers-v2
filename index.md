@@ -16,9 +16,9 @@ sections:
         - title: I am a Merchant
           description: Click here for next steps
           url: /merchants/info/
-      button: Claim my CDC vouchers
+      button: Claim my CDC vouchers 2022
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB
-      title: CDC Vouchers Scheme
+      title: CDC Vouchers Scheme 2022
       background: /images/CDCV Banner 7.png
   - infobar:
       title: Latest Announcement
