@@ -27,7 +27,7 @@ In May 2022, the CDCs will distribute $100 worth of CDC Vouchers 2022 to each Si
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Who is eligible for the CDC Vouchers Scheme?</span></label>
     <div>
-      <p>All Singaporean households are eligible for the scheme. Each Singaporean household can claim $100 in CDC vouchers that can be spent at participating heartland merchants and hawkers.
+      <p>Each Singaporean household can claim $100 in CDC vouchers that can be spent at participating heartland merchants and hawkers.
 			</p>
     </div>
   </li>
