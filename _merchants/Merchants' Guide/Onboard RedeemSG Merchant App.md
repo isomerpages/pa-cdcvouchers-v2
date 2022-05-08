@@ -44,11 +44,12 @@ a.bp-button {
 
 <p>5: Type "Transactions" to see vouchers you've scanned. Tap "Payouts" to see payments to your bank account.</p>
 
+
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
 <td><img src="/images/merchants/merchants-infographics/english/2%20Transactions%20entire%20shop.png" style="width:250px !important;" alt="Transactions screen"/> </td>
-<td><img src="/images/merchants/merchants-infographics/english/1%20Payouts%20daily.png" style="width:250px !important;" alt="Payouts screen"/> </td>
+<td><img src="/images/merchants/payout%20updated.png" style="width:250px !important;" alt="Payouts screen"/> </td>
 </tr>
 </tbody>
 </table>
