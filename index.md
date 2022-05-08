@@ -33,7 +33,7 @@ sections:
         2021 & 2022 easily with just a few taps.
       button: Claim now
       url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e
-      image: /images/residents/Hero%20banner%20no%20button.png
+      image: /images/residents/resident banner without button.png
       alt: Calling Singaporean households
   - infobar:
       title: Where to spend your CDC Vouchers?
