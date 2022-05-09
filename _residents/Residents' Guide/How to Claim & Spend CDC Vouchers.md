@@ -4,7 +4,6 @@ permalink: /residents/how-to-claim-cdc-vouchers
 description: ""
 third_nav_title: Residents' Guide
 ---
-
 <span id="cdcv_page_top"></span>
 **[English](how-to-claim-cdc-vouchers)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [中文](how-to-claim-cdc-vouchers-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
 
@@ -56,7 +55,7 @@ Look out for this decal at participating hawkers and heartland merchants!
 
 ![Merchant's Decal](/images/merchants-decal-500.jpg)
 
-You may visit the same link at go.gov.sg/cdcv to claim your household's CDC Vouchers 2021 if you have not already done so. Both CDC Vouchers 2021 and 2022 are valid till 31 December 2022.
+You may visit the same link at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to claim your household's CDC Vouchers 2021 if you have not already done so. Both CDC Vouchers 2021 and 2022 are valid till 31 December 2022.
 
 If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.
 
