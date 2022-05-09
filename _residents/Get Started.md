@@ -96,6 +96,12 @@ ________
 <p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B"  target="_blank">Reset it online</a> or head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B" target="_blank">nearest Singpass counter </a>.</p>
 
 
+### Important
+* You will receive an SMS with the unique voucher link from RedeemSG right after you have claimed your vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 20 (i.e. Upon completing Steps 1 to 3). 
+* Make sure that the unique voucher link you receive starts with https://voucher.redeem.gov.sg/. Do not trust or click on any voucher links starting with other prefixes.
+* Do note that RedeemSG will never send SMSes asking for your personal information or banking details to claim the vouchers.   
+ 
+
 ### Need Help?
 * If you have more questions, please read the [FAQ](faq).
 
