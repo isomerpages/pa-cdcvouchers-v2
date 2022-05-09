@@ -82,7 +82,6 @@ Our step-by-step video and guide are available in the following languages:
 
 <p>Do note that RedeemSG will never send SMSes asking for your personal information or banking details to claim the vouchers.</p>
 </div>
-<br>
 
 ________
 
