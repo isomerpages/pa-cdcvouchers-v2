@@ -11,18 +11,11 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
 
 From May 2022, every Singaporean household will receive another $100 in CDC Vouchers to help in daily expenses as part of the Household Support Package. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021. These CDC Vouchers can be used to purchase goods and services at participating heartland merchants and hawkers. 
 
- 
-
-Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2022, and login with Singpass to claim the vouchers.   
-
- 
+ Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2022, and login with Singpass to claim the vouchers.   
 
 Households can still use <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to claim their 2021 CDC Vouchers if they have not done so.   
 
- 
-
 The SMS voucher link for the CDC Vouchers Scheme 2022 is different from the voucher link received for the CDC Vouchers Scheme 2021.  Both links and vouchers are valid till 31 December 2022. 
-
 
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
@@ -68,7 +61,7 @@ Our step-by-step video and guide are available in the following languages:
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 130%;">
 <tbody>
 <tr>
-<td> English </td><td> <a href="/residents/how-to-claim-cdc-vouchers">How to claim and use CDC vouchers</a></td>
+<td> English </td><td> <a href="/residents/how-to-claim-cdc-vouchers">How to claim and spend CDC vouchers</a></td>
 </tr>
 <tr>
 <td> 中文 </td><td> <a href="/residents/how-to-claim-cdc-vouchers-chinese">如何领取及使用社理会邻里购物券</a></td>
@@ -82,24 +75,26 @@ Our step-by-step video and guide are available in the following languages:
 </table>
 
 <br>
-<div style="font-size:18px; background-color:#f3d7d7; padding:25px;text-align: center;">	
-<h4><strong>Get ready your Singpass</strong></h4>
-<p><strong>Singpass is required to claim your CDC vouchers.</strong></p>
+<div style="font-size:18px; background-color:#f3d7d7; padding:25px;text-align:left;">
+<h3><strong>Important</strong></h3>
+<p>You will receive an SMS with the unique voucher link from RedeemSG right after you have claimed your vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>(i.e. Upon completing Steps 1 to 3). </p>
+<p>Make sure that the unique voucher link you receive starts with https://voucher.redeem.gov.sg/. Do not trust or click on any voucher links starting with other prefixes.</p>
+
+<p>Do note that RedeemSG will never send SMSes asking for your personal information or banking details to claim the vouchers.</p>
 </div>
-<p  style="text-align: center;">
-<a href="https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB" class="bp-button is-secondary is-uppercase search-button" target="_blank">Proceed to claim CDC Vouchers</a>
-</p>
+<br>
 
 ________
 
+### Get ready your Singpass
+<p>Singpass is required to claim your CDC vouchers.</p>
+</div>
+<p  style="text-align: left;">
+<a href="https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB" class="bp-button is-secondary is-uppercase search-button" target="_blank">Proceed to claim CDC Vouchers</a>
+</p>
+
 ### Forgot your Singpass password?
-<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B"  target="_blank">Reset it online</a> or head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B" target="_blank">nearest Singpass counter </a>.</p>
-
-
-### Important
-* You will receive an SMS with the unique voucher link from RedeemSG right after you have claimed your vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 20 (i.e. Upon completing Steps 1 to 3). 
-* Make sure that the unique voucher link you receive starts with https://voucher.redeem.gov.sg/. Do not trust or click on any voucher links starting with other prefixes.
-* Do note that RedeemSG will never send SMSes asking for your personal information or banking details to claim the vouchers.   
+<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B"  target="_blank">Reset it online</a> or head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B" target="_blank">nearest Singpass counter </a>.</p> 
  
 
 ### Need Help?
