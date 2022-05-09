@@ -15,11 +15,11 @@ description: CDC Vouchers Scheme Residents FAQ
     <div>
 		      <p>Deputy Prime Minister and then Finance Minister Mr Heng Swee Heat launched the CDC Vouchers Scheme in June 2020 and January 2021 to help Singaporean lower-income households defray their cost of living and at the same time, to support hawkers and heartland merchants affected by Covid-19 pandemic.  Each identified Singaporean lower-income household received $50 each in June 2020 and January 2021. </p>
 			<p>
-In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swee Keat announced the $130million CDC Vouchers Scheme to thank Singaporeans for their sense of solidarity and to support local businesses at HDB estates/heartland enterprises and hawkers.  Each Singaporean household will receive $100 CDC vouchers and the scheme will benefit up to 1.3 million Singaporean households. </p>
+In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swee Keat announced the $130million CDC Vouchers Scheme to thank Singaporeans for their sense of solidarity and to support heartland merchants and hawkers.  Each Singaporean household will receive $100 CDC vouchers and the scheme will benefit up to 1.3 million Singaporean households. </p>
 			<p>
 			Finance Minister Mr Lawrence Wong recently announced at Budget 2022 that the Community Development Councils (CDCs) will be giving three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times.  This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.</p>
 			<p>
-In May 2022, the CDCs will distribute $100 worth of CDC Vouchers 2022 to each Singaporean Household to help in daily expenses as part of the Household Support Package.  You can use the vouchers to purchase goods and services from participating hawkers and heartland merchants.
+In May 2022, the CDCs will distribute $100 worth of CDC Vouchers 2022 to each Singaporean household to help in daily expenses as part of the Household Support Package.  You can use the vouchers to purchase goods and services from participating hawkers and heartland merchants.
 			</p>
 		</div>
 	</li>  
@@ -121,7 +121,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
     <input type="checkbox" id="accordion8">
     <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**How can residents claim and spend their CDC Vouchers 2022 (and 2021, if still not fully spent)?</span></label>
     <div>
-			<p>Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.</p>
+			<p>Only one Singaporean household member with a Singpass account needs to claim the vouchers on behalf of the entire household.</p>
 			<p>
 1) Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2022, and login with Singpass to claim the vouchers. </p>
 			<p>
@@ -152,9 +152,9 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion11">
     <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**If I have already claimed my CDC Vouchers 2021, will my CDC Vouchers 2022 be automatically reflected in the same SMS voucher link?</span></label>
     <div>
-			<p>Even if you have already claimed your CDC Vouchers 2021, you will need to claim your CDC Vouchers 2022 again. The claim process is similar for both tranches of the scheme.  You may visit go.gov.sg/cdcv and log in with your Singpass account.  Only one member of the household is required to claim on behalf of the household.</p>
+			<p>Even if you have already claimed your CDC Vouchers 2021, you will need to claim your CDC Vouchers 2022 again. The claim process is similar for both schemes.  You may visit go.gov.sg/cdcv and log in with your Singpass account.  Only one member of the household is required to claim on behalf of the household.</p>
 
-<p>Choose CDC Vouchers 2022 to claim another $100 CDC Vouchers.  Claim CDC Vouchers 2021 if you have not claimed your previous set of $100 CDC Vouchers for 2021.</p>
+<p>Choose CDC Vouchers 2022 to claim your set of $100 CDC Vouchers.  Claim CDC Vouchers 2021 if you have not claimed your previous set of $100 CDC Vouchers for 2021.</p>
 
 <p>The voucher links will be sent to your registered mobile number via an SMS by RedeemSG.  The voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 are different. </p>
 
@@ -164,7 +164,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion12">
     <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
     <div>
-      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a complete and  <a href="/files/Authorisation Form 2.pdf"> Authorisation Form</a> necessary supporting documents to the CC. </p>     </div>
+      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed <a href="/files/Authorisation Form 2.pdf"> Authorisation Form</a> and necessary supporting documents to the CC. </p>     </div>
 	</li>  
 <li>
     <input type="checkbox" id="accordion13">
@@ -226,7 +226,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>Please kindly seek help from your family members for assistance to claim the vouchers. </p>
 
-<p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account from 13 Dec 2021 onwards.</p>
+<p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account.</p>
 			
 <p>To find out the location of your nearest CC, please key in your postal code using  <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank"><strong>CDC's district locator</strong>.</a>
 			</p>
@@ -254,7 +254,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion19">
     <label for="accordion19"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Is there a maximum number of vouchers I can spend per purchase?</span></label>
     <div>
-			<p>There is no limit to the number of vouchers that can be spent at any one time.  However, a maximum of 15 digital vouchers can be  stacked and used per transaction to ensure the QR code remains scannable by the merchants.  			</p>
+			<p>There is no limit to the value of vouchers that can be spent at any one time.  However, a maximum of 15 digital vouchers can be  stacked and used per transaction to ensure the QR code remains scannable by the merchants.  			</p>
     </div>
   </li>
 	<li>
@@ -312,7 +312,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>The QR codes are similar to cash and any misplaced printed QR codes may be used by anyone who picked it.</p> 
 			<p>You may request for a re-print at the CCs if the vouchers have been partially used, but a new set of vouchers will not be issued again.</p> 
-			<p>Residents are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash. Residents are advised to be careful with sharing their voucher links, as this provides access to be able to spend the voucher at participating merchants.
+			<p>Residents are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash. Residents are advised to be careful with sharing their voucher links, as anyone with your voucher link can spend your voucher at participating merchants.
 			</p>
     </div>
   </li>
@@ -355,7 +355,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion28">
-    <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**The CDC Vouchers Scheme 2020 started out with the intent of helping the less privileged defray the cost of living amidst the pandemic. This year, the scheme is extended to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
+    <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**The CDC Vouchers Scheme 2020 started out with the intent of helping the lower-income households defray the cost of living amidst the pandemic. This year, the scheme is extended to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
     <div>
 			<p>As part of the Household Support Package, Finance Minister Mr Lawrence Wong recently announced at Budget 2022 that the Community Development Councils (CDCs) will be given three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times.</p>
 			<p>
@@ -368,7 +368,7 @@ Residents who require more financial assistance may approach the CCs for more de
     <input type="checkbox" id="accordion29">
     <label for="accordion29"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**I received an SMS asking me to key in my NRIC and personal details to claim my CDC Vouchers. Is it a phishing message? </span></label>
     <div>
-			<p>RedeemSG will not send any SMSes to request you to key in your personal details to claim your CDC Vouchers. If you receive any link that requests for your personal information, it is likely to be a phishing link. If you receive such messages, please alert us immediately via PA's hotline 62255322.
+			<p>PA/RedeemSG will not send any SMSes to request you to key in your personal details to claim your CDC Vouchers. If you receive any link that requests for your personal information, it is likely to be a phishing link. If you receive such messages, please alert us immediately via PA's hotline 62255322.
 			</p>
     </div>
   </li>
