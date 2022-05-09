@@ -81,7 +81,7 @@ b) <a href="/merchants/info#merchantreginterest">register your interest with you
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font- style: normal; color:#DB3B18">How can I get more information about the CDC Vouchers Scheme?</span></label>
     <div>
-			<p>Please visit the CDC website [https://vouchers.cdc.gov.sg/merchants/info](https://vouchers.cdc.gov.sg/merchants/info).</p>
+			<p>Please visit the CDC website <a href="https://vouchers.cdc.gov.sg" target="police"><strong>https://vouchers.cdc.gov.sg </strong></a></p>
     </div>
   </li>
 </ul>
@@ -95,7 +95,7 @@ b) <a href="/merchants/info#merchantreginterest">register your interest with you
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
     <div>
-			<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms. To find out which CDC your stall falls under, please key in your postal code using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank">CDC's district locator</a>. An officer will be in touch with you within 10 working days upon submission of the form.</p>
+			<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms. To find out which CDC your stall falls under, please key in your postal code using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank">CDC's district locator</a>. An officer will be in touch with you within 14 calendar days upon submission of the form.</p>
     </div>
   </li>
 				<li>
