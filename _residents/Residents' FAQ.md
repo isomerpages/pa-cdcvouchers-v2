@@ -13,7 +13,7 @@ description: CDC Vouchers Scheme Residents FAQ
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**What is the CDC Vouchers Scheme 2022 and 2021?</span></label>
     <div>
-		      <p>Deputy Prime Minister and then Finance Minister Mr Heng Swee Heat launched the CDC Vouchers Scheme in June 2020 and January 2021 to help Singaporean lower-income households defray their cost of living and at the same time, to support hawkers and heartland merchants affected by Covid-19 pandemic.  Each identified Singaporean lower-income household received $50 each in June 2020 and January 2021. </p>
+		      <p>Deputy Prime Minister and then Finance Minister Mr Heng Swee Heat launched the CDC Vouchers Scheme in June 2020 and January 2021 respectively to help Singaporean lower-income households defray their cost of living and at the same time, to support hawkers and heartland merchants affected by Covid-19 pandemic.  Each identified Singaporean lower-income household received $50 worth of CDC Vouchers in June 2020 and January 2021. </p>
 			<p>
 In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swee Keat announced the $130million CDC Vouchers Scheme to thank Singaporeans for their sense of solidarity and to support heartland merchants and hawkers.  Each Singaporean household will receive $100 CDC vouchers and the scheme will benefit up to 1.3 million Singaporean households. </p>
 			<p>
@@ -145,7 +145,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion10">
     <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</span></label>
     <div>
-			<p>Please refer to the following link for a list of <a href="https://www.ifaq.gov.sg/singpass/apps" target="_blank">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit a Singpass counter across all Community Centres/Clubs (CC) in Singapore for assistance. </p>
+			<p>Please refer to the following link for a list of <a href="https://www.singpass.gov.sg/main/html/faq.html" target="_blank">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit a Singpass counter located in all Community Centres/Clubs (CC) across Singapore for assistance. </p>
     </div>
   </li>
 <li>
@@ -154,7 +154,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>Even if you have already claimed your CDC Vouchers 2021, you will need to claim your CDC Vouchers 2022 again. The claim process is similar for both schemes.  You may visit go.gov.sg/cdcv and log in with your Singpass account.  Only one member of the household is required to claim on behalf of the household.</p>
 
-<p>Choose CDC Vouchers 2022 to claim your set of $100 CDC Vouchers.  Claim CDC Vouchers 2021 if you have not claimed your previous set of $100 CDC Vouchers for 2021.</p>
+<p>Choose CDC Vouchers 2022 to claim your set of $100 CDC Vouchers.  Claim CDC Vouchers 2021 if your household has not claimed your previous set of $100 CDC Vouchers for 2021.</p>
 
 <p>The voucher links will be sent to your registered mobile number via an SMS by RedeemSG.  The voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 are different. </p>
 
