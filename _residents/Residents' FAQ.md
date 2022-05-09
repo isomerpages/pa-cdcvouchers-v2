@@ -369,7 +369,7 @@ Residents who require more financial assistance may approach the CCs for more de
     <label for="accordion29"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**I received an SMS asking me to key in my NRIC and personal details to claim my CDC Vouchers. Is it a phishing message? </span></label>
     <div>
 			<p>RedeemSG will not send any SMSes to request you to key in your personal details to claim your CDC Vouchers. If you receive any link that requests for your personal information, it is likely to be a phishing link. If you receive such messages, please alert us immediately via PA's hotline 62255322.
-			<p>
+			</p>
     </div>
   </li>
 
