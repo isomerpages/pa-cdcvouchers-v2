@@ -9,7 +9,7 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
 
 [	![Alt text for image on Isomer site](/images/residents/resident%20banner.png)](https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e)
 
-From May 2022, every Singaporean household will receive another $100 in CDC Vouchers to help in daily expenses as part of the Household Support Package. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021. These CDC Vouchers can be used to purchase goods and services at participating heartland merchants and hawkers. 
+From May 2022, every Singaporean household will receive another $100 in CDC Vouchers to help in daily expenses as part of the Household Support Package. This is in addition to the $100 in CDC Vouchers that every Singaporean household is eligible for, announced in Budget 2021. These CDC Vouchers can be used to purchase goods and services at participating heartland merchants and hawkers. 
 
  Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2022, and login with Singpass to claim the vouchers.   
 
@@ -77,7 +77,7 @@ Our step-by-step video and guide are available in the following languages:
 <br>
 <div style="font-size:18px; background-color:#f3d7d7; padding:25px;text-align:left;">
 <h3><strong>Important</strong></h3>
-<p>You will receive an SMS with the unique voucher link from RedeemSG right after you have claimed your vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>(i.e. Upon completing Steps 1 to 3). </p>
+<p>You will receive an SMS with the unique voucher link from RedeemSG right after you have claimed your vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> (i.e. upon completing Steps 1 to 3). </p>
 <p>Make sure that the unique voucher link you receive starts with https://voucher.redeem.gov.sg/. Do not trust or click on any voucher links starting with other prefixes.</p>
 
 <p>Do note that RedeemSG will never send SMSes asking for your personal information or banking details to claim the vouchers.</p>
