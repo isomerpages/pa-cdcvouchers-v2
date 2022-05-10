@@ -100,14 +100,14 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 #### English
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/cQGlktNKq3s?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/2YD2J-EMRSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p><a href="/merchants/merchant-guide-english">Onboard RedeemSG Merchant App</a></p>
 
 
 #### 中文
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/2l6hem1eMps?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/ym2nJf-L85E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p><a href="/merchants/merchant-guide-chinese">加入 RedeemSG Merchant 手机应用程序</a></p>
 
@@ -121,7 +121,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 #### தமிழ் 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/NGkGTUoF1BE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/6ao4P3NRX6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p><a href="/merchants/merchant-guide-tamil">RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்</a></p>
