@@ -48,7 +48,7 @@ In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swe
     <div>
 			<p>The vouchers are in fixed denominations because it is less confusing for residents, especially the digitally less-savvy, and reduces the chance for errors to occur when residents key in the amount.  It enables merchants to receive their reimbursement faster.</p>
 <p>
-Taking in the feedback from the merchants and residents who participated in the trials and previous CDC Vouchers Scheme, $2, $5 and $10 are the preferred denominations for the vouchers.			</p>
+The CDCs and Govtech had several rounds of consultations with residents and merchants to gather feedback on the design of the denominations. The fixed denominations of $2, $5 and $10 allow residents to make purchases at different heartland shops and hawkers. For example, residents may patronise mini-marts or mom-and-pop shops, to purchase groceries or other essential household items, and services such as dental clinics, or hair salons. The larger denominations ($5 and $10) will come in handy at these shops, and residents can also use them to have meals with family members or friends.	</p>
     </div>
   </li>
     
