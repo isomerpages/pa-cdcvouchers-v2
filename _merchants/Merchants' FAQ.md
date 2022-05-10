@@ -162,15 +162,14 @@ In case of enquiries, please contact our hotline at 6225 5322.
     <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to prepare to sign-up and onboard as a new participating heartland merchant/hawker?</span></label>
     <div>
       <p>During the sign-up process, we will obtain your <strong>business contact information</strong> (such as bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
-
 <p>You will need to prepare supporting documents for your bank account or PayNow proxy (handphone, NRIC or UEN), depending on which mode of payment was chosen.</p>
 			<p>If you are an iPhone user, please also prepare your Apple ID and password on hand as you will need this to be able to download the RedeemSG Merchant app to accept the CDC Vouchers.</p>
-		
 <p><img src="/images/merchants/m-bank-supporting-doc-bankprofile.png" alt="Sample Bank documents" style="width:270px !important;height:447px !important;" /><br><img src="/images/merchants/m-bank-supporting-doc-bankstatement.png" alt="Sample Bank documents" style="width:488px !important;height:335px !important;" />	
 	<br><i>Samples of supporting documents for merchant's PayNow (top) and bank account details (bottom). Merchants may prepare either type of supporting document based on mode of payment chosen.</i>
 	</p>
 </div>
-  </li></ul>
+</li>
+</ul>
 <a href="#cdcv_page_top">Back to Top</a>
 <span id="cdcv_page_onboarding"></span>
 
