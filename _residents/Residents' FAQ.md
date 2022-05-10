@@ -158,7 +158,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 	<li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
     <div>
       <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed <a href="/files/Authorisation Form 2.pdf"> Authorisation Form</a> and necessary supporting documents (specified in the authorisation form) to the CC. </p>     </div>
 	</li>  
@@ -182,11 +182,10 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 	</li>  
 	<li>
     <input type="checkbox" id="accordion14">
-    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**How can I tell if the SMS sent is a real voucher link? Will the SMS request for my NRIC and personal details in order to claim my CDC Vouchers?</span></label>
+    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I verify that the SMS link I received is a legitimate link?</span></label>
     <div>
       <p>The SMS is identifiable by the sender named “RedeemSG”.  Please also check that your unique voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 start with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
-			<p>You will receive an SMS with the unique voucher link from RedeemSG right after you have claimed your vouchers at go.gov.sg/cdcv (i.e. upon completing Steps 1 to 3).  Make sure that the unique voucher link you receive starts with https://voucher.redeem.gov.sg.  Do not trust or click on any voucher links starting with other prefixes. Do note that RedeemSG will never send SMSes asking for your personal information or banking details to claim the vouchers.  If you detect any suspicious messages related to RedeemSG or CDC vouchers, please contact PA at 62255322, or submit the information online at www.police.gov.sg/iwitness or call 1800 2550000 to make a police report.</p>
-
+		
 <p><img src="/images/residents/redeem_voucher.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:170px !important;" />
 	</p>
 
@@ -195,7 +194,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 	</li> 
 		<li>
     <input type="checkbox" id="accordion15">
-    <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
+    <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
     <div>
 			<p>To retrieve the voucher links for CDC Vouchers 2021 and CDC Vouchers 2022, please visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the voucher links sent to you via SMS. 
 			</p>
@@ -206,7 +205,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 		<li>
     <input type="checkbox" id="accordion16">
-    <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**What should I do if my household’s vouchers have already been claimed by someone else?</span></label>
+    <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What should I do if my household’s vouchers have already been claimed by someone else?</span></label>
     <div>
 			<p>If you are checking for the CDC Vouchers issued in May 2022, please kindly check that you have clicked on the “CDC Vouchers 2022” option.</p>
 			<p>If someone else has claimed the vouchers, the page will display the name of the family member who has claimed the vouchers on behalf of the household after you have completed the login with Singpass. You may wish to check with that household member.
@@ -306,9 +305,8 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion23">
     <label for="accordion23"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What happens if I accidentally misplaced my printed vouchers?</span></label>
     <div>
-			<p>The QR codes are similar to cash and any misplaced printed QR codes may be used by anyone who picked it.</p> 
-			<p>You may request for a re-print at the CCs if the vouchers have been partially used, but a new set of vouchers will not be issued again.</p> 
-			<p>Residents are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash. Residents are advised to be careful with sharing their voucher links, as anyone with your voucher link can spend your voucher at participating merchants.
+						<p>Any misplaced vouchers may be used by anyone who picked it up. You may request for a re-print at the CCs if the vouchers have been partially used or have not been used yet, but a new set of vouchers will not be issued to replace the existing set. Recipients are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash.</p> 
+			<p>Please note that the vouchers are non-refundable and/or non-exchangeable.
 			</p>
     </div>
   </li>
