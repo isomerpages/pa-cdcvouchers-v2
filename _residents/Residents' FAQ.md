@@ -73,7 +73,6 @@ The CDCs and Govtech had several rounds of consultations with residents and merc
 </td>
 <td>
 	<img src="/images/residents/faq5b2.png" alt=" Illustration of voucher link shared via Whatsapp" style="width:300px !important;"/>	
-
 	</td>
 </tr>
 		<tr>
@@ -82,9 +81,7 @@ The CDCs and Govtech had several rounds of consultations with residents and merc
 </tr>
 </tbody>
 </table>
-
-			</p>
-			
+			</p>		
     </div>
   </li>
 <li>
