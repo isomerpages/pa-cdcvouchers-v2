@@ -33,9 +33,10 @@ In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swe
 			<ol>
         <li>Next-day payout*</li>
         <li>No Commissions or fees</li>
-				<li>No handling of physical vouchers</li>
+				<li>No need to count physical vouchers</li>
       </ol>
 			<p>*Merchant would need to ensure bank account/PayNow proxy (handphone,  NRIC or UEN) provided to PA are accurate in order to achieve the reimbursement timeline.</p>
+			<p>To enable this, merchants will use the RedeemSG Merchant app to easily accept vouchers and tally transactions.</p>
 			<p>CDC Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme.</p>
 			</p>
     </div>
@@ -48,8 +49,9 @@ In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swe
 				There are two (2) key stages of participation:
       </p>
 			<p>1) Stage 1 - Register your interest with<br />
-a) the CDC Ambassadors, or Digital Ambassadors from the SG Digital Office, or<br />
-b) <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a>.</p>
+a) the CDC Ambassadors, or<br />
+				b) the Digital Ambassadors from the SG Digital Office, or<br />
+c) <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a>.</p>
 			<p>2) Stage 2 - A CDC Ambassador will get in touch with you for the sign up and onboarding. Training will be provided during the onboarding process.</p>
     </div>
   </li>
