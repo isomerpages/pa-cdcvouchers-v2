@@ -166,7 +166,7 @@ In case of enquiries, please contact our hotline at 6225 5322.
 			<p>If you are an iPhone user, please also prepare your Apple ID and password on hand as you will need this to be able to download the RedeemSG Merchant app to accept the CDC Vouchers.</p>
 <p><img src="/images/merchants/m-bank-supporting-doc-bankprofile.png" alt="Sample Bank documents" style="width:270px !important;height:447px !important;" /><br><img src="/images/merchants/m-bank-supporting-doc-bankstatement.png" alt="Sample Bank documents" style="width:488px !important;height:335px !important;" />	
 	<br><i>Samples of supporting documents for merchant's PayNow (top) and bank account details (bottom). Merchants may prepare either type of supporting document based on mode of payment chosen.</i>
-	</p>
+</p>
 </div>
 </li>
 </ul>
