@@ -275,8 +275,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 </tr>
 </tbody>
 </table>
-		
-			</p>
+					</p>
     </div>
   </li>
 	<li>
@@ -337,7 +336,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion27">
-    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**Will residents be able to donate their vouchers to needy individuals and charities?</span></label>
+    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Can I donate the vouchers to low-income families or migrant workers?</span></label>
     <div>
 			<p>Currently there is no official arrangement to donate the CDC Vouchers.</p>
 
