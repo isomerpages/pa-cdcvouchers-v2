@@ -59,13 +59,12 @@ The CDCs and Govtech had several rounds of consultations with residents and merc
  			<p>Yes, the vouchers can be shared with your household members via the following method. 
 			</p>
 			
-<p>Click on “Share My Vouchers” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration. 
+<p>Click on “Share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration. 
 			</p>
 			<p>
-				Do note that sharing your voucher link constitutes providing them with access to your voucher. Anyone with the voucher link can use your vouchers.
+				Recipients are advised to be careful with sharing unique voucher links with others, as this would allow them to spend the household’s vouchers. To ensure that you safekeep your unique voucher links, we urge you to share only when necessary and to the right parties. We seek your understanding that there will be no reinstatement made for vouchers that were shared erroneously.
 			</p>
-			<p>
-				
+		<p>				
 			<table border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
