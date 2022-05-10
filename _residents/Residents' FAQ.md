@@ -207,12 +207,10 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion16">
     <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What should I do if my household’s vouchers have already been claimed by someone else?</span></label>
     <div>
-			<p>If you are checking for the CDC Vouchers issued in May 2022, please kindly check that you have clicked on the “CDC Vouchers 2022” option.</p>
 			<p>If someone else has claimed the vouchers, the page will display the name of the family member who has claimed the vouchers on behalf of the household after you have completed the login with Singpass. You may wish to check with that household member.
 				</p>
 			<p>Should the individual belong to another household staying at the same address, please visit your nearest CC to apply for the CDC Vouchers. Please bring along the following supporting documents: your NRIC, and any one of the relevant documents to show proof of household (e.g proof of previous overseas employment / proof of overseas address / tenancy agreement / proof of new resident e.g. taking/handing over keys)
 			</p>
-
 		    </div>
   </li>
 	<li>
@@ -221,7 +219,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>Please kindly seek help from your family members for assistance to claim the vouchers. </p>
 
-<p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account.</p>
+<p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the voucher. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account.</p>
 			
 <p>To find out the location of your nearest CC, please key in your postal code using  <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank"><strong>CDC's district locator</strong>.</a>
 			</p>
