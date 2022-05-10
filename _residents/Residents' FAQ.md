@@ -105,7 +105,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**When do the CDC Vouchers 2021 and 2022 expire? </span></label>
     <div>
- 			<p>The CDC Voucher Scheme 2021 and 2022 will be valid until 31 December 2022. Vouchers can be claimed or spent at participating heartland merchants and hawkers anytime within this period. More details on the upcoming tranches will be announced in due course.</p>
+ 			<p>The CDC Vouchers Scheme 2021 and 2022 will be valid until 31 December 2022. Vouchers can be claimed or spent at participating heartland merchants and hawkers anytime within this period. More details on the upcoming tranches will be announced in due course.</p>
 	</div>
   </li>
 </ul>
@@ -121,12 +121,12 @@ To ensure that the digital system caters to both digitally savvy and digitally l
     <div>
 			<p>Only one Singaporean household member with a Singpass account needs to claim the vouchers on behalf of the entire household.</p>
 			<p>
-1) Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2022, and login with Singpass to claim the vouchers. </p>
+1) Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2022, or CDC Vouchers 2021, and login with Singpass to claim your respective vouchers. </p>
 			<p>
-2) If you have not claimed your previous set of CDC Vouchers 2021, you may also do so at the same link <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>
+2) You may also use <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to retrieve your previous voucher link by logging in to Singpass again.
 			</p>
 			<p>
-3) Do note that the SMS voucher link for the CDC Vouchers 2022 is different from the voucher link for the CDC Vouchers 2021. Both links are valid till 31 December 2022. </p>
+3) Do note that the SMS voucher link for the CDC Vouchers 2022 is different from the voucher link for the CDC Vouchers 2021. Both sets of vouchers can be used till 31 December 2022. You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step guide</a> or the notification letter on how to claim and spend the $100 CDC Vouchers. </p>
     </div>
   </li>
 				<li>
