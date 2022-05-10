@@ -323,7 +323,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion25">
     <label for="accordion25"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Am I able to use the CDC vouchers online?</span></label>
     <div>
-			<p>The vouchers are not available for e-commerce or online transactions.
+			<p>The vouchers may not be used for e-commerce or online transactions. The vouchers are meant to be used at participating heartland merchants and hawkers.
 			</p>
     </div>
   </li>
