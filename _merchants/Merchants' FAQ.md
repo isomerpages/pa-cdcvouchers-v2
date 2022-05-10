@@ -151,18 +151,20 @@ In case of enquiries, please contact our hotline at 6225 5322.
   </li>
 		<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**I had previously participated as a merchant in CDC Vouchers 2021. Do I auto-qualify or do I still need to register to join CDC Vouchers Scheme 2022 and future tranches? Also will I receive the $30 onboarding incentive again for CDC Vouchers Scheme 2022 and future tranches?</span></label>
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I had previously participated as a merchant in CDC Vouchers 2021. Do I auto-qualify or do I still need to register to join CDC Vouchers Scheme 2022 and future tranches? Also will I receive the $30 onboarding incentive again for CDC Vouchers Scheme 2022 and future tranches?</span></label>
     <div>
-			<p>Yes, you are auto qualified to continue with the CDC Vouchers Scheme 2022. Our CDC Ambassadors will reach out to you to update on the information and provide an info-sheet/welcome letter. The $30 onboarding incentive is a one-time thank you gesture for the participating merchants and hawkers. </p>
+			<p>No, there is no need to register again to participate in CDC Vouchers 2022 if you have already been onboarded to the CDC Vouchers scheme launched in Dec 2021. Our CDC Ambassadors will reach out to you to update on the new scheme and provide the welcome letter. </p>
+			<p>The $30 onboarding incentive is only for newly onboarded merchants.</p>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to prepare to sign-up and onboard as a new participating heartland merchant/hawker?</span></label>
     <div>
-      <p>During the sign-up process, we will obtain your business contact information (such as bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
+      <p>During the sign-up process, we will obtain your <strong>business contact information</strong> (such as bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
 
 <p>You will need to prepare supporting documents for your bank account or PayNow proxy (handphone, NRIC or UEN), depending on which mode of payment was chosen.</p>
+			<p>If you are an iPhone user, please also prepare your Apple ID and password on hand as you will need this to be able to download the RedeemSG Merchant app to accept the CDC Vouchers.</p>
 		
 <p><img src="/images/merchants/m-bank-supporting-doc-bankprofile.png" alt="Sample Bank documents" style="width:270px !important;height:447px !important;" /><br><img src="/images/merchants/m-bank-supporting-doc-bankstatement.png" alt="Sample Bank documents" style="width:488px !important;height:335px !important;" />	
 	<br><i>Samples of supporting documents for merchant's PayNow (top) and bank account details (bottom). Merchants may prepare either type of supporting document based on mode of payment chosen.</i>
@@ -182,7 +184,6 @@ In case of enquiries, please contact our hotline at 6225 5322.
 			<p>You may download the app 'RedeemSG Merchant' on Apple App Store or Google Play Store. A CDC Ambassador will get in touch with you for the sign up and onboarding. Training will be provided during the onboarding process, and you will be provided with your unique shop code to access the app.</p>
     </div>
 	</li>
-	
 			<li>
     <input type="checkbox" id="accordion12">
     <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I get my shop code?</span></label>
@@ -194,7 +195,7 @@ In case of enquiries, please contact our hotline at 6225 5322.
     <input type="checkbox" id="accordion13">
     <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">Can I share my RedeemSG Merchant account with my staff? How do they login to the app?</span></label>
     <div>
-			<p>Yes! Your staff can download the RedeemSG Merchant app using their own device, and log-in using the same shop code that was issued to you via SMS or from the CDC Ambassador. You may share your shop code with your staff by going to Settings > Show Shop Code on the app.</p><p>They will be able to scan vouchers, and view transactions and payouts, but will not be able to edit any merchant details such as address or bank details on the app.</p>		
+			<p>Your staff can download the RedeemSG Merchant app using their own device, and log-in using the same shop code that was issued to you by the CDC Ambassador or sent to you via SMS. Please get all your staff to download the app and login via your Shop Code to ensure that customers can redeem their vouchers with your staff even if you are not at the stall.</p>		
 		</div>	
 	</li>
 <li>
