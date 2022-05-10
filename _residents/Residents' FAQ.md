@@ -11,7 +11,7 @@ description: CDC Vouchers Scheme Residents FAQ
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">What is the CDC Vouchers Scheme 2022 and 2021?</span></label>
+    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2022 and 2021?</span></label>
     <div>
 			<p><strong>CDC Vouchers Scheme 2022</strong></p>
 		      <p>The Finance Minister Mr Lawrence Wong announced at Budget 2022 that as part of the Household Support Package, the Community Development Councils (CDCs) will be given three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.</p>
@@ -26,7 +26,7 @@ In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swe
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Who is eligible for the CDC Vouchers Scheme?</span></label>
+    <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Who is eligible for the CDC Vouchers Scheme?</span></label>
     <div>
       <p>Each Singaporean household can claim $100 in CDC vouchers that can be spent at participating heartland merchants and hawkers.
 			</p>
@@ -34,7 +34,7 @@ In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swe
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
+    <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
     <div>
       <p>
 				All Singaporean households are automatically eligible for the scheme, and will receive a notification letter on how to claim their CDC Vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>.</p>
@@ -44,7 +44,7 @@ In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swe
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Why are the CDC vouchers in fixed denominations?</span></label>
+    <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Why are the CDC vouchers in fixed denominations?</span></label>
     <div>
 			<p>The vouchers are in fixed denominations because it is less confusing for residents, especially the digitally less-savvy, and reduces the chance for errors to occur when residents key in the amount.  It enables merchants to receive their reimbursement faster.</p>
 <p>
@@ -54,7 +54,7 @@ The CDCs and Govtech had several rounds of consultations with residents and merc
     
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Can the vouchers be shared with my household members?</span></label>
+    <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can the vouchers be shared with my household members?</span></label>
     <div>
  			<p>Yes, the vouchers can be shared with your household members via the following method. 
 			</p>
@@ -86,7 +86,7 @@ The CDCs and Govtech had several rounds of consultations with residents and merc
   </li>
 <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Customers are required to scan the merchant’s QR Code to make payment on some of the other e-payment platforms.  Why are merchants required to scan the customer’s voucher QR code for the CDC Vouchers Scheme instead? </span></label>
+    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Customers are required to scan the merchant’s QR Code to make payment on some of the other e-payment platforms.  Why are merchants required to scan the customer’s voucher QR code for the CDC Vouchers Scheme instead? </span></label>
     <div>
  			<p>CDCs in partnership with Open Government Products, GovTech, had previously tested the model in which the customer scans the merchant’s QR. While this is technically possible, we identified it would come with the following drawbacks:</p>
 <p>
@@ -103,7 +103,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
   </li>
 <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">When do the CDC Vouchers 2021 and 2022 expire? </span></label>
+    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">When do the CDC Vouchers 2021 and 2022 expire? </span></label>
     <div>
  			<p>The CDC Vouchers Scheme 2021 and 2022 will be valid until 31 December 2022. Vouchers can be claimed or spent at participating heartland merchants and hawkers anytime within this period. More details on the upcoming tranches will be announced in due course.</p>
 	</div>
@@ -117,7 +117,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
 <ul class="jekyllcodex_accordion">
 			<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">How can residents claim and spend their CDC Vouchers 2022 (and 2021, if still not fully spent)?</span></label>
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can residents claim and spend their CDC Vouchers 2022 (and 2021, if still not fully spent)?</span></label>
     <div>
 			<p>Only one Singaporean household member with a Singpass account needs to claim the vouchers on behalf of the entire household.</p>
 			<p>
@@ -131,7 +131,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
   </li>
 				<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">What do I need to claim the vouchers?</span></label>
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What do I need to claim the vouchers?</span></label>
     <div>
 			<p>You will require a valid Singpass account and smartphone to login and claim your vouchers.  Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household.</p> 
 <p>
@@ -141,14 +141,14 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 		<li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</span></label>
+    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</span></label>
     <div>
 			<p>Please refer to the following link for a list of <a href="https://www.singpass.gov.sg/main/html/faq.html" target="_blank">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit a Singpass counter located in all Community Centres/Clubs (CC) across Singapore for assistance. </p>
     </div>
   </li>
 <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">If I have already claimed my CDC Vouchers 2021 earlier, will I need to claim the CDC Vouchers 2022?</span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">If I have already claimed my CDC Vouchers 2021 earlier, will I need to claim the CDC Vouchers 2022?</span></label>
     <div>
 			<p>Yes you will need to claim your CDC Vouchers 2022.</p>
 			<p>Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2022, and login with Singpass to claim your vouchers.</p>
@@ -158,13 +158,13 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 	<li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
     <div>
       <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed <a href="/files/Authorisation Form 2.pdf"> Authorisation Form</a> and necessary supporting documents (specified in the authorisation form) to the CC. </p>     </div>
 	</li>  
 <li>
     <input type="checkbox" id="accordion13">
-    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">What if I submitted the wrong mobile number?</span></label>
+    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What if I submitted the wrong mobile number?</span></label>
     <div>
       <p>When you are signing up for your vouchers, a One Time Password (OTP) will be sent to the mobile number you have keyed in for verification. If you had keyed in the wrong mobile number, you will not receive the One Time Password and you can return to the previous page to key in your mobile number again. </p> 
 			<p>Vouchers will only be sent after you have verified your mobile number, which helps to ensure vouchers will not be sent to the wrong mobile number. </p>
@@ -182,7 +182,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 	</li>  
 	<li>
     <input type="checkbox" id="accordion14">
-    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">How can I verify that the SMS link I received is a legitimate link?</span></label>
+    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I verify that the SMS link I received is a legitimate link?</span></label>
     <div>
       <p>The SMS is identifiable by the sender named “RedeemSG”.  Please also check that your unique voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 start with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
 		
@@ -194,7 +194,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 	</li> 
 		<li>
     <input type="checkbox" id="accordion15">
-    <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
+    <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
     <div>
 			<p>To retrieve the voucher links for CDC Vouchers 2021 and CDC Vouchers 2022, please visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the voucher links sent to you via SMS. 
 			</p>
@@ -205,7 +205,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 		<li>
     <input type="checkbox" id="accordion16">
-    <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">What should I do if my household’s vouchers have already been claimed by someone else?</span></label>
+    <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What should I do if my household’s vouchers have already been claimed by someone else?</span></label>
     <div>
 			<p>If someone else has claimed the vouchers, the page will display the name of the family member who has claimed the vouchers on behalf of the household after you have completed the login with Singpass. You may wish to check with that household member.
 				</p>
@@ -215,7 +215,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 	<li>
     <input type="checkbox" id="accordion17">
-    <label for="accordion17"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">I do not have a mobile phone or digital device. What should I do?</span></label>
+    <label for="accordion17"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I do not have a mobile phone or digital device. What should I do?</span></label>
     <div>
 			<p>Please kindly seek help from your family members for assistance to claim the vouchers. </p>
 
@@ -235,7 +235,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 <ul class="jekyllcodex_accordion">
 			<li>
     <input type="checkbox" id="accordion18">
-    <label for="accordion18"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Which merchants can I spend my vouchers at?</span></label>
+    <label for="accordion18"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Which merchants can I spend my vouchers at?</span></label>
     <div>
 			<p>The CDC vouchers can be used at participating heartland merchants and hawkers.  Look out for the CDC Vouchers decal displayed at the merchant/hawker stall shopfront to know where the vouchers can be used at, and also take this opportunity to explore and get to know your neighbourhood.</p> 
 			<p>You can also visit <a href="https://www.gowhere.gov.sg/cdcvouchersmerchants" target="_blank"><strong>go.gov.sg/cdcvouchersmerchants</strong></a> to search for the nearest participating hawkers and heartland merchants.
@@ -245,14 +245,14 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 		<li>
     <input type="checkbox" id="accordion19">
-    <label for="accordion19"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Is there a maximum number of vouchers I can spend per purchase?</span></label>
+    <label for="accordion19"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Is there a maximum number of vouchers I can spend per purchase?</span></label>
     <div>
 			<p>There is no limit to the value of vouchers that can be spent at any one time.  However, a maximum of 15 digital vouchers can be  stacked and used per transaction to ensure the QR code remains scannable by the merchants.  			</p>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion20">
-    <label for="accordion20"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Do I get a refund if the purchase (e.g. $8) is less than the amount of digital vouchers that I want to spend (e.g. $10)?</span></label>
+    <label for="accordion20"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Do I get a refund if the purchase (e.g. $8) is less than the amount of digital vouchers that I want to spend (e.g. $10)?</span></label>
     <div>
 			<p>Similar to other vouchers like supermarket vouchers, there will be no change / refund provided if the purchase amount is less than the vouchers used. </p>
 			<p>For example, if the cost of item is $6,
@@ -280,7 +280,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 	<li>
     <input type="checkbox" id="accordion21">
-    <label for="accordion21"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Do I need to download a mobile application to scan the merchant QR code to make payment?</span></label>
+    <label for="accordion21"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Do I need to download a mobile application to scan the merchant QR code to make payment?</span></label>
     <div>
 			<p>There is no need for residents to download any mobile application. Simply claim your vouchers by going to <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>. The voucher link will be sent to your verified mobile number. You can then use the voucher by presenting the QR code vouchers at participating hawkers and heartland merchants identified by the CDC Vouchers decal.
 			</p>
@@ -288,7 +288,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 		<li>
     <input type="checkbox" id="accordion22">
-    <label for="accordion22"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">How do I verify that the merchant has successfully deducted my vouchers?</span></label>
+    <label for="accordion22"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I verify that the merchant has successfully deducted my vouchers?</span></label>
     <div>
 			<p>When the merchants scan your QR code, they will see a confirmation on their RedeemSG Merchant app which will show that the scanning of your voucher is a success.  At the same time, your QR code will be updated to “Redeemed” status.  Spent vouchers will also be marked as ‘Redeemed’ on your unique voucher links.
 			</p>
@@ -300,7 +300,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 		<li>
     <input type="checkbox" id="accordion23">
-    <label for="accordion23"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">What happens if I accidentally misplaced my printed vouchers?</span></label>
+    <label for="accordion23"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens if I accidentally misplaced my printed vouchers?</span></label>
     <div>
 						<p>Any misplaced vouchers may be used by anyone who picked it up. You may request for a re-print at the CCs if the vouchers have been partially used or have not been used yet, but a new set of vouchers will not be issued to replace the existing set. Recipients are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash.</p> 
 			<p>Please note that the vouchers are non-refundable and/or non-exchangeable.
@@ -309,7 +309,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 			<li>
     <input type="checkbox" id="accordion24">
-    <label for="accordion24"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">How do I find out how much value is left for my CDC vouchers?</span></label>
+    <label for="accordion24"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I find out how much value is left for my CDC vouchers?</span></label>
     <div>
 			<p>You may access your voucher link found in the SMS sent by RedeemSG to find out the remaining balance of your CDC Vouchers. The value is shown at the top of the webpage.
 			</p>
@@ -320,7 +320,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 	<li>
     <input type="checkbox" id="accordion25">
-    <label for="accordion25"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Am I able to use the CDC vouchers online?</span></label>
+    <label for="accordion25"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Am I able to use the CDC vouchers online?</span></label>
     <div>
 			<p>The vouchers may not be used for e-commerce or online transactions. The vouchers are meant to be used at participating heartland merchants and hawkers.
 			</p>
@@ -328,7 +328,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 		<li>
     <input type="checkbox" id="accordion26">
-    <label for="accordion26"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Any restricted items that the vouchers cannot be used for?</span></label>
+    <label for="accordion26"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Any restricted items that the vouchers cannot be used for?</span></label>
     <div>
 			<p>The vouchers cannot be used to purchase certain goods/services such as lottery, petrol, diesel, alcohol, cigarettes.
 			</p>
@@ -336,7 +336,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion27">
-    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">Can I donate the vouchers to low-income families or migrant workers?</span></label>
+    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate the vouchers to low-income families or migrant workers?</span></label>
     <div>
 			<p>Currently there is no official arrangement to donate the CDC Vouchers.</p>
 
@@ -346,7 +346,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion28">
-    <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">The previous CDC Vouchers Scheme in 2020 started out with the intent of helping the lower-income households defray the cost of living amidst the pandemic. This year, the scheme is extended to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
+    <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">The previous CDC Vouchers Scheme in 2020 started out with the intent of helping the lower-income households defray the cost of living amidst the pandemic. This year, the scheme is extended to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
     <div>
 			<p>As part of the Household Support Package, Finance Minister Mr Lawrence Wong recently announced at Budget 2022 that the Community Development Councils (CDCs) will be given three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times.</p>
 			<p>
@@ -357,7 +357,7 @@ Residents who require more financial assistance may approach the CCs for more de
   </li>
 	<li>
     <input type="checkbox" id="accordion29">
-    <label for="accordion29"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#25245c">I received an SMS asking me to key in my NRIC and personal details to claim my CDC Vouchers. Is it a scam? </span></label>
+    <label for="accordion29"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I received an SMS asking me to key in my NRIC and personal details to claim my CDC Vouchers. Is it a scam? </span></label>
     <div>
 			<p>Do not click on the link or reply. CDCs or RedeemSG will never send any SMSes asking for your personal information or banking details to claim your CDC Vouchers. If you detect any suspicious messages relating to RedeemSG or CDC Vouchers, please contact PA at 62255322, or submit the information online at <a href="https://www.police.gov.sg/I-Witness" target="police"><strong>https://www.police.gov.sg/I-Witness </strong></a> or call 1800 255 0000 to make a police report. 
 			</p>
