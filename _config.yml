@@ -3,7 +3,7 @@ url: https://vouchers.cdc.gov.sg/
 favicon: /images/cdc-icon.png
 colors:
   primary-color: "#25245c"
-  secondary-color: "#5eb4ab"
+  secondary-color: "#178a7a"
   media-colors:
     - title: media-color-one
       color: "#a37cbe"
