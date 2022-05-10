@@ -103,7 +103,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
   </li>
 <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**When do the CDC Vouchers 2021 and 2022 expire? </span></label>
+    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">When do the CDC Vouchers 2021 and 2022 expire? </span></label>
     <div>
  			<p>The CDC Vouchers Scheme 2021 and 2022 will be valid until 31 December 2022. Vouchers can be claimed or spent at participating heartland merchants and hawkers anytime within this period. More details on the upcoming tranches will be announced in due course.</p>
 	</div>
@@ -117,7 +117,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
 <ul class="jekyllcodex_accordion">
 			<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**How can residents claim and spend their CDC Vouchers 2022 (and 2021, if still not fully spent)?</span></label>
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can residents claim and spend their CDC Vouchers 2022 (and 2021, if still not fully spent)?</span></label>
     <div>
 			<p>Only one Singaporean household member with a Singpass account needs to claim the vouchers on behalf of the entire household.</p>
 			<p>
@@ -126,16 +126,16 @@ To ensure that the digital system caters to both digitally savvy and digitally l
 2) You may also use <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to retrieve your previous voucher link by logging in to Singpass again.
 			</p>
 			<p>
-3) Do note that the SMS voucher link for the CDC Vouchers 2022 is different from the voucher link for the CDC Vouchers 2021. Both sets of vouchers can be used till 31 December 2022. You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step guide</a> or the notification letter on how to claim and spend the $100 CDC Vouchers. </p>
+3) Do note that the SMS voucher link for the CDC Vouchers 2022 is different from the voucher link for the CDC Vouchers 2021. Both sets of vouchers can be used till 31 December 2022. You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $100 CDC Vouchers. </p>
     </div>
   </li>
 				<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to receive the vouchers?</span></label>
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What do I need to claim the vouchers?</span></label>
     <div>
 			<p>You will require a valid Singpass account and smartphone to login and claim your vouchers.  Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household.</p> 
 <p>
-Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step guide</a> on how to claim your household’s $100 CDC vouchers or the notification letter.
+Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> on how to claim your household’s $100 CDC vouchers or the notification letter.
 			</p>			
     </div>
   </li>
@@ -148,14 +148,12 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**If I have already claimed my CDC Vouchers 2021, will my CDC Vouchers 2022 be automatically reflected in the same SMS voucher link?</span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">If I have already claimed my CDC Vouchers 2021 earlier, will I need to claim the CDC Vouchers 2022?</span></label>
     <div>
-			<p>Even if you have already claimed your CDC Vouchers 2021, you will need to claim your CDC Vouchers 2022 again. The claim process is similar for both schemes.  You may visit go.gov.sg/cdcv and log in with your Singpass account.  Only one member of the household is required to claim on behalf of the household.</p>
+			<p>Yes you will need to claim your CDC Vouchers 2022.</p>
+			<p>Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2022, and login with Singpass to claim your vouchers.</p>
 
-<p>Choose CDC Vouchers 2022 to claim your set of $100 CDC Vouchers.  Claim CDC Vouchers 2021 if your household has not claimed your previous set of $100 CDC Vouchers for 2021.</p>
-
-<p>The voucher links will be sent to your registered mobile number via an SMS by RedeemSG.  The voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 are different. </p>
-
+<p>You will then receive a new unique voucher link that is different from the one received for the CDC Vouchers announced in December 2021. Only one member of the household is required to claim on behalf of the household.</p>
     </div>
   </li>
 	<li>
