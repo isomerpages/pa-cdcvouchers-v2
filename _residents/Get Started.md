@@ -53,7 +53,7 @@ The SMS voucher link for the CDC Vouchers Scheme 2022 is different from the vouc
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/PmxYO3-eBKg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/HClIpbvx36c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
 Our step-by-step video and guide are available in the following languages:
