@@ -5,7 +5,6 @@ date: 2021-12-13
 layout: post
 description: CDC Vouchers Scheme - Step-by-Step Video for Residents (Malay)
 ---
-
 CDC Vouchers Scheme - Step-by-Step Video for Residents (Malay)
 
 <style>
@@ -25,5 +24,5 @@ CDC Vouchers Scheme - Step-by-Step Video for Residents (Malay)
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/wcgOTb5VPkU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/M2W2i6TGuCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
