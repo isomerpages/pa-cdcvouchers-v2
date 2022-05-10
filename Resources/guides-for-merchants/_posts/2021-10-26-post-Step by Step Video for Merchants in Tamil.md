@@ -25,5 +25,5 @@ CDC Vouchers Scheme - Step-by-Step Video for Merchants (Tamil)
 	
 	
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/NGkGTUoF1BE?rel=0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/6ao4P3NRX6c"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
