@@ -24,5 +24,5 @@ CDC Vouchers Scheme - Step-by-Step Video for Merchants (Malay)
 </style>
 
 <div class="youtubecontainer">
-	<iframe class="youtubevideo" src="https://www.youtube.com/embed/WlXbDqiPN6k?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe class="youtubevideo" src="https://www.youtube.com/embed/JRXJgFCowaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
