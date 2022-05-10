@@ -13,6 +13,20 @@ description: CDC Vouchers Scheme Residents FAQ
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What is the CDC Vouchers Scheme 2022 and 2021?</span></label>
     <div>
+      <p><strong>CDC Vouchers Scheme 2022</strong></p>
+          <p>The Finance Minister Mr Lawrence Wong announced at Budget 2022 that as part of the Household Support Package, the Community Development Councils (CDCs) will be given three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.</p>
+      <p>
+In May 2022, all Singaporean households can each receive $100 in CDC vouchers to help in daily expenses as part of the Household Support Package. You can use the vouchers to purchase goods and services from participating hawkers and heartland merchants.</p>
+      <p><strong>CDC Vouchers Scheme 2021</strong></p>
+      <p>
+            Deputy Prime Minister and then Finance Minister Mr Heng Swee Heat launched the CDC Vouchers Scheme in June 2020 and January 2021 respectively to help Singaporean lower-income households defray their cost of living and at the same time, to support hawkers and heartland merchants affected by Covid-19 pandemic.  Each identified Singaporean lower-income household received $50 worth of CDC Vouchers in June 2020 and January 2021. </p>
+      <p>
+In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swee Keat announced the $130million CDC Vouchers Scheme to thank Singaporeans for their sense of solidarity and to support heartland merchants and hawkers.  Each Singaporean household will receive $100 CDC vouchers and the scheme will benefit up to 1.3 million Singaporean households. </p>
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">What is the CDC Vouchers Scheme 2022 and 2021?</span></label>
+    <div>
 			<p><strong>CDC Vouchers Scheme 2022</strong></p>
 		      <p>The Finance Minister Mr Lawrence Wong announced at Budget 2022 that as part of the Household Support Package, the Community Development Councils (CDCs) will be given three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.</p>
 			<p>
