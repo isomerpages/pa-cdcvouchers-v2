@@ -346,7 +346,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion28">
-    <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">**The CDC Vouchers Scheme 2020 started out with the intent of helping the lower-income households defray the cost of living amidst the pandemic. This year, the scheme is extended to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
+    <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">The previous CDC Vouchers Scheme in 2020 started out with the intent of helping the lower-income households defray the cost of living amidst the pandemic. This year, the scheme is extended to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
     <div>
 			<p>As part of the Household Support Package, Finance Minister Mr Lawrence Wong recently announced at Budget 2022 that the Community Development Councils (CDCs) will be given three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times.</p>
 			<p>
