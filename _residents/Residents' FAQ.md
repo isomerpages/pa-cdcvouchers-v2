@@ -37,7 +37,8 @@ In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swe
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
     <div>
       <p>
-				There is no need to apply for the scheme.  All Singaporean households will receive a notification letter on how to claim their CDC vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>.  Only one member of each household needs to log in via Singpass to claim the vouchers on behalf of the entire household.
+				All Singaporean households are automatically eligible for the scheme, and will receive a notification letter on how to claim their CDC Vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>.</p>
+			<p> Any one member of the household in the notification letter can scan the QR code in the letter to claim the vouchers. 
 				</p>
     </div>
   </li>
