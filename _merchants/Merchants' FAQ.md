@@ -117,7 +117,7 @@ In case of enquiries, please contact our hotline at 6225 5322.
 				The operating hours of our hotline are:</br>
 ● 8am to 6pm, Mondays to Sundays, except Public Holidays (PH) </br>
 ● 8.00 am to 1.00 pm on eve of the 3 public holidays, namely New Year, Chinese New Year and Christmas
-  </p>
+  </p></li>
 				<li>
     <input type="checkbox" id="accordion8">
     <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I check my application status after I have submitted my interest to participate?</span></label></div>
