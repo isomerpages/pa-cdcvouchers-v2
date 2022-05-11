@@ -69,14 +69,14 @@ The CDCs and Govtech had several rounds of consultations with residents and merc
 <tbody>
 <tr>
 <td>
-	<img src="/images/residents/FAQ%205a.jpg" alt="Screenshot of Share My Vouchers" style="width:200px !important;"/>
+	<img src="/images/residents/Share%20with%20Household.jpg" alt="Screenshot of Share My Vouchers" style="width:200px !important;"/>
 </td>
 <td>
 	<img src="/images/residents/faq5b2.png" alt=" Illustration of voucher link shared via Whatsapp" style="width:300px !important;"/>	
 	</td>
 </tr>
 		<tr>
-<td>Click on "Share My Vouchers" to share the voucher link with family members</td>
+<td>Click on "Share" to share the voucher link with family members</td>
 <td>Illustration of voucher link shared via Whatsapp</td>
 </tr>
 </tbody>
