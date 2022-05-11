@@ -340,7 +340,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>Currently there is no official arrangement to donate the CDC Vouchers.</p>
 
-<p>However, residents may choose to share their voucher link with others.  Click on “share my vouchers” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram.  Please refer to diagram below for illustration.  Do note that sharing your voucher link constitutes providing them with access to your voucher.  Anyone with the voucher link can use your vouchers.
+<p>However, residents may choose to share their voucher link with others.  Click on “share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram.  Please refer to diagram below for illustration.  Do note that sharing your voucher link constitutes providing them with access to your voucher.  Anyone with the voucher link can use your vouchers.
 			</p>
     </div>
   </li>
