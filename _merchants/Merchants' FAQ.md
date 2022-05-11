@@ -95,7 +95,7 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
 ##  Registration for Interested Merchants
 
 <ul class="jekyllcodex_accordion">
-			<li> 
+			<li> <div>
 		    <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
 
