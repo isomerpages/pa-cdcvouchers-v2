@@ -173,8 +173,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 
 <p>One Time Password will be sent to your registered mobile number.
 	</p>
-
-<p><img src="/images/residents/CDC%20Vouchers%20Ready.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:170px !important;" />
+<p><img src="/images/residents/Voucher%20SMS.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:auto !important;" />
 	</p>
 			<p>Vouchers will be sent to your verified mobile number.</p>
     </div>
