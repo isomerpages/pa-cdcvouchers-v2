@@ -136,9 +136,9 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
     </table>
 			
 <p>In case of enquiries, please contact our hotline at 6225 5322.
-				The operating hours of our hotline are:</br>
-● 8am to 6pm, Mondays to Sundays, except Public Holidays (PH) </br>
-● 8.00 am to 1.00 pm on eve of the 3 public holidays, namely New Year, Chinese New Year and Christmas
+				The operating hours of our hotline are:</p>
+<p>● 8am to 6pm, Mondays to Sundays, except Public Holidays (PH) </p>
+<p>● 8.00 am to 1.00 pm on eve of the 3 public holidays, namely New Year, Chinese New Year and Christmas
   </p>
 </div>
 	</li>
