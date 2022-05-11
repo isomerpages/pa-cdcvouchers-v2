@@ -100,17 +100,40 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
 				<div>
 	<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank">CDC's district locator</a>. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration.</p>
-		
-
-| |  |  |
-| -------- | -------- | -------- |
-|Central Singapore CDC| https://go.gov.sg/csmerchantreg|
-|North East CDC|https://go.gov.sg/csmerchantreg|
-|North West CDC| https://go.gov.sg/nwmerchantreg|
-|South East CDC|https://go.gov.sg/semerchantreg|
-|South West CDC| https://go.gov.sg/swmerchantreg|
-				
-		
+<table border="0" cellspacing="2" cellpadding="2">
+    <tbody>
+        <tr>
+            <td>Central Singapore CDC</td>
+            <td>
+                <a href="https://go.gov.sg/csmerchantreg">https://go.gov.sg/csmerchantreg </a>
+            </td>
+        </tr>
+        <tr>
+            <td>North East CDC</td>
+            <td>
+                <a href="https://go.gov.sg/csmerchantreg">https://go.gov.sg/csmerchantreg</a>
+            </td>
+        </tr>
+        <tr>
+            <td>North West CDC</td>
+            <td>
+                <a href="https://go.gov.sg/nwmerchantreg">https://go.gov.sg/nwmerchantreg</a>
+            </td>
+        </tr>
+        <tr>
+            <td>South East CDC</td>
+            <td>
+                <a href="https://go.gov.sg/semerchantreg">https://go.gov.sg/semerchantreg</a>
+            </td>
+        </tr>
+        <tr>
+            <td>South West CDC</td>
+            <td>
+                <a href="https://go.gov.sg/swmerchantreg">https://go.gov.sg/swmerchantreg</a>
+            </td>
+        </tr>
+    </tbody>
+    </table>
 			
 <p>In case of enquiries, please contact our hotline at 6225 5322.
 				The operating hours of our hotline are:</br>
