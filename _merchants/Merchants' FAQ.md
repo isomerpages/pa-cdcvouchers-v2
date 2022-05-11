@@ -99,7 +99,7 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
     <div>
-			<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank">CDC's district locator</a>. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration. </p>
+			<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank">CDC's district locator</a>. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration. 
 		
 			
 
@@ -117,12 +117,10 @@ In case of enquiries, please contact our hotline at 6225 5322.
 				The operating hours of our hotline are:</br>
 ● 8am to 6pm, Mondays to Sundays, except Public Holidays (PH) </br>
 ● 8.00 am to 1.00 pm on eve of the 3 public holidays, namely New Year, Chinese New Year and Christmas
-  
-
-  </div>
+  </div><div>
 				<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I check my application status after I have submitted my interest to participate?</span></label>
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I check my application status after I have submitted my interest to participate?</span></label></div>
     <div>
 			<p>If you have submitted your application and have not received a reply after 14 calendar days from the date of submission, please contact your respective CDCs to check on the status of your application. We seek your patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
 			<p><table border="0" cellspacing="2" cellpadding="2">
