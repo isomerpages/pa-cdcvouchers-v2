@@ -100,6 +100,9 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
     <div>
 			<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank">CDC's district locator</a>. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration. </p>
+				</div>
+		<div>
+			<p>
 			
 
 | |  |  |
@@ -115,7 +118,7 @@ In case of enquiries, please contact our hotline at 6225 5322.
 				The operating hours of our hotline are:</br>
 ● 8am to 6pm, Mondays to Sundays, except Public Holidays (PH) </br>
 ● 8.00 am to 1.00 pm on eve of the 3 public holidays, namely New Year, Chinese New Year and Christmas
-    
+    </p>
 </div>
   </li>
 				<li>
