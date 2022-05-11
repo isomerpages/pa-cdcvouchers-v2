@@ -88,7 +88,7 @@ ________
 ### Get ready your Singpass
 <p>Singpass is required to claim your CDC vouchers.</p>
 <p  style="text-align: left;">
-<a href="https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB" class="bp-button is-secondary is-uppercase search-button" target="_blank">Proceed to claim CDC Vouchers</a>
+<a href="https://go.gov.sg/cdcv" class="bp-button is-secondary is-uppercase search-button" target="_blank">Proceed to claim CDC Vouchers</a>
 </p>
 
 ### Forgot your Singpass password?
