@@ -184,7 +184,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
       <p>The SMS is identifiable by the sender named “RedeemSG”.  Please also check that your unique voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 start with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
 		
-<p><img src="/images/residents/Voucher%20SMS.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:170px !important;" />
+<p><img src="/images/residents/Voucher%20SMS.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:auto !important;" />
 	</p>
 
 <p>A typical SMS from RedeemSG will look like the screenshot on the above. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
