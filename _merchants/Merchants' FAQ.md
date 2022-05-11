@@ -149,7 +149,7 @@ In case of enquiries, please contact our hotline at 6225 5322.
 			</p>			
     </div>
   </li>
-		<li>
+	<li>
     <input type="checkbox" id="accordion9">
     <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I had previously participated as a merchant in CDC Vouchers 2021. Do I auto-qualify or do I still need to register to join CDC Vouchers Scheme 2022 and future tranches? Also will I receive the $30 onboarding incentive again for CDC Vouchers Scheme 2022 and future tranches?</span></label>
     <div>
@@ -157,8 +157,7 @@ In case of enquiries, please contact our hotline at 6225 5322.
 			<p>The $30 onboarding incentive is only for newly onboarded merchants.</p>
     </div>
   </li>
-	<li>
-    <input type="checkbox" id="accordion10">
+<li><input type="checkbox" id="accordion10">
 <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What do I need to prepare to sign-up and onboard as a new participating heartland merchant/hawker?</span></label>
 <div>
 <p>During the sign-up process, we will obtain your <strong>business contact information</strong> (such as bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
