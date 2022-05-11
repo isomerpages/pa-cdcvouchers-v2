@@ -95,7 +95,7 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
 ##  Registration for Interested Merchants
 
 <ul class="jekyllcodex_accordion">
-			<li> <div>
+			<li>
 		    <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
 
@@ -120,9 +120,9 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
 </div>
 	</li>
 				<li>    
-	<div>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I check my application status after I have submitted my interest to participate?</span></label>
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I check my application status after I have submitted my interest to participate?</span></label>	<div>
+
 		<p>If you have submitted your application and have not received a reply after 14 calendar days from the date of submission, please contact your respective CDCs to check on the status of your application. We seek your patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
 			<p><table border="0" cellspacing="2" cellpadding="2">
 <tbody>
