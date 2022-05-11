@@ -32,7 +32,7 @@ sections:
       description: No need to download a mobile app. Claim your digital CDC Vouchers
         2021 & 2022 easily with just a few taps.
       button: Claim now
-      url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e
+      url: https://go.gov.sg/cdcv
       image: /images/residents/resident banner without button.png
       alt: Calling Singaporean households
   - infobar:
