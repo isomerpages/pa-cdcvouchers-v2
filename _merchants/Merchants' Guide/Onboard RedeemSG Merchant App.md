@@ -32,7 +32,6 @@ a.bp-button {
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/2YD2J-EMRSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
-</style>
 
 <p>1: Download RedeemSG Merchant mobile app and log in with your mobile number. </p>
 
