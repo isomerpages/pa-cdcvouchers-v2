@@ -32,8 +32,6 @@ a.bp-button {
 <div class="youtubecontainer">
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/ym2nJf-L85E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-</style>
-
 
 
 <p>1: 下载 RedeemSG Merchant 手机应用程序, 以您的手机号码登入。</p>
