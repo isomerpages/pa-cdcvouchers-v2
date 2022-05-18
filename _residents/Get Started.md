@@ -92,7 +92,7 @@ ________
 </p>
 
 ### Forgot your Singpass password?
-<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B"  target="_blank">Reset it online</a> or head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter" style="color:#22499B" target="_blank">nearest Singpass counter </a>.</p> 
+<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B"  target="_blank">Reset it online</a> or head down to your <a href="https://www.singpass.gov.sg/home/ui/counter-locations" style="color:#22499B" target="_blank">nearest Singpass counter </a>.</p> 
  
 
 ### Need Help?
