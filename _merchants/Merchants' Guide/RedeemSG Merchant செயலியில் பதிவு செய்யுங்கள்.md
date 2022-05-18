@@ -12,7 +12,26 @@ a.bp-button {
 	height: 6em !important;
 	white-space:pre-line !important;
 }
+	
+		
+ .youtubecontainer {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.youtubevideo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 </style>
+
+<div class="youtubecontainer">
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/6ao4P3NRX6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 
 <p>1: RedeemSG Merchant செயலியைப் பதிவிறக்கம் செய்து, உங்கள் கைப்பேசி எண்ணுடன் உட்பதிவு செய்யுங்கள்.</p>
 
