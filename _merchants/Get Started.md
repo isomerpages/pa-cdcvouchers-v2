@@ -108,16 +108,16 @@ Our step-by-step video and guide are available in the following languages:
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 130%;">
 <tbody>
 <tr>
-<td> English </td><td> <a href="/merchants/merchant-guide-english">Onboard RedeemSG Merchant App</a></td>
+<td> English </td><td> <a href="/merchants/merchant-guide-english">Guide to the RedeemSG Merchant App</a></td>
 </tr>
 <tr>
-<td> 中文 </td><td> <a href="/merchants/merchant-guide-chinese">加入 RedeemSG Merchant 手机应用程序</a></td>
+<td> 中文 </td><td> <a href="/merchants/merchant-guide-chinese">RedeemSG Merchant 手机应用程序使用说明</a></td>
 </tr>
 <tr>
 <td> Melayu </td><td> <a href="/merchants/merchant-guide-malay">Bagaimana untuk menggunakan RedeemSG Merchant</a></td>
 </tr>
 <tr>
-<td>தமிழ் </td><td> <a href="/merchants/merchant-guide-tamil">RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்</a></td>
+<td>தமிழ் </td><td> <a href="/merchants/merchant-guide-tamil">RedeemSG Merchant செயலிக்கான வழிகாட்டி</td>
 </tr></tbody>
 </table>
 
