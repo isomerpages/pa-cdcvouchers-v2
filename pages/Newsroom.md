@@ -17,7 +17,7 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | Media Release     | [More than 1 million Singaporean Households have claimed CDC Vouchers](https://drive.google.com/file/d/16cgC9UYX2gJ2QusmFnpR6S8Tz_JrwQKB/view?usp=drivesdk)
- Key Coverage    | [Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme) | 
+ Key Coverage    | [The Straits Times - Over 1 million S'porean households have claimed CDC vouchers, over $28m spent](https://www.straitstimes.com/singapore/community/over-1-million-sporean-households-have-claimed-cdc-vouchers-over-28m-spent) | 
  <br>
 
 #### 23 December 2022 - <br>Launch of CDC Vouchers Merchants Go Where 
