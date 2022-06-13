@@ -34,8 +34,7 @@ description: ""
 | -------- | -------- | -------- |
 | Media Release     | [130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers](https://www.cdc.gov.sg/docs/default-source/default-document-library/130-million-cdc-vouchers-scheme-launched.pdf?sfvrsn=53090d38_0 "130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers")
 | Speeches    | [Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme) | 
-| Coverage    | [Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme) | 
- <br>
+| Key Coverage    | [The Straits Times - Households can check new website for nearby hawkers, merchants which accept CDC vouchers](https://www.straitstimes.com/singapore/households-can-check-new-website-for-nearby-hawkers-merchants-which-accept-cdc-vouchers?utm_medium=social&utm_source=telegram&utm_campaign=sttg))<br><br>[Lianhe Zaobao Online - 公众可上网查询参与邻里购物券计划商家](https://www.zaobao.com.sg/realtime/singapore/story20211223-1225975?fbclid=IwAR1nyIMRB2OwAwnrQOn0XfHGp8OYMiVzhFV1TW0Ffcyg5yEr9pFfhev6giE))<br><br>[Tamil Murasu - $100 சிடிசி பற்றுச்சீட்டை பயன்படுத்த புதிய இணையத்தளத்தில் எளியமுறையில் விவரம்](https://www.tamilmurasu.com.sg/singapore/story20211224-80398.html) <br>
 
 
 #### 18 October 2021 <br>
