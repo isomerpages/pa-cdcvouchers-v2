@@ -24,9 +24,8 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Media Release     | [130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers](https://www.cdc.gov.sg/docs/default-source/default-document-library/130-million-cdc-vouchers-scheme-launched.pdf?sfvrsn=53090d38_0 "130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers")
-| Speeches    | [Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme) | 
-| Coverage    | [Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme) | 
+| Media Release     | [130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers](https://www.cdc.gov.sg/docs/default-source/default-document-library/130-million-cdc-vouchers-scheme-launched.pdf?sfvrsn=53090d38_0 "130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers") [Find participating hawkers and heartland merchants on CDC Vouchers Merchants Go Where](/files/Media%20Release_CDC%20Vouchers%20Merchants%20Gowhere_%2023%20Dec%202021.pdf)
+| Key Coverage    | [Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme) | 
  <br>
 
 #### 13 December 2021 - <br>Launch of $130 million CDC Vouchers Scheme
