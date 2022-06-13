@@ -24,8 +24,8 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Media Release     | [130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers](https://www.cdc.gov.sg/docs/default-source/default-document-library/130-million-cdc-vouchers-scheme-launched.pdf?sfvrsn=53090d38_0 "130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers") [Find participating hawkers and heartland merchants on CDC Vouchers Merchants Go Where](/files/Media%20Release_CDC%20Vouchers%20Merchants%20Gowhere_%2023%20Dec%202021.pdf)
-| Key Coverage    | [Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme) | 
+| Media Release     | [Find participating hawkers and heartland merchants on CDC Vouchers Merchants Go Where](/files/Media%20Release_CDC%20Vouchers%20Merchants%20Gowhere_%2023%20Dec%202021.pdf)
+| Key Coverage    | [The Straits Times - Households can check new website for nearby hawkers, merchants which accept CDC vouchers](https://www.straitstimes.com/singapore/households-can-check-new-website-for-nearby-hawkers-merchants-which-accept-cdc-vouchers?utm_medium=social&utm_source=telegram&utm_campaign=sttg))<br><br>[Lianhe Zaobao Online - 逾百万家庭已领取邻里购物券](http://www.zaobao.com.sg/realtime/singapore/story20220109-1231126?fbclid=IwAR24qQFkX_R19US5gaRZ68Divc0grLuyE0uwL7myrTxDB_C0gBzgXySVrL8)<br><br>[Berita Harian - 1 juta keluarga tebus baucar CDC pada bulan pertama dilancar](https://berita.mediacorp.sg/singapura/1-juta-keluarga-tebus-baucar-cdc-pada-bulan-pertama-dilancar-626616)<br><br>[Tamil Murasu - ஒரு மி. குடும்பங்கள் $100 'சிடிசி' பற்றுச்சீட்டுகளைப் பெற்றுக்கொண்டன; $28 மி. செலவழிக்கப்பட்டது](https://www.tamilmurasu.com.sg/top-news/story20220109-81342.html)
  <br>
 
 #### 13 December 2021 - <br>Launch of $130 million CDC Vouchers Scheme
