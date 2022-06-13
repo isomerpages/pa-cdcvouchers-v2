@@ -25,8 +25,7 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | Media Release     | [Find participating hawkers and heartland merchants on CDC Vouchers Merchants Go Where](/files/Media%20Release_CDC%20Vouchers%20Merchants%20Gowhere_%2023%20Dec%202021.pdf)
-| Key Coverage    | [The Straits Times - Households can check new website for nearby hawkers, merchants which accept CDC vouchers](https://www.straitstimes.com/singapore/households-can-check-new-website-for-nearby-hawkers-merchants-which-accept-cdc-vouchers?utm_medium=social&utm_source=telegram&utm_campaign=sttg))<br><br>[Lianhe Zaobao Online - 公众可上网查询参与邻里购物券计划商家](https://www.zaobao.com.sg/realtime/singapore/story20211223-1225975?fbclid=IwAR1nyIMRB2OwAwnrQOn0XfHGp8OYMiVzhFV1TW0Ffcyg5yEr9pFfhev6giE))<br><br>[Berita Harian - 1 juta keluarga tebus baucar CDC pada bulan pertama dilancar](https://berita.mediacorp.sg/singapura/1-juta-keluarga-tebus-baucar-cdc-pada-bulan-pertama-dilancar-626616)<br><br>[Tamil Murasu - ஒரு மி. குடும்பங்கள் $100 'சிடிசி' பற்றுச்சீட்டுகளைப் பெற்றுக்கொண்டன; $28 மி. செலவழிக்கப்பட்டது](https://www.tamilmurasu.com.sg/top-news/story20220109-81342.html)
- <br>
+| Key Coverage    | [The Straits Times - Households can check new website for nearby hawkers, merchants which accept CDC vouchers](https://www.straitstimes.com/singapore/households-can-check-new-website-for-nearby-hawkers-merchants-which-accept-cdc-vouchers?utm_medium=social&utm_source=telegram&utm_campaign=sttg))<br><br>[Lianhe Zaobao Online - 公众可上网查询参与邻里购物券计划商家](https://www.zaobao.com.sg/realtime/singapore/story20211223-1225975?fbclid=IwAR1nyIMRB2OwAwnrQOn0XfHGp8OYMiVzhFV1TW0Ffcyg5yEr9pFfhev6giE))<br><br>[Tamil Murasu - $100 சிடிசி பற்றுச்சீட்டை பயன்படுத்த புதிய இணையத்தளத்தில் எளியமுறையில் விவரம்](https://www.tamilmurasu.com.sg/singapore/story20211224-80398.html) <br>
 
 #### 13 December 2021 - <br>Launch of $130 million CDC Vouchers Scheme
 
