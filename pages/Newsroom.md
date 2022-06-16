@@ -28,7 +28,7 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | Media Release     | [Find participating hawkers and heartland merchants on CDC Vouchers Merchants Go Where](/files/Media%20Release_CDC%20Vouchers%20Merchants%20Gowhere_%2023%20Dec%202021.pdf)
-| Key Coverage    | [The Straits Times - Households can check new website for nearby hawkers, merchants which accept CDC vouchers](https://www.straitstimes.com/singapore/households-can-check-new-website-for-nearby-hawkers-merchants-which-accept-cdc-vouchers?utm_medium=social&utm_source=telegram&utm_campaign=sttg)<br><br>[Lianhe Zaobao Online - 公众可上网查询参与邻里购物券计划商家](https://www.zaobao.com.sg/realtime/singapore/story20211223-1225975?fbclid=IwAR1nyIMRB2OwAwnrQOn0XfHGp8OYMiVzhFV1TW0Ffcyg5yEr9pFfhev6giE)<br><br>[Tamil Murasu - $100 சிடிசி பற்றுச்சீட்டை பயன்படுத்த புதிய இணையத்தளத்தில் எளியமுறையில் விவரம்](https://www.tamilmurasu.com.sg/singapore/story20211224-80398.html) <br>
+| Key Coverage    | [The Straits Times - Households can check new website for nearby hawkers, merchants which accept CDC vouchers](https://www.straitstimes.com/singapore/households-can-check-new-website-for-nearby-hawkers-merchants-which-accept-cdc-vouchers?utm_medium=social&utm_source=telegram&utm_campaign=sttg)<br><br>[Lianhe Zaobao Online - 公众可上网查询参与邻里购物券计划商家](https://www.zaobao.com.sg/realtime/singapore/story20211223-1225975?fbclid=IwAR1nyIMRB2OwAwnrQOn0XfHGp8OYMiVzhFV1TW0Ffcyg5yEr9pFfhev6giE)<br><br>[Berita Mediacorp - Anda kurang pasti kedai mana terima baucar CDC 100?](https://berita.mediacorp.sg/singapura/anda-kurang-pasti-kedai-mana-terima-baucar-cdc-s100-622526)<br><br>[Tamil Murasu - $100 சிடிசி பற்றுச்சீட்டை பயன்படுத்த புதிய இணையத்தளத்தில் எளியமுறையில் விவரம்](https://www.tamilmurasu.com.sg/singapore/story20211224-80398.html) <br>
 
 #### 13 December 2021 - <br>Launch of $130 million CDC Vouchers Scheme
 
@@ -47,5 +47,4 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | Media Release     | [$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf?sfvrsn=52e37b4e_2 "$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers")    | 
-| Key Coverage    | Text     | 
-
+| Key Coverage    | Text     |
