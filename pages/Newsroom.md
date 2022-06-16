@@ -67,7 +67,7 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | Media Release     | [Launch of $20 million CDC Vouchers Scheme (Tranche 2)](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf?sfvrsn=52e37b4e_2 "$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers")    | 
-| Key Coverage    | [The Straits Times - Singapore hawkers welcome convenience CDC e-vouchers would bring](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/media-release-for-cdc-vouchers-scheme-tranche2.pdf?sfvrsn=15feca0b_4)<br><br>[Lianhe Zaobao Online - 总值1亿3000万元惠及本地公民家庭 100元邻里购物券将以数码形式发放](https://www.zaobao.com.sg/news/singapore/story20211019-1204624)<br><br>   |
+| Key Coverage    | [The Straits Times - 400,000 S'pore households to receive 2nd tranche of $50 vouchers to spend at local businesses](https://www.straitstimes.com/singapore/400k-households-to-receive-2nd-tranche-of-50-vouchers-to-spend-at-local-businesses)<br><br>[Lianhe Zaobao Online - 总值1亿3000万元惠及本地公民家庭 100元邻里购物券将以数码形式发放](https://www.zaobao.com.sg/news/singapore/story20211019-1204624)<br><br>   |
 
 #### 12 June 2020 - <br>$20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation
 
