@@ -40,5 +40,12 @@ description: ""
 | Key Coverage    | [The Straits Times - Households can check new website for nearby hawkers, merchants which accept CDC vouchers](https://www.straitstimes.com/singapore/households-can-check-new-website-for-nearby-hawkers-merchants-which-accept-cdc-vouchers?utm_medium=social&utm_source=telegram&utm_campaign=sttg)<br><br>[Lianhe Zaobao Online - 公众可上网查询参与邻里购物券计划商家](https://www.zaobao.com.sg/realtime/singapore/story20211223-1225975?fbclid=IwAR1nyIMRB2OwAwnrQOn0XfHGp8OYMiVzhFV1TW0Ffcyg5yEr9pFfhev6giE)<br><br>[Tamil Murasu - $100 சிடிசி பற்றுச்சீட்டை பயன்படுத்த புதிய இணையத்தளத்தில் எளியமுறையில் விவரம்](https://www.tamilmurasu.com.sg/singapore/story20211224-80398.html) <br>
 
 
-#### 18 October 2021 <br>
- [$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf?sfvrsn=52e37b4e_2 "$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers")
+#### 18 October 2021 - <br>Onboarding begins for Heartland Merchants and Hawkers
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Media Release     | [$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf?sfvrsn=52e37b4e_2 "$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers")    | 
+| Key Coverage    | Text     | 
+
