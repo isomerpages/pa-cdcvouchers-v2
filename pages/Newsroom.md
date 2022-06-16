@@ -20,12 +20,6 @@ description: ""
 | -------- | -------- | -------- |
 | PQ Reponse     | [Update on utilisation of CDC Vouchers and Heartland Merchants onboard CDC Vouchers Scheme](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2022/May/update-on-utilisation-of-cdc-vouchers-and-heartland-merchants-onboard-cdc-vouchers-scheme)   | 
 
-#### 11 January 2022 - <br>Response to Parliamentary Questions 
-
-|  |  |  |
-| -------- | -------- | -------- |
-| PQ Reponse     | [Parliamentary Questions on the CDC Vouchers and Outreach to Households Who Have Not Claimed Their Vouchers as They Are Less IT-Savvy](https://www.pa.gov.sg/newsroom/news/detail/Response-to-Parliamentary-Questions-on-the-CDC-Vouchers-and-Outreach-to-Households-Who-Have-Not-Claimed-Their-Vouchers-as-They-Are-Less-IT-Savvy)   | 
-
 
 #### 9 January 2022 - <br>More than 1 million Singaporean Households have Claimed CDC Vouchers
 
