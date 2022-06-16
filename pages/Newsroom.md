@@ -75,4 +75,4 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | Media Release     | [$20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---launch-of-cdc-vouchers-scheme.pdf?sfvrsn=b15f9832_12)    | 
-| Key Coverage    | [The Straits Times - Singapore hawkers welcome convenience CDC e-vouchers would bring](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/media-release-for-cdc-vouchers-scheme-tranche2.pdf?sfvrsn=15feca0b_4)<br><br>[Lianhe Zaobao Online - 总值1亿3000万元惠及本地公民家庭 100元邻里购物券将以数码形式发放](https://www.zaobao.com.sg/news/singapore/story20211019-1204624)<br><br>   |
+| Key Coverage    | [Channel NewsAsia - S$20 million in vouchers to be distributed to 400,000 households](https://www.channelnewsasia.com/singapore/20-million-vouchers-400000-households-hawkers-provision-shops-725426)<br><br>   |
