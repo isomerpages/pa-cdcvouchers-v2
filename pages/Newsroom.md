@@ -60,11 +60,11 @@ description: ""
 | Media Release     | [$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf?sfvrsn=52e37b4e_2 "$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers")    | 
 | Key Coverage    | [The Straits Times - Singapore hawkers welcome convenience CDC e-vouchers would bring](https://www.straitstimes.com/singapore/consumer/singapore-hawkers-welcome-convenience-cdc-e-vouchers-would-bring)<br><br>[Lianhe Zaobao Online - 总值1亿3000万元惠及本地公民家庭 100元邻里购物券将以数码形式发放](https://www.zaobao.com.sg/news/singapore/story20211019-1204624)<br><br>   |
 
-#### 18 October 2021 - <br>Onboarding begins for Heartland Merchants and Hawkers
+#### 25 January 2021 - <br>Launch of $20 million CDC Vouchers Scheme (Tranche 2)
 
 
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Media Release     | [$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf?sfvrsn=52e37b4e_2 "$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers")    | 
-| Key Coverage    | [The Straits Times - Singapore hawkers welcome convenience CDC e-vouchers would bring](https://www.straitstimes.com/singapore/consumer/singapore-hawkers-welcome-convenience-cdc-e-vouchers-would-bring)<br><br>[Lianhe Zaobao Online - 总值1亿3000万元惠及本地公民家庭 100元邻里购物券将以数码形式发放](https://www.zaobao.com.sg/news/singapore/story20211019-1204624)<br><br>   |
+| Media Release     | [Launch of $20 million CDC Vouchers Scheme (Tranche 2)](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf?sfvrsn=52e37b4e_2 "$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers")    | 
+| Key Coverage    | [The Straits Times - Singapore hawkers welcome convenience CDC e-vouchers would bring](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/media-release-for-cdc-vouchers-scheme-tranche2.pdf?sfvrsn=15feca0b_4)<br><br>[Lianhe Zaobao Online - 总值1亿3000万元惠及本地公民家庭 100元邻里购物券将以数码形式发放](https://www.zaobao.com.sg/news/singapore/story20211019-1204624)<br><br>   |
