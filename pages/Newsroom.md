@@ -51,6 +51,11 @@ description: ""
 | Speech    | [Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme) | 
 | Key Coverage    | [Channel NewsAsia - S$100 in CDC vouchers for each Singaporean household, assistance available for digital roll-out](https://www.channelnewsasia.com/singapore/cdc-voucher-130-million-claim-online-digital-hawker-merchants-heartland-2376086)<br><br>[Lianhe Zaobao Online - 本地公民家庭今起可领取100元邻里购物券](https://www.zaobao.com.sg/realtime/singapore/story20211213-1222772)<br><br>[Berita Harian - Isi rumah SG boleh dapatkan baucar CDC $100 dalam talian](https://www.beritaharian.sg/setempat/isi-rumah-sg-boleh-dapatkan-baucar-cdc-100-dalam-talian)<br><br>[Tamil Murasu - எல்லா சிங்கப்பூர் குடும்பங்களுக்கும் 100 வெள்ளி பற்றுச்சீட்டு](https://www.tamilmurasu.com.sg/singapore/story20211213-79714.html) <br>
 
+#### 1 November 2021 - <br>Response to Parliamentary Questions 
+
+|  |  |  |
+| -------- | -------- | -------- |
+| PQ Reponse     | [Comprehensive help available for Community Development Council (CDC) Vouchers Scheme](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2021/nov/cdc-vouchers-scheme)   | 
 
 #### 18 October 2021 - <br>Onboarding begins for Heartland Merchants and Hawkers
 
