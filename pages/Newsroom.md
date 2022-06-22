@@ -64,6 +64,13 @@ description: ""
 
 
 
+| |  | |
+| -------- | -------- | 
+| Media Release     |  [Launch of $20 million CDC Vouchers Scheme (Tranche 2)](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf?sfvrsn=52e37b4e_2 "$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers")| 
+| Key Coverage    |  [The Straits Times - 400,000 S'pore households to receive 2nd tranche of $50 vouchers to spend at local businesses](https://www.straitstimes.com/singapore/400k-households-to-receive-2nd-tranche-of-50-vouchers-to-spend-at-local-businesses)<br><br>| 
+
+
+
 |  |  |  |
 | -------- | -------- | -------- |
 | Media Release     | [Launch of $20 million CDC Vouchers Scheme (Tranche 2)](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf?sfvrsn=52e37b4e_2 "$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers")    | 
