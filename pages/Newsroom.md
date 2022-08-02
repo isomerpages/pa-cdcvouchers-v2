@@ -14,11 +14,6 @@ description: ""
 |  Speeches     |[Speech by Mr Lawrence Wong, Minister for Finance, at the Launch of CDC Vouchers Scheme 2022](https://www.mof.gov.sg/news-publications/speeches/speech-by-mr-lawrence-wong-minister-for-finance-at-the-launch-of-the-cdc-vouchers-scheme-2022-on-wednesday-11-may-2022-at-tampines-west-community-club) <br><br> [Opening Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](https://www.cdc.gov.sg/docs/default-source/default-document-library/delivered-speech-by-chairman-mayor-low-yen-ling-at-launch-of-cdc-vouchers-scheme-2022.pdf?sfvrsn=5d1c9567_0 "Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2022")      | 
 | Key Coverage     | [The Straits Times - Each S'porean household to get $100 CDC vouchers from May 11](https://www.straitstimes.com/singapore/each-sporean-household-to-get-100-cdc-vouchers-from-today)<br><br>[Lianhe Zaobao Online - 今年底前可使用 122万户家庭可再领百元邻里购物券](https://www.zaobao.com.sg/news/singapore/story20220512-1271693)<br><br>[BERITA Online - Agihan kedua baucar CDC bantu imbangi kenaikan harga barangan, rancakkan perniagaan di kawasan kejiranan](https://berita.mediacorp.sg/tonton/agihan-kedua-baucar-cdc-bantu-imbangi-kenaikan-harga-barangan-rancakkan-perniagaan-di-kawasan-kejiranan-665806)<br><br>[Tamil Murasu - சிங்கப்பூர் குடும்பத்துக்கு $100 பற்றுச்சீட்டு; டிசம்பர்வரை செல்லும்](https://www.tamilmurasu.com.sg/top-news/story20220512-88610.html)     | 
 
-#### 10 May 2022 - <br>Response to Parliamentary Question on Utilisation of CDC Vouchers 2022 
-
-|  |  |  |
-| -------- | -------- | -------- |
-| PQ Reponse     | [Update on utilisation of CDC Vouchers and Heartland Merchants onboard CDC Vouchers Scheme](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2022/May/update-on-utilisation-of-cdc-vouchers-and-heartland-merchants-onboard-cdc-vouchers-scheme)   | 
 
 
 #### 9 January 2022 - <br>More than 1 million Singaporean Households have Claimed CDC Vouchers
@@ -45,11 +40,6 @@ description: ""
 | Speech    | [Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme) | 
 | Key Coverage    | [Channel NewsAsia - S$100 in CDC vouchers for each Singaporean household, assistance available for digital roll-out](https://www.channelnewsasia.com/singapore/cdc-voucher-130-million-claim-online-digital-hawker-merchants-heartland-2376086)<br><br>[Lianhe Zaobao Online - 本地公民家庭今起可领取100元邻里购物券](https://www.zaobao.com.sg/realtime/singapore/story20211213-1222772)<br><br>[Berita Harian - Isi rumah SG boleh dapatkan baucar CDC $100 dalam talian](https://www.beritaharian.sg/setempat/isi-rumah-sg-boleh-dapatkan-baucar-cdc-100-dalam-talian)<br><br>[Tamil Murasu - எல்லா சிங்கப்பூர் குடும்பங்களுக்கும் 100 வெள்ளி பற்றுச்சீட்டு](https://www.tamilmurasu.com.sg/singapore/story20211213-79714.html) <br>
 
-#### 1 November 2021 - <br>Response to Parliamentary Questions 
-
-|  |  |  |
-| -------- | -------- | -------- |
-| PQ Reponse     | [Comprehensive help available for Community Development Council (CDC) Vouchers Scheme](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2021/nov/cdc-vouchers-scheme)   | 
 
 #### 18 October 2021 - <br>Onboarding begins for Heartland Merchants and Hawkers
 
@@ -62,12 +52,10 @@ description: ""
 
 #### 25 January 2021 - <br>Launch of $20 million CDC Vouchers Scheme (Tranche 2)
 
-
-
 | |  | |
 | -------- | -------- | 
 | Media Release     |  [Launch of $20 million CDC Vouchers Scheme (Tranche 2)](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf?sfvrsn=52e37b4e_2 "$130mil CDC Vouchers Scheme: Onboarding begins for Heartland Merchants Hawkers")| 
-| Key Coverage    |  [The Straits Times - 400,000 S'pore households to receive 2nd tranche of $50 vouchers to spend at local businesses](https://www.straitstimes.com/singapore/400k-households-to-receive-2nd-tranche-of-50-vouchers-to-spend-at-local-businesses)<br><br>| 
+| Key Coverage    |  [The Straits Times - 400,000 S'pore households to receive 2nd tranche of $50 vouchers to spend at local businesses](https://www.straitstimes.com/singapore/400k-households-to-receive-2nd-tranche-of-50-vouchers-to-spend-at-local-businesses)| 
 
 
 #### 12 June 2020 - <br>$20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation
