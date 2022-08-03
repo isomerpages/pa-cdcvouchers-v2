@@ -64,5 +64,5 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Media Release     | [$20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation](https://www.cdc.gov.sg/docs/default-source/cdc-documents/media_releases/final-media-release---launch-of-cdc-vouchers-scheme.pdf?sfvrsn=b15f9832_12)    | 
+| Media Release     | [$20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation](https://www.cdc.gov.sg/files/Press%20Releases/final-media-release---launch-of-cdc-vouchers-scheme%20(1).pdf)    | 
 | Key Coverage    | [Channel NewsAsia - S$20 million in vouchers to be distributed to 400,000 households](https://www.channelnewsasia.com/singapore/20-million-vouchers-400000-households-hawkers-provision-shops-725426)<br><br>   |
