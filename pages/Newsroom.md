@@ -36,7 +36,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Media Release     | [130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers](https://www.cdc.gov.sg/docs/default-source/default-document-library/130-million-cdc-vouchers-scheme-launched.pdf?sfvrsn=53090d38_0 "130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers")
+| Media Release     | [130 Million CDC Vouchers Scheme Launched: 1.3 Million Singaporean Households to Receive $100 CDC Vouchers](https://www.cdc.gov.sg/files/Press%20Releases/130-million-cdc-vouchers-scheme-launched.pdf)
 | Speech    | [Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme) | 
 | Key Coverage    | [Channel NewsAsia - S$100 in CDC vouchers for each Singaporean household, assistance available for digital roll-out](https://www.channelnewsasia.com/singapore/cdc-voucher-130-million-claim-online-digital-hawker-merchants-heartland-2376086)<br><br>[Lianhe Zaobao Online - 本地公民家庭今起可领取100元邻里购物券](https://www.zaobao.com.sg/realtime/singapore/story20211213-1222772)<br><br>[Berita Harian - Isi rumah SG boleh dapatkan baucar CDC $100 dalam talian](https://www.beritaharian.sg/setempat/isi-rumah-sg-boleh-dapatkan-baucar-cdc-100-dalam-talian)<br><br>[Tamil Murasu - எல்லா சிங்கப்பூர் குடும்பங்களுக்கும் 100 வெள்ளி பற்றுச்சீட்டு](https://www.tamilmurasu.com.sg/singapore/story20211213-79714.html) <br>
 
