@@ -21,7 +21,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Media Release     | [More than 1 million Singaporean Households have claimed CDC Vouchers](https://drive.google.com/file/d/16cgC9UYX2gJ2QusmFnpR6S8Tz_JrwQKB/view?usp=drivesdk)   | 
+| Media Release     | [More than 1 million Singaporean Households have claimed CDC Vouchers](https://www.cdc.gov.sg/files/Press%20Releases/More%20than%201%20million%20Singaporean%20Households%20have%20claimed%20CDC%20Vouchers.pdf)   | 
 | Key Coverage     | [The Straits Times - Over 1 million S'porean households have claimed CDC vouchers, over $28m spent](https://www.straitstimes.com/singapore/community/over-1-million-sporean-households-have-claimed-cdc-vouchers-over-28m-spent)<br><br>[Lianhe Zaobao Online - 逾百万家庭已领取邻里购物券](http://www.zaobao.com.sg/realtime/singapore/story20220109-1231126?fbclid=IwAR24qQFkX_R19US5gaRZ68Divc0grLuyE0uwL7myrTxDB_C0gBzgXySVrL8)<br><br>[Berita Harian - 1 juta keluarga tebus baucar CDC pada bulan pertama dilancar](https://berita.mediacorp.sg/singapura/1-juta-keluarga-tebus-baucar-cdc-pada-bulan-pertama-dilancar-626616)<br><br>[Tamil Murasu - ஒரு மி. குடும்பங்கள் $100 'சிடிசி' பற்றுச்சீட்டுகளைப் பெற்றுக்கொண்டன; $28 மி. செலவழிக்கப்பட்டது](https://www.tamilmurasu.com.sg/top-news/story20220109-81342.html) | 
  
 #### 23 December 2021 - <br>Launch of CDC Vouchers Merchants Go Where 
