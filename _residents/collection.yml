@@ -2,7 +2,6 @@ collections:
   residents:
     output: true
     order:
-      - Donate Vouchers.md
       - Get Started.md
       - Residents' Guide/.keep
       - Residents' Guide/How to Claim & Spend CDC Vouchers.md
@@ -11,4 +10,5 @@ collections:
         CDC anda.md
       - Residents' Guide/CDC பற்றுச்சீட்டுகளைப் பெற்றுக் கொள்ளுங்கள்.md
       - Where to Spend Your CDC Vouchers?.md
+      - Donate Vouchers.md
       - Residents' FAQ.md
