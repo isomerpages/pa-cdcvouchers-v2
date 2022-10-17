@@ -91,7 +91,7 @@ third_nav_title: Donate Vouchers
   <li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I - J</span></label>
-    <<div>
+    <div>
 			<p>IPC 1</p>
 			<p>IPC 2</p>
 			</div>
@@ -129,10 +129,8 @@ third_nav_title: Donate Vouchers
 			</div>
 	</li>  
   </ul>
-
 <a href="#donate_page_top">Back to Top</a>
 <a id="donate_page_district"></a>
-
 ## View IPCs by District
 
 <ul class="jekyllcodex_accordion">
