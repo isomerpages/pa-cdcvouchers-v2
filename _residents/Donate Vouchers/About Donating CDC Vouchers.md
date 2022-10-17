@@ -175,5 +175,4 @@ third_nav_title: Donate Vouchers
 			</div>
 	</li>  
 </ul>
-
-[Back to Top](#donate_page_top)
+<a href="#donate_page_top">Back to Top</a>
