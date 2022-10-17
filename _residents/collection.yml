@@ -2,6 +2,7 @@ collections:
   residents:
     output: true
     order:
+      - Donate Vouchers/.keep
       - Get Started.md
       - Residents' Guide/.keep
       - Residents' Guide/How to Claim & Spend CDC Vouchers.md
