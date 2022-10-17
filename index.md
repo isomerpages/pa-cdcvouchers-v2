@@ -43,7 +43,7 @@ sections:
       url: https://www.gowhere.gov.sg/cdcvouchersmerchants
   - infobar:
       title: How to donate your CDC Vouchers?
-      description: Choose from a list of charities that you may donate your CDC Vouchers to.
+      description: Choose from a list of IPCs that you may donate your CDC Vouchers to.
       button: Find out more
       url: \donate
   - infobar:
