@@ -61,7 +61,7 @@ third_nav_title: Donate Vouchers
   <li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Others </span></label>
-    <<div>
+    <div>
 			<p>IPC 1</p>
 			<p>IPC 2</p>
 			</div>
