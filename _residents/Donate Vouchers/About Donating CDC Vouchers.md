@@ -76,113 +76,61 @@ third_nav_title: Donate Vouchers
 <ul class="jekyllcodex_accordion">
 			<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can residents claim and spend their CDC Vouchers 2022 (and 2021, if still not fully spent)?</span></label>
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">A - D</span></label>
     <div>
-			<p>Only one Singaporean household member with a Singpass account needs to claim the vouchers on behalf of the entire household.</p>
-			<p>
-1) Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2022, or CDC Vouchers 2021, and login with Singpass to claim your respective vouchers. </p>
-			<p>
-2) You may also use <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to retrieve your previous voucher link by logging in to Singpass again.
-			</p>
-			<p>
-3) Do note that the SMS voucher link for the CDC Vouchers 2022 is different from the voucher link for the CDC Vouchers 2021. Both sets of vouchers can be used till 31 December 2022. You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $100 CDC Vouchers. </p>
-    </div>
-  </li>
-				<li>
+			<p>IPC 1</p>
+			<p>IPC 2</p>
+			</div>
+	</li>  
+  <li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What do I need to claim the vouchers?</span></label>
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">E - H</span></label>
     <div>
-			<p>You will require a valid Singpass account and smartphone to login and claim your vouchers.  Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household.</p> 
-<p>
-Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> on how to claim your household’s $100 CDC vouchers or the notification letter.
-			</p>			
-    </div>
-  </li>
-		<li>
+			<p>IPC 1</p>
+			<p>IPC 2</p>
+			</div>
+	</li>  
+  <li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</span></label>
-    <div>
-			<p>Please refer to the following link for a list of <a href="https://www.singpass.gov.sg/main/html/faq.html" target="_blank">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit a Singpass counter located in all Community Centres/Clubs (CC) across Singapore for assistance. </p>
-    </div>
-  </li>
-<li>
+    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I - J</span></label>
+    <<div>
+			<p>IPC 1</p>
+			<p>IPC 2</p>
+			</div>
+	</li>  
+  <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">If I have already claimed my CDC Vouchers 2021 earlier, will I need to claim the CDC Vouchers 2022?</span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">K - N</span></label>
     <div>
-			<p>Yes you will need to claim your CDC Vouchers 2022.</p>
-			<p>Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2022, and login with Singpass to claim your vouchers.</p>
-
-<p>You will then receive a new unique voucher link that is different from the one received for the CDC Vouchers announced in December 2021. Only one member of the household is required to claim on behalf of the household.</p>
-    </div>
-  </li>
-	<li>
+			<p>IPC 1</p>
+			<p>IPC 2</p>
+			</div>
+	</li>  
+  <li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">O - R</span></label>
     <div>
-      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed <a href="/files/Authorisation Form 2.pdf"> Authorisation Form</a> and necessary supporting documents (specified in the authorisation form) to the CC. </p>     </div>
+			<p>IPC 1</p>
+			<p>IPC 2</p>
+			</div>
 	</li>  
-<li>
+  <li>
     <input type="checkbox" id="accordion13">
-    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What if I submitted the wrong mobile number?</span></label>
+    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">S - U</span></label>
     <div>
-      <p>When you are signing up for your vouchers, a One Time Password (OTP) will be sent to the mobile number you have keyed in for verification. If you had keyed in the wrong mobile number, you will not receive the One Time Password and you can return to the previous page to key in your mobile number again. </p> 
-			<p>Vouchers will only be sent after you have verified your mobile number, which helps to ensure vouchers will not be sent to the wrong mobile number. </p>
-<p><img src="/images/residents/redeem_otp.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;" />
-	</p>
-
-<p>One Time Password will be sent to your registered mobile number.
-	</p>
-<p><img src="/images/residents/Voucher%20SMS.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:auto !important;" />
-	</p>
-			<p>Vouchers will be sent to your verified mobile number.</p>
-    </div>
+			<p>IPC 1</p>
+			<p>IPC 2</p>
+			</div>
 	</li>  
-	<li>
+  <li>
     <input type="checkbox" id="accordion14">
-    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I verify that the SMS link I received is a legitimate link?</span></label>
+    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">W - Z</span></label>
     <div>
-      <p>The SMS is identifiable by the sender named “RedeemSG”.  Please also check that your unique voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 start with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
-		
-<p><img src="/images/residents/Voucher%20SMS.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:auto !important;" />
-	</p>
-
-<p>A typical SMS from RedeemSG will look like the screenshot on the above. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
-    </div>
-	</li> 
-		<li>
-    <input type="checkbox" id="accordion15">
-    <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
-    <div>
-			<p>To retrieve the voucher links for CDC Vouchers 2021 and CDC Vouchers 2022, please visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the voucher links sent to you via SMS. 
-			</p>
-			<p>
-				Please note that the SMS voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 are different.
-			</p>
-    </div>
-  </li>
-		<li>
-    <input type="checkbox" id="accordion16">
-    <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What should I do if my household’s vouchers have already been claimed by someone else?</span></label>
-    <div>
-			<p>If someone else has claimed the vouchers, the page will display the name of the family member who has claimed the vouchers on behalf of the household after you have completed the login with Singpass. You may wish to check with that household member.
-				</p>
-			<p>Should the individual belong to another household staying at the same address, please visit your nearest CC to apply for the CDC Vouchers. Please bring along the following supporting documents: your NRIC, and any one of the relevant documents to show proof of household (e.g proof of previous overseas employment / proof of overseas address / tenancy agreement / proof of new resident e.g. taking/handing over keys)
-			</p>
-		    </div>
-  </li>
-	<li>
-    <input type="checkbox" id="accordion17">
-    <label for="accordion17"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I do not have a mobile phone or digital device. What should I do?</span></label>
-    <div>
-			<p>Please kindly seek help from your family members for assistance to claim the vouchers. </p>
-
-<p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the voucher. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account.</p>
-			
-<p>To find out the location of your nearest CC, please key in your postal code using  <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank"><strong>CDC's district locator</strong>.</a>
-			</p>
-    </div>
-  </li>
-</ul>
+			<p>IPC 1</p>
+			<p>IPC 2</p>
+			</div>
+	</li>  
+  </ul>
 
 <a href="#donate_page_top">Back to Top</a>
 <a id="donate_page_district"></a>
