@@ -4,9 +4,8 @@ permalink: /donate/list/
 description: ""
 third_nav_title: Donate Vouchers
 ---
-
 <span id="donate_page_top"></span>
-<a href="#cdcv_page_az"><strong>View IPCs by Alphabetical Order</strong></a> | <a href="#cdcv_page_district"><strong>View IPCs by District</strong></a>
+<a href="#donate_page_az"><strong>View IPCs by Alphabetical Order</strong></a> | <a href="#donate_page_district"><strong>View IPCs by District</strong></a>
 
 ## View IPCs by Causes 
 
