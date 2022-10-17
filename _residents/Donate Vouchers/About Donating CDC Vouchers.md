@@ -68,7 +68,6 @@ third_nav_title: Donate Vouchers
 	</li>  
 </ul>
 <a href="#donate_page_top">Back to Top</a>
-
 <span id="donate_page_az"></span>
 ## View IPCs by Alphabetical Order
 
