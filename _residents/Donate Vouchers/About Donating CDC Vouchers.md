@@ -4,6 +4,9 @@ permalink: /donate/
 description: ""
 third_nav_title: Donate Vouchers
 ---
+Blurb about donating CDC Vouchers<br>
+Step by step guide on how to donate CDC Vouchers<br>
+
 <span id="donate_page_top"></span>
 <a href="#cdcv_page_az"><strong>View IPCs by Alphabetical Order</strong></a> | <a href="#cdcv_page_district"><strong>View IPCs by District</strong></a>
 
