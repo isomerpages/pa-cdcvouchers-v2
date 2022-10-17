@@ -66,7 +66,6 @@ third_nav_title: Donate Vouchers
 			<p>IPC 2</p>
 			</div>
 	</li>  
-  <li>
 </ul>
 <a href="#donate_page_top">Back to Top</a>
 
