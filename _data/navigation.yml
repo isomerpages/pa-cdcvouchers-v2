@@ -8,6 +8,8 @@ links:
     collection: merchants
   - title: Resources
     resource_room: true
+  - title: Donate CDC Vouchers
+    url: /donate
   - title: Newsroom
     url: /newsroom
   - title: Contact Us
