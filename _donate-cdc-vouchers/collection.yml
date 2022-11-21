@@ -2,4 +2,5 @@ collections:
   donate-cdc-vouchers:
     output: true
     order:
+      - List of Charities.md
       - How to Donate CDC Vouchers.md
