@@ -1,0 +1,4 @@
+collections:
+  donate-cdc-vouchers:
+    output: true
+    order: []
