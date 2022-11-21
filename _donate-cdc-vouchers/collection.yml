@@ -1,4 +1,5 @@
 collections:
   donate-cdc-vouchers:
     output: true
-    order: []
+    order:
+      - Donate CDC Vouchers.md
