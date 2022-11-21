@@ -6,10 +6,10 @@ links:
     collection: residents
   - title: Merchants
     collection: merchants
+  - title: Donate CDC Vouchers
+    collection: donate-cdc-vouchers
   - title: Resources
     resource_room: true
-  - title: Donate CDC Vouchers
-    url: /donatev2
   - title: Newsroom
     url: /newsroom
   - title: Contact Us
