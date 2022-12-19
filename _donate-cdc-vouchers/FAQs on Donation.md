@@ -128,11 +128,18 @@ CDCs will share your details with your preferred charity after 31 January 2023 i
     <input type="checkbox" id="accordion12">
     <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How many charities/ who are the charities I can donate the balance of my household’s CDC Vouchers to? </span></label>
     <div>
- 			<p>Yes, as the cash value of the balance of your household’s CDC Vouchers will be donated to your preferred charity, you may be eligible for tax deduction. Tax deduction may be provided by respective Charity, depending on the respective Charity’s policy on issuance of tax deduction, which will be reflected in the Year of Assessment 2024.</p>
+			<p>Residents will be able to donate the balance of their vouchers to one preferred charity.</p>
 			<p>
-CDCs will share your details with your preferred charity after 31 January 2023 i.e. last day of donation, for them to assess and issue the tax-deduction receipt directly, if any.
+The list of participating charities is available on the CDC Vouchers website at https://vouchers.cdc.gov.sg.</p>
+			<p>There are more than 100 charities, from different sectors such as Arts, Heritage, Environment, Sports, Health, etc
 </p>
 	</div>
   </li>
+	<li>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate my household’s CDC Vouchers to an organisation that is not stated on the CDC Vouchers website?  </span></label>
+    <div>
+			<p>No, residents will only be able to pledge the donation of the balance of their household’s CDC Vouchers to one charity listed on the CDC Vouchers website.</p>
+			</div>
+  </li>
 </ul>
-<a href="#cdcv_page_top">Back to Top</a>
