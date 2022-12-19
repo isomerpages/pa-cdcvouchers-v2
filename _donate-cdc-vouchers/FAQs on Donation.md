@@ -117,7 +117,7 @@ The donation period of up 31 January 2023 is to provide residents additional tim
   </li>
 	<li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate the balance CDC Vouchers (printed)? Do I visit the CCs for assistance? </span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Will I be eligible for tax deduction for the donation of CDC Vouchers 2021 and 2022? </span></label>
     <div>
  			<p>Yes, as the cash value of the balance of your household’s CDC Vouchers will be donated to your preferred charity, you may be eligible for tax deduction. Tax deduction may be provided by respective Charity, depending on the respective Charity’s policy on issuance of tax deduction, which will be reflected in the Year of Assessment 2024.</p>
 			<p>
