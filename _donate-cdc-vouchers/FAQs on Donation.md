@@ -10,15 +10,16 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I/my household donate my/our CDC Vouchers 2021 and 2022?</span></label>
     <div>
-					      <p>Residents can pledge to donate the balance of their CDC Vouchers in three steps: <br>
+			<p>Residents can pledge to donate the balance of their CDC Vouchers in three steps: </p>
+			<p>
 1) Visit the CDC Vouchers Scheme website at vouchers.cdc.gov.sg and click on ‘Donate CDC Vouchers’ <br>
 2) View list of Charities - select your preferred Charity from a list charities from different sectors and be directed to a FormSG to pledge the declaration of donation<br> 
-3) Pledge your donation – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers (2021 and 2022) as of 31 December 2022 to the selected charity
+3) Pledge your donation – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers (2021 and 2022) as of 31 December 2022 to the selected charity</p>
 <p>
 The household member who claimed the CDC Vouchers will be able to pledge the donation of the balance of CDC Vouchers to a preferred charity.</p>
 <p>
 Households that have yet to claim their CDC Vouchers but wish to donate can also do it via the FormSG.</p>
-						</div>
+		</div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
