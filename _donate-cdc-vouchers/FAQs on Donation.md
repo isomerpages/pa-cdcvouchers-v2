@@ -8,52 +8,50 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2022 and 2021?</span></label>
+    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I/my household donate my/our CDC Vouchers 2021 and 2022?</span></label>
     <div>
-			<p><strong>CDC Vouchers Scheme 2022</strong></p>
-		      <p>The Finance Minister Mr Lawrence Wong announced at Budget 2022 that as part of the Household Support Package, the Community Development Councils (CDCs) will be given three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.</p>
-			<p>
-In May 2022, all Singaporean households can each receive $100 in CDC vouchers to help in daily expenses as part of the Household Support Package. You can use the vouchers to purchase goods and services from participating hawkers and heartland merchants.</p>
-			<p><strong>CDC Vouchers Scheme 2021</strong></p>
-			<p>
-						Deputy Prime Minister and then Finance Minister Mr Heng Swee Keat launched the CDC Vouchers Scheme in June 2020 and January 2021 respectively to help Singaporean lower-income households defray their cost of living and at the same time, to support hawkers and heartland merchants affected by Covid-19 pandemic.  Each identified Singaporean lower-income household received $50 worth of CDC Vouchers in June 2020 and January 2021. </p>
-			<p>
-In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swee Keat announced the $130million CDC Vouchers Scheme to thank Singaporeans for their sense of solidarity and to support heartland merchants and hawkers.  Each Singaporean household will receive $100 CDC vouchers and the scheme will benefit up to 1.3 million Singaporean households. </p>
-			</div>
+					      <p>Residents can pledge to donate the balance of their CDC Vouchers in three steps: <br>
+1) Visit the CDC Vouchers Scheme website at vouchers.cdc.gov.sg and click on ‘Donate CDC Vouchers’ <br>
+2) View list of Charities - select your preferred Charity from a list charities from different sectors and be directed to a FormSG to pledge the declaration of donation<br> 
+3) Pledge your donation – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers (2021 and 2022) as of 31 December 2022 to the selected charity
+<p>
+The household member who claimed the CDC Vouchers will be able to pledge the donation of the balance of CDC Vouchers to a preferred charity.</p>
+<p>
+Households that have yet to claim their CDC Vouchers but wish to donate can also do it via the FormSG.</p>
+						</div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Who is eligible for the CDC Vouchers Scheme?</span></label>
+    <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">When can I donate my household's CDC Vouchers 2021 and 2022?</span></label>
     <div>
-      <p>Each Singaporean household can claim $100 in CDC vouchers that can be spent at participating heartland merchants and hawkers.
+      <p> From 20 December 2022 until 31 January 2023, residents will be able to pledge their donation of the balance CDC Vouchers 2020 and 2021 to a preferred charity.</p>
+<p>
+The CDC Vouchers 2021 and 2022 will expire on 31 December 2022 and all Singaporean households are encouraged to utilise their vouchers within the validity period.
 			</p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
+    <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Is there a minimum amount of CDC Vouchers 2021 and 2022 that I am required to donate?</span></label>
     <div>
       <p>
-				All Singaporean households are automatically eligible for the scheme, and will receive a notification letter on how to claim their CDC Vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>.</p>
-			<p> Any one member of the household in the notification letter can scan the QR code in the letter to claim the vouchers. 
-				</p>
+				By submitting a donation declaration, the entire balance of your household’s CDC Vouchers 2021 and 2022, as of 31 December 2022, will be donated to your preferred charity.</p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Why are the CDC vouchers in fixed denominations?</span></label>
+    <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">The CDC Vouchers will expire on 31 December 2022 and households have until 31 January 2023 to pledge their donation. Am I able to utilise the CDC Vouchers till end January 2023?</span></label>
     <div>
-			<p>The vouchers are in fixed denominations because it is less confusing for residents, especially the digitally less-savvy, and reduces the chance for errors to occur when residents key in the amount.  It enables merchants to receive their reimbursement faster.</p>
+			<p>The CDC Vouchers 2021 and 2022 will be valid until 31 December 2022 and all Singaporean households are encouraged to utilise their vouchers within the validity period.</p>
 <p>
-The CDCs and Govtech had several rounds of consultations with residents and merchants to gather feedback on the design of the denominations. The fixed denominations of $2, $5 and $10 allow residents to make purchases at different heartland shops and hawkers. For example, residents may patronise mini-marts or mom-and-pop shops, to purchase groceries or other essential household items, and services such as dental clinics, or hair salons. The larger denominations ($5 and $10) will come in handy at these shops, and residents can also use them to have meals with family members or friends.	</p>
+The donation period of up 31 January 2023 is to provide residents additional time to consider the donation of their CDC Vouchers 2021 and 2022.</p>
     </div>
   </li>
-    
-  <li>
+      <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can the vouchers be shared with my household members?</span></label>
+    <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Am I able to utilise my CDC Vouchers balance after I pledge my donation via the CDC Vouchers website?</span></label>
     <div>
- 			<p>Yes, the vouchers can be shared with your household members via the following method. 
+ 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2021 and 2022 can still utilise them until they expire on 31 December 2022.  At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2022 and transfer the amount to the respective charities from February 2023 onwards. 
 			</p>
 			
 <p>Click on “Share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration. 
