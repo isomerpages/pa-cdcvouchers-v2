@@ -15,7 +15,7 @@ c)	**Pledge your donation** – Login via Singpass to pledge the entire balance 
 **Animal Welfare, Arts & Heritage, Children & Youth, Education, Elderly, Environment, Families & Children, HealthCare, Migrant Community, Persons with Disability, Sports, Others*
 
 Need help on donating your CDC Vouchers 2021 and 2022?<br>
-View the step-by-step video below or view our donation-related FAQs.<br>
+Watch the step-by-step video guide below or view our donation-related FAQs.<br>
 
 <style>
  .youtubecontainer {
