@@ -77,14 +77,14 @@ The donation period of up 31 January 2023 is to provide residents additional tim
   </li>
 	<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Will I receive a confirmation on my donation declaration? </span></label>
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Will I receive a confirmation on my donation declaration? </span></label>
     <div>
  			<p>Residents who wish to receive an email confirmation of their donation declaration may provide their email address during the form submission.</p>
 	</div>
   </li>
 	<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Instead of charities, can I donate the balance CDC Vouchers to another household (not members of my household) that I know of, who needs the vouchers?  </span></label>
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Instead of charities, can I donate the balance CDC Vouchers to another household (not members of my household) that I know of, who needs the vouchers?  </span></label>
     <div>
  			<p>If you wish to share your CDC Vouchers, click on “Share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ WhatsApp/ Telegram.  Please refer to illustration below.</p>
 			<p>Recipients are advised to be careful with sharing unique voucher links with others, as this would allow them to spend the household’s vouchers.  To ensure that you safekeep your unique voucher links, we urge you to share only when necessary and to the right parties.  We seek your understanding that there will be no reinstatement made for vouchers that were shared erroneously.</p>
@@ -110,14 +110,14 @@ The donation period of up 31 January 2023 is to provide residents additional tim
   </li>
 	<li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate the balance CDC Vouchers (printed)? Do I visit the CCs for assistance? </span></label>
+    <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate the balance CDC Vouchers (printed)? Do I visit the CCs for assistance? </span></label>
     <div>
  			<p>You do not have to go the CCs. If you would like to donate the balance of your vouchers, please go to vouchers.cdc.gov.sg/donate/ to submit your donation declaration.</p>
 	</div>
   </li>
 	<li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate the balance CDC Vouchers (printed)? Do I visit the CCs for assistance? </span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate the balance CDC Vouchers (printed)? Do I visit the CCs for assistance? </span></label>
     <div>
  			<p>Yes, as the cash value of the balance of your household’s CDC Vouchers will be donated to your preferred charity, you may be eligible for tax deduction. Tax deduction may be provided by respective Charity, depending on the respective Charity’s policy on issuance of tax deduction, which will be reflected in the Year of Assessment 2024.</p>
 			<p>
@@ -127,7 +127,7 @@ CDCs will share your details with your preferred charity after 31 January 2023 i
   </li>
 	<li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How many charities/ who are the charities I can donate the balance of my household’s CDC Vouchers to? </span></label>
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How many charities/ who are the charities I can donate the balance of my household’s CDC Vouchers to? </span></label>
     <div>
 			<p>Residents will be able to donate the balance of their vouchers to one preferred charity.</p>
 			<p>
@@ -138,7 +138,7 @@ The list of participating charities is available on the CDC Vouchers website at 
   </li>
 	<li>
     <input type="checkbox" id="accordion13">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate my household’s CDC Vouchers to an organisation that is not stated on the CDC Vouchers website?  </span></label>
+    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate my household’s CDC Vouchers to an organisation that is not stated on the CDC Vouchers website?  </span></label>
     <div>
 			<p>No, residents will only be able to pledge the donation of the balance of their household’s CDC Vouchers to one charity listed on the CDC Vouchers website.</p>
 			</div>
