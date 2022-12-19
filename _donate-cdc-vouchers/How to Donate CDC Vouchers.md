@@ -13,3 +13,26 @@ b)	**Select preferred charity** – search by sectors* or names of charity using
 c)	**Pledge your donation** – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers (2021 and 2022) as of 31 December 2022 to the selected charity. Donors may opt to receive an email confirmation of their declaration.
 
 **Animal Welfare, Arts & Heritage, Children & Youth, Education, Elderly, Environment, Families & Children, HealthCare, Migrant Community, Persons with Disability, Sports, Others*
+
+Need help on donating your CDC Vouchers 2021 and 2022?<br>
+View the step-by-step video below or view our donation-related FAQs.<br>
+
+<style>
+ .youtubecontainer {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.youtubevideo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<div class="youtubecontainer">
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/ht6cCIce1Es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
