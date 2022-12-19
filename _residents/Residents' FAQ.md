@@ -1,6 +1,6 @@
 ---
 title: Residents' FAQ
-permalink: /residents/faq
+permalink: /residents/faq/
 description: CDC Vouchers Scheme Residents FAQ
 ---
 <span id="cdcv_page_top"></span>
@@ -332,12 +332,9 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion27">
-    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate the vouchers to low-income families or migrant workers?</span></label>
+    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate my CDC Vouchers 2021 and 2022?</span></label>
     <div>
-			<p>Currently there is no official arrangement to donate the CDC Vouchers.</p>
-
-<p>However, residents may choose to share their voucher link with others.  Click on “share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram.  Do note that sharing your voucher link constitutes providing them with access to your voucher.  Anyone with the voucher link can use your vouchers.
-			</p>
+			<p>More information on donation of CDC Vouchers 2021 and 2022 can be found <a href="/donate/"><strong>here.</strong></a></p>
     </div>
   </li>
 <li>
