@@ -54,11 +54,6 @@ The donation period of up 31 January 2023 is to provide residents additional tim
     <div>
  			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2021 and 2022 can still utilise them until they expire on 31 December 2022.  At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2022 and transfer the amount to the respective charities from February 2023 onwards. 
 			</p>		
-<p>Click on “Share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration. 
-			</p>
-			<p>
-				Recipients are advised to be careful with sharing unique voucher links with others, as this would allow them to spend the household’s vouchers. To ensure that you safekeep your unique voucher links, we urge you to share only when necessary and to the right parties. We seek your understanding that there will be no reinstatement made for vouchers that were shared erroneously.
-			</p>
 	    </div>
   </li>
 <li>
