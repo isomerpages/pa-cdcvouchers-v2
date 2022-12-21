@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - Newsroom.md
       - About CDC Vouchers Scheme.md
       - Terms & Conditions.md
