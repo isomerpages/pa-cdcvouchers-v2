@@ -6,7 +6,7 @@ description: This is an informational site about CDC Vouchers scheme for
 image: /images/isomer-logo.svg
 permalink: /
 notification: CDC Vouchers 2021 and 2022 have expired on 31 December 2022. More
-  updates on CDC Vouchers Scheme 2023 will be announced soon.
+  updates on CDC Vouchers Scheme 2023 will be announced on 3 January 2023.
 sections:
   - hero:
       key_highlights:
@@ -20,8 +20,8 @@ sections:
       background: /images/CDCV Banner 7.png
   - infobar:
       title: Latest Announcement
-      description: CDC Vouchers 2021 and 2022 have expired on 31 December 2021. More
-        information on CDC Vouchers Scheme 2023 will be announced soon.
+      description: CDC Vouchers 2021 and 2022 have expired on 31 December 2022. More
+        updates on CDC Vouchers Scheme 2023 will be announced on 3 January 2023.
   - infobar:
       title: How to donate your CDC Vouchers?
       description: Choose from a list of charities that you may donate your CDC
