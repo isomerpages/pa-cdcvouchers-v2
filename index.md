@@ -16,7 +16,7 @@ sections:
         - title: I am a Merchant
           description: Click here for next steps
           url: /merchants/info/
-      title: CDC Vouchers Scheme 2022
+      title: CDC Vouchers Scheme
       background: /images/CDCV Banner 7.png
   - infobar:
       title: Latest Announcement
