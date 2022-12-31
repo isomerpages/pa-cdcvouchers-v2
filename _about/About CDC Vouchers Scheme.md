@@ -1,8 +1,10 @@
 ---
 title: About CDC Vouchers Scheme
-permalink: /about/about-cdc-vouchers-scheme
+permalink: /about/about-cdc-vouchers-scheme/
 description: About CDC Vouchers Scheme
 ---
+***Please note that CDC Vouchers 2021 and 2022 have expired on 31 December 2022.**
+
 #### About CDC Vouchers Scheme 2022
 Finance Minister Mr Lawrence Wong recently announced at Budget 2022 that the Community Development Councils (CDCs) will be giving three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.
 
