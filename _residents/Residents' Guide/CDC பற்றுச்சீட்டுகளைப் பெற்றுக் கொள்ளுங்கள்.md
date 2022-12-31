@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Residents' Guide
 ---
 <span id="cdcv_page_top"></span>
-
-[English](how-to-claim-cdc-vouchers) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [中文](how-to-claim-cdc-vouchers-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[தமிழ்](how-to-claim-cdc-vouchers-tamil)**
+**[English](/residents/how-to-claim-cdc-vouchers)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [中文](/residents/how-to-claim-cdc-vouchers-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](/residents/how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](/residents/how-to-claim-cdc-vouchers-tamil)
 
 பற்றுச்சீட்டுகள் 31 டிசம்பர் 2022 வரை செல்லுபடியாகும்.
 
