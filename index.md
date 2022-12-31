@@ -5,8 +5,8 @@ description: This is an informational site about CDC Vouchers scheme for
   Singapore residents.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Visit your CC if you do not have a smartphone or Singpass or need
-  help to claim your vouchers.
+notification: CDC Vouchers 2021 and 2022 have expired on 31 December 2022. More
+  updates on CDC Vouchers Scheme 2023 will be announced soon.
 sections:
   - hero:
       key_highlights:
@@ -16,8 +16,6 @@ sections:
         - title: I am a Merchant
           description: Click here for next steps
           url: /merchants/info/
-      button: Claim my CDC vouchers 2022
-      url: https://go.gov.sg/cdcv
       title: CDC Vouchers Scheme 2022
       background: /images/CDCV Banner 7.png
   - infobar:
