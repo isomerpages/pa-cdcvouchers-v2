@@ -16,6 +16,9 @@ sections:
         - title: I am a Merchant
           description: Click here for next steps
           url: /merchants/info/
+        - title: Donate CDC VOUCHERS 2021 & 2022
+          description: Find out how
+          url: /donate/
       title: CDC Vouchers Scheme
       background: /images/CDCV Banner 7.png
   - infobar:
