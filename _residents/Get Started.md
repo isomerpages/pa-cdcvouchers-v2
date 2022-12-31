@@ -1,11 +1,12 @@
 ---
 title: Get Started
-permalink: /residents/info
+permalink: /residents/info/
 description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
   household will receive $100 in CDC Vouchers to support our hawkers and
   heartland merchants
 ---
 <span id="cdcv_page_top"></span>
+**\*Please note that CDC Vouchers 2021 and 2022 have expired on 31 December 2022.**
 
 [	![Alt text for image on Isomer site](/images/residents/resident%20banner.png)](https://go.gov.sg/cdcv)
 
