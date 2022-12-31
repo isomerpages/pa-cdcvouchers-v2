@@ -10,9 +10,6 @@ notification: CDC Vouchers 2021 and 2022 have expired on 31 December 2022. More
 sections:
   - hero:
       key_highlights:
-        - title: I am a Resident
-          description: Click here for next steps
-          url: /residents/info/
         - title: I am a Merchant
           description: Click here for next steps
           url: /merchants/info/
