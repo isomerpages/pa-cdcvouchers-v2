@@ -1,12 +1,14 @@
 ---
 title: Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
-permalink: /residents/how-to-claim-cdc-vouchers-malay
+permalink: /residents/how-to-claim-cdc-vouchers-malay/
 description: ""
 third_nav_title: Residents' Guide
 ---
 <span id="cdcv_page_top"></span>
 
 [English](how-to-claim-cdc-vouchers) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [中文](how-to-claim-cdc-vouchers-chinese) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[Melayu](how-to-claim-cdc-vouchers-malay)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](how-to-claim-cdc-vouchers-tamil)
+
+Baucar ini sah sehingga 31 Disember 2022.
 
 <style>
 a.bp-button {
