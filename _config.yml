@@ -1,9 +1,9 @@
 title: CDC Vouchers Scheme
-url: https://vouchers.cdc.gov.sg/
+url: https://vouchers.cdc.gov.sg
 favicon: /images/cdc-icon.png
 colors:
-  primary-color: "#25245c"
-  secondary-color: "#2e9da9"
+  primary-color: "#2e9da9"
+  secondary-color: "#25245c"
   media-colors:
     - title: media-color-one
       color: "#a37cbe"
@@ -55,3 +55,6 @@ staging: https://pa-cdcvouchers-staging.netlify.app
 prod: https://pa-cdcvouchers-prod.netlify.app
 is_government: true
 google_analytics: UA-215064264-1
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+linkedin-insights: ""
