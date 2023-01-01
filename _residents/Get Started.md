@@ -29,7 +29,7 @@ CDC Vouchers 2023 are valid till 31 December 2023.
 <td style="vertical-align: middle;"><p><strong>[New!] $150 to spend at participating supermarkets</strong></p></td>
 </tr>
 	<tr>
-<td><img src="/images/expiry%20icon.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"/></td>
+<td><img src="/images/CDCV2023/expiry%20icon.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"/></td>
 <td style="vertical-align: middle;"><p><strong>Use your vouchers by 31 December 2023</strong></p></td>
 </tr>
 </tbody>
