@@ -10,15 +10,15 @@ notification: Visit your CC if you do not have a smartphone or Singpass or need
 sections:
   - hero:
       key_highlights:
-        - title: I am a Merchant
+        - title: " I AM A RESIDENT"
+          description: Click here for next steps
+          url: /residents/info/
+        - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
         - title: Donate CDC VOUCHERS 2021 & 2022
           description: Find out how
           url: /donate/
-        - title: " I AM A RESIDENT"
-          description: Click here for next steps
-          url: /residents/info/
       background: /images/CDCV2023/Cover Banner.png
   - infobar:
       title: Latest Announcement
