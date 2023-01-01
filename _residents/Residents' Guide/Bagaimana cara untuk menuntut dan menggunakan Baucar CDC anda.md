@@ -50,13 +50,13 @@ a.bp-button {
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
 1: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
-<img src="/images/Updated%20Select%20Voucher%20Screen%20Mal.png" alt="Step 4" style="width:600px !important;" />
+<img src="/images/CDCV2023/Updated%20Select%20Voucher%20Screen%20Mal.png" alt="Step 4" style="width:600px !important;" />
 
 2: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
-<img src="/images/residents/select%20vouchers%20malay%20-%202.png" alt="Step 4" style="width:300px !important;" />
+<img src="/images/CDCV2023/select%20vouchers%20malay%20-%202.png" alt="Step 4" style="width:300px !important;" />
 
 3: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
-<img src="/images/residents/qr%20page%20malay.png" alt="Step 4" style="width:300px !important;" />
+<img src="/images/CDCV2023/qr%20page%20malay.png" alt="Step 4" style="width:300px !important;" />
 
 
 Baucar ini sah sehingga 31 Disember 2023.
