@@ -34,32 +34,32 @@ a.bp-button {
 
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
-1: Lungsuri laman **[go.gov.sg/cdcv](https://go.gov.sg/cdcv)** dan ketik pada Baucar CDC 2023. 
+1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Tekan pada Baucar CDC 2023. 
 
 <img src="/images/CDCV2023/Malay%20campaign%20listing%20(Mobile%20Mock).png" alt="Step 1" style="width:300px !important;" />
 
 
-2: **Log masuk dengan Singpass.** Hanya seorang sahaja anggota keluarga yang perlu melakukannya bagi pihak isi rumah.
+2: **Log masuk menggunakan Singpass.** Hanya seorang sahaja ahli keluarga anda yang perlu melalukannya bagi pihak keluarga.
 
 <img src="/images/CDCV2023/Malay%20campaign%20sign%20up%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;" />
 
-3: **Terima pautan Baucar CDC anda melalui SMS.** Kongsikan pautan baucar dengan ahli anggota keluarga anda.
+3: **Dapatkan pautan Baucar CDC anda melalui SMS.** Hantarkan SMS untuk berkongsi baucar dengan anggota isi rumah.
 
 <img src="/images/CDCV2023/Malay%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 3" style="width:300px !important;" />
 
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
-1: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
+1: **Pilih baucar yang anda mahu gunakan** 
 <img src="/images/CDCV2023/Updated%20Select%20Voucher%20Screen%20Mal.png" alt="Step 4" style="width:600px !important;" />
 
-2: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
+2: **Pilih jumlah untuk diggunakan. Kemudian tekan 'Tunjuk baucar'** 
 <img src="/images/CDCV2023/select%20vouchers%20malay%20-%202.png" alt="Step 4" style="width:300px !important;" />
 
-3: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
+3: **Tunjukkan kod QR kepada penjaja dan pendagang** Mereka akan mengimbasnya untuk melengkapkan pembayaran anda
 <img src="/images/CDCV2023/qr%20page%20malay.png" alt="Step 4" style="width:300px !important;" />
 
 
-Baucar ini sah sehingga 31 Disember 2023.
+Gunakan baucar anda selawat-lewatnya 31 Disember 2023.
 
 Jika anda tidak mempunyai telefon bijak atau Singpass, dan untuk pertanyaan dan bantuan selanjutnya, kunjungi Balai Rakyat/Kelab Masyarakat terdekat anda dari 10 pagi hingga 6 petang (kecuali pada cuti umum).
 
