@@ -22,8 +22,10 @@ sections:
       background: /images/CDCV2023/Cover Banner.png
   - infobar:
       title: Latest Announcement
-      description: CDC Vouchers 2021 and 2022 have expired on 31 December 2022. More
-        updates on CDC Vouchers Scheme 2023 will be announced on 3 January 2023.
+      description: More vouchers, more places to spend! In 2023, every Singaporean
+        household will receive $300 CDC Vouchers to help with daily essentials.
+      url: /about/
+      button: Find out more
   - infobar:
       title: How to donate your CDC Vouchers?
       description: Choose from a list of charities that you may donate your CDC
