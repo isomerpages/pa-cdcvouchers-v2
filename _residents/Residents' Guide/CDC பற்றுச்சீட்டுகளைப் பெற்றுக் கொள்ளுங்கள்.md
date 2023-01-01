@@ -46,17 +46,17 @@ a.bp-button {
 
 1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் சென்று</strong> சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் 2022 தேர்ந்தெடுங்கள்.
 
-<img src="/images/residents/Tam_Screengrab%201.png" alt="Step 1" style="width:300px !important;" />
+<img src="/images/CDCV2023/campaign%20listing%20(Mobile%20Mock)%20(Tamil).png" alt="Step 1" style="width:300px !important;" />
 
 
 2: <strong>சிங்கபாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள்.</strong> ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.  
 
-<img src="/images/residents/Tam_Screengrab%202.png" alt="Step 2" style="width:300px !important;" />
+<img src="/images/CDCV2023/Campaign%20sign%20up%20(Mobile%20Mock)%20(Tamil).png" alt="Step 2" style="width:300px !important;" />
 
 
 3: **உங்களுக்கான CDC பற்றுச்சீட்டுகளின் இணைப்பைக் குறுந்தகவல் (SMS) மூலம் பெறுங்கள்.** பற்றுச்சீட்டுகளைக் குடும்பத்தாருடன் பகிர்ந்துகொள்ள குறுந்தகவலை அவர்களுக்கு அனுப்பி வையுங்கள். 
 
-<img src="/images/residents/Tam_Screengrab%203.png" alt="Step 3" style="width:300px !important;" />
+<img src="/images/CDCV2023/Voucher%20SMS%20(Mobile%20Mock)%20(Tamil).png" alt="Step 3" style="width:300px !important;" />
 
 
 4: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து,** பங்குபெறும் உணவங்காடிக் கடைக்காரர் அல்லது குடியிருப்பு வட்டார வணிகர் ஸ்கேன் செய்வதற்காக QR குறியீட்டை காட்டுங்கள்.
