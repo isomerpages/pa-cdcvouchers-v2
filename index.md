@@ -26,6 +26,15 @@ sections:
         household will receive $300 CDC Vouchers to help with daily essentials.
       url: /about/
       button: Find out more
+  - infopic:
+      title: Claim your CDC Vouchers 2023
+      subtitle: Residents
+      description: Similar to previous tranches, there is no need to download a mobile
+        app. Claim your digital CDC Vouchers 2023 easily with just a few taps.
+      button: Claim now
+      url: https://go.gov.sg/cdcv
+      image: /images/CDCV2023/Cover Banner No Text.png
+      alt: Image alt text
   - infobar:
       title: How to donate your CDC Vouchers?
       description: Choose from a list of charities that you may donate your CDC
@@ -44,4 +53,12 @@ sections:
       description: Check out the Frequently Asked Questions.
       button: Read our FAQ
       url: /merchants/faq
+  - infopic:
+      title: Where to spend your CDC Vouchers?
+      subtitle: Residents
+      description: "[NEW!] Spend $150 CDC Vouchers at participating hawkers/heartland
+        merchants, and the other $150 at participating supermarkets."
+      button: FIND PARTICIPATING SHOPS
+      url: https://go.gov.sg/cdcvouchers
+      alt: Image alt text
 ---
