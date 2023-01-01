@@ -16,8 +16,10 @@ sections:
         - title: Donate CDC VOUCHERS 2021 & 2022
           description: Find out how
           url: /donate/
-      title: CDC Vouchers Scheme
-      background: /images/CDCV Banner 7.png
+        - title: " I AM A RESIDENT"
+          description: Click here for next steps
+          url: /residents/info/
+      background: /images/CDCV2023/Cover Banner.png
   - infobar:
       title: Latest Announcement
       description: CDC Vouchers 2021 and 2022 have expired on 31 December 2022. More
