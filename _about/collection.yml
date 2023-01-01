@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - About CDC Vouchers Scheme 2023.md
       - About CDC Vouchers Scheme.md
       - Terms & Conditions.md
       - Newsroom.md
