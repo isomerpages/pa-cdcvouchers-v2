@@ -51,15 +51,15 @@ a.bp-button {
 
 1: **Select which CDC Vouchers you want to use.** 
 
-<img src="/images/Updated%20Select%20Voucher%20Screen%20Eng.png" alt="Step 1" style="width:600px !important;" />
+<img src="/images/CDCV2023/Updated%20Select%20Voucher%20Screen%20Eng.png" alt="Step 1" style="width:600px !important;" />
 
 
 2: **Choose the amount to spend.** Then tap 'Show voucher'.
-<img src="/images/residents/Select%20Vouchers%20English.png" alt="Step 2" style="width:300px !important;" />
+<img src="/images/CDCV2023/Select%20Vouchers%20English.png" alt="Step 2" style="width:300px !important;" />
 
 3: **Show the QR code to the shop staff.** They will scan it to complete your payment. 
 
-<img src="/images/residents/2023QR%20page%20English.png" alt="Step 4" style="width:300px !important;" />
+<img src="/images/CDCV2023/QR%20page%20English.png" alt="Step 4" style="width:300px !important;" />
 
 
 If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.
