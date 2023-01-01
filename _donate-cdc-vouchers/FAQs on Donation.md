@@ -138,4 +138,11 @@ The list of participating charities is available on the CDC Vouchers website at 
 			<p>No, residents will only be able to pledge the donation of the balance of their household’s CDC Vouchers to one charity listed on the CDC Vouchers website.</p>
 			</div>
   </li>
+	<li>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate my CDC Vouchers 2023?  </span></label>
+    <div>
+			<p>Similar to previous tranches, we will announce the details of CDC Vouchers 2023 donation at a later date. We encourage all households to claim and spend their CDC Vouchers 2023.</p>
+			</div>
+  </li>
 </ul>
