@@ -44,7 +44,7 @@ a.bp-button {
 
 3: **Receive your CDC Voucher link by SMS.** Forward the SMS to share vouchers with household members.  
 
-<img src="/images/residents/2023English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;" />
+<img src="/images/CDCV2023/English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;" />
 
 
 ## How to spend your CDC Vouchers 2023
