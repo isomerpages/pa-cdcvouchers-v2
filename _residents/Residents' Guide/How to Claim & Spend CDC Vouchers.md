@@ -7,7 +7,6 @@ third_nav_title: Residents' Guide
 <span id="cdcv_page_top"></span>
 **[English](/residents/how-to-claim-cdc-vouchers)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [中文](/residents/how-to-claim-cdc-vouchers-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](/residents/how-to-claim-cdc-vouchers-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](/residents/how-to-claim-cdc-vouchers-tamil)
 
-***Please note that CDC Vouchers 2021 and 2022 have expired on 31 December 2022.**
 <style>
 a.bp-button {
 	height: 6em !important;
@@ -32,31 +31,36 @@ a.bp-button {
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/HClIpbvx36c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
-## How to claim your CDC Vouchers
+## How to claim your CDC Vouchers 2023
 
-1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap into CDC Vouchers 2022. 
+1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap on CDC Vouchers 2023. 
 
-<img src="/images/Eng_Screengrab%201.png" alt="Step 1" style="width:300px !important;" />
+<img src="/images/CDCV2023/English%20campaign%20listing%20(Mobile%20Mock)%20(3).png" alt="Step 1" style="width:300px !important;" />
 
-2: **Log in using Singpass.** Only one household member needs to do this on behalf of your household.
+2: **Log in with Singpass.** Only one household member needs to do this on behalf of the household.
 
-<img src="/images/Eng_Screengrab%202.png" alt="Step 1" style="width:300px !important;" />
-
-
-3: **Receive your CDC Vouchers link by SMS.** Forward the SMS to share vouchers with household members.  
-
-<img src="/images/Eng_Screengrab%203.png" alt="Step 2" style="width:300px !important;" />
+<img src="/images/CDCV2023/English%20campaign%20sign%20up%20(Mobile%20Mock).png" alt="Step 1" style="width:300px !important;" />
 
 
-4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. 
+3: **Receive your CDC Voucher link by SMS.** Forward the SMS to share vouchers with household members.  
 
-<img src="/images/Eng_Screengrab%204.png" alt="Step 4" style="width:300px !important;" />
+<img src="/images/residents/2023English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;" />
 
-Look out for this decal at participating hawkers and heartland merchants!
 
-![Merchant's Decal](/images/merchants-decal-500.jpg)
+## How to spend your CDC Vouchers 2023
 
-You may visit the same link at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to claim your household's CDC Vouchers 2021 if you have not already done so. Both CDC Vouchers 2021 and 2022 are valid till 31 December 2022.
+1: **Select which CDC Vouchers you want to use.** 
+
+<img src="/images/Updated%20Select%20Voucher%20Screen%20Eng.png" alt="Step 1" style="width:600px !important;" />
+
+
+2: **Choose the amount to spend.** Then tap 'Show voucher'.
+<img src="/images/residents/Select%20Vouchers%20English.png" alt="Step 2" style="width:300px !important;" />
+
+3: **Show the QR code to the shop staff.** They will scan it to complete your payment. 
+
+<img src="/images/residents/2023QR%20page%20English.png" alt="Step 4" style="width:300px !important;" />
+
 
 If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.
 
