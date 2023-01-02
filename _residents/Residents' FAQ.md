@@ -297,7 +297,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 			<p>You may access your voucher link found in the SMS sent by RedeemSG to find out the remaining balance of your CDC Vouchers. The value is shown on the respective tabs.
 			</p>
 						<p>				
-				<img src="/images/remaining%20value.png" alt="Screenshot of Remaining Value" style="width:300px !important;" />
+				<img src="/images/CDCV2023/remaining%20value.png" alt="Screenshot of Remaining Value" style="width:300px !important;" />
 			</p>
     </div>
   </li>
