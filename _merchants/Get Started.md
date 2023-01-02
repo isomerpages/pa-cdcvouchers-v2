@@ -1,6 +1,6 @@
 ---
 title: Get Started
-permalink: /merchants/info
+permalink: /merchants/info/
 description: Sign up as participating hawkers and merchants to accept CDC vouchers.
 ---
 <span id="cdcv_page_top"></span>
@@ -13,12 +13,12 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
 	<tr>
-			<td style="width:122px !important;"><img src="/images/merchants/no-commission.png" alt="No Commisions Or Fees icon" style="width:120px !important;" /></td>
-		<td style="vertical-align: middle;"><p><strong>No Commisions Or Fees</strong></p></td>
-	</tr>
-		<tr>
 			<td style="width:122px !important;"><img src="/images/merchants/next-day-payout.png" alt="Next-Day Payout icon" style="width:120px !important;" /></td>
 		<td><p><strong>Next-Day Payout</strong><br>Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline.</p></td>
+	</tr>
+		<tr>
+			<td style="width:122px !important;"><img src="/images/merchants/no-commission.png" alt="No Commisions Or Fees icon" style="width:120px !important;" /></td>
+		<td style="vertical-align: middle;"><p><strong>No Fees or Commissions</strong></p></td>
 	</tr>
 	<tr>
 			<td style="width:122px !important;"><img src="/images/merchants/no-handling-of-physical-vouchers.png" alt="No Handling of Physical Vouchers icon" style="width:120px !important;" /></td>
@@ -117,12 +117,12 @@ Our step-by-step video and guide are available in the following languages:
 <td> Melayu </td><td> <a href="/merchants/merchant-guide-malay">Bagaimana untuk menggunakan RedeemSG Merchant</a></td>
 </tr>
 <tr>
-<td>தமிழ் </td><td> <a href="/merchants/merchant-guide-tamil">RedeemSG Merchant செயலிக்கான வழிகாட்டி</td>
+<td>தமிழ் </td><td> <a href="/merchants/merchant-guide-tamil">RedeemSG Merchant செயலிக்கான வழிகாட்டி</a></td>
 </tr></tbody>
 </table>
 
 
 
-If you have more questions, please refer to the [FAQ](faq).
+If you have more questions, please refer to the [FAQ](/merchants/faq).
 
 [Back to Top](#cdcv_page_top)
