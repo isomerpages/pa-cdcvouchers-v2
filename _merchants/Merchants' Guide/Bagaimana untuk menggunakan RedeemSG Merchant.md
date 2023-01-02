@@ -1,6 +1,6 @@
 ---
 title: Bagaimana untuk menggunakan RedeemSG Merchant
-permalink: /merchants/merchant-guide-malay
+permalink: /merchants/merchant-guide-malay/
 description: ""
 third_nav_title: Merchants' Guide
 ---
@@ -30,7 +30,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/JRXJgFCowaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/qB8Te-kwKcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
 <p>1: Muat turun RedeemSG Merchant dan log mengguanakan nomber telefon bimbit anda. </p>
