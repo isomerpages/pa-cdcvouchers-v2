@@ -63,8 +63,7 @@ For the CDC Vouchers to be used at supermarkets, the larger denominations ($5 an
 <tbody>
 <tr>
 <td>
-	<img src="/images/share%20vouchers%202023.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;"/>
-</td>
+	<img src="/images/CDCV2023/share%20vouchers%202023.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;"/></td>
 <td>
 	<img src="/images/residents/faq5b2.png" alt=" Illustration of voucher link shared via Whatsapp" style="width:300px !important;"/>	
 	</td>
