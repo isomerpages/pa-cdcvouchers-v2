@@ -100,7 +100,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/2YD2J-EMRSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/TGKaiyk4M-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 Our step-by-step video and guide are available in the following languages:
