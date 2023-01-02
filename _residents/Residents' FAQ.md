@@ -225,7 +225,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 				<br><img src="/images/merchants-decal-500.jpg" alt="CDC Vouchers Decal" style="width:400px !important;"/>
 			</p><p>
 			Similarly, you can also identify participating supermarkets with the yellow-coloured “CDC Supermarket Voucher” decal displayed at storefronts.  Reference of the CDC Supermarket Voucher decal:
-			<br><img src="/images/yellow%20decal.jpg" alt="CDC Vouchers Supermarket Decal" style="width:400px !important;"/>
+			<br><img src="/images/CDCV2023/yellow%20decal.jpg" alt="CDC Vouchers Supermarket Decal" style="width:400px !important;"/>
 			</p>
     </div>
   </li>
