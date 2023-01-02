@@ -54,7 +54,7 @@ CDC Vouchers 2023 are valid till 31 December 2023.
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/HClIpbvx36c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/CeHvLfmA_ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
 Our step-by-step video and guide are available in the following languages:
