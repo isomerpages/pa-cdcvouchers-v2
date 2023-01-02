@@ -1,10 +1,9 @@
 ---
 title: RedeemSG Merchant செயலிக்கான வழிகாட்டி
-permalink: /merchants/merchant-guide-tamil
+permalink: /merchants/merchant-guide-tamil/
 description: ""
 third_nav_title: Merchants' Guide
 ---
-
 <span id="cdcv_page_top"></span>
 [English](merchant-guide-english) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [华文](merchant-guide-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[தமிழ்](merchant-guide-tamil)**
 
@@ -31,7 +30,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/6ao4P3NRX6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/uiXY7I6Sevs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
 <p>1: RedeemSG Merchant செயலியைப் பதிவிறக்கம் செய்து, உங்கள் கைப்பேசி எண்ணுடன் உட்பதிவு செய்யுங்கள்.</p>
