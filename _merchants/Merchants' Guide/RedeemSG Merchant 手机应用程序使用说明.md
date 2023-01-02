@@ -1,10 +1,9 @@
 ---
 title: RedeemSG Merchant 手机应用程序使用说明
-permalink: /merchants/merchant-guide-chinese
+permalink: /merchants/merchant-guide-chinese/
 description: ""
 third_nav_title: Merchants' Guide
 ---
-
 <span id="cdcv_page_top"></span>
 [English](merchant-guide-english) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[华文](merchant-guide-chinese)** &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [தமிழ்](merchant-guide-tamil)
 
@@ -31,7 +30,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/ym2nJf-L85E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/aKNQau5Sm-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
 
