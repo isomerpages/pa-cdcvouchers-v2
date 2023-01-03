@@ -277,8 +277,8 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <label for="accordion22"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I verify that the merchant has successfully deducted my vouchers?</span></label>
     <div>
 			<p>When the merchants scan your QR code, they will see a confirmation on their RedeemSG Merchant app which will show that the scanning of your voucher is a success.  At the same time, your QR code will be updated to “Redeemed” status.  Spent vouchers will also be marked as ‘Redeemed’ on your unique voucher link and you can also view your transaction history on the main vouchers landing page.
-			</p>
-				<img src="/images/residents/Voucher%20QR%20redeemed.png" alt="Sample Redeemed Voucher Screens" style="width:300px !important;" /><br>				
+			</p><p>
+				<img src="/images/residents/Voucher%20QR%20redeemed.png" alt="Sample Redeemed Voucher Screens" style="width:300px !important;" /><br></p>				
     </div>
   </li>
 		<li>
