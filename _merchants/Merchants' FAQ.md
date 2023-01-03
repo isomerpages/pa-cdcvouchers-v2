@@ -99,7 +99,7 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
 		    <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
 				<div>
-	<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using the <a href="https://www.pa.gov.sg/our-network/community-development-councils" ><strong>district locator</strong></a>. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration.</p>
+	<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using the <a href="https://www.pa.gov.sg/our-network/community-development-councils" >district locator</a>. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration.</p>
 <table border="0" cellspacing="2" cellpadding="2">
     <tbody>
         <tr>
