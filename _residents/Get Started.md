@@ -97,7 +97,7 @@ ________
  
 
 ### Need Help?
-* If you have more questions, please read the [FAQ](/residents/faq).
+* If you have more questions, please read the [FAQ](/residents/info/faq).
 
 * For terms and conditions of using the CDC Vouchers, please read [Terms and Conditions](/about/terms-and-conditions).
 
