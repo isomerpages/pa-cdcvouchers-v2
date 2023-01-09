@@ -3,8 +3,17 @@ title: Newsroom
 permalink: /newsroom/
 description: ""
 ---
-
 ## Newsroom
+
+#### 3 January 2023 - <br>Launch of CDC Vouchers Scheme 2023
+
+
+| | | |
+| -------- | -------- | -------- |
+| Media Release     | [All Singaporean households to receive support in 2023  with $300 worth of CDC vouchers](/files/All%20Singaporean%20households%20to%20receive%20support%20in%202023%20%20with%20$300%20worth%20of%20CDC%20vouchers%20.pdf)   | 
+| Key Coverage     | [The Straits Times - Singaporean households to get $300 in CDC Vouchers from Tuesday, half for use at supermarkets](https://www.straitstimes.com/singapore/300-worth-of-cdc-vouchers-for-each-s-porean-household-half-for-use-at-supermarkets)<br><br>[Lianhe Zaobao Online - 每户家庭再获300元邻里购物券 150元可在五超市使用](https://www.zaobao.com.sg/realtime/singapore/story20230103-1349590)<br><br>[BERITA Online - Agihan kedua baucar CDC bantu imbangi kenaikan harga barangan, rancakkan perniagaan di kawasan kejiranan](https://berita.mediacorp.sg/tonton/agihan-kedua-baucar-cdc-bantu-imbangi-kenaikan-harga-barangan-rancakkan-perniagaan-di-kawasan-kejiranan-665806)<br><br>[Tamil Murasu - சிங்கப்பூர் குடும்பத்துக்கு $100 பற்றுச்சீட்டு; டிசம்பர்வரை செல்லும்](https://www.tamilmurasu.com.sg/top-news/story20220512-88610.html)     | 
+
+
 
 #### 11 May 2022 - <br>Launch of CDC Vouchers Scheme 2022
 
