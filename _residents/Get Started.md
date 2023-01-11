@@ -103,7 +103,7 @@ ________
 
 * If you need help in claiming your vouchers, please bring along your NRIC to the nearest Community Centre/Club (CC). All CCs are open daily from 10am to 6pm and 2pm to 6pm for void deck CCs.  Closed on Public Holidays (PH) 
 
-* Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form](/files/Voucher%20Claim%20Authorisation%20Letter%20for%202023.pdf) 
+* Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form](/files/Updated%20Voucher%20Claim%20Authorisation%20Letter%20for%202023%20For%20circulation.pdf)
 *  For further enquiries, please contact our hotline at <a href="tel:6225 5322">6225 5322</a> from 8am to 6pm daily, except on public holidays; or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
 If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. 
 
