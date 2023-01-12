@@ -16,7 +16,7 @@ description: Terms & Conditions for CDC Vouchers
 
 3.	Singaporean residents are to claim the CDC digital vouchers digitally by logging in via Singpass. Where hardcopies of the vouchers are printed (the “Voucher Printouts”): <br>
 (a) the Voucher Printouts cannot be exchanged or replaced if they are lost, stolen or damaged; and <br>
-(b) defaced, damaged or expired Voucher Printouts will not be accepted at the participating merchants. 
+(b) defaced, damaged or expired Voucher Printouts will not be accepted at the participating hawkers/merchants/supermarkets. 
 
 4.	People’s Association, through the Community Development Councils: <br>
 (a) does not warrant the quality or fitness for purpose of the goods or services obtained through the use of the voucher(s);<br>
