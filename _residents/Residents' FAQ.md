@@ -313,7 +313,13 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion26">
     <label for="accordion26"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Any restricted items that the vouchers cannot be used for?</span></label>
     <div>
-			<p>The vouchers cannot be used to purchase certain goods/services such as lottery, petrol, diesel, alcohol, cigarettes.
+			<p>As per our Terms and Conditions available <a href="https://vouchers.cdc.gov.sg/about/terms-and-conditions/" target="termsconditions"><strong>here</strong></a>, the vouchers are <strong>not valid</strong> for purchase of:
+
+1.             Lottery products<br>
+2.             Petrol<br>
+3.             Diesel<br>
+4.             Alcohol<br>
+5.             Cigarettes
 			</p>
     </div>
   </li>
