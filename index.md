@@ -16,9 +16,6 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-        - title: Donate CDC VOUCHERS 2021 & 2022
-          description: Find out how
-          url: /donate/
       background: /images/CDCV2023/Cover Banner.png
   - infobar:
       title: Latest Announcement
