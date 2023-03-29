@@ -51,8 +51,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://pa-cdcvouchers-staging.netlify.app
-prod: https://pa-cdcvouchers-prod.netlify.app
+staging: https://staging.d1flctehtua546.amplifyapp.com/
+prod: https://master.d1flctehtua546.amplifyapp.com/
 is_government: true
 google_analytics: UA-215064264-1
 shareicon: /images/isomer-logo.svg
