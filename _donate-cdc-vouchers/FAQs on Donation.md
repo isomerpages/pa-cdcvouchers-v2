@@ -1,6 +1,6 @@
 ---
 title: FAQs on Donation
-permalink: /donate/FAQclosed/
+permalink: /donate/faqclosed/
 description: ""
 ---
 

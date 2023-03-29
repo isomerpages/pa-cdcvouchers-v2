@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contact-us
+permalink: /contact-us/
 date: 2021-12-09
 layout: post
 description: Contact Us page
