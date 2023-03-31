@@ -9,7 +9,7 @@ description: Contact Us page
 ## Community Development Councils (CDCs)
 ### PA Contact Centre
 
-For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href ="https://www.pa.gov.sg/feedback"  target="_blank"> feedback form</a>.
+For enquiries, call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a> or write to us using this <a href="https://form.gov.sg/62e8e68d9b241b001207dbdf"> feedback form</a>.
 
 Hotline operating hours:
 
@@ -19,9 +19,9 @@ Hotline operating hours:
 	<td><p style="width:260px !important;">Monday to Sunday</p></td>
 	<td><p>8am - 6pm</p></td>
 </tr>
-	<td><p style="width:260px !important;">New Year's Eve, Chinese New Year's Eve, and Christmas Eve</p></td>
+	<tr><td><p style="width:260px !important;">New Year's Eve, Chinese New Year's Eve, and Christmas Eve</p></td>
 	<td><p>8am - 1pm</p></td>
-	<tr>
+	</tr><tr>
 	<td><p style="width:260px !important;">Public Holidays</p></td>
 	<td><p>Closed</p></td>
 </tr>
@@ -31,7 +31,7 @@ Hotline operating hours:
 
 
 ### Forgot your Singpass password?
-<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" target="_blank">Reset it online</a> or  head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter"  target="_blank">nearest Singpass counter </a></p>
+<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail">Reset it online</a> or  head down to your <a href="http://www.singpass.gov.sg/singpass/common/counter">nearest Singpass counter </a></p>
 
 
 [Back to Top](#cdcv_page_top)
