@@ -102,7 +102,7 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
         <tr>
             <td>North East CDC</td>
             <td>
-                <a href="https://go.gov.sg/csmerchantreg">https://go.gov.sg/csmerchantreg</a>
+                <a href="https://go.gov.sg/csmerchantreg">https://go.gov.sg/nemerchantreg</a>
             </td>
         </tr>
         <tr>
