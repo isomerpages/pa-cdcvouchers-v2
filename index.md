@@ -5,8 +5,9 @@ description: This is an informational site about CDC Vouchers scheme for
   Singapore residents.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Visit your CC if you do not have a smartphone or Singpass or need
-  help to claim your vouchers.
+notification: There will be a scheduled downtime on all CDC websites on 17
+  April. The website may not be available during this period. We apologise for
+  the inconvenience caused.
 sections:
   - hero:
       key_highlights:
