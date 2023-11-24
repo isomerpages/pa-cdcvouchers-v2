@@ -2,6 +2,7 @@
 title: Newsroom
 permalink: /newsroom/
 description: ""
+variant: markdown
 ---
 ## Newsroom
 
@@ -13,7 +14,11 @@ description: ""
 | Media Release     | [All Singaporean households to receive support in 2023  with $300 worth of CDC vouchers](/files/All%20Singaporean%20households%20to%20receive%20support%20in%202023%20%20with%20$300%20worth%20of%20CDC%20vouchers%20.pdf)   | 
 | Key Coverage     | [The Straits Times - Singaporean households to get $300 in CDC Vouchers from Tuesday, half for use at supermarkets](https://www.straitstimes.com/singapore/300-worth-of-cdc-vouchers-for-each-s-porean-household-half-for-use-at-supermarkets)<br><br>[Lianhe Zaobao Online - 每户家庭再获300元邻里购物券 150元可在五超市使用](https://www.zaobao.com.sg/realtime/singapore/story20230103-1349590)<br><br>[Berita Harian - Skim Baucar Cdc Ketiga Dilancar Bagi Bantu Warga, Niaga: Dpm Wong, Berita Setempat](https://www.beritaharian.sg/setempat/skim-baucar-cdc-ketiga-dilancar-bagi-bantu-warga-niaga-dpm-wong)<br><br>[Tamil Murasu - சிங்கப்பூர் குடும்பங்களுக்கு இன்றுமுதல் $300 சமூக மேம்பாட்டு மன்ற பற்றுச்சீட்டுகள](https://www.tamilmurasu.com.sg/top-news/S%25E2%2580%2599porean-households-to-get-%2524300-in-CDC-vouchers-from-today%252C-half-for-use-at-supermarkets) | 
 
+#### 20 December 2022 - <br> Donation of CDC Vouchers 2021 and 2022
 
+| | | |
+| -------- | -------- | -------- |
+| Media Release     | [Singapore households can donate balance of CDC vouchers 2021 and 2022](https://www.cdc.gov.sg/files/Final%20Media%20Release%20-%20Donation%20of%20CDC%20Vouchers%202021%20and%202022%20(002).pdf)  | 
 
 #### 11 May 2022 - <br>Launch of CDC Vouchers Scheme 2022
 
@@ -39,7 +44,7 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | Media Release     | [Find participating hawkers and heartland merchants on CDC Vouchers Merchants Go Where](/files/Media%20Release_CDC%20Vouchers%20Merchants%20Gowhere_%2023%20Dec%202021.pdf)
-| Key Coverage    | [The Straits Times - Households can check new website for nearby hawkers, merchants which accept CDC vouchers](https://www.straitstimes.com/singapore/households-can-check-new-website-for-nearby-hawkers-merchants-which-accept-cdc-vouchers?utm_medium=social&utm_source=telegram&utm_campaign=sttg)<br><br>[Lianhe Zaobao Online - 公众可上网查询参与邻里购物券计划商家](https://www.zaobao.com.sg/realtime/singapore/story20211223-1225975?fbclid=IwAR1nyIMRB2OwAwnrQOn0XfHGp8OYMiVzhFV1TW0Ffcyg5yEr9pFfhev6giE)<br><br>[Berita Mediacorp - Anda kurang pasti kedai mana terima baucar CDC 100?](https://berita.mediacorp.sg/singapura/anda-kurang-pasti-kedai-mana-terima-baucar-cdc-s100-622526)<br><br>[Tamil Murasu - $100 சிடிசி பற்றுச்சீட்டை பயன்படுத்த புதிய இணையத்தளத்தில் எளியமுறையில் விவரம்](https://www.tamilmurasu.com.sg/singapore/story20211224-80398.html) <br>
+| Key Coverage    | [The Straits Times - Households can check new website for nearby hawkers, merchants which accept CDC vouchers](https://www.straitstimes.com/singapore/households-can-check-new-website-for-nearby-hawkers-merchants-which-accept-cdc-vouchers?utm_medium=social&amp;utm_source=telegram&amp;utm_campaign=sttg)<br><br>[Lianhe Zaobao Online - 公众可上网查询参与邻里购物券计划商家](https://www.zaobao.com.sg/realtime/singapore/story20211223-1225975?fbclid=IwAR1nyIMRB2OwAwnrQOn0XfHGp8OYMiVzhFV1TW0Ffcyg5yEr9pFfhev6giE)<br><br>[Berita Mediacorp - Anda kurang pasti kedai mana terima baucar CDC 100?](https://berita.mediacorp.sg/singapura/anda-kurang-pasti-kedai-mana-terima-baucar-cdc-s100-622526)<br><br>[Tamil Murasu - $100 சிடிசி பற்றுச்சீட்டை பயன்படுத்த புதிய இணையத்தளத்தில் எளியமுறையில் விவரம்](https://www.tamilmurasu.com.sg/singapore/story20211224-80398.html) <br>
 
 #### 13 December 2021 - <br>Launch of $130 million CDC Vouchers Scheme
 
