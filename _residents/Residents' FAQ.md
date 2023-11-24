@@ -80,7 +80,7 @@ For the CDC Vouchers to be used at supermarkets, the larger denominations ($5 an
   </li>
 <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">On some other e-payment platforms, the customers scan the merchant's QR code to make payment. For the CDC Vouchers Scheme, why must merchants scan the customer's voucher QR codee instead? </span></label>
+    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">On some other e-payment platforms, the customers scan the merchant's QR code to make payment. For the CDC Vouchers Scheme, why must merchants scan the customer's voucher QR code instead? </span></label>
     <div>
  			<p>CDCs in partnership with Open Government Products, GovTech, had previously tested the model in which the customer scans the merchant’s QR. While this is technically possible, we identified it would come with the following drawbacks:</p>
 <p>
