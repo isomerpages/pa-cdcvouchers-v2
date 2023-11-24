@@ -82,7 +82,7 @@ For the CDC Vouchers to be used at supermarkets, the larger denominations ($5 an
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">On some other e-payment platforms, the customers scan the merchant's QR code to make payment. For the CDC Vouchers Scheme, why must merchants scan the customer's voucher QR code instead? </span></label>
     <div>
- 			<p>CDCs in partnership with Open Government Products, GovTech, had previously tested the model in which the customer scans the merchant’s QR. While this is technically possible, we identified it would come with the following drawbacks:</p>
+ 			<p>CDCs in partnership with Open Government Products, GovTech, had previously tested the model in which the customer scans the merchant’s QR code. While this is technically possible, we identified it would come with the following drawbacks:</p>
 <p>
 	a) If customers were to scan merchants’ QR, all citizens will need to download a mobile app. </p>
 			<p>
@@ -91,7 +91,7 @@ b) Digitally less-savvy residents would be excluded from the scheme if they do n
 c) We have also found through previous trials with residents that selecting the exact amount to be spent (as in an e-wallet model) was confusing for some residents and error prone.
 			</p>
 			<p>
-To ensure that the digital system caters to both digitally savvy and digitally less-savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper is used -- residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers. 
+To ensure that the digital system caters to both digitally savvy and  less-savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper voucher is used -- i.e., residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers. 
  			</p>
 	</div>
   </li>
