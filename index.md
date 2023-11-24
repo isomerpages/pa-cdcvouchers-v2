@@ -17,7 +17,7 @@ sections:
           url: /merchants/info/
       background: /images/CDCV2023/Cover Banner.png
   - infobar:
-      title: Latest Announcement
+      title: About CDC Vouchers Scheme
       description: More vouchers, more places to spend! In 2023, every Singaporean
         household will receive $300 CDC Vouchers to help with daily essentials.
       url: /about/
