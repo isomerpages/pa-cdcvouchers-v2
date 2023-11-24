@@ -2,5 +2,6 @@ collections:
   donate-cdc-vouchers:
     output: true
     order:
+      - Donation of Vouchers.md
       - How to Donate CDC Vouchers 2023.md
       - FAQs on Donation.md
