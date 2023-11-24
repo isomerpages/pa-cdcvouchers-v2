@@ -2,6 +2,7 @@
 title: Residents' FAQ
 permalink: /residents/faq/
 description: CDC Vouchers Scheme Residents FAQ
+variant: markdown
 ---
 <span id="cdcv_page_top"></span>
 <a href="#cdcv_page_claiming"><strong>Claiming Of CDC Vouchers</strong></a> | <a href="#cdcv_page_spending"><strong>Spending Your CDC Vouchers</strong></a>
@@ -14,14 +15,14 @@ description: CDC Vouchers Scheme Residents FAQ
     <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2023?</span></label>
     <div>
 					<p>
-In January 2023, every Singaporean household can claim $300 in CDC Vouchers. This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods &amp; Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022. The value of the vouchers will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2023 to claim and spend their CDC Vouchers 2023. </p>
+In January 2023, every Singaporean household can claim $300 in CDC Vouchers. This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods &amp; Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022. The value of the vouchers will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean households have until 31 December 2023 to claim and spend their CDC Vouchers 2023. </p>
 			</div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Who is eligible for the CDC Vouchers Scheme?</span></label>
     <div>
-      <p>Each Singaporean household can claim $300 in CDC vouchers. $150 can be spent at participating heartland merchants and hawkers, and the other $150 can be spent at participating supermarkets.
+      <p>Each Singaporean household can claim $300 in CDC Vouchers 2023. $150 can be spent at participating heartland merchants and hawkers, and the other $150 can be spent at participating supermarkets.
 			</p>
     </div>
   </li>
@@ -50,13 +51,13 @@ For the CDC Vouchers to be used at supermarkets, the larger denominations ($5 an
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can the vouchers be shared with my household members?</span></label>
     <div>
- 			<p>Yes, the vouchers can be shared with your household members via the following method. 
+ 			<p>The vouchers can be shared with your household members via the following method. 
 			</p>
 			
-<p>Click on “Share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration. 
+<p>1. Click on “Share” button to copy the unique voucher link<br> 2. Paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration. 
 			</p>
 			<p>
-				Recipients are advised to be careful with sharing unique voucher links with others, as this would allow them to spend the household’s vouchers. To ensure that you safekeep your unique voucher links, we urge you to share only when necessary and to the right parties. We seek your understanding that there will be no reinstatement made for vouchers that were shared erroneously.
+				Recipients are advised to be careful with sharing unique voucher links with others, as this would allow others to spend the household’s vouchers. To ensure that you safekeep your unique voucher links, we urge you to share only when necessary and to the right parties. We seek your understanding that there will be no reinstatement made for vouchers that were shared erroneously.
 			</p>
 		<p>				
 			<table border="1" cellspacing="0" cellpadding="0">
