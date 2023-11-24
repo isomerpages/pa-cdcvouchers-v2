@@ -20,6 +20,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Media Release     | [Singapore households can donate balance of CDC vouchers 2021 and 2022](https://www.cdc.gov.sg/files/Final%20Media%20Release%20-%20Donation%20of%20CDC%20Vouchers%202021%20and%202022%20(002).pdf)  | 
 
+
 #### 11 May 2022 - <br>Launch of CDC Vouchers Scheme 2022
 
 
