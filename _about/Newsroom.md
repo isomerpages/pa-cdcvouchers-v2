@@ -6,6 +6,13 @@ variant: markdown
 ---
 ## Newsroom
 
+#### 27 November 2023 - <br> CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations
+
+
+| | | |
+| -------- | -------- | -------- |
+| Media Release     | [Building Caring and Inclusive Communities through CDC Vouchers Donation Scheme](/files/FINAL__Media_Release_CDCV_Donation_Scheme_2023.pdf)  | 
+
 #### 3 January 2023 - <br>Launch of CDC Vouchers Scheme 2023
 
 
