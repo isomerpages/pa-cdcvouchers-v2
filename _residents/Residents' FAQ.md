@@ -328,7 +328,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion27">
     <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">         Previously the CDCs provided an option for residents to donate their CDC Vouchers 2021 and 2022. Similarly, can I donate my 2023 vouchers for a good cause?</span></label>
     <div>
-			<p>The option to donate the CDC Vouchers 2023 is currently not available. &nbsp;As this Scheme is designed to help Singaporean households in cushioning the impact of the Goods and Service Tax increase and support participating heartland merchants and hawkers, we encourage you to spend your CDC Vouchers.</p>
+			<p>The option to donate the CDC Vouchers 2023 will be available from 1 December 2023 to 31 January 2024. &nbsp;As this Scheme is designed to help Singaporean households in cushioning the impact of the Goods and Service Tax increase and support participating heartland merchants and hawkers, we encourage you to spend your CDC Vouchers before they expire on 31 December 2023.</p>
     </div>
   </li>
 <li>
