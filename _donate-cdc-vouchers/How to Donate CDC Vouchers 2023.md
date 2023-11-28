@@ -6,7 +6,7 @@ variant: markdown
 ---
 On 27 November 2023, the CDCs announced that Singaporean households will have more flexibility in using CDC Vouchers 2023 through a donation option.  This is based on public feedback that some Singapore households would like to share the balance amount of their vouchers with those who might need it more amidst concern over rising cost of living.  
 
-From 1 December 2023 until 31 January 2024, Singaporean households may pledge the balance amount of their CDC Vouchers 2023.  The CDC vouchers would be donated in cash value instead of vouchers. Tax deduction may be provided by respective Charity, depending on the respective Charity’s policy on issuance of tax deduction, which will be reflected in the Year of Assessment 2024. 
+From 1 December 2023 until 31 January 2024, Singaporean households may pledge the balance amount of their CDC Vouchers 2023.  The CDC vouchers would be donated in cash value instead of vouchers. Tax deduction may be provided by respective Charity, depending on the respective Charity’s policy on issuance of tax deduction, which will be reflected in the Year of Assessment 2025. 
 
 From 1 December 2023, you may donate your household’s CDC Vouchers 2023 in three steps:<br><br>
 a)	**View list of charities** – view the list of participating charities [here](/donate/charities/)<br>
