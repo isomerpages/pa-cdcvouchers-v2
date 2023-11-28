@@ -66,9 +66,9 @@ The donation period of up 31 January 2024 is to provide residents additional tim
   </li>
 <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens to the unclaimed/undonated CDC Vouchers 2021 and 2022?  </span></label>
+    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens to the unclaimed/undonated CDC Vouchers 2023?  </span></label>
     <div>
- 			<p>As the CDC Vouchers expire on 31 December 2022, all unclaimed/ undonated CDC Voucher will lapse, and the amount will be returned to the Government for other national schemes. Therefore, households are encouraged to claim and utilise their CDC Vouchers within the validity period.</p>
+ 			<p>As the CDC Vouchers expire on 31 December 2023, all unclaimed/ undonated CDC Voucher will lapse, and the amount will be returned to the Government for other national schemes. Therefore, households are encouraged to claim and utilise their CDC Vouchers within the validity period.</p>
 	</div>
   </li>
 	<li>
@@ -113,11 +113,11 @@ The donation period of up 31 January 2024 is to provide residents additional tim
   </li>
 	<li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Will I be eligible for tax deduction for the donation of CDC Vouchers 2021 and 2022? </span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Will I be eligible for tax deduction for the donation of CDC Vouchers 2023? </span></label>
     <div>
- 			<p>Yes, as the cash value of the balance of your household’s CDC Vouchers will be donated to your preferred charity, you may be eligible for tax deduction. Tax deduction may be provided by respective Charity, depending on the respective Charity’s policy on issuance of tax deduction, which will be reflected in the Year of Assessment 2024.</p>
+ 			<p>Yes, as the cash value of the balance of your household’s CDC Vouchers will be donated to your preferred charity, you may be eligible for tax deduction. Tax deduction may be provided by respective Charity, depending on the respective Charity’s policy on issuance of tax deduction, which will be reflected in the Year of Assessment 2025.</p>
 			<p>
-CDCs will share your details with your preferred charity after 31 January 2023 i.e. last day of donation, for them to assess and issue the tax-deduction receipt directly, if any.
+CDCs will share your details with your preferred charity after 31 January 2024 i.e. last day of donation, for them to assess and issue the tax-deduction receipt directly, if any.
 </p>
 	</div>
   </li>
@@ -139,11 +139,4 @@ The list of participating charities is available on the CDC Vouchers website at 
 			<p>No, residents will only be able to pledge the donation of the balance of their household’s CDC Vouchers to one charity listed on the CDC Vouchers website.</p>
 			</div>
   </li>
-	<li>
-    <input type="checkbox" id="accordion14">
-    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate my CDC Vouchers 2023?  </span></label>
-    <div>
-			<p>Similar to previous tranches, we will announce the details of CDC Vouchers 2023 donation at a later date. We encourage all households to claim and spend their CDC Vouchers 2023.</p>
-			</div>
-  </li>
-</ul>
+	</ul>
