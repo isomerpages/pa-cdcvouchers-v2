@@ -34,26 +34,26 @@ The CDC Vouchers 2023 will expire on 31 December 2023 and all Singaporean househ
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Is there a minimum amount of CDC Vouchers 2021 and 2022 that I am required to donate?</span></label>
+    <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Is there a minimum amount of CDC Vouchers 2023 that I am required to donate?</span></label>
     <div>
       <p>
-				By submitting a donation declaration, the entire balance of your household’s CDC Vouchers 2021 and 2022, as of 31 December 2022, will be donated to your preferred charity.</p>
+				By submitting a donation declaration, the entire balance of your household’s CDC Vouchers 2023, as of 31 December 2023, will be donated to your preferred charity.</p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">The CDC Vouchers will expire on 31 December 2022 and households have until 31 January 2023 to pledge their donation. Am I able to utilise the CDC Vouchers till end January 2023?</span></label>
+    <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">The CDC Vouchers will expire on 31 December 2023 and households have until 31 January 2024 to pledge their donation. Am I able to utilise the CDC Vouchers till end January 2024?</span></label>
     <div>
-			<p>The CDC Vouchers 2021 and 2022 will be valid until 31 December 2022 and all Singaporean households are encouraged to utilise their vouchers within the validity period.</p>
+			<p>The CDC Vouchers 2023 will be valid until 31 December 2023 and all Singaporean households are encouraged to utilise their vouchers within the validity period.</p>
 <p>
-The donation period of up 31 January 2023 is to provide residents additional time to consider the donation of their CDC Vouchers 2021 and 2022.</p>
+The donation period of up 31 January 2024 is to provide residents additional time to consider the donation of their CDC Vouchers 2023.</p>
     </div>
   </li>
       <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Am I able to utilise my CDC Vouchers balance after I pledge my donation via the CDC Vouchers website?</span></label>
     <div>
- 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2021 and 2022 can still utilise them until they expire on 31 December 2022. &nbsp;At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2022 and transfer the amount to the respective charities from February 2023 onwards. 
+ 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2023 can still utilise them until they expire on 31 December 2023. &nbsp;At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2023 and transfer the amount to the respective charities from February 2024 onwards. 
 			</p>		
 	    </div>
   </li>
