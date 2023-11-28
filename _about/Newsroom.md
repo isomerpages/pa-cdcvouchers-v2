@@ -12,6 +12,7 @@ variant: markdown
 | | | |
 | -------- | -------- | -------- |
 | Media Release     | [Building Caring and Inclusive Communities through CDC Vouchers Donation Scheme](/files/FINAL__Media_Release_CDCV_Donation_Scheme_2023.pdf)  | 
+|  Speeches     |[Speech by Mr Edwin Tong, Minister for Culture, Community and Youth, Second Minister for Law, and Deputy Chairman of People's Association at the CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations](/files/Final_Delivered_Speech_by_Min_Edwin_for_CDCV_Donation_and_Charities_Networking_Luncheon.pdf) <br><br> [Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District(/files/Final_Speech_Delieve0rd_by_Mayor_Low_Yen_Ling___CDCV_Donation_and_Luncheon_with_Charities_27_Nov_23.pdf    | 
 
 #### 3 January 2023 - <br>Launch of CDC Vouchers Scheme 2023
 
