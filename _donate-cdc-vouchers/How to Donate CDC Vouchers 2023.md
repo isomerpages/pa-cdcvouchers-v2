@@ -33,5 +33,5 @@ Watch the step-by-step video guide below or [read our donation related FAQs.](/d
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/T9hxxzq5fWo?si=JGO7bNeHGCdjVz8Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/_Q9rMVSUhcI?si=lBBT70L1Oa39T7On" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
