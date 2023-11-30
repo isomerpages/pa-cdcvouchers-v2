@@ -53,7 +53,7 @@ The donation period of up 31 January 2024 is to provide residents additional tim
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Am I able to utilise my CDC Vouchers balance after I pledge my donation via the CDC Vouchers website?</span></label>
     <div>
- 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2023 can still utilise them until they expire on 31 December 2023. &nbsp;At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2023 and transfer the amount to the respective charities from March 2024 onwards. 
+ 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2023 can still utilise them until they expire on 31 December 2023. &nbsp;At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2023 and transfer the amount to the respective charities from June 2024 onwards. 
 			</p>		
 	    </div>
   </li>
