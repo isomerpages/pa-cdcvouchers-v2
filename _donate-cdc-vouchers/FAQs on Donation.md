@@ -13,7 +13,7 @@ variant: markdown
     <div>
 			<p>Residents can pledge to donate the balance of their CDC Vouchers 2023 in three steps: </p>
 			<p>
-1) Visit the CDC Vouchers Scheme website at [vouchers.cdc.gov.sg](vouchers.cdc.gov.sg) and click on ‘Donate CDC Vouchers’ <br>
+1) Visit the CDC Vouchers Scheme website at [vouchers.cdc.gov.sg](vouchers.cdc.gov.sg) and click on ‘Donate CDC Vouchers 2023’ <br>
 2) View list of Charities - select your preferred Charity from a list charities from different sectors and be directed to a FormSG to pledge the declaration of donation<br> 
 3) Pledge your donation – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers (2021 and 2022) as of 31 December 2022 to the selected charity</p>
 <p>
@@ -53,7 +53,7 @@ The donation period of up 31 January 2024 is to provide residents additional tim
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Am I able to utilise my CDC Vouchers balance after I pledge my donation via the CDC Vouchers website?</span></label>
     <div>
- 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2023 can still utilise them until they expire on 31 December 2023. &nbsp;At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2023 and transfer the amount to the respective charities from February 2024 onwards. 
+ 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2023 can still utilise them until they expire on 31 December 2023. &nbsp;At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2023 and transfer the amount to the respective charities from March 2024 onwards. 
 			</p>		
 	    </div>
   </li>
