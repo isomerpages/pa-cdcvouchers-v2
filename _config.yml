@@ -1,0 +1,60 @@
+title: CDC Vouchers Scheme
+url: https://vouchers.cdc.gov.sg
+favicon: /images/cdc-icon.png
+colors:
+  primary-color: "#2e9da9"
+  secondary-color: "#25245c"
+  media-colors:
+    - title: media-color-one
+      color: "#a37cbe"
+    - title: media-color-two
+      color: "#51ccbe"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+resources_name: Resources
+description: This is an informational site about CDC Vouchers scheme for
+  Singapore residents.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging-lite.d36l1j5g9wqn5x.amplifyapp.com
+prod: https://master.d2gqop6fn7gnfp.amplifyapp.com
+is_government: true
+google_analytics: UA-215064264-1
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+linkedin-insights: ""

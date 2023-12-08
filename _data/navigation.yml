@@ -1,0 +1,16 @@
+logo: /images/cdc-vouchers-site-logo-h3.jpg
+links:
+  - title: About
+    collection: about
+  - title: Residents
+    collection: residents
+  - title: Merchants
+    collection: merchants
+  - title: DONATE CDC VOUCHERS 2023
+    collection: donate-cdc-vouchers
+  - title: Resources
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us
+  - title: CDC Official Site
+    url: https://www.cdc.gov.sg

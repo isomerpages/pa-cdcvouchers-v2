@@ -1,0 +1,11 @@
+collections:
+  merchants:
+    output: true
+    order:
+      - Get Started.md
+      - Merchants' Guide/.keep
+      - Merchants' Guide/Guide to the RedeemSG Merchant App.md
+      - Merchants' Guide/RedeemSG Merchant 手机应用程序使用说明.md
+      - Merchants' Guide/Bagaimana untuk menggunakan RedeemSG Merchant.md
+      - Merchants' Guide/RedeemSG Merchant செயலிக்கான வழிகாட்டி.md
+      - Merchants' FAQ.md
