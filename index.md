@@ -45,7 +45,7 @@ sections:
       id: infobar
       description: Singaporean households have until 31 January 2024 to donate their
         expired and unused CDC Vouchers 2023.
-      button: Learn more
+      button: hOW TO DONATE
       url: /donate/
   - textcards:
       title: Have Questions?
