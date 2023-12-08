@@ -15,7 +15,7 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-      background: /images/CDCV2023/Cover Banner.png
+      background: /images/landing-page/Website_banner2.png
   - infobar:
       title: About CDC Vouchers Scheme
       description: More vouchers, more places to spend! In 2023, every Singaporean
