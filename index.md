@@ -18,15 +18,15 @@ sections:
       background: /images/landing-page/Website_banner2.png
   - infobar:
       title: About CDC Vouchers Scheme
-      description: More vouchers, more places to spend! In 2023, every Singaporean
-        household will receive $300 CDC Vouchers to help with daily essentials.
+      description: More support for your everyday needs! Every Singapore household
+        will receive $500 CDC Vouchers in 2024 to help with the cost of living.
       url: /about/
       button: Find out more
   - infopic:
-      title: Claim your CDC Vouchers 2023
+      title: Claim your CDC Vouchers 2024
       subtitle: Residents
       description: Similar to previous tranches, there is no need to download a mobile
-        app. Claim your digital CDC Vouchers 2023 easily with just a few taps.
+        app. Claim your digital CDC Vouchers 2024 easily with just a few taps.
       button: Claim now
       url: https://go.gov.sg/cdcv
       image: /images/CDCV2023/Cover Banner No Text.png
@@ -34,17 +34,18 @@ sections:
   - infopic:
       title: Where to spend your CDC Vouchers?
       subtitle: Residents
-      description: "[NEW!] Spend $150 CDC Vouchers at participating hawkers/heartland
-        merchants, and the other $150 at participating supermarkets."
+      description: Spend $250 CDC Vouchers at participating hawkers/heartland
+        merchants, and the other $250 at participating supermarkets.
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
       alt: Image alt text
       image: /images/CDCV2023/PA-CDC-2023-Hero-Image.png
   - infobar:
-      title: How to Donate Your CDC Vouchers 2023
+      title: Donate Your CDC Vouchers 2023
       id: infobar
-      description: From 1 December 2023 to 31 January 2024, Singaporean households can
-        donate their CDC Vouchers 2023.
+      description: Do you still have unused CDC Vouchers 2023? Singaporean households
+        have until 31 January 2024 to donate their expired and unused CDC
+        Vouchers 2023.
       button: Learn more
       url: /donate/
   - infobar:
