@@ -6,14 +6,16 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
   heartland merchants
 variant: markdown
 ---
-<span id="cdcv_page_top"></span>
+```
+
+```<span id="cdcv_page_top"></span>
 
 [![Cover banner cdcv2024](/images/key_visual.png)](https://go.gov.sg/cdcv)
 
-In January 2024, every Singaporean household will receive a total of $500 worth of CDC Vouchers. This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods &amp; Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022. 
+In January 2024, every Singaporean household will receive a total of $500 worth of CDC Vouchers. This is part of the Government’s continuing efforts to help Singaporean households cope with daily expenses. 
 
- Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2023, and login with Singpass to claim the vouchers.  <br>    
-CDC Vouchers 2023 are valid till 31 December 2023. 
+ Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2024, and login with Singpass to claim the vouchers.  <br>    
+CDC Vouchers 2024 are valid till 31 December 2024. 
 
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
@@ -23,11 +25,11 @@ CDC Vouchers 2023 are valid till 31 December 2023.
 </tr>
 	<tr>
 <td><img src="/images/CDCV2023/heartland%20voucher%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"></td>
-<td style="vertical-align: middle;"><p><strong>$150 to spend at participating heartland merchants and hawkers</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>$250 to spend at participating heartland merchants and hawkers</strong></p></td>
 </tr>
 <tr>
 <td><img src="/images/CDCV2023/supermarket%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"></td>
-<td style="vertical-align: middle;"><p><strong>[New!] $150 to spend at participating supermarkets</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>$250 to spend at participating supermarkets</strong></p></td>
 </tr>
 	<tr>
 <td><img src="/images/CDCV2023/expiry%20icon.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"></td>
