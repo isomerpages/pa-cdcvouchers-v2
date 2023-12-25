@@ -4,12 +4,13 @@ permalink: /residents/info/
 description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
   household will receive $100 in CDC Vouchers to support our hawkers and
   heartland merchants
+variant: markdown
 ---
 <span id="cdcv_page_top"></span>
 
-[![Cover banner cdcv2023](/images/CDCV2023/Cover%20Banner%20No%20Text.png)](https://go.gov.sg/cdcv)
+[![Cover banner cdcv2024](/images/key_visual.png)](https://go.gov.sg/cdcv)
 
-In January 2023, every Singaporean household will receive a total of $300 worth of CDC Vouchers. This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods & Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022. 
+In January 2024, every Singaporean household will receive a total of $500 worth of CDC Vouchers. This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods &amp; Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022. 
 
  Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2023, and login with Singpass to claim the vouchers.  <br>    
 CDC Vouchers 2023 are valid till 31 December 2023. 
@@ -17,19 +18,19 @@ CDC Vouchers 2023 are valid till 31 December 2023.
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
 <tr>
-<td style="width:125px !important;"><img src="/images/residents/Icon%201.png" alt="No need to download a mobile app" style="width:125px !important;"/></td>
+<td style="width:125px !important;"><img src="/images/residents/Icon%201.png" alt="No need to download a mobile app" style="width:125px !important;"></td>
 <td style="vertical-align: middle;"><p><strong>Claiming your vouchers online remains as easy as before</strong></p></td>
 </tr>
 	<tr>
-<td><img src="/images/CDCV2023/heartland%20voucher%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"/></td>
+<td><img src="/images/CDCV2023/heartland%20voucher%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"></td>
 <td style="vertical-align: middle;"><p><strong>$150 to spend at participating heartland merchants and hawkers</strong></p></td>
 </tr>
 <tr>
-<td><img src="/images/CDCV2023/supermarket%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"/></td>
+<td><img src="/images/CDCV2023/supermarket%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"></td>
 <td style="vertical-align: middle;"><p><strong>[New!] $150 to spend at participating supermarkets</strong></p></td>
 </tr>
 	<tr>
-<td><img src="/images/CDCV2023/expiry%20icon.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"/></td>
+<td><img src="/images/CDCV2023/expiry%20icon.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"></td>
 <td style="vertical-align: middle;"><p><strong>Use your vouchers by 31 December 2023</strong></p></td>
 </tr>
 </tbody>
@@ -54,7 +55,7 @@ CDC Vouchers 2023 are valid till 31 December 2023.
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/CeHvLfmA_ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/CeHvLfmA_ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 Our step-by-step video and guide are available in the following languages:
@@ -88,12 +89,12 @@ ________
 
 ### Get ready your Singpass
 <p>Singpass is required to claim your CDC vouchers.</p>
-<p  style="text-align: left;">
+<p style="text-align: left;">
 <a href="https://go.gov.sg/cdcv" class="bp-button is-secondary is-uppercase search-button" target="_blank">Proceed to claim CDC Vouchers</a>
 </p>
 
 ### Forgot your Singpass password?
-<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B"  target="_blank">Reset it online</a> or head down to your <a href="https://www.singpass.gov.sg/home/ui/counter-locations" style="color:#22499B" target="_blank">nearest Singpass counter </a>.</p> 
+<p><a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" style="color:#22499B" target="_blank">Reset it online</a> or head down to your <a href="https://www.singpass.gov.sg/home/ui/counter-locations" style="color:#22499B" target="_blank">nearest Singpass counter </a>.</p> 
  
 
 ### Need Help?
@@ -104,7 +105,7 @@ ________
 * If you need help in claiming your vouchers, please bring along your NRIC to the nearest Community Centre/Club (CC). All CCs are open daily from 10am to 6pm and 2pm to 6pm for void deck CCs.  Closed on Public Holidays (PH) 
 
 * Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form](/files/UpdatedV2%20-Voucher%20Claim%20Authorisation%20Letter%20for%202023%20as%20at%2011%20Jan%2023.pdf)
-*  For further enquiries, please contact our hotline at <a href="tel:6225 5322">6225 5322</a> from 8am to 6pm daily, except on public holidays; or write to us using this <a href ="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
+*  For further enquiries, please contact our hotline at <a href="tel:6225 5322">6225 5322</a> from 8am to 6pm daily, except on public holidays; or write to us using this <a href="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
 If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. 
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -113,9 +114,9 @@ If you do not have a smartphone or Singpass, please visit your nearest Community
 	<td><p style="width:260px !important;">Monday to Sunday</p></td>
 	<td><p>8am - 6pm</p></td>
 </tr>
-	<td><p style="width:260px !important;">New Year's Eve, Chinese New Year's Eve, and Christmas Eve</p></td>
+	<tr><td><p style="width:260px !important;">New Year's Eve, Chinese New Year's Eve, and Christmas Eve</p></td>
 	<td><p>8am - 1pm</p></td>
-	<tr>
+	</tr><tr>
 	<td><p style="width:260px !important;">Public Holidays</p></td>
 	<td><p>Closed</p></td>
 </tr>
