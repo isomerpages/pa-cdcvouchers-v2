@@ -6,9 +6,7 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
   heartland merchants
 variant: markdown
 ---
-```
-
-```<span id="cdcv_page_top"></span>
+<span id="cdcv_page_top"></span>
 
 [![Cover banner cdcv2024](/images/key_visual.png)](https://go.gov.sg/cdcv)
 
@@ -33,7 +31,7 @@ CDC Vouchers 2024 are valid till 31 December 2024.
 </tr>
 	<tr>
 <td><img src="/images/CDCV2023/expiry%20icon.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"></td>
-<td style="vertical-align: middle;"><p><strong>Use your vouchers by 31 December 2023</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>Use your vouchers by 31 December 2024</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -100,7 +98,7 @@ ________
  
 
 ### Need Help?
-* If you have more questions, please read the [FAQ](/residents/info/faq).
+* If you have more questions, please read the [FAQ](/residents/faq).
 
 * For terms and conditions of using the CDC Vouchers, please read [Terms and Conditions](/about/terms-and-conditions).
 
