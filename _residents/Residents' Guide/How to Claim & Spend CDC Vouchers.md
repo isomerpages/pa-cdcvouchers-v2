@@ -60,7 +60,7 @@ a.bp-button {
 
 3: **Show the QR code to the shop staff.** They will scan it to complete your payment. 
 
-<img src="/images/CDCV2023/QR%20page%20English.png" alt="Step 4" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Eng_Show_Both_QR.png" alt="Step 4" style="width:300px !important;">
 
 
 If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.
