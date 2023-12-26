@@ -40,12 +40,12 @@ a.bp-button {
 
 2: **Log in with Singpass.** Only one household member needs to do this on behalf of the household.
 
-<img src="/images/CDCV2023/English%20campaign%20sign%20up%20(Mobile%20Mock).png" alt="Step 1" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Eng_Singpass_Claim_Page.png" alt="Step 1" style="width:300px !important;">
 
 
 3: **Receive your CDC Voucher link by SMS.** Forward the SMS to share vouchers with household members.  
 
-<img src="/images/CDCV2023/English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Eng_SMS_Page.png" alt="Step 2" style="width:300px !important;">
 
 
 ## How to spend your CDC Vouchers 2024
