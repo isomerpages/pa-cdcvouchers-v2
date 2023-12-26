@@ -52,7 +52,7 @@ a.bp-button {
 
 1: **Select which CDC Vouchers you want to use.** 
 
-<img src="/images/CDCV2023/Updated%20Select%20Voucher%20Screen%20Eng.png" alt="Step 1" style="width:600px !important;">
+<img src="/images/2024%20Phone%20Screens/Eng_Select_Correct_Voucher.png" alt="Step 1" style="width:600px !important;">
 
 
 2: **Choose the amount to spend.** Then tap 'Show voucher'.
