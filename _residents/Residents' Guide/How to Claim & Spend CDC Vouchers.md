@@ -36,7 +36,7 @@ a.bp-button {
 
 1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap on CDC Vouchers 2024. 
 
-<img alt="Step 1" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Eng_Campaign_Page.png" alt="Step 1" style="width:300px !important;">
 
 2: **Log in with Singpass.** Only one household member needs to do this on behalf of the household.
 
