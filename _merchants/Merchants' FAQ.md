@@ -2,6 +2,7 @@
 title: Merchants' FAQ
 permalink: /merchants/faq/
 description: Merchants' FAQ
+variant: markdown
 ---
 <span id="cdcv_page_top"></span>
 <a href="#cdcv_page_interested"><strong>Registration for Interested Merchants</strong></a> | <a href="#cdcv_page_onboarding"><strong>Onboarding for Registered Merchants</strong></a>
@@ -11,9 +12,11 @@ description: Merchants' FAQ
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2023?</span></label>
+    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2024?</span></label>
     <div>
-     In January 2023, every Singaporean household can claim $300 in CDC Vouchers. This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods &amp; Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022. The value of the vouchers will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2023 to claim and spend their CDC Vouchers 2023. </div>
+    From 3 January 2024, each Singaporean household can claim $500 in CDC Vouchers 2024 digitally at go.gov.sg/cdcv. These vouchers are part of the Government’s continuing efforts to help Singaporean households cope with daily expenses. The vouchers were announced by Deputy Prime Minister and Finance Minister Mr Lawrence Wong as part of Budget 2022 and Budget 2023, and additional support from the $1.1 billion Cost-of-Living Package in September 2023.<br><br>
+The value of the vouchers will be allocated equally (i.e., $250 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2024 to claim and spend their CDC Vouchers 2024. 
+. </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
@@ -167,9 +170,9 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
   </li>
 	<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I had previously participated as a merchant in CDC Vouchers 2022 under the digital scheme. Do I  need to register again to join CDC Vouchers Scheme 2023? </span></label>
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I had previously participated as a merchant in CDC Vouchers 2023 under the digital scheme. Do I  need to register again to join CDC Vouchers Scheme 2024? </span></label>
     <div>
-			<p>No, there is no need to register again to participate in CDC Vouchers 2022 if you have already been onboarded to the CDC Vouchers scheme launched in Dec 2021. Our CDC Ambassadors will reach out to you to update on the new scheme and provide the welcome letter. </p>
+			<p>No, there is no need to register again to participate in CDC Vouchers 2024 if you have already been onboarded to the CDC Vouchers scheme. Our CDC Ambassadors will reach out to you to update on the new scheme and provide the welcome letter. </p>
     </div>
   </li>
 <li><input type="checkbox" id="accordion10">
