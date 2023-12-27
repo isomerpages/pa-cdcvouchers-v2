@@ -15,7 +15,7 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-      background: /images/Updated_key_visual.png
+      background: /images/Updated_key_visual2.png
       variant: image
       title: cdc
   - infobar:
