@@ -15,7 +15,9 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-      background: /images/landing-page/Website_banner2.png
+      background: /images/key_visual.png
+      variant: image
+      title: cdc
   - infobar:
       title: About CDC Vouchers Scheme
       description: More support for your everyday needs! Every Singapore household
