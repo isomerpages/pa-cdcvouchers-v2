@@ -185,7 +185,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion15">
     <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
     <div>
-			<p>To retrieve the voucher link for CDC Vouchers 2023, please visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the voucher link sent to you via SMS. 
+			<p>To retrieve the voucher link for CDC Vouchers 2024, please visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the voucher link sent to you via SMS. 
 			</p>
     </div>
   </li>
@@ -225,10 +225,10 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p> Yes.&nbsp; The CDC vouchers can be used at all participating heartland merchants, hawkers and supermarkets island wide. You can visit go.gov.sg/cdcvouchers to find out where to spend your CDC Vouchers.</p> 
 			<p>You can also identify participating heartland merchants and hawkers with the teal-coloured “CDC Voucher” decal displayed at shopfronts. Reference of the CDC Voucher decal:
-				<br><img src="/images/merchants-decal-500.jpg" alt="CDC Vouchers Decal" style="width:400px !important;">
+				<br><img src="/images/CDCV_Teal_Decal.png" alt="CDC Vouchers Decal" style="width:400px !important;">
 			</p><p>
 			Similarly, you can also identify participating supermarkets with the yellow-coloured “CDC Supermarket Voucher” decal displayed at storefronts.  Reference of the CDC Supermarket Voucher decal:
-			<br><img src="/images/CDCV2023/yellow%20decal.jpg" alt="CDC Vouchers Supermarket Decal" style="width:400px !important;">
+			<br><img src="/images/CDCV_Yellow_Decal.png" alt="CDC Vouchers Supermarket Decal" style="width:400px !important;">
 			</p>
     </div>
   </li>
@@ -250,7 +250,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 <tbody>
 <tr>
 <td style="width: 250px;">
-<p>Value of Vouchers Used <br>(in $2, $5 and $10 denominations)</p>
+<p>Value of Vouchers Used <br>(in $2, $5 and $10 denominations for heartland merchant purchases)</p>
 </td>
 <td style="width: 284px;">Unused amount/value</td>
 </tr>
