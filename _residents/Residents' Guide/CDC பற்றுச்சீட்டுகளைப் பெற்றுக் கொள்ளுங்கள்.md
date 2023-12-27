@@ -58,19 +58,19 @@ a.bp-button {
 
 ## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பயன்படுத்துவது எப்படி
 
-1: **நீங்கள் பயன்படுத்த விரும்பும் பற்றுச்சீட்டுகளைத் தேர்ந்தெடுங்கள்.**<img src="/images/CDCV2023/Updated%20Select%20Voucher%20Screen%20Tam.png" alt="Step 4" style="width:600px !important;"> 
+1: **நீங்கள் பயன்படுத்த விரும்பும் பற்றுச்சீட்டுகளைத் தேர்ந்தெடுங்கள்.**<img src="/images/2024%20Phone%20Screens/Tam_Select_Correct_Voucher.png" alt="Step 4" style="width:600px !important;"> 
 
 
 2: **நீங்கள் செலவு செய்ய விரும்பும் தொகையைத் தேர்ந்தெடுங்கள்.** பிறகு 'பற்றுச்சீட்டைக் காட்டுங்கள்' என்பதைத் தட்டுங்கள். 
 
-<img src="/images/CDCV2023/select%20vouchers%20tamil.png" alt="Step 4" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Tam_Select_Voucher_Both.png" alt="Step 4" style="width:300px !important;">
 
 3: **கடைக்காரரிடம் QR குறியீட்டைக் காட்டுங்கள்.** அவர் குறியீட்டை ஸ்கேன் செய்து பரிவர்த்தனையை நிறைவு செய்வார்.
 
-<img src="/images/CDCV2023/qr%20page%20tamil.png" alt="Step 4" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Tam_Show_Both_QR.png" alt="Step 4" style="width:300px !important;">
 
 
-பற்றுச்சீட்டுகள் 31 டிசம்பர் 2023 வரை செல்லுபடியாகும்.
+பற்றுச்சீட்டுகள் 31 டிசம்பர் 2043 வரை செல்லுபடியாகும்.
 
 உங்களிடம் திறன்பேசி அல்லது சிங்பாஸ் (Singpass) கணக்கு இல்லாவிட்டால் அல்லது மேற்கொண்டு விவரமும் உதவியும் தேவைப்பட்டால் உங்களுக்கு அருகிலுள்ள சமூக நிலையத்திற்கு/ மன்றத்திற்குக் காலை 10 மணி முதல் மாலை 6 மணி வரை (பொது விடுமுறை நாட்கள் தவிர்த்து) செல்லுங்கள்.
 
