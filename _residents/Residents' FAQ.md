@@ -281,14 +281,16 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>When the merchants scan your QR code, they will see a confirmation on their RedeemSG Merchant app which will show that the scanning of your voucher is a success.  At the same time, your QR code will be updated to “Redeemed” status.  Spent vouchers will also be marked as ‘Redeemed’ on your unique voucher link and you can also view your transaction history on the main vouchers landing page.
 			</p><p>
-				<img src="/images/residents/Voucher%20QR%20redeemed.png" alt="Sample Redeemed Voucher Screens" style="width:300px !important;"><br></p>				
+				<img src="/images/2024%20Phone%20Screens/Alt_Redeemed_Heartlands_Voucher_QR.png" alt="Sample Redeemed Voucher Screens" style="width:300px !important;"><br></p>		
+			<p>
+				<img src="/images/2024%20Phone%20Screens/Redeemed_Supermarkets_Voucher_QR.png" alt="Sample Redeemed Voucher Screens" style="width:300px !important;"><br></p>		
     </div>
   </li>
 		<li>
     <input type="checkbox" id="accordion23">
     <label for="accordion23"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens if I accidentally misplaced my printed vouchers?</span></label>
     <div>
-						<p>Any misplaced vouchers may be used by anyone who picks it up. You may request for a re-print of your remaining vouchers at the CCs. However, a new set of $300 vouchers will not be issued. Recipients are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash.</p> 
+						<p>Any misplaced vouchers may be used by anyone who picks it up. You may request for a re-print of your remaining vouchers at the CCs. However, a new set of $500 vouchers will not be issued. Recipients are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash.</p> 
 			<p>Please note that the vouchers are non-refundable and/or non-exchangeable.
 			</p>
     </div>
