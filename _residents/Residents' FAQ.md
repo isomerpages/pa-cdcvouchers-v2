@@ -12,17 +12,19 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2023?</span></label>
+    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2024?</span></label>
     <div>
 					<p>
-In January 2023, every Singaporean household can claim $300 in CDC Vouchers. This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods &amp; Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022. The value of the vouchers will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean households have until 31 December 2023 to claim and spend their CDC Vouchers 2023. </p>
+From 3 January 2024, each Singaporean household can claim $500 in CDC Vouchers 2024 digitally at go.gov.sg/cdcv. These vouchers are part of the Government’s continuing efforts to help Singaporean households cope with daily expenses. The vouchers were announced by Deputy Prime Minister and Finance Minister Mr Lawrence Wong as part of Budget 2022 and Budget 2023, and additional support from the $1.1 billion Cost-of-Living Package in September 2023.<br>
+The value of the vouchers will be allocated equally (i.e., $250 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2024 to claim and spend their CDC Vouchers 2024. 
+ </p>
 			</div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Who is eligible for the CDC Vouchers Scheme?</span></label>
     <div>
-      <p>Each Singaporean household can claim $300 in CDC Vouchers 2023. $150 can be spent at participating heartland merchants and hawkers, and the other $150 can be spent at participating supermarkets.
+      <p>Each Singaporean household can claim $500 in CDC Vouchers 2024. $250 can be spent at participating heartland merchants and hawkers, and the other $250 can be spent at participating supermarkets.
 			</p>
     </div>
   </li>
@@ -43,7 +45,7 @@ In January 2023, every Singaporean household can claim $300 in CDC Vouchers. Thi
 <p>
 The CDCs and Govtech had several rounds of consultations with residents and merchants to gather feedback on the design of the denominations.</p><p>For the CDC Vouchers to be used at heartland merchants and hawkers, the fixed denominations of $2, $5 and $10 allow residents to make purchases at different heartland shops and hawkers. For example, residents may patronise mini-marts or mom-and-pop shops, to purchase groceries or other essential household items, and services such as dental clinics, or hair salons.</p>
 			<p>
-For the CDC Vouchers to be used at supermarkets, the larger denominations ($5 and $10) will come in handy as the purchase amounts are typically larger due to the nature of goods sold at supermarkets.
+For the CDC Vouchers to be used at supermarkets, the larger denominations of $10 will come in handy as the purchase amounts are typically larger due to the nature of goods sold at supermarkets.
 </p>
     </div>
   </li>  
