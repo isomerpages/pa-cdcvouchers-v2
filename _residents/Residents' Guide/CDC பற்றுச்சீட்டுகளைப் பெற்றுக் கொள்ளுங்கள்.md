@@ -49,12 +49,12 @@ a.bp-button {
 <img src="/images/2024%20Phone%20Screens/Tam_Campaign_Page.png" alt="Step 1" style="width:300px !important;">
 
 2: <strong>சிங்பாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள். </strong> ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.  
-<img src="/images/CDCV2023/Campaign%20sign%20up%20(Mobile%20Mock)%20(Tamil2).png" alt="Step 2" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Tam_Singpass_Claim_Page.png" alt="Step 2" style="width:300px !important;">
 
 
 3: **உங்களுக்கான சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகளின் இணைப்பைக் குறுந்தகவல் (SMS) மூலம் பெறுங்கள்.** பற்றுச்சீட்டுகளைக் குடும்பத்தாருடன் பகிர்ந்துகொள்ள குறுந்தகவலை அவர்களுக்கு அனுப்பி வையுங்கள். 
 
-<img src="/images/CDCV2023/Voucher%20SMS%20(Mobile%20Mock)%20(Tamil2).png" alt="Step 3" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Tam_SMS_Page.png" alt="Step 3" style="width:300px !important;">
 
 ## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பயன்படுத்துவது எப்படி
 
