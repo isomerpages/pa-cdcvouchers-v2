@@ -56,7 +56,7 @@ a.bp-button {
 
 
 2: **Choose the amount to spend.** Then tap 'Show voucher'.
-<img src="/images/2024%20Phone%20Screens/Eng_Show_Both_QR.png" alt="Step 2" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Eng_Select_Voucher_Both.png" alt="Step 2" style="width:300px !important;">
 
 3: **Show the QR code to the shop staff.** They will scan it to complete your payment. 
 
