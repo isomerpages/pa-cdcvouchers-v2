@@ -339,10 +339,9 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion28">
     <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">         This year, the scheme is targeted to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
     <div>
-			<p>As part of the $6.6 billion Assurance Package to help Singaporeans cushion the impact of the Good &amp; Services Tax (GST) increase, Deputy Prime Minister and Finance Minister Mr Lawrence Wong announced at Budget 2022 that the Community Development Councils (CDCs) will be giving out two tranches of the CDC Vouchers in 2023 and 2024. Further, DPM also announced that every Singaporean household will get an additional S$100 CDC vouchers in January 2023 as part of the new $1.5 billion support package announced on 14 October 2022. This is on top of the S$200 CDC voucher announced at Budget 2022.</p>
-			<p>
-Residents who require more financial assistance may approach the CCs for more details on other schemes they may be eligible for.
-			</p>
+			<p>The CDC Vouchers Scheme is one part of the Government’s Assurance Package to help Singaporean households cope with daily expenses. The objective of the CDC Voucher Scheme is to support Singaporean households with daily essentials. Each Singaporean household will receive $500 worth of CDC Vouchers in 2024, compared to previous disbursements of $100 in 2021 and 2022 and $300 in 2023. 
+
+The Government Budget includes other schemes to tap on for those who may require further assistance. 			</p>
     </div>
   </li>
 	<li>
