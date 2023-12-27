@@ -51,16 +51,16 @@ a.bp-button {
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
 1: **Pilih baucar yang anda mahu gunakan** 
-<img src="/images/CDCV2023/Updated%20Select%20Voucher%20Screen%20Mal.png" alt="Step 4" style="width:600px !important;">
+<img src="/images/2024%20Phone%20Screens/Mal_Select_Correct_Voucher.png" alt="Step 4" style="width:600px !important;">
 
 2: **Pilih jumlah untuk diggunakan. Kemudian tekan 'Tunjuk baucar'** 
-<img src="/images/CDCV2023/select%20vouchers%20malay%20-%202.png" alt="Step 4" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Mal_Select_Voucher_Both.png" alt="Step 4" style="width:300px !important;">
 
 3: **Tunjukkan kod QR kepada penjaja dan pendagang** Mereka akan mengimbasnya untuk melengkapkan pembayaran anda
-<img src="/images/CDCV2023/qr%20page%20malay.png" alt="Step 4" style="width:300px !important;">
+<img src="/images/2024%20Phone%20Screens/Mal_Show_Both_QR.png" alt="Step 4" style="width:300px !important;">
 
 
-Gunakan baucar anda selawat-lewatnya 31 Disember 2023.
+Gunakan baucar anda selawat-lewatnya 31 Disember 2024.
 
 Jika anda tidak mempunyai telefon bijak atau Singpass, dan untuk pertanyaan dan bantuan selanjutnya, kunjungi Balai Rakyat/Kelab Masyarakat terdekat anda dari 10 pagi hingga 6 petang (kecuali pada cuti umum).
 
