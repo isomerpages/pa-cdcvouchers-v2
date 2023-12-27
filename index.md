@@ -31,7 +31,7 @@ sections:
         app. Claim your digital CDC Vouchers 2024 easily with just a few taps.
       button: Claim now
       url: https://go.gov.sg/cdcv
-      image: /images/CDCV2023/Cover Banner No Text.png
+      image: /images/key_visual.png
       alt: Image alt text
   - infopic:
       title: Where to spend your CDC Vouchers?
@@ -41,7 +41,7 @@ sections:
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
       alt: Image alt text
-      image: /images/CDCV2023/PA-CDC-2023-Hero-Image.png
+      image: /images/hero_image_19Dec_v3.png
   - infobar:
       title: Donate Your CDC Vouchers 2023
       id: infobar
