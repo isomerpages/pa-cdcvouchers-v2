@@ -1,0 +1,11 @@
+collections:
+  about:
+    output: true
+    order:
+      - About CDC Vouchers Scheme 2024 (June).md
+      - About CDC Vouchers Scheme 2024 (January).md
+      - Past Tranches/.keep
+      - Past Tranches/About CDC Vouchers Scheme 2021 & 2022.md
+      - Past Tranches/About CDC Vouchers Scheme 2023.md
+      - Terms & Conditions for Residents.md
+      - Newsroom.md

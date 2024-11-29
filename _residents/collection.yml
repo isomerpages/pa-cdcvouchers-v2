@@ -1,0 +1,13 @@
+collections:
+  residents:
+    output: true
+    order:
+      - Get Started.md
+      - Residents' Guide/.keep
+      - Residents' Guide/How to Claim & Spend CDC Vouchers.md
+      - Residents' Guide/如何领取及使用社理会邻里购物券.md
+      - Residents' Guide/Bagaimana cara untuk menuntut dan menggunakan Baucar
+        CDC anda.md
+      - Residents' Guide/CDC பற்றுச்சீட்டுகளைப் பெற்றுக் கொள்ளுங்கள்.md
+      - Where to Spend Your CDC Vouchers?.md
+      - Residents' FAQ.md
